@@ -9,8 +9,8 @@ relative_permalinks: false
 # Setup
 title: XRVA - Bangor University
 tagline: ""
-description: XRealities, Visualization and Analytics (XRVA) lab,<br/> Visualization, Data, Modelling and Graphics (VDMG) research group,<br/> School of Computer Science and Engineering, <br/> College of Environmental Sciences and Engineering, Bangor University, </br>, Dean Street, Bangor, Gwynedd, UK, LL57 1UT<span>
-url: https://xrvalab.github.io/
+description: Human-Centred Computing research group,<br/> School of Computer Science and Engineering, <br/> College of Environmental Sciences and Engineering, Bangor University, </br>, Dean Street, Bangor, Gwynedd, UK, LL57 1UT<span>
+url: https://hccbu.github.io/
 
 destination: ./docs
 
@@ -33,7 +33,7 @@ collections:
   projects:
     output: true
 
-twitter_username: "@xrvalab"
+twitter_username: "@hcc_bangor"
 
 # BibTex Citation plugin
 scholar:
