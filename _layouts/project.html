@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="page">
+
+<h1  class="post-title">{{ page.title }}</h1>
+
+<p>{{ content }}</p>
+
+
+<ul>
+    {% for technology in page.technology%}
+    <li><a>{{ technology }}</a></li>
+    {% endfor %}
+</ul>
+
+
+
+<div class="social">
+<span class="linkback"><a href="{{ site.baseurl }}/projects/"><i class="fa fa-hand-o-left" aria-hidden="true"></i> Back to Projects</a></span>
+
+
+<span class="linktweet"><a href="https://twitter.com/share?
+text={{ page.image.alt }}
+&url={{site.url}}{{page.url}}
+&via=ritsos_p
+&hashtags={% for tag in page.tags %}{{tag}},{% endfor %}">
+<div class="twitter-sharing">Share on <i class="fab fa-twitter-square"></i></div>
+</a></div></span>
+
+</div>

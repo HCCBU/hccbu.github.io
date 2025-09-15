@@ -1,0 +1,7 @@
+<div class="button-group filter-button-group">
+	<a class="button active" data-filter="*">All</a>
+	{% assign tags =  site.projects | map: 'tags' | uniq %}
+	{% for tag in tags %}
+	    <a class="button" data-filter=".{{ tag }}">{{ tag }}</a>
+	{% endfor %}
+</div>

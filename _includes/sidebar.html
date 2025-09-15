@@ -1,0 +1,47 @@
+<div id="mysidebar">
+
+  <div class="author-info">
+<img class="logo" src="{{ site.baseurl }}/assets/images/hccbu_logo.png"></img>
+<!--<h2 class="role"><span class="subtitleAccent">XR</span>eality, <span class="subtitleAccent">V</span>isualization &amp; <span class="subtitleAccent">A</span>nalytics</h2>-->
+
+<!--<h2 class="role">Senior Lecturer in Visualization</h2>-->
+
+<!--{% include sidenav.html %}-->
+
+  <a href="https://www.bangor.ac.uk/computer-science-and-electronic-engineering/" target="_blank">School of Computer Science and<br/>Engineering, </a>
+  <a href="https://www.bangor.ac.uk/" target="_blank">Bangor University,</a><br/>
+  Dean Street, Bangor,<br/>
+  Gwynedd, UK, LL57 1UT<br/>
+</div>
+
+  <div class="author-links">
+   <!--- <span class="icoFrame"><i class="ico fas fa-university fa-fw"></i></span> &nbsp; <a href="https://www.bangor.ac.uk/computer-science-and-electronic-engineering/staff/panagiotis-ritsos/en" target="_blank">University Page</a><br/>                
+    <span class="icoFrame"><i class="ico fab fa-github fa-fw"></i></span> &nbsp; <a href="https://github.com/ritsosp" target="_blank">GitHub</a><br/>-->
+    
+
+    <nav class="sidenav">
+      <span>
+       {% assign pages_list = site.pages | where: 'menu', 'main' | where: 'layout': 'page' | sort: "order" %}
+        
+        <spam id="nav-home"><a href="{{ site.baseurl }}/">Home</a></span><br>
+        {% for node in pages_list %}
+              {% if node.title != null %}
+              <span id="nav-{{ node.type }}"><a href="{{ node.url }}">{{ node.title }}</a></span></br>
+              {% endif %}    
+        {% endfor %}
+      </ul>
+    </nav>
+
+    <div class="social noBorder">
+      <a href="https://github.com/xrvalab" title="XRVA @ Github" target="_blank"><i class="fa-brands fa-github"></i></a>
+      <a href="https://twitter.com/xrvalab" title="XRVA @ Twitter :: https://twitter.com/xrvalab" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+      <a href="https://vis.social/@xrva" title="XRVA @ Mastodon Social :: https://vis.social/@xrva" target="_blank"><i class="fa-brands fa-mastodon"></i></a>          			
+    </div>
+              
+
+    <div class="legal">
+      <p>Built with Jekyll <br> Last updated on {{ site.update }}<br/>
+              &copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+    </div>
+  </div> 
+</div>

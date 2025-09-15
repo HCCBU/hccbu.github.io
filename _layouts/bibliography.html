@@ -1,0 +1,38 @@
+---
+---
+{% unless entry.note contains 'unpublished' %}
+
+{{reference}}
+{% if entry.abstract %}
+  <span class="toggle">
+    {{ entry.abstract }}
+  </span>
+  <br/>
+  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+{% elsif entry.about %}
+  <span class="toggle">
+    {{ entry.about }}
+  </span>
+  <br/>
+  <span class="trigger biblinks">[<span class="abstractlink">About</span>]&nbsp;&nbsp; </span>
+{% else %}
+<br/>
+{% endif %}
+<span class="biblinks">
+  [<a href="/bibliography/{{key}}/">Details</a>]&nbsp;&nbsp;
+  {% if entry.archiveprefix %} [Available at: <a href="https://arxiv.org/abs/{{entry.url}}" class="doilink">arXiv:{{entry.url}}</a>]
+  {% else %}
+  {% unless {{key}} contains 'book'%}
+        {% if entry.nopaper %}   
+        {% else %}
+          [<a href="{{links.pdf}}" class="pdflink">PDF</a>]&nbsp;&nbsp;
+        {% endif %} 
+  {% endunless %}
+  {% endif %} 
+  {% if entry.preprint %} [<a href="https://arxiv.org/abs/{{entry.url}}" class="doilink">Preprint</a>]&nbsp;&nbsp;{% endif %}
+  {% if entry.pubmed %}[PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/{{entry.pubmed}}" class="doilink">{{entry.pubmed}}</a>]&nbsp;&nbsp;{% endif %}
+  {% if entry.doi %}[doi:<a href="http://dx.doi.org/{{entry.doi}}" class="doilink">{{entry.doi}}</a>]&nbsp;&nbsp;
+  {% elsif entry.isbn %}[<span class="isbnlink">ISBN:{{entry.isbn}}</span>]&nbsp;&nbsp;{% endif %}
+  {% if entry.info %} [<span class="addedInfo">{{entry.info}}</span>]{% endif %} 
+</span>
+{% endunless %}

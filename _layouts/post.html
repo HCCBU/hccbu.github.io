@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+
+<div class="post">
+
+  <!--<h1 class="post-title">{{ page.title }}</h1>-->
+
+
+  <div class="post-date"><i class="fas fa-calendar-alt"></i> {{ page.date | date: '%B   %Y'  }} <span class="postTags"><i class="fas fa-tags"></i>
+
+
+    {% for tags in page.tags %}
+        {{ tags }}{% unless forloop.last %},{% endunless %}
+    {% endfor %}</span>
+
+
+  </div>
+
+
+<div class="bucket">
+    {{ content }}
+</div>
+
+<div class="social">
+<span class="linkback"><a href="{{ site.baseurl }}/"><i class="fa fa-hand-o-left" aria-hidden="true"></i> Back to Home</a></span>
+
+
+<span class="linktweet"><a href="https://twitter.com/share?
+text={{ page.title }}
+&url={{site.url}}{{page.url}}
+&via=ritsos_p
+&hashtags={% for tag in page.tags %}{{tag}},{% endfor %}">
+<div class="twitter-sharing">Share on <i class="fab fa-twitter-square"></i></div>
+</a></div></span>
+
+</div>

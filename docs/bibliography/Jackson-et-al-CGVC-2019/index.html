@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>  <html class="ie ie6 lte9 lte8 lte7" lang="en-us"> <![endif]-->
+<!--[if IE 7]>     <html class="ie ie7 lte9 lte8 lte7" lang="en-us"> <![endif]-->
+<!--[if IE 8]>     <html class="ie ie8 lte9 lte8" lang="en-us"> <![endif]-->
+<!--[if IE 9]>     <html class="ie ie9 lte9" lang="en-us"> <![endif]-->
+<!--[if gt IE 9]>  <html> <![endif]-->
+<!--[if !IE]><!--> <html lang="en-us"><!--<![endif]-->
+
+
+
+  <head>
+  <link href="https://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="description" content="XRVA - XReality, Visualization and Analytics lab, School of Computer Science and Engineering, Bangor University, research on mixed and virtual reality, information visualization, visual analytics, immersive analytics, situated analytics">
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Towards a tool for the creation of micro-visualisations &middot; XRVA - Bangor University
+    
+  </title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=Lato"rel="stylesheet" type="text/css" />
+
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
+
+
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+ <!-- <link rel="stylesheet" href="/public/css/academicons.css">-->
+  <link rel="stylesheet" href="/public/css/xrva.css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<link href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" rel="stylesheet" type="text/css" >
+
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="/public/favicon.png">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="XRVA - Bangor University" />
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Towards a tool for the creation of micro-visualisations | XRVA - Bangor University</title>
+<meta name="generator" content="Jekyll v4.3.2" />
+<meta property="og:title" content="Towards a tool for the creation of micro-visualisations" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="XRealities, Visualization and Analytics (XRVA) lab, Visualization, Data, Modelling and Graphics (VDMG) research group, School of Computer Science and Engineering, College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT" />
+<meta property="og:description" content="XRealities, Visualization and Analytics (XRVA) lab, Visualization, Data, Modelling and Graphics (VDMG) research group, School of Computer Science and Engineering, College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT" />
+<link rel="canonical" href="http://localhost:4000/bibliography/Jackson-et-al-CGVC-2019/" />
+<meta property="og:url" content="http://localhost:4000/bibliography/Jackson-et-al-CGVC-2019/" />
+<meta property="og:site_name" content="XRVA - Bangor University" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Towards a tool for the creation of micro-visualisations" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"XRealities, Visualization and Analytics (XRVA) lab, Visualization, Data, Modelling and Graphics (VDMG) research group, School of Computer Science and Engineering, College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT","headline":"Towards a tool for the creation of micro-visualisations","url":"http://localhost:4000/bibliography/Jackson-et-al-CGVC-2019/"}</script>
+<!-- End Jekyll SEO tag -->
+
+</head>
+
+
+      <body id="inproceedings">
+        <div class="wrapper">
+          <div id="mysidebar">
+
+  <div class="author-info">
+<img class="logo" src="/assets/images/hccbu_logo.png"></img>
+<!--<h2 class="role"><span class="subtitleAccent">XR</span>eality, <span class="subtitleAccent">V</span>isualization &amp; <span class="subtitleAccent">A</span>nalytics</h2>-->
+
+<!--<h2 class="role">Senior Lecturer in Visualization</h2>-->
+
+<!--<nav class="sidenav">
+    <ul>
+     
+      
+      <li id="nav-home"><a href="/">Home</a></li>
+      
+            
+              <li id="nav-labs"><a href="/labs/">Labs</a></li>
+                
+      
+            
+              <li id="nav-research"><a href="/projects/">Projects</a></li>
+                
+      
+            
+              <li id="nav-team"><a href="/team/">Team</a></li>
+                
+      
+            
+              <li id="nav-publications"><a href="/publications/">Publications</a></li>
+                
+      
+            
+              <li id="nav-culture"><a href="/culture/">Culture</a></li>
+                
+      
+    </ul>
+  </nav>
+  -->
+
+  <a href="https://www.bangor.ac.uk/computer-science-and-electronic-engineering/" target="_blank">School of Computer Science and<br/>Engineering, </a>
+  <a href="https://www.bangor.ac.uk/" target="_blank">Bangor University,</a><br/>
+  Dean Street, Bangor,<br/>
+  Gwynedd, UK, LL57 1UT<br/>
+</div>
+
+  <div class="author-links">
+   <!--- <span class="icoFrame"><i class="ico fas fa-university fa-fw"></i></span> &nbsp; <a href="https://www.bangor.ac.uk/computer-science-and-electronic-engineering/staff/panagiotis-ritsos/en" target="_blank">University Page</a><br/>                
+    <span class="icoFrame"><i class="ico fab fa-github fa-fw"></i></span> &nbsp; <a href="https://github.com/ritsosp" target="_blank">GitHub</a><br/>-->
+    
+
+    <nav class="sidenav">
+      <span>
+       
+        
+        <spam id="nav-home"><a href="/">Home</a></span><br>
+        
+              
+              <span id="nav-labs"><a href="/labs/">Labs</a></span></br>
+                  
+        
+              
+              <span id="nav-research"><a href="/projects/">Projects</a></span></br>
+                  
+        
+              
+              <span id="nav-team"><a href="/team/">Team</a></span></br>
+                  
+        
+              
+              <span id="nav-publications"><a href="/publications/">Publications</a></span></br>
+                  
+        
+              
+              <span id="nav-culture"><a href="/culture/">Culture</a></span></br>
+                  
+        
+      </ul>
+    </nav>
+
+    <div class="social noBorder">
+      <a href="https://github.com/xrvalab" title="XRVA @ Github" target="_blank"><i class="fa-brands fa-github"></i></a>
+      <a href="https://twitter.com/xrvalab" title="XRVA @ Twitter :: https://twitter.com/xrvalab" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+      <a href="https://vis.social/@xrva" title="XRVA @ Mastodon Social :: https://vis.social/@xrva" target="_blank"><i class="fa-brands fa-mastodon"></i></a>          			
+    </div>
+              
+
+    <div class="legal">
+      <p>Built with Jekyll <br> Last updated on November 2024<br/>
+              &copy; 2025. All rights reserved.</p>
+    </div>
+  </div> 
+</div>
+
+          <div class="main">
+          <!--  <nav class="topnav">
+    <ul>
+     
+      
+      <li id="nav-home"><a href="/">Home</a></li>
+      
+            
+              <li id="nav-labs"><a href="/labs/">Labs</a></li>
+                
+      
+            
+              <li id="nav-research"><a href="/projects/">Projects</a></li>
+                
+      
+            
+              <li id="nav-team"><a href="/team/">Team</a></li>
+                
+      
+            
+              <li id="nav-publications"><a href="/publications/">Publications</a></li>
+                
+      
+            
+              <li id="nav-culture"><a href="/culture/">Culture</a></li>
+                
+      
+    </ul>
+  </nav>
+  -->
+
+          <!-- -->
+
+
+            <h1 id="head-inproceedings">Towards a tool for the creation of micro-visualisations</h1>
+            <h1 style="color: #585858; line-height: 1.2;"" class="post-title"">Towards a tool for the creation of micro-visualisations</h1>
+
+ <!-- TEASER -->
+ 
+<img src="/assets/images/microvis.png" alt="Teaser for Towards a tool for the creation of micro-visualisations" style="margin: 2em auto 0 auto; width: 800px;">
+ 
+
+ <div style="width: 100%; overflow: hidden;">
+  <div style="width: 70%; float: left;">  
+    
+    <h2>Abstract</h2>
+      As the every day use of mobile and small screen devices becomes more common, it is necessary to explore how we can visualise data effectively in small design spaces. These screens are often used in situations where it is necessary to convey information in a concise, readable, reliable and visually appealing way. Our work focuses on the design and development of a tool to facilitate the creation and manipulation of new micro-visualisations. The results show that the tool is suitable for creating large number of outputs quickly and efficiently.
+    
+   </div>
+    <div style="margin-left: 75%;"> 
+
+       
+
+
+      
+
+        
+          <h2>Downloads</h2>
+          
+      
+              <a href="/files/Jackson-et-al-CGVC-2019.pdf" class="pdflink"> <i class="far fa-file-pdf"></i> &nbsp; PDF</a>
+
+               
+            
+               
+           
+      
+
+    
+    
+      
+
+      
+
+      
+
+
+
+      
+
+      
+
+      
+
+      <!---->
+
+      <!---->
+
+      
+
+      
+
+      
+
+
+  </div>
+</div>
+
+
+
+<h2>Citation</h2>
+  <span id="Jackson-et-al-CGVC-2019">J. R. Jackson, P. D. Ritsos, and J. C. Roberts, “Towards a tool for the creation of micro-visualisations,” in <i>Proceedings of the Eurographics Conference in Computer Graphics and Visual Computing (CGVC) 2019, Bangor, UK</i>, 2019.</span>
+   
+  
+  &nbsp;doi:<a href="http://dx.doi.org/10.2312/cgvc.20191270" class="doilink">10.2312/cgvc.20191270</a>
+   
+   
+
+
+
+ <h2>Bibtex</h2>
+  <pre>@inproceedings{Jackson-et-al-CGVC-2019,
+  author = {Jackson, James R. and Ritsos, Panagiotis D. and Roberts, Jonathan C.},
+  title = {Towards a tool for the creation of micro-visualisations},
+  booktitle = {Proceedings of the Eurographics Conference in Computer Graphics and Visual Computing (CGVC) 2019, Bangor, UK},
+  year = {2019},
+  month = sep,
+  publisher = {The Eurographics Association},
+  editor = {Vidal, Franck P. and Tam, Gary K. L. and Roberts, Jonathan C.},
+  doi = {10.2312/cgvc.20191270}
+}
+</pre>
+
+
+
+
+<!---->
+
+<!---->
+
+
+
+
+
+
+
+
+<div class="social">
+  <a id="go-back"><span class="linkback" style="cursor: pointer;"><i class="fa fa-hand-o-left" aria-hidden="true"></i> Go Back </span></a>
+
+
+<!-- <span class="linktweet"><a href="https://twitter.com/share?
+  text=Towards a tool for the creation of micro-visualisations
+  &url=http://localhost:4000/bibliography/Jackson-et-al-CGVC-2019/
+  &via=ritsos_p
+  &hashtags=">
+  <div class="twitter-sharing">Share on <i class="fab fa-twitter-square"></i></div>
+  </a></div></span> -->
+  
+  </div>
+  
+
+
+<script>
+  document.getElementById('go-back').addEventListener('click', () => {
+  history.back();
+});
+</script>
+          </div>
+      </div>
+
+
+
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-8751583-8', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+
+    
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+      <script async src="/public/js/abstract-min.js"></script>
+      <script async src="/public/js/detailsTarget-min.js"></script>
+      <script async src="/public/js/award.js"></script>
+    
+
+
+    
+
+  </body>
+</html>

@@ -1,0 +1,13 @@
+<nav class="sidenav">
+    <ul>
+     {% assign pages_list = site.pages | where: 'menu', 'main' | where: 'layout': 'page' | sort: "order" %}
+      
+      <li id="nav-home"><a href="{{ site.baseurl }}/">Home</a></li>
+      {% for node in pages_list %}
+            {% if node.title != null %}
+              <li id="nav-{{ node.type }}"><a href="{{ node.url }}">{{ node.title }}</a></li>
+            {% endif %}    
+      {% endfor %}
+    </ul>
+  </nav>
+  

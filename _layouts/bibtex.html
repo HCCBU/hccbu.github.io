@@ -1,0 +1,179 @@
+---
+layout: default
+---
+
+
+<h1 style="color: #585858; line-height: 1.2;"" class="post-title"">{{ page.entry.title }}</h1>
+
+ <!-- TEASER -->
+ {% if page.entry.teaser %}
+<img src="{{ site.baseurl }}/assets/images/{{ page.entry.teaser }}" alt="Teaser for {{ page.entry.title }}" style="margin: 2em auto 0 auto; width: 800px;">
+ {% endif %}
+
+ <div style="width: 100%; overflow: hidden;">
+  <div style="width: 70%; float: left;">  
+    {% if page.entry.abstract %}
+    <h2>Abstract</h2>
+      {{ page.entry.abstract }}
+    {% else %}
+    <h2>About</h2>
+      {{ page.entry.about }}
+    {% endif %}
+   </div>
+    <div style="margin-left: 75%;"> 
+
+      {{reference}}{% if entry.archiveprefix %} [Online] Available at: <a href="https://arxiv.org/abs/{{entry.url}}" class="doilink">arXiv:{{entry.url}}</a>{% endif %} 
+
+
+      {% unless page.entry.key contains 'book' %}
+
+        {% if page.entry.nopaper %}   
+        {% else %}
+          <h2>Downloads</h2>
+          {% if page.entry.archiveprefix %} 
+          
+            Available at: <a href="https://arxiv.org/abs/{{page.entry.url}}" class="doilink">arXiv:{{page.entry.url}}</a>
+            {% else %}
+      
+              <a href="{{site.baseurl}}/files/{{page.entry.key}}.pdf" class="pdflink"> <i class="far fa-file-pdf"></i> &nbsp; PDF</a>
+
+              {% if page.entry.preprint %} 
+                  </br>
+                   <p><a href="https://arxiv.org/abs/{{page.entry.url}}"" class="pdflink"><i class="far fa-file-pdf"></i> &nbsp; Preprint</a></p>
+
+              {% endif %} 
+            
+              {% endif %} 
+          {% endif %} 
+      {% endunless %}
+
+    
+    
+      {% if page.entry.supplementary %}
+        <h2>Supplementary Matterial</h2>
+        <a href="{{site.baseurl}}/files/{{page.entry.key}}_supp.pdf" class="pdflink"> <i class="far fa-file-pdf"></i> &nbsp; Paper</a>
+      {% endif %}
+
+      {% if page.entry.github %} 
+        <h2>Resources</h2>
+        <a href="{{page.entry.github}}" class="urllink"> <i class="fab fa-github"></i> &nbsp; GitHub Repository</a>
+      {% endif %}
+
+      {% if page.entry.osf %} 
+      <h2>Resources</h2>
+      <a href="{{page.entry.osf}}" class="urllink"> <i class="ai ai-osf"></i> &nbsp; OSF Repository</a>
+    {% endif %}
+
+
+
+      {% if page.entry.dposter %}  
+        <h2>Poster</h2>
+        <a href="{{page.entry.dposter}}" >Interactive Poster</a>
+      {% endif %}
+
+      {% if page.entry.key contains 'Poster' %}  
+        <h2>Poster</h2>
+        See <a href="#utube">below</a> for embedded view</a>
+      {% endif %}
+
+      {% if page.entry.cover %}  
+      <h2>Get the book</h2>
+      <a href="{{page.entry.url}}" target="_blank"><img src="{{site.baseurl}}/assets/images/{{page.entry.cover}}" class="promotions"></img></a>
+      {% endif %}
+
+      <!--{% if page.entry.ytpreview %}
+        <h2>Youtube Video</h2>
+        See <a href="#utube">below</a> or <a href="https://www.youtube.com/watch?v={{page.entry.ytpreview}}">follow link</a>
+      {% endif %}-->
+
+      <!--{% if page.entry.vmpreview %}
+        <h2>Vimeo Video</h2>
+        See <a href="#vimeo">below</a> or <a href="https://vimeo.com/video/{{page.entry.vmpreview}}">follow link</a>
+      {% endif %}-->
+
+      {% if page.entry.ytpreview %}
+        <h2 id="utube">Video</h2>
+        <div class='embed-container-yt'><iframe width="560" height="315" src="https://www.youtube.com/embed/{{page.entry.ytpreview}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+      {% endif %}
+
+      {% if page.entry.vmpreview %}
+        <h2 id="vimeo">Video</h2>
+        <div class='embed-container-vm'><iframe src="https://player.vimeo.com/video/{{page.entry.vmpreview}}" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+      {% endif %}
+
+      {% if page.entry.video %}
+        <h2 id="video">Video</h2>
+        <div class='embed-container-vm'><iframe src="{{page.entry.video}}" width="560" height="315" frameborder="0" allow="fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+      {% endif %}
+
+
+  </div>
+</div>
+
+
+
+<h2>Citation</h2>
+  {{ page.reference }}
+  {% if page.entry.archiveprefix %} [Online] Available at: <a href="https://arxiv.org/abs/{{page.entry.url}}" class="doilink">arXiv:{{page.entry.url}}</a>{% endif %} 
+  {% if page.entry.pubmed %}&nbsp; PMID:{{page.entry.pubmed}}{% endif %}
+  {% if page.entry.doi %}&nbsp;doi:<a href="http://dx.doi.org/{{page.entry.doi}}" class="doilink">{{page.entry.doi}}</a>
+  {% elsif page.entry.isbn %}&nbsp; ISBN:{{page.entry.isbn}}{% endif %} 
+  {% if page.entry.info %}<br/><span style="font-size:0.8em; color:#CA6680; border-top: 1px solid #CA6680; margin-top:0.4em; display:inline-block;">{{page.entry.info}}</span>{% endif %} 
+
+
+
+ <h2>Bibtex</h2>
+  <pre>{{ page.entry.bibtex }}</pre>
+
+{% if page.entry.ack %}
+  <h2>Acknowledgements</h2>
+  {{ page.entry.ack }}
+{% endif %}
+
+
+<!--{% if page.entry.ytpreview %}
+  <h2 id="utube">Youtube Video</h2>
+  <div class='embed-container'><iframe width="560" height="315" src="https://www.youtube.com/embed/{{page.entry.ytpreview}}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+{% endif %}-->
+
+<!--{% if page.entry.vmpreview %}
+  <h2 id="vimeo">Vimeo Video</h2>
+  <div class='embed-container'><iframe src="https://player.vimeo.com/video/{{page.entry.vmpreview}}" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+{% endif %}-->
+
+
+{% if page.entry.key contains 'Poster' %}  
+  <h2 id="poster">Poster</h2>
+  <iframe src="{{site.baseurl}}/files/{{page.entry.key}}-poster.pdf" width="100%" height="500px">
+  </iframe>
+{% endif %}
+
+{% if page.entry.key contains 'LBW' %}  
+  <h2 id="poster">Poster</h2>
+  <iframe src="{{site.baseurl}}/files/{{page.entry.key}}-poster.pdf" width="100%" height="500px">
+  </iframe>
+{% endif %}
+
+
+
+<div class="social">
+  <a id="go-back"><span class="linkback" style="cursor: pointer;"><i class="fa fa-hand-o-left" aria-hidden="true"></i> Go Back </span></a>
+
+
+<!-- <span class="linktweet"><a href="https://twitter.com/share?
+  text={{ page.entry.title }}
+  &url={{site.url}}{{page.url}}
+  &via=ritsos_p
+  &hashtags={% for tag in page.entry.tags %}{{tag}},{% endfor %}">
+  <div class="twitter-sharing">Share on <i class="fab fa-twitter-square"></i></div>
+  </a></div></span> -->
+  
+  </div>
+  
+
+
+<script>
+  document.getElementById('go-back').addEventListener('click', () => {
+  history.back();
+});
+</script>

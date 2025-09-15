@@ -1,0 +1,647 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>  <html class="ie ie6 lte9 lte8 lte7" lang="en-us"> <![endif]-->
+<!--[if IE 7]>     <html class="ie ie7 lte9 lte8 lte7" lang="en-us"> <![endif]-->
+<!--[if IE 8]>     <html class="ie ie8 lte9 lte8" lang="en-us"> <![endif]-->
+<!--[if IE 9]>     <html class="ie ie9 lte9" lang="en-us"> <![endif]-->
+<!--[if gt IE 9]>  <html> <![endif]-->
+<!--[if !IE]><!--> <html lang="en-us"><!--<![endif]-->
+
+
+
+  <head>
+  <link href="https://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="description" content="XRVA - XReality, Visualization and Analytics lab, School of Computer Science and Engineering, Bangor University, research on mixed and virtual reality, information visualization, visual analytics, immersive analytics, situated analytics">
+  <!-- Enable responsiveness on mobile devices-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>
+    
+      Immersive and Situated Analytics &middot; XRVA - Bangor University
+    
+  </title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+  <link href="https://fonts.googleapis.com/css?family=Lato"rel="stylesheet" type="text/css" />
+
+  <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap" rel="stylesheet">
+
+
+  <link rel="stylesheet" href="/public/css/poole.css">
+  <link rel="stylesheet" href="/public/css/syntax.css">
+  <link rel="stylesheet" href="/public/css/hyde.css">
+ <!-- <link rel="stylesheet" href="/public/css/academicons.css">-->
+  <link rel="stylesheet" href="/public/css/xrva.css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+<link href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css" rel="stylesheet" type="text/css" >
+
+
+  <!-- Icons -->
+  <link rel="apple-touch-icon" sizes="144x144" href="/public/apple-touch-icon-144-precomposed.png">
+                                 <link rel="shortcut icon" href="/public/favicon.png">
+
+  <!-- RSS -->
+  <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
+
+  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="XRVA - Bangor University" />
+  <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>Immersive and Situated Analytics | XRVA - Bangor University</title>
+<meta name="generator" content="Jekyll v4.3.2" />
+<meta property="og:title" content="Immersive and Situated Analytics" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="XRealities, Visualization and Analytics (XRVA) lab, Visualization, Data, Modelling and Graphics (VDMG) research group, School of Computer Science and Engineering, College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT" />
+<meta property="og:description" content="XRealities, Visualization and Analytics (XRVA) lab, Visualization, Data, Modelling and Graphics (VDMG) research group, School of Computer Science and Engineering, College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT" />
+<link rel="canonical" href="http://localhost:4000/projects/ia/" />
+<meta property="og:url" content="http://localhost:4000/projects/ia/" />
+<meta property="og:site_name" content="XRVA - Bangor University" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2025-09-15T16:22:13+01:00" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="Immersive and Situated Analytics" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2025-09-15T16:22:13+01:00","datePublished":"2025-09-15T16:22:13+01:00","description":"XRealities, Visualization and Analytics (XRVA) lab, Visualization, Data, Modelling and Graphics (VDMG) research group, School of Computer Science and Engineering, College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT","headline":"Immersive and Situated Analytics","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/projects/ia/"},"url":"http://localhost:4000/projects/ia/"}</script>
+<!-- End Jekyll SEO tag -->
+
+</head>
+
+
+      <body id="research">
+        <div class="wrapper">
+          <div id="mysidebar">
+
+  <div class="author-info">
+<img class="logo" src="/assets/images/hccbu_logo.png"></img>
+<!--<h2 class="role"><span class="subtitleAccent">XR</span>eality, <span class="subtitleAccent">V</span>isualization &amp; <span class="subtitleAccent">A</span>nalytics</h2>-->
+
+<!--<h2 class="role">Senior Lecturer in Visualization</h2>-->
+
+<!--<nav class="sidenav">
+    <ul>
+     
+      
+      <li id="nav-home"><a href="/">Home</a></li>
+      
+            
+              <li id="nav-labs"><a href="/labs/">Labs</a></li>
+                
+      
+            
+              <li id="nav-research"><a href="/projects/">Projects</a></li>
+                
+      
+            
+              <li id="nav-team"><a href="/team/">Team</a></li>
+                
+      
+            
+              <li id="nav-publications"><a href="/publications/">Publications</a></li>
+                
+      
+            
+              <li id="nav-culture"><a href="/culture/">Culture</a></li>
+                
+      
+    </ul>
+  </nav>
+  -->
+
+  <a href="https://www.bangor.ac.uk/computer-science-and-electronic-engineering/" target="_blank">School of Computer Science and<br/>Engineering, </a>
+  <a href="https://www.bangor.ac.uk/" target="_blank">Bangor University,</a><br/>
+  Dean Street, Bangor,<br/>
+  Gwynedd, UK, LL57 1UT<br/>
+</div>
+
+  <div class="author-links">
+   <!--- <span class="icoFrame"><i class="ico fas fa-university fa-fw"></i></span> &nbsp; <a href="https://www.bangor.ac.uk/computer-science-and-electronic-engineering/staff/panagiotis-ritsos/en" target="_blank">University Page</a><br/>                
+    <span class="icoFrame"><i class="ico fab fa-github fa-fw"></i></span> &nbsp; <a href="https://github.com/ritsosp" target="_blank">GitHub</a><br/>-->
+    
+
+    <nav class="sidenav">
+      <span>
+       
+        
+        <spam id="nav-home"><a href="/">Home</a></span><br>
+        
+              
+              <span id="nav-labs"><a href="/labs/">Labs</a></span></br>
+                  
+        
+              
+              <span id="nav-research"><a href="/projects/">Projects</a></span></br>
+                  
+        
+              
+              <span id="nav-team"><a href="/team/">Team</a></span></br>
+                  
+        
+              
+              <span id="nav-publications"><a href="/publications/">Publications</a></span></br>
+                  
+        
+              
+              <span id="nav-culture"><a href="/culture/">Culture</a></span></br>
+                  
+        
+      </ul>
+    </nav>
+
+    <div class="social noBorder">
+      <a href="https://github.com/xrvalab" title="XRVA @ Github" target="_blank"><i class="fa-brands fa-github"></i></a>
+      <a href="https://twitter.com/xrvalab" title="XRVA @ Twitter :: https://twitter.com/xrvalab" target="_blank"><i class="fa-brands fa-x-twitter"></i></a>
+      <a href="https://vis.social/@xrva" title="XRVA @ Mastodon Social :: https://vis.social/@xrva" target="_blank"><i class="fa-brands fa-mastodon"></i></a>          			
+    </div>
+              
+
+    <div class="legal">
+      <p>Built with Jekyll <br> Last updated on November 2024<br/>
+              &copy; 2025. All rights reserved.</p>
+    </div>
+  </div> 
+</div>
+
+          <div class="main">
+          <!--  <nav class="topnav">
+    <ul>
+     
+      
+      <li id="nav-home"><a href="/">Home</a></li>
+      
+            
+              <li id="nav-labs"><a href="/labs/">Labs</a></li>
+                
+      
+            
+              <li id="nav-research"><a href="/projects/">Projects</a></li>
+                
+      
+            
+              <li id="nav-team"><a href="/team/">Team</a></li>
+                
+      
+            
+              <li id="nav-publications"><a href="/publications/">Publications</a></li>
+                
+      
+            
+              <li id="nav-culture"><a href="/culture/">Culture</a></li>
+                
+      
+    </ul>
+  </nav>
+  -->
+
+          <!-- -->
+
+
+            <h1 id="head-research">Immersive and Situated Analytics</h1>
+            <div class="page">
+
+<h1  class="post-title">Immersive and Situated Analytics</h1>
+
+<p><p><img src="/assets/images/vria_teaser.jpeg" class="prjImgFlt" alt="heritage" /></p>
+
+<p>Visualization researchers need to develop and adapt to today’s new devices and tomorrow’s interface technology. Today, people interact with visual depictions mainly through a mouse and, gradually, by touch. Tomorrow, they will be touching, grasping, feeling, hearing, smelling, and even tasting data. This theme explores the concept of immersive, situated, multisensory, post-WIMP visualization and investigates how information visualization can employ different display and presentation technologies, such as head-mounted displays, projection systems, wearables, tabletop displays and haptic interfaces. Immersive and Situated Analytics (IA/SA) activities are a core theme of the <a href="https://xrvalab.github.io/">XReality, Visualization and Analytics (XRVA) lab)</a>.</p>
+
+<h2 id="publications">Publications</h2>
+
+<div class="bibliography"><p>
+
+<span id="Batch-et-al-TVCG-2024">A. Batch, P. W. S. Butcher, P. D. Ritsos, and N. Elmqvist, “Wizualization: A ’Hard Magic’ Visualization System for Immersive and Ubiquitous Analytics,” <i>IEEE Transactions on Visualization and Computer Graphics (to appear)</i>, 2024.</span>
+
+  <span class="toggle">
+    What if magic could be used as an effective metaphor to perform data visualization and analysis using speech and gestures while mobile and on-the-go? In this paper, we introduce Wizualization, a visual analytics system for eXtended Reality (XR) that enables an analyst to author and interact with visualizations using such a magic system through gestures, speech commands, and touch interaction. Wizualization is a rendering system for current XR headsets that comprises several components: a cross-device (or Arcane Focuses) infrastructure for signalling and view control (Weave), a code notebook (SpellBook), and a grammar of graphics for XR (Optomancy). The system offers users three modes of input: gestures, spoken commands, and materials. We demonstrate Wizualization and its components using a motivating scenario on collaborative data analysis of pandemic data across time and space.
+  </span>
+  <br />
+  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+
+<span class="biblinks">
+  [<a href="/bibliography/Batch-et-al-TVCG-2024/">Details</a>]&nbsp;&nbsp;
+  
+  
+        
+          [<a href="/files/Batch-et-al-TVCG-2024.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+         
+  
+   
+  
+  
+  [doi:<a href="http://dx.doi.org/10.1109/TVCG.2023.3326580" class="doilink">10.1109/TVCG.2023.3326580</a>]&nbsp;&nbsp;
+  
+   [<span class="addedInfo">Presented at IEEE VIS 2023</span>] 
+</span>
+<a class="details" href="/bibliography/Batch-et-al-TVCG-2024/"><span hidden=""></span></a></p></div>
+
+<div class="bibliography"><p>
+
+<span id="Butcher-et-al-HUI-ISMAR2023">P. W. S. Butcher, A. Batch, P. D. Ritsos, and N. Elmqvist, “Don’t Pull the Balrog — Lessons Learned from Designing Wizualization: a Magic-inspired Data Analytics System in XR,” in <i>HybridUI: 1st Workshop on Hybrid User Interfaces: Complementary Interfaces for Mixed Reality Interaction</i>, 2023.</span>
+
+  <span class="toggle">
+    This paper presents lessons learned in the design and development of Wizualization, a ubiquitous analytics system for authoring visualizations in WebXR using a magic metaphor. The system is based on a fundamentally hybrid and multimodal approach utilizing AR/XR, gestures, sound, and speech to support the mobile setting. Our lessons include how to overcome mostly technical challenges, such as view management and combining multiple sessions in the same analytical 3D space, but also user-based, design-oriented, and even social ones. Our intention in sharing these teachings is to help fellow travellers navigate the same troubled waters we have traversed.
+  </span>
+  <br />
+  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+
+<span class="biblinks">
+  [<a href="/bibliography/Butcher-et-al-HUI-ISMAR2023/">Details</a>]&nbsp;&nbsp;
+  
+  
+        
+          [<a href="/files/Butcher-et-al-HUI-ISMAR2023.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+         
+  
+   
+  
+  
+  
+   
+</span>
+<a class="details" href="/bibliography/Butcher-et-al-HUI-ISMAR2023/"><span hidden=""></span></a></p></div>
+
+<div class="bibliography"><p>
+
+<span id="Shin-et-al-TVCG-2023">S. Shin, A. Batch, P. W. S. Butcher, P. D. Ritsos, and N. Elmqvist, “The Reality of the Situation: A Survey of Situated Analytics,” <i>IEEE Transactions on Visualization and Computer Graphics (to appear)</i>, 2023.</span>
+
+  <span class="toggle">
+     The advent of low-cost, accessible, and high-performance augmented reality (AR) has shed light on a situated form of analytics where in-situ visualizations embedded in the real world can facilitate sensemaking based on the user’s physical location. In this work, we identify prior literature in this emerging field with a focus on situated analytics. After collecting 47 relevant situated analytics systems, we classify them using a taxonomy of three dimensions: situating triggers, view situatedness, and data depiction. We then identify four archetypical patterns in our classification using an ensemble cluster analysis. We also assess the level which these systems support the sensemaking process. Finally, we discuss insights and design guidelines that we learned from our analysis.
+  </span>
+  <br />
+  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+
+<span class="biblinks">
+  [<a href="/bibliography/Shin-et-al-TVCG-2023/">Details</a>]&nbsp;&nbsp;
+  
+  
+        
+          [<a href="/files/Shin-et-al-TVCG-2023.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+         
+  
+   
+  
+  
+  [doi:<a href="http://dx.doi.org/10.1109/TVCG.2023.3285546" class="doilink">10.1109/TVCG.2023.3285546</a>]&nbsp;&nbsp;
+  
+   [<span class="addedInfo">Presented at IEEE VIS 2023</span>] 
+</span>
+<a class="details" href="/bibliography/Shin-et-al-TVCG-2023/"><span hidden=""></span></a></p></div>
+
+<div class="bibliography"><p>
+
+<span id="Batch-et-al-CGF-2023">A. Batch, S. Shin, J. Liu, P. W. S. Butcher, P. D. Ritsos, and N. Elmqvist, “Evaluating View Management for Situated Visualization in Web-based Handheld AR,” <i>Computer Graphics Forum</i>, vol. 42, no. 3, pp. 349–360, Jun. 2023.</span>
+
+  <span class="toggle">
+    As visualization makes the leap to mobile and situated settings, where data is increasingly integrated with the physical world using mixed reality, there is a corresponding need for effectively managing the immersed user’s view of situated visualizations. In this paper we present an analysis of view management techniques for situated 3D visualizations in handheld augmented reality: a shadowbox, a world-in-miniature metaphor, and an interactive tour. We validate these view management solutions through a concrete implementation of all techniques within a situated visualization framework built using a web-based augmented reality visualization toolkit, and present results from a user study in augmented reality accessed using handheld mobile devices.
+  </span>
+  <br />
+  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+
+<span class="biblinks">
+  [<a href="/bibliography/Batch-et-al-CGF-2023/">Details</a>]&nbsp;&nbsp;
+  
+  
+        
+          [<a href="/files/Batch-et-al-CGF-2023.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+         
+  
+   
+  
+  
+  [doi:<a href="http://dx.doi.org/10.1111/cgf.14835" class="doilink">10.1111/cgf.14835</a>]&nbsp;&nbsp;
+  
+   [<span class="addedInfo">Presented at EG EuroVis 2023</span>] 
+</span>
+<a class="details" href="/bibliography/Batch-et-al-CGF-2023/"><span hidden=""></span></a></p></div>
+
+<div class="bibliography"><p>
+
+<span id="Butcher-et-al-TVCG-2021">P. W. S. Butcher, N. W. John, and P. D. Ritsos, “VRIA: A Web-based Framework for Creating Immersive Analytics Experiences,” <i>IEEE Transactions on Visualization and Computer Graphics</i>, vol. 27, no. 07, pp. 3213–3225, Jul. 2021.</span>
+
+  <span class="toggle">
+    We present &#60;VRIA&#62;, a Web-based framework for creating Immersive Analytics (IA) experiences in Virtual Reality. &#60;VRIA&#62; is built upon WebVR, A-Frame, React and D3.js, and offers a visualization creation workflow which enables users, of different levels of
+  expertise, to rapidly develop Immersive Analytics experiences for the Web. The use of these open-standards Web-based technologies
+  allows us to implement VR experiences in a browser and offers strong synergies with popular visualization libraries, through the HTML
+  Document Object Model (DOM). This makes &#60;VRIA&#62; ubiquitous and platform-independent. Moreover, by using WebVR’s progressive
+  enhancement, the experiences &#60;VRIA&#62; creates are accessible on a plethora of devices. We elaborate on our motivation for focusing on
+  open-standards Web technologies, present the &#60;VRIA&#62; creation workflow and detail the underlying mechanics of our framework. We also
+  report on techniques and optimizations necessary for implementing Immersive Analytics experiences on the Web, discuss scalability
+  implications of our framework, and present a series of use case applications to demonstrate the various features of &#60;VRIA&#62;. Finally, we
+  discuss current limitations of our framework, the lessons learned from its development, and outline further extensions.
+  </span>
+  <br />
+  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+
+<span class="biblinks">
+  [<a href="/bibliography/Butcher-et-al-TVCG-2021/">Details</a>]&nbsp;&nbsp;
+  
+  
+        
+          [<a href="/files/Butcher-et-al-TVCG-2021.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+         
+  
+   
+  
+  
+  [doi:<a href="http://dx.doi.org/10.1109/TVCG.2020.2965109" class="doilink">10.1109/TVCG.2020.2965109</a>]&nbsp;&nbsp;
+  
+   [<span class="addedInfo">Presented at IEEE VIS 2020</span>] 
+</span>
+<a class="details" href="/bibliography/Butcher-et-al-TVCG-2021/"><span hidden=""></span></a></p></div>
+
+<div class="bibliography"></div>
+
+<div class="bibliography"><p>
+
+<span id="Williams-et-al-VIS-2020">R. L. Williams, D. Farmer, J. C. Roberts, and P. D. Ritsos, “Immersive visualisation of COVID-19 UK travel and US happiness data,” in <i>Posters presented at the IEEE Conference on Visualization (IEEE VIS 2020), Virtual Event</i>, 2020.</span>
+
+  <span class="toggle">
+    The global COVID-19 pandemic has had great affect on the lives of everyone, from changing how children are educated to how or whether at all, we travel, go to work or do our shopping. Consequently, not only has people’s happiness changed throughout the pandemic, but there has been less vehicles on the roads. We present work to visualise both US happiness and UK travel data, as examples, in immersive environments. These impromptu visualisations encourage discussion and engagement with these topics, and can help people see the data in an alternative way.
+  </span>
+  <br />
+  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+
+<span class="biblinks">
+  [<a href="/bibliography/Williams-et-al-VIS-2020/">Details</a>]&nbsp;&nbsp;
+  
+  
+        
+          [<a href="/files/Williams-et-al-VIS-2020.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+         
+  
+   
+  
+  
+  
+   
+</span>
+<a class="details" href="/bibliography/Williams-et-al-VIS-2020/"><span hidden=""></span></a></p></div>
+
+<div class="bibliography"><p>
+
+<span id="Butcher-et-al-Poster-VIS2018">P. W. S. Butcher, N. W. John, and P. D. Ritsos, “Towards a Framework for Immersive Analytics on the Web,” in <i>Posters presented at the IEEE Conference on Visualization (IEEE VIS 2018), Berlin, Germany</i>, 2018.</span>
+
+  <span class="toggle">
+    We present work-in-progress on the design and implementation of a Web framework for building Immersive Analytics (IA) solutions in Virtual Reality (VR). We outline the design of our prototype framework, VRIA, which facilitates the development of VR spaces for IA solutions, which can be accessed via a Web browser. VRIA is built on emerging open-standards Web technologies such as WebVR, A-Frame and React, and supports a variety of interaction devices (e.g., smartphones, head-mounted displays etc.). We elaborate on our motivation for focusing on open-standards Web technologies and provide an overview of our framework. We also present two early visualization components. Finally, we outline further extensions and investigations.
+  </span>
+  <br />
+  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+
+<span class="biblinks">
+  [<a href="/bibliography/Butcher-et-al-Poster-VIS2018/">Details</a>]&nbsp;&nbsp;
+  
+  
+        
+          [<a href="/files/Butcher-et-al-Poster-VIS2018.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+         
+  
+   
+  
+  
+  
+   
+</span>
+<a class="details" href="/bibliography/Butcher-et-al-Poster-VIS2018/"><span hidden=""></span></a></p></div>
+
+<div class="bibliography"><p>
+
+<span id="Ritsos-et-al-IAW-2017">P. D. Ritsos, J. Mearman, J. R. Jackson, and J. C. Roberts, “Synthetic Visualizations in Web-based Mixed Reality,” in <i>Immersive Analytics: Exploring Future Visualization and Interaction Technologies for Data Analytics Workshop, IEEE Conference on Visualization (VIS), Phoenix, Arizona, USA</i>, 2017.</span>
+
+  <span class="toggle">
+    The way we interact with computers is constantly evolving, with technologies like Mixed/Augmented Reality (MR/AR) and the Internet of Things (IoT) set to change our perception of informational and physical space. In parallel, interest for interacting with data in new ways is driving the investigation of the synergy of these domains with data visualization. We are seeking new ways to contextualize, visualize, interact-with and interpret our data. In this paper we present the notion of Synthetic Visualizations, which enable us to visualize in situ, data embedded in physical objects, using MR. We use a combination of established ‘markers’, such as Quick Response Codes (QR Codes) and Augmented Reality Markers (AR Markers), not only to register objects in physical space, but also to contain data to be visualized, and interchange the type of visualization to be used. We visualize said data in Mixed Reality (MR), using emerging web-technologies and open-standards.
+  </span>
+  <br />
+  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+
+<span class="biblinks">
+  [<a href="/bibliography/Ritsos-et-al-IAW-2017/">Details</a>]&nbsp;&nbsp;
+  
+  
+        
+          [<a href="/files/Ritsos-et-al-IAW-2017.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+         
+  
+   
+  
+  
+  
+   
+</span>
+<a class="details" href="/bibliography/Ritsos-et-al-IAW-2017/"><span hidden=""></span></a></p></div>
+
+<div class="bibliography"><p>
+
+<span id="Ritsos-et-al-Poster-VIS2017">P. D. Ritsos, J. Jackson, and J. C. Roberts, “Web-based Immersive Analytics in Handheld Augmented Reality,” in <i>Posters presented at the IEEE Conference on Visualization (IEEE VIS 2017), Phoenix, Arizona, USA</i>, 2017.</span>
+
+  <span class="toggle">
+    The recent popularity of virtual reality (VR), and the emergence of a number of affordable VR interfaces, have prompted researchers and developers to explore new, immersive ways to visualize data. This has resulted in a new research thrust, known as Immersive Analytics (IA). However, in IA little attention has been given to the paradigms of augmented/mixed reality (AR/MR), where computer-generated and physical objects co-exist. In this work, we explore the use of contemporary web-based technologies for the creation of immersive visualizations for handheld AR, combining D3.js with the open standards-based Argon AR framework and A-frame/WebVR. We argue in favor of using emerging standards-based web technologies as they work well with contemporary visualization tools, that are purposefully built for data binding and manipulation.
+  </span>
+  <br />
+  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+
+<span class="biblinks">
+  [<a href="/bibliography/Ritsos-et-al-Poster-VIS2017/">Details</a>]&nbsp;&nbsp;
+  
+  
+        
+          [<a href="/files/Ritsos-et-al-Poster-VIS2017.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+         
+  
+   
+  
+  
+  
+   
+</span>
+<a class="details" href="/bibliography/Ritsos-et-al-Poster-VIS2017/"><span hidden=""></span></a></p></div>
+
+<div class="bibliography"><p>
+
+<span id="Butcher-Ritsos-CW2017">P. W. Butcher and P. D. Ritsos, “Building Immersive Data Visualizations for the Web,” in <i>Proceedings of International Conference on Cyberworlds (CW’17), Chester, UK</i>, 2017.</span>
+
+  <span class="toggle">
+    We present our early work on building prototype applications for Immersive Analytics using emerging standardsbased web technologies for VR. For our preliminary investigations we visualize 3D bar charts that attempt to resemble recent physical visualizations built in the visualization community. We explore some of the challenges faced by developers in working with emerging VR tools for the web, and in building effective and informative immersive 3D visualizations.
+  </span>
+  <br />
+  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+
+<span class="biblinks">
+  [<a href="/bibliography/Butcher-Ritsos-CW2017/">Details</a>]&nbsp;&nbsp;
+  
+  
+        
+          [<a href="/files/Butcher-Ritsos-CW2017.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+         
+  
+   
+  
+  
+  [doi:<a href="http://dx.doi.org/10.1109/CW.2017.11" class="doilink">10.1109/CW.2017.11</a>]&nbsp;&nbsp;
+  
+   
+</span>
+<a class="details" href="/bibliography/Butcher-Ritsos-CW2017/"><span hidden=""></span></a></p></div>
+
+<div class="bibliography"><p>
+
+<span id="Butcher-et-al-Poster-VIS2016">P. W. S. Butcher, J. C. Roberts, and P. D. Ritsos, “Immersive Analytics with WebVR and Google Cardboard,” in <i>Posters presented at the IEEE Conference on Visualization (IEEE VIS 2016), Baltimore, MD, USA</i>, 2016.</span>
+
+  <span class="toggle">
+    We present our initial investigation of a low-cost, web-based virtual reality platform for immersive analytics, using a Google Cardboard, with a view of extending to other similar platforms such as Samsung’s Gear VR. Our prototype uses standards-based emerging frameworks, such as WebVR and explores some the challenges faced by developers in building effective and informative immersive 3D visualizations, particularly those that attempt to resemble recent physical visualizations built in the community.
+  </span>
+  <br />
+  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+
+<span class="biblinks">
+  [<a href="/bibliography/Butcher-et-al-Poster-VIS2016/">Details</a>]&nbsp;&nbsp;
+  
+  
+        
+          [<a href="/files/Butcher-et-al-Poster-VIS2016.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+         
+  
+   
+  
+  
+  
+   
+</span>
+<a class="details" href="/bibliography/Butcher-et-al-Poster-VIS2016/"><span hidden=""></span></a></p></div>
+
+<div class="bibliography"><p>
+
+<span id="Roberts-et-al-CGA2014">J. C. Roberts, P. D. Ritsos, S. K. Badam, D. Brodbeck, J. Kennedy, and N. Elmqvist, “Visualization Beyond the Desktop - the next big thing,” <i>IEEE Computer Graphics and Applications</i>, vol. 34, no. 6, pp. 26–34, Nov. 2014.</span>
+
+  <span class="toggle">
+    Visualization is coming of age. With visual depictions being seamlessly integrated into documents, and data visualization techniques being used to understand increasingly large and complex datasets, the term "visualization"’ is becoming used in everyday conversations. But we are on a cusp; visualization researchers need to develop and adapt to today’s new devices and tomorrow’s technology. Today, people interact with visual depictions through a mouse. Tomorrow, they’ll be touching, swiping, grasping, feeling, hearing, smelling, and even tasting data. The next big thing is multisensory visualization that goes beyond the desktop.
+  </span>
+  <br />
+  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+
+<span class="biblinks">
+  [<a href="/bibliography/Roberts-et-al-CGA2014/">Details</a>]&nbsp;&nbsp;
+  
+  
+        
+          [<a href="/files/Roberts-et-al-CGA2014.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+         
+  
+   
+  
+  
+  [doi:<a href="http://dx.doi.org/10.1109/MCG.2014.82" class="doilink">10.1109/MCG.2014.82</a>]&nbsp;&nbsp;
+  
+   [<span class="addedInfo">Presented at IEEE VIS 2015</span>] 
+</span>
+<a class="details" href="/bibliography/Roberts-et-al-CGA2014/"><span hidden=""></span></a></p></div>
+
+<div class="bibliography"><p>
+
+<span id="Ritsos-et-al-DOTD-VIS2014">P. D. Ritsos, J. W. Mearman, A. Vande Moere, and J. C. Roberts, “Sewn with Ariadne’s Thread - Visualizations for Wearable &amp; Ubiquitous Computing,” in <i>Death of the Desktop Workshop, IEEE Conference on Visualization (VIS), Paris, France</i>, 2014.</span>
+
+  <span class="toggle">
+    Lance felt a buzz on his wrist, as Alicia, his wearable, informed him via the bone-conduction ear-piece - ‘You have received an email from Dr Jones about the workshop’. His wristwatch displayed an unread email glyph icon. Lance tapped it and listened to the voice of Dr Jones, talking about the latest experiment. At the same time he scanned through the email attachments, projected in front of his eyes, through his contact lenses. One of the files had a dataset of a carbon femtotube structure
+  </span>
+  <br />
+  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+
+<span class="biblinks">
+  [<a href="/bibliography/Ritsos-et-al-DOTD-VIS2014/">Details</a>]&nbsp;&nbsp;
+  
+  
+        
+          [<a href="/files/Ritsos-et-al-DOTD-VIS2014.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+         
+  
+   
+  
+  
+  
+   
+</span>
+<a class="details" href="/bibliography/Ritsos-et-al-DOTD-VIS2014/"><span hidden=""></span></a></p></div>
+
+<div class="bibliography"><p>
+
+<span id="Roberts-et-al-DOTD-VIS2014">J. C. Roberts, J. W. Mearman, and P. D. Ritsos, “The desktop is dead, long live the desktop! – Towards a multisensory desktop for visualization,” in <i>Death of the Desktop Workshop, IEEE Conference on Visualization (VIS), Paris, France</i>, 2014.</span>
+
+  <span class="toggle">
+    “Le roi est mort, vive le roi!”; or “The King is dead, long live the King” was a phrase originally used for the French throne of Charles VII in 1422, upon the death of his father Charles VI. To stave civil unrest the governing figures wanted perpetuation of the monarchs. Likewise, while the desktop as-we-know-it is dead (the use of the WIMP interface is becoming obsolete in visualization) it is being superseded by a new type of desktop environment: a multisensory visualization space. This space is still a personal workspace, it’s just a new kind of desk environment. Our vision is that data visualization will become more multisensory, integrating and demanding all our senses (sight, touch, audible, taste, smell etc.), to both manipulate and perceive the underlying data and information.
+  </span>
+  <br />
+  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+
+<span class="biblinks">
+  [<a href="/bibliography/Roberts-et-al-DOTD-VIS2014/">Details</a>]&nbsp;&nbsp;
+  
+  
+        
+          [<a href="/files/Roberts-et-al-DOTD-VIS2014.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+         
+  
+   
+  
+  
+  
+   
+</span>
+<a class="details" href="/bibliography/Roberts-et-al-DOTD-VIS2014/"><span hidden=""></span></a></p></div>
+
+<h2 id="collaborators-in-various-publications">Collaborators <span class="smallResearch">(in various publications)</span></h2>
+
+<p><a href="https://international.au.dk/">Aarhus University</a>, <a href="https://umd.edu/">University of Maryland - College Park</a>, <a href="https://www.napier.ac.uk/">Edinburgh Napier University</a>, <a href="https://io.telkomuniversity.ac.id/university-of-applied-sciences-and-arts-northwestern-switzerland-fhnw/">University of Applied Sciences and Arts Northwestern Switzerland College Park</a>, <a href="https://www1.chester.ac.uk/">University of Chester</a></p>
+</p>
+
+
+<ul>
+    
+</ul>
+
+
+
+<div class="social">
+<span class="linkback"><a href="/projects/"><i class="fa fa-hand-o-left" aria-hidden="true"></i> Back to Projects</a></span>
+
+
+<span class="linktweet"><a href="https://twitter.com/share?
+text=Immersive and Situated Analytics
+&url=http://localhost:4000/projects/ia/
+&via=ritsos_p
+&hashtags=XR,InfoVis,Analytics,Immersive,Situated,">
+<div class="twitter-sharing">Share on <i class="fab fa-twitter-square"></i></div>
+</a></div></span>
+
+</div>
+
+          </div>
+      </div>
+
+
+
+
+    <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-8751583-8', 'auto');
+      ga('send', 'pageview');
+
+    </script>
+
+    
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+      <script async src="/public/js/abstract-min.js"></script>
+      <script async src="/public/js/detailsTarget-min.js"></script>
+      <script async src="/public/js/award.js"></script>
+    
+
+
+    
+
+  </body>
+</html>
