@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 type: publications
-menu: main
+menu: none
 order: 4
 ---
 

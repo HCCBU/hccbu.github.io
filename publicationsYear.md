@@ -2,8 +2,11 @@
 layout: page
 title: Publications
 type: publications
-menu: none
+menu: main
+order: 4
 ---
+
+
 
 <p class="datenote"><a href="{{ site.baseurl }}/publications/">Display per type</a> | Updated {{ site.update }}</p>
 

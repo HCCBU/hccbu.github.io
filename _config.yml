@@ -7,7 +7,7 @@ permalink: pretty
 relative_permalinks: false
 
 # Setup
-title: XRVA - Bangor University
+title: Human-Centred Computing Research Group, Bangor University
 tagline: ""
 description: Human-Centred Computing research group,<br/> School of Computer Science and Engineering, <br/> College of Environmental Sciences and Engineering, Bangor University, </br>, Dean Street, Bangor, Gwynedd, UK, LL57 1UT<span>
 url: https://hccbu.github.io/
@@ -22,16 +22,25 @@ paginate: 15
 paginate_path: "page:num"
 
 # Custom vars
-update: November 2024
+update: September 2025
 
 github:
   repo:
 
 collections:
   themes:
+  faculty:
+  ras:
+  phd:
+  former:
   downloads:
+  gallery:
   projects:
-    output: true
+  seminars:
+  projects:
+      output: true
+  seminarsarchive:
+      output: true
 
 twitter_username: "@hcc_bangor"
 
