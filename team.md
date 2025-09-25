@@ -13,7 +13,8 @@ order: 3
 
 ## Academic Staff
 
-{% for faculty in site.faculty %}
+{% assign faculty_pages = site.faculty | sort:"order" %}
+{% for faculty in faculty_pages %}
   {{ faculty.output }}
 {% endfor %}
 
@@ -22,7 +23,8 @@ order: 3
 
 ## Research Assistants
 
-{% for ra in site.ras %}
+{% assign ras_pages = site.ras | sort:"order" | reverse %}
+{% for ra in ras_pages %}
   {{ ra.output }}
 {% endfor %}
 
@@ -32,7 +34,8 @@ order: 3
 
 ## Research Students
 
-{% for phd in site.phd %}
+{% assign phd_pages = site.phd | sort:"order" | reverse %}
+{% for phd in phd_pages %}
   {{ phd.output }}
 {% endfor %}
 
@@ -42,70 +45,13 @@ order: 3
 ## Former Staff and Students
 
 {% assign former_pages = site.former | sort:"order" | reverse %}
-{% for node in former_pages reversed %}
+{% for node in former_pages %}
   {{ node.output }}
 {% endfor %}
 
 
 
 
-
-<!-- <h2>Academics</h2>
-
-<div class="pplMargin">
-  <img src="{{ site.baseurl }}/assets/images/pdritsos_2019.jpg" alt="Panagiotis D. Ritsos Photo" class="pplImg"/>
- </div>
- 
- <div class="pplDesc">
-   <h3>Panagiotis (Panos) D. Ritsos</h3>
-     <p>I am a Senior Lecturer in Visualization, at the <a href="http://www.cs.bangor.ac.uk/" target="_blank">School of Computer Science and Electronic Engineering</a>, <a href="http://www.bangor.ac.uk/" target="_blank">Bangor University, UK</a>, and lead the <a href="https://xrvalab.github.io/" target="_blank">XRVA) Lab</a>. My research interests lie in the domain of human-computer interaction, and include mixed and virtual reality, information visualization and visual analytics. I am particularly interested in potential synergies between these fields within different flavours of human-data interaction, such as beyond-the-desktop visualization, and ubiquitous, situated and immersive analytics. You can find more about me at <a href="https://pdritsos.com/" target="_blank">my personal page.</a></p>
- </div>
-
- <div class="pplMargin">
-  <img src="{{ site.baseurl }}/assets/images/llyr.jpg" alt="Llyr ap Cenydd's Photo" class="pplImg"/>
- </div>
- 
- <div class="pplDesc">
-   <h3>Llyr app Cenydd</h3>
-     <p>I am a Lecturer in the <a href="http://www.cs.bangor.ac.uk/" target="_blank">School of Computer Science and Engineering</a>, <a href="http://www.bangor.ac.uk/" target="_blank">Bangor University, UK</a> and the admissions tutor for undergrad computer science. My research interests include virtual and mixed reality, real-time computer graphics, procedural animation, and artificial intelligence. Alongside my academic work, I develop commercial VR games in partnership with industry leaders like Meta. These include the underwater safari park experience Ocean Rift and the sci-fi action game Crashland.</p>
- </div>
-
- <div class="pplMargin">
-  <img src="{{ site.baseurl }}/assets/images/peter.jpg" alt="Peter Butcher's Photo" class="pplImg"/>
- </div>
- <div class="pplDesc">
-   <h3>Panagiotis D. Ritsos</h3>
-     <p>TBC</p>
- </div>
- 
- 
- 
-<h2>Doctoral Students</h2>
- 
-
- <div class="pplMargin">
-  <img src="{{ site.baseurl }}/assets/images/shannon.jpg" alt="Panagiotis D. Ritsos Photo" class="pplImg"/>
- </div>
- 
- <div class="pplDesc">
-   <h3>Shannon Jones</h3>
-     <p>I am a Ph.D. student and part-time demonstrator at the <a href="http://www.cs.bangor.ac.uk/" target="_blank">School of Computer Science and Engineering</a>, <a href="http://www.bangor.ac.uk/" target="_blank">Bangor University, UK</a>. My research interests are on LoRaWAN sensors in the Internet of Things, Augmented and Virtual Reality, Artificial Intelligence, and Digital Twins for natural environments. I am particularly interested in AI-driven immersive and interactive visualizations, with a focus on smart environments that leverage Augmented and Virtual Reality for enhanced user interactions.</p>
-     &nbsp;
- </div>
- 
- 
-
- 
- <div class="pplMargin">
-  <img src="{{ site.baseurl }}/assets/images/shannon.jpg" alt="Panagiotis D. Ritsos Photo" class="pplImg"/>
- </div>
- 
- <div class="pplDesc">
-   <h3>Dan Farmer</h3>
-     <p>I am a Ph.D. student at the <a href="http://www.cs.bangor.ac.uk/" target="_blank">School of Computer Science and Engineering</a>, <a href="http://www.bangor.ac.uk/" target="_blank">Bangor University, UK</a>. My research focuses on advancing the development of digital twins and exploring the roles of emergent technologies in this field. Additionally, I am developing a new deep learning technique for data quality control in digital twins.</p>
-     &nbsp;
- </div> -->
- 
  
 
  
