@@ -12,13 +12,11 @@ Our research group comprises of three inter-dependent and collaborating labs, wo
 Our member work across different labs.
 
 
-<h2>Visualization and Analytics (VIS Lab)</h2>
 
+&nbsp;
 
-<h2>XReality and Visual Analytics (XRVA Lab)</h2>
+{% assign lab_pages = site.labs | sort:"order" %}
+{% for labs in lab_pages %}
+  {{ labs.output }}
+{% endfor %}
 
-
-<h2>Natural Language Processing (NLP lab)</h2>
-
-
-<h2>Learing Analytics lab (LA)</h2
