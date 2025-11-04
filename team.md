@@ -9,51 +9,67 @@ order: 3
 
 
 
-&nbsp;
+
 
 ## Academic Staff
 
-{% assign faculty_pages = site.faculty | sort:"order" %}
+{% assign faculty_pages = site.faculty | where: 'list', true | sort:"order" %}
 {% for faculty in faculty_pages %}
-  {{ faculty.output }}
+{{ faculty.output }}
 {% endfor %}
 
----
+
+
+
+
+
+<!-- Research Assistants (works only if members in list) -->
+{% assign ras_pages = site.ras | where: 'list', true | sort:"order" | reverse %}
+{% unless ras_pages == empty %}
+
 &nbsp;
 
 ## Research Assistants
 
-{% assign ras_pages = site.ras | sort:"order" | reverse %}
 {% for ra in ras_pages %}
-  {{ ra.output }}
-{% endfor %}
+{{ ra.output }}
+{% endfor %} 
+{% endunless %}
 
 
----
+
+
+
+<!-- Research Students (works only if members in list) -->
+{% assign phd_pages = site.phd | where: 'list', true | sort:"order" | reverse %}
+{% unless phd_pages == empty %}
+
 &nbsp;
 
 ## Research Students
 
-{% assign phd_pages = site.phd | sort:"order" | reverse %}
 {% for phd in phd_pages %}
-  {{ phd.output }}
-{% endfor %}
+{{ phd.output }}
+{% endfor %} 
+{% endunless %}
 
----
+
+
+
+<!-- Former Staff and Students (works only if members in list) -->
+{% assign former_pages = site.former | where: 'list', true | sort:"order" | reverse %}
+{% unless former_pages == empty %}
+
 &nbsp;
 
 ## Former Staff and Students
 
-{% assign former_pages = site.former | sort:"order" | reverse %}
 {% for node in former_pages %}
-  {{ node.output }}
+{{ node.output }}
 {% endfor %}
+{% endunless %}
 
 
 
-
- 
-
- 
  
 

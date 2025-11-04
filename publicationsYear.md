@@ -11,9 +11,25 @@ order: 4
 <p class="datenote"><a href="{{ site.baseurl }}/publications/">Display per type</a> | Updated {{ site.update }}</p>
 
 
+## 2026
+
+{% bibliography --query @*[year=2026] -f journals %}
+
+
+## 2025
+
+{% bibliography --query @*[year=2025] -f conferences %}
+{% bibliography --query @*[year=2025] -f journals %}
+{% bibliography --query @*[year=2025] -f tutorials %}
+{% bibliography --query @*[year=2025] -f workshops %}
+{% bibliography --query @*[year=2025] -f preprints %}
+
+
 ## 2024
 
 {% bibliography --query @*[year=2024] -f journals %}
+{% bibliography --query @*[year=2024] -f preprints %}
+{% bibliography --query @*[year=2024] -f other %}
 
 
 ## 2023

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Human-Centred Computing Research Group, Bangor University</title>
- <link href="https://hccbu.github.io//atom.xml" rel="self"/>
- <link href="https://hccbu.github.io//"/>
- <updated>2025-09-26T12:36:38+01:00</updated>
- <id>https://hccbu.github.io/</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2025-11-04T15:01:52+01:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name></name>
    <email></email>
@@ -13,10 +13,422 @@
 
  
  <entry>
+   <title>Papers for presentation at IEEE VIS2025</title>
+   <link href="http://localhost:4000/news/2025/08/11/publications/"/>
+   <updated>2025-08-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2025/08/11/publications</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/vis2025_logo.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;IEEE VIS2025 Banner and Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We are participating, with several works, at &lt;a href=&quot;https://ieeevis.org/year/2025/welcome&quot;&gt;IEEE VIS2025&lt;/a&gt;, to be held in Vienna, Austria.&lt;/p&gt;
+
+&lt;p&gt;We will be presenting our VIS paper &lt;a href=&quot;/publicationsYear#Roberts-et-al-TVCG-2026&quot;&gt;“Critical Thinking in Data Visualisation: A Framework for Contextual Scenarios”&lt;/a&gt;, which introduces the Critical Design Strategy (CDS)—a structured heuristic evaluation method designed to facilitate the examination of visualisation designs through reflection and critical thought.&lt;/p&gt;
+
+&lt;p&gt;We will also be presenting our IEEE TVCG Paper &lt;a href=&quot;/publicationsYear#Borowski-et-al-TVCG-2025&quot;&gt;“DashSpace: A Cross-Reality Toolkit for Immersive Analytics”&lt;/a&gt;, which introduces DashSpace, a cross-reality toolkit designed to support immersive analytics. This toolkit allows users to create and manipulate visualizations in both 2D and 3D environments, facilitating a more integrated approach to data analysis across different platforms. DashSpace is part of our ongoing collaboration with Aarhus Unniversity on anywhere, anytime analytics toolkits, along with our recent UIST’25 paper &lt;a href=&quot;/publicationsYear#Borowski-et-al-UIST-2025&quot;&gt;“Spatialstrates: Cross-Reality Collaboration through Spatial Hypermedia”&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Related to our DashSpace project, we will be presenting a tutorial on &lt;a href=&quot;/publicationsYear#Borowski-et-al-IEEEVIS205-Tutorial&quot;&gt;“Live Collaborative Immersive Analytics Development with DashSpace”&lt;/a&gt;. This tutorial will cover the DashSpace/SpatialStrate platform’s architecture, its use of web technologies, and how it supports cross-reality collaboration.&lt;/p&gt;
+
+&lt;p&gt;We are also presenting a workshop paper titled &lt;a href=&quot;/publicationsYear#Roberts-et-al-EduVis-2025&quot;&gt;“From Data to Insight: Using Contextual Scenarios to Teach Critical Thinking in Data Visualisation”&lt;/a&gt;, which discusses the use of contextual scenarios to enhance data visualization education.&lt;/p&gt;
+
+&lt;p&gt;You can find more details on these papers following the reference links below.&lt;/p&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+
+&lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
+
+&lt;span id=&quot;Roberts-et-al-TVCG-2026&quot;&gt;J. C. Roberts, A. Hanan, O. A. E., and P. D. Ritsos, “Critical Design Strategy: a Method for Heuristically Evaluating Visualisation Designs,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, 2026.&lt;/span&gt;
+
+  &lt;span class=&quot;toggle&quot;&gt;
+    We present the Critical Design Strategy (CDS)—a structured method designed to facilitate the examination of visualisation designs through reflection and critical thought. The CDS helps designers think critically and make informed improvements using heuristic evaluation. When developing a visual tool or pioneering a novel visualisation approach, identifying areas for enhancement can be challenging. Critical thinking is particularly crucial for visualisation designers and tool developers, especially those new to the field, such as studying visualisation in higher education. The CDS consists of three stages across six perspectives: Stage 1 captures the essence of the idea by assigning an indicative title and selecting five adjectives (from twenty options) to form initial impressions of the design. Stage 2 involves an in-depth critique using 30 heuristic questions spanning six key perspectives—user, environment, interface, components, design, and visual marks. Stage 3 focuses on synthesising insights, reflecting on design decisions, and determining the next steps forward. We introduce the CDS and explore its use across three visualisation modules in both undergraduate and postgraduate courses. Our longstanding experience with the CDS has allowed us to refine and develop it over time: from its initial creation through workshops in 2017/18 to improvements in wording and the development of two applications by 2020, followed by the expansion of support notes and refinement of heuristics through 2023; while using it in our teaching each year. This sustained use allows us to reflect on its practical application and offer guidance on how others can incorporate it into their own work.
+  &lt;/span&gt;
+  &lt;br /&gt;
+  &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+
+&lt;span class=&quot;biblinks&quot;&gt;
+  [&lt;a href=&quot;/bibliography/Roberts-et-al-TVCG-2026/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+  
+        
+          [&lt;a href=&quot;/files/Roberts-et-al-TVCG-2026.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+         
+  
+   
+   [&lt;a href=&quot;https://arxiv.org/abs/2508.05325&quot; class=&quot;doilink&quot;&gt;Preprint&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+  
+   [&lt;span class=&quot;addedInfo&quot;&gt;To be presented at IEEE VIS 2025&lt;/span&gt;] 
+&lt;/span&gt;
+&lt;a class=&quot;details&quot; href=&quot;/bibliography/Roberts-et-al-TVCG-2026/&quot;&gt;&lt;span hidden=&quot;&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
+
+&lt;span id=&quot;Borowski-et-al-TVCG-2025&quot;&gt;M. Borowski, P. W. S. Butcher, J. B. Kristensen, J. O. Petersen, P. D. Ritsos, C. N. Klokmose, and N. Elmqvist, “DashSpace: A Live Collaborative Platform for Immersive and Ubiquitous Analytics,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 31, no. 10, pp. 7034–7047, 2025.&lt;/span&gt;
+
+  &lt;span class=&quot;toggle&quot;&gt;
+    We introduce DashSpace, a live collaborative immersive and ubiquitous analytics (IA/UA) platform designed for handheld and head-mounted Augmented/Extended Reality (AR/XR) implemented using WebXR and open standards. To bridge the gap between existing web-based visualizations and the immersive analytics setting, DashSpace supports visualizing both legacy D3 and Vega-Lite visualizations on 2D planes, and extruding Vega-Lite specifications into 2.5D. It also supports fully 3D visual representations using the Optomancy grammar. To facilitate authoring new visualizations in immersive XR, the platform provides a visual authoring mechanism where the user groups specification snippets to construct visualizations dynamically. The approach is fully persistent and collaborative, allowing multiple participants—whose presence is shown using 3D avatars and webcam feeds—to interact with the shared space synchronously, both co-located and remotely. We present three examples of DashSpace in action: immersive data analysis in 3D space, synchronous collaboration, and immersive data presentations.
+  &lt;/span&gt;
+  &lt;br /&gt;
+  &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+
+&lt;span class=&quot;biblinks&quot;&gt;
+  [&lt;a href=&quot;/bibliography/Borowski-et-al-TVCG-2025/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+  
+        
+          [&lt;a href=&quot;/files/Borowski-et-al-TVCG-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+         
+  
+   
+  
+  
+  [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2025.3537679&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2025.3537679&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+   [&lt;span class=&quot;addedInfo&quot;&gt;To be presented at IEEE VIS 2025&lt;/span&gt;] 
+&lt;/span&gt;
+&lt;a class=&quot;details&quot; href=&quot;/bibliography/Borowski-et-al-TVCG-2025/&quot;&gt;&lt;span hidden=&quot;&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
+
+&lt;span id=&quot;Borowski-et-al-IEEEVIS205-Tutorial&quot;&gt;M. Borowski, P. W. S. Butcher, S. J. Jones, P. D. Ritsos, C. N. Klokmose, and N. Elmqvist, “Tutorial: Live Collaborative Immersive Analytics Development with DashSpace,” in &lt;i&gt;Tutorials of at the IEEE VIS: Visualization &amp;amp; Visual Analytics Conference, Vienna, Austria&lt;/i&gt;, 2025.&lt;/span&gt;
+
+  &lt;span class=&quot;toggle&quot;&gt;
+    Immersive, situated, and ubiquitous analytics (IA/SA/UA) envision scenarios where heterogeneous devices can be used in combination and multiple users can work in collaboration around data. While there are many research prototypes in this domain, there is a lack of a common platform to build upon. Furthermore, many prototypes build on proprietary game engines such as Unreal or Unity, which make distribution and reuse more difficult, require niche knowledge which is not often found in enterprise environments, as well as being prone to changing license agreements. We therefore advocate for the use of open standards, such as WebXR in order to overcome such restrictions. During the last year we created two iterations of an open, malleable, and collaborative platform for IA/SA/UA: DashSpace. We published both DashSpace as well as a its core WebXR framework Spatialstrates on GitHub. DashSpace and Spatialstrates build on the know-how and technical synergies between Web-based IA/SA frameworks, such as VRIA and Wizualization, UA frameworks such as Vistrates, and dynamic-media environments such as Webstrates, all converging together since 2019, through the binding affordances that the reliance on Web technologies enables.
+
+	We deem the tutorial framing particularly well suited to introduce DashSpace in depth to a broader audience of IA/SA/UA researchers, with the goal of creating a growing and interoperable platform for these interaction flavors. We envision to grow the platform and create a “component store” or package repository with self-contained components and packages that can be mixed and matched within the same platform without the need to install new applications on multiple devices or re-implementing common features.
+  &lt;/span&gt;
+  &lt;br /&gt;
+  &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+
+&lt;span class=&quot;biblinks&quot;&gt;
+  [&lt;a href=&quot;/bibliography/Borowski-et-al-IEEEVIS205-Tutorial/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+  
+        
+          [&lt;a href=&quot;/files/Borowski-et-al-IEEEVIS205-Tutorial.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+         
+  
+   
+  
+  
+  
+   
+&lt;/span&gt;
+&lt;a class=&quot;details&quot; href=&quot;/bibliography/Borowski-et-al-IEEEVIS205-Tutorial/&quot;&gt;&lt;span hidden=&quot;&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
+
+&lt;span id=&quot;Roberts-et-al-EduVis-2025&quot;&gt;J. C. Roberts, P. W. S. Butcher, and P. D. Ritsos, “From Data to Insight: Using Contextual Scenarios to Teach Critical Thinking in Data Visualisation,” in &lt;i&gt;IEEE VIS Workshop on Visualization Education, Literacy, and Activities&lt;/i&gt;, 2025.&lt;/span&gt;
+
+  &lt;span class=&quot;toggle&quot;&gt;
+    This paper explores the use of scenario-based visualisation examples as a pedagogical strategy for teaching students the complexities of data insight, representation, and interpretation. Teaching data visualisation often involves explaining intricate issues related to data management and the challenges of presenting data meaningfully. In this work, we present a series of data-driven scenarios. These concise stories depict specific situations, and are created to help the educators highlight key concerns in data communication, such as chart selection, temporal versus categorical comparison, visual bias, and narrative framing. By grounding these examples in real-world contexts, students are encouraged to critically assess not only what the data shows, but how and why it is shown that way. This approach aims to deepen students’ data literacy and awareness of the ethical, analytical, and rhetorical choices that shape effective visual storytelling. The paper presents a collection of example scenarios, that educators can use for their own lessons; the work fits with a larger project on looking at critical thinking in the classroom, and developing appropriate tools. We also start to abstract principles, from our approach, so that others can develop their own scenarios for their teaching. Our approach aligns with principles of authentic and scenario-based learning, using real-world contexts to foster critical engagement with data.
+  &lt;/span&gt;
+  &lt;br /&gt;
+  &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+
+&lt;span class=&quot;biblinks&quot;&gt;
+  [&lt;a href=&quot;/bibliography/Roberts-et-al-EduVis-2025/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+  
+        
+          [&lt;a href=&quot;/files/Roberts-et-al-EduVis-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+         
+  
+   
+   [&lt;a href=&quot;https://arxiv.org/abs/2508.08737&quot; class=&quot;doilink&quot;&gt;Preprint&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+  
+   
+&lt;/span&gt;
+&lt;a class=&quot;details&quot; href=&quot;/bibliography/Roberts-et-al-EduVis-2025/&quot;&gt;&lt;span hidden=&quot;&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Paper accepted by UIST'25</title>
+   <link href="http://localhost:4000/news/2025/07/24/publications/"/>
+   <updated>2025-07-24T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2025/07/24/publications</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/Spatialstrates.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Spatialstrates&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our paper &lt;a href=&quot;/publicationsYear#Borowski-et-al-UIST-2025&quot;&gt;“Spatialstrates: Cross-Reality Collaboration through Spatial Hypermedia&lt;/a&gt; has been accepted to the &lt;a href=&quot;https://uist.acm.org/2025/&quot;&gt;38th Annual ACM Symposium on User Interface Software and Technology (UIST 2025)&lt;/a&gt;, to be held in Busan, South Korea, in September 2025.&lt;/p&gt;
+
+&lt;p&gt;This article continues the work on immersive toolkits, explored initially with &lt;a href=&quot;/bibliography/Borowski-et-al-TVCG-2025/&quot;&gt;DashSpace&lt;/a&gt;, and extends it towards the theme of cross-reality collaboration through spatial hypermedia.&lt;/p&gt;
+
+&lt;p&gt;Contemporary consumer-level XR hardware enables immersive spatial computing, yet most knowledge work remains confined to traditional 2D desktop environments. These worlds exist in isolation: writing emails or editing presentations favors desktop interfaces, while viewing 3D simulations or architectural models benefits from immersive environments.&lt;/p&gt;
+
+&lt;p&gt;We address this fragmentation by combining spatial hypermedia, shareable dynamic media, and cross-reality computing to provide (1) composability of heterogeneous content and of nested information spaces through spatial transclusion,(2) pervasive cooperation across heterogeneous devices and platforms, and (3) congruent spatial representations despite underlying environmental differences.&lt;/p&gt;
+
+&lt;p&gt;Our implementation, the Spatialstrates platform, embodies these principles using standard web technologies to bridge 2D desktop and 3D immersive environments.&lt;/p&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+
+&lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
+
+&lt;span id=&quot;Borowski-et-al-UIST-2025&quot;&gt;M. Borowski, J. E. Grønbæk, P. W. S. Butcher, P. D. Ritsos, C. N. Klokmose, and N. Elmqvist, “Spatialstrates: Cross-Reality Collaboration through Spatial Hypermedia,” in &lt;i&gt;Proceedings of the The 38th Annual ACM Symposium on User Interface Software and Technology (UIST 2025)&lt;/i&gt;, New York, NY, USA, 2025.&lt;/span&gt;
+
+  &lt;span class=&quot;toggle&quot;&gt;
+    Consumer-level XR hardware now enables immersive spatial computing, yet most knowledge work remains confined to traditional 2D desktop environments. These worlds exist in isolation: writing emails or editing presentations favors desktop interfaces, while viewing 3D simulations or architectural models benefits from immersive environments. We address this fragmentation by combining spatial hypermedia, shareable dynamic media, and cross-reality computing to provide (1) composability of heterogeneous content and of nested information spaces through spatial transclusion,(2) pervasive cooperation across heterogeneous devices and platforms, and (3) congruent spatial representations despite underlying environmental differences. Our implementation, the Spatialstrates platform, embodies these principles using standard web technologies to bridge 2D desktop and 3D immersive environments. Through four scenarios—collaborative brainstorming, architectural design, molecular science visualization, and immersive analytics—we demonstrate how Spatialstrates enables collaboration between desktop 2D and immersive 3D contexts, allowing users to select the most appropriate interface for each task while maintaining collaborative capabilities.
+  &lt;/span&gt;
+  &lt;br /&gt;
+  &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+
+&lt;span class=&quot;biblinks&quot;&gt;
+  [&lt;a href=&quot;/bibliography/Borowski-et-al-UIST-2025/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+  
+        
+          [&lt;a href=&quot;/files/Borowski-et-al-UIST-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+         
+  
+   
+  
+  
+  [doi:&lt;a href=&quot;http://dx.doi.org/10.1145/3746059.3747708&quot; class=&quot;doilink&quot;&gt;10.1145/3746059.3747708&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+   
+&lt;/span&gt;
+&lt;a class=&quot;details&quot; href=&quot;/bibliography/Borowski-et-al-UIST-2025/&quot;&gt;&lt;span hidden=&quot;&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Paper published in IEEE CG&A</title>
+   <link href="http://localhost:4000/news/2025/04/11/publications/"/>
+   <updated>2025-04-11T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2025/04/11/publications</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/prepareVisPandemic.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Dashspace&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our paper &lt;a href=&quot;/publicationsYear#McGee-et-al-CGA-2025&quot;&gt;Preparedness for visualization in the next pandemic&lt;/a&gt; has been published in &lt;a href=&quot;https://www.computer.org/csdl/magazine/cg&quot;&gt;IEEE Computer Graphics and Applications&lt;/a&gt;. This article discusses considerations on how visualization can be best positioned to help response to future pandemics. The work is a product of the Dagstuhl Seminar 23482 on “Visualization for Pandemic Preparedness” held in January 2024. You can find more info on the seminar &lt;a href=&quot;https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=23482&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+
+&lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
+
+&lt;span id=&quot;McGee-et-al-CGA-2025&quot;&gt;F. McGee, M. Abu Sin, M. Chen, D. Ebert, K. Misue, P. D. Ritsos, and A. Wulff, “Preparedness for visualization in the next pandemic,” &lt;i&gt;IEEE Computer Graphics and Applications&lt;/i&gt;, vol. 45, no. 3, pp. 95–103, 2025.&lt;/span&gt;
+
+  &lt;span class=&quot;toggle&quot;&gt;
+    This article discusses considerations on how visualization can be best positioned to help response to future pandemics. We examine visualization, along with the corresponding and necessary enabling technologies and platforms, as a tool to facilitate a rapid and effective response to a forthcoming pandemic. We consider challenges in terms of an infrastructure supporting world-wide response, corresponding training and stakeholder engagement, integration of future technologies, and appraisal of such systems, Finally, we discuss how addressing these challenges also helps emergency response beyond infectious diseases.
+  &lt;/span&gt;
+  &lt;br /&gt;
+  &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+
+&lt;span class=&quot;biblinks&quot;&gt;
+  [&lt;a href=&quot;/bibliography/McGee-et-al-CGA-2025/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+  
+        
+          [&lt;a href=&quot;/files/McGee-et-al-CGA-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+         
+  
+   
+  
+  
+  [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/MCG.2025.3561619&quot; class=&quot;doilink&quot;&gt;10.1109/MCG.2025.3561619&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+   
+&lt;/span&gt;
+&lt;a class=&quot;details&quot; href=&quot;/bibliography/McGee-et-al-CGA-2025/&quot;&gt;&lt;span hidden=&quot;&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Paper published in IEEE TVCG, to be presented at IEEE VIS 2025</title>
+   <link href="http://localhost:4000/news/2025/01/22/publications/"/>
+   <updated>2025-01-22T00:00:00+01:00</updated>
+   <id>http://localhost:4000/news/2025/01/22/publications</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/dashspace.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Dashspace&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our paper &lt;a href=&quot;/publicationsYear#Borowsky-et-al-TVCG-2025&quot;&gt;DashSpace: A Live Collaborative Platform for Immersive and Ubiquitous Analytics&lt;/a&gt; has been published in &lt;a href=&quot;https://www.computer.org/csdl/journal/tg&quot;&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/a&gt; and will be presented in &lt;a href=&quot;https://ieeevis.org/year/2025/welcome&quot;&gt;IEEE VIS 2025&lt;/a&gt; in Vienna, Austria.&lt;/p&gt;
+
+&lt;p&gt;DashSpace is a live collaborative immersive and ubiquitous analytics (IA/UA) platform designed for handheld and head-mounted Augmented/Extended Reality (AR/XR) implemented using WebXR and open standards. To bridge the gap between existing web-based visualizations and the immersive analytics setting, DashSpace supports visualizing both legacy D3 and Vega-Lite visualizations on 2D planes, and extruding Vega-Lite specifications into 2.5D. It also supports fully 3D visual representations using the Optomancy grammar.&lt;/p&gt;
+
+&lt;p&gt;To facilitate authoring new visualizations in immersive XR, the platform provides a visual authoring mechanism where the user groups specification snippets to construct visualizations dynamically. The approach is fully persistent and collaborative, allowing multiple participants—whose presence is shown using 3D avatars and webcam feeds—to interact with the shared space synchronously, both co-located and remotely. In our paper, we present three examples of DashSpace in action: immersive data analysis in 3D space, synchronous collaboration, and immersive data presentations.&lt;/p&gt;
+
+&lt;p&gt;You can find DashSpace on &lt;a href=&quot;https://github.com/Webstrates/DashSpace&quot;&gt;Girhub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+
+&lt;div class=&quot;bibliography&quot;&gt;&lt;/div&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Presented at DAFNI Wales Roadshow 2024</title>
+   <link href="http://localhost:4000/news/2024/09/20/workshop/"/>
+   <updated>2024-09-20T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2024/09/20/workshop</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/DAFNI-logo.jpg&quot; class=&quot;prjImgFlt&quot; alt=&quot;DAFNI_banner&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I presented a lightning talk on our &lt;a href=&quot;/projects/ia/&quot;&gt;Immersive and Situated Analytics&lt;/a&gt; systems at the DAFNI Wales Roadshow 2024 event, held at the &lt;a href=&quot;https://www.swansea.ac.uk/computational-foundry/&quot;&gt;Computational Foundry&lt;/a&gt;, &lt;a href=&quot;https://www.swansea.ac.uk/&quot;&gt;Swansea University&lt;/a&gt;.  We discussed research into infrastructure systems, synergies with visualization, and the challenges and opportunities of data sharing.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Papers accepted by IEEE TVCG/ VIS2024</title>
+   <link href="http://localhost:4000/news/2024/08/09/publications/"/>
+   <updated>2024-08-09T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2024/08/09/publications</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/vi2024_logo.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;IEEE VIS2024 Banner and Logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We presented two papers in &lt;a href=&quot;https://ieeevis.org/year/2024/welcome&quot;&gt;IEEE VIS2024&lt;/a&gt;, published in &lt;a href=&quot;https://www.computer.org/csdl/journal/tg&quot;&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/a&gt;, in 2025.&lt;/p&gt;
+
+&lt;p&gt;In our paper &lt;a href=&quot;/publicationsYear#Srinivasan-et-al-TVCG-2025&quot;&gt;Attention-Aware Visualization: Tracking and Responding to User Perception Over Time&lt;/a&gt;, we propose the notion of Attention-Aware Visualizations (AAVs) that track the user’s perception of a visual representation over time and feed this information back to the visualization. We present two separate implementations of AAV: a 2D data-agnostic method for web-based visualizations that can use an embodied eyetracker to capture the user’s gaze, and a 3D data-aware one that uses the stencil buffer to track the visibility of each individual mark in a visualization.&lt;/p&gt;
+
+&lt;p&gt;In our paper &lt;a href=&quot;/publicationsYear#Jackson-et-al-TVCG-2025&quot;&gt;Path-based Design Model for Constructing and Exploring Alternative Visualisations&lt;/a&gt;, we present a path-based design model and system for designing and creating visualisations. Our model represents a systematic approach to constructing visual representations of data or concepts following a predefined sequence of steps. Through our implementation we showcase the model in action. We (1) introduce, define and explain the path model and discuss possibilities for its use, (2) present our implementation, results, and evaluation, and (3) demonstrate and evaluate an application of its use on a mobile watch.&lt;/p&gt;
+
+&lt;p&gt;You can find more details on these papers following the reference links below.&lt;/p&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+
+&lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
+
+&lt;span id=&quot;Srinivasan-et-al-TVCG-2025&quot;&gt;A. Srinivasan, J. Ellemose, P. W. S. Butcher, P. D. Ritsos, and N. Elmqvist, “Attention-Aware Visualization: Tracking and Responding to User Perception Over Time,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 31, no. 1, pp. 1017–1027, 2025.&lt;/span&gt;
+
+  &lt;span class=&quot;toggle&quot;&gt;
+    We propose the notion of Attention-Aware Visualizations (AAVs) that track the user’s perception of a visual representation over time and feed this information back to the visualization. Such context awareness is particularly useful for ubiquitous and immersive analytics where knowing which embedded visualizations the user is looking at can be used to make visualizations react appropriately to the user’s attention: for example, by highlighting data the user has not yet seen. We can separate the approach into three components: (1) measuring the user’s gaze on a visualization and its parts; (2) tracking the user’s attention over time; and (3) reactively modifying the visual representation based on the current attention metric. In this paper, we present two separate implementations of AAV: a 2D data-agnostic method for web-based visualizations that can use an embodied eyetracker to capture the user’s gaze, and a 3D data-aware one that uses the stencil buffer to track the visibility of each individual mark in a visualization. Both methods provide similar mechanisms for accumulating attention over time and changing the appearance of marks in response. We also present results from a qualitative evaluation studying visual feedback and triggering mechanisms for capturing and revisualizing attention.
+  &lt;/span&gt;
+  &lt;br /&gt;
+  &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+
+&lt;span class=&quot;biblinks&quot;&gt;
+  [&lt;a href=&quot;/bibliography/Srinivasan-et-al-TVCG-2025/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+  
+        
+          [&lt;a href=&quot;/files/Srinivasan-et-al-TVCG-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+         
+  
+   
+   [&lt;a href=&quot;https://arxiv.org/abs/2404.10732&quot; class=&quot;doilink&quot;&gt;Preprint&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+  [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2024.3456300&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2024.3456300&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+   [&lt;span class=&quot;addedInfo&quot;&gt;Presented at IEEE VIS 2024&lt;/span&gt;] 
+&lt;/span&gt;
+&lt;a class=&quot;details&quot; href=&quot;/bibliography/Srinivasan-et-al-TVCG-2025/&quot;&gt;&lt;span hidden=&quot;&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
+
+&lt;span id=&quot;Jackson-et-al-TVCG-2025&quot;&gt;J. Jackson, P. D. Ritsos, P. W. S. Butcher, and J. C. Roberts, “Path-based Design Model for Constructing and Exploring Alternative Visualisations,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 31, no. 1, pp. 1158–1168, 2025.&lt;/span&gt;
+
+  &lt;span class=&quot;toggle&quot;&gt;
+    We present a path-based design model and system for designing and creating visualisations. Our model represents a systematic approach to constructing visual representations of data or concepts following a predefined sequence of steps. The initial step involves outlining the overall appearance of the visualisation by creating a skeleton structure, referred to as a flowpath. Subsequently, we specify objects, visual marks, properties, and appearance, storing them in a gene. Lastly, we map data onto the flowpath, ensuring suitable morphisms. Alternative designs are created by exchanging values in the gene. For example, designs that share similar traits, are created by making small incremental changes to the gene. Our design methodology fosters the generatiion of diverse creative concepts, space-filling visualisations, and traditional formats like bar charts, circular plots and pie charts. Through our implementation we showcase the model in action. As an example application, we integrate the output visualisations onto a smartwatch and visualisation dashboards. In this article we (1) introduce, define and explain the path model and discuss possibilities for its use, (2) present our implementation, results, and evaluation, and (3) demonstrate and evaluate an application of its use on a mobile watch.
+  &lt;/span&gt;
+  &lt;br /&gt;
+  &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+
+&lt;span class=&quot;biblinks&quot;&gt;
+  [&lt;a href=&quot;/bibliography/Jackson-et-al-TVCG-2025/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+  
+        
+          [&lt;a href=&quot;/files/Jackson-et-al-TVCG-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+         
+  
+   
+   [&lt;a href=&quot;https://arxiv.org/abs/2408.03681&quot; class=&quot;doilink&quot;&gt;Preprint&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+  [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2024.3456323&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2024.3456323&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+   [&lt;span class=&quot;addedInfo&quot;&gt;Presented at IEEE VIS 2024&lt;/span&gt;] 
+&lt;/span&gt;
+&lt;a class=&quot;details&quot; href=&quot;/bibliography/Jackson-et-al-TVCG-2025/&quot;&gt;&lt;span hidden=&quot;&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Participated in Dagstuhl Seminar - Reflections on Pandemic Visualization</title>
+   <link href="http://localhost:4000/news/2024/03/01/travel/"/>
+   <updated>2024-03-01T00:00:00+01:00</updated>
+   <id>http://localhost:4000/news/2024/03/01/travel</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/dagstuhl.jpg&quot; class=&quot;prjImgFlt&quot; alt=&quot;Image of Schloss Dagstuhl&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I attended the Reflections on &lt;a href=&quot;https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24091&quot;&gt;Reflections on Pandemic Visualization Dagstuhl Seminar&lt;/a&gt;, held in the &lt;a href=&quot;https://www.dagstuhl.de/en/&quot;&gt;Computer Science Centre, Schloss Dagstuhl, Germany&lt;/a&gt;, between 24/2 and 1/3.&lt;/p&gt;
+
+&lt;p&gt;The purpose of this Dagstuhl Seminar was to bring the visualization community, modelling experts, epidemiologists, infection control experts, and end users together with other application domain experts to reflect on research work done in response to the COVID-19 pandemic.&lt;/p&gt;
+
+&lt;p&gt;Dagstuhl Seminars are the flagship of the event program at Schloss Dagstuhl. They are often praised by participants as the most productive academic events they have ever experienced. Consequently participation is highly coveted. Their topic can be anything that is computer science related. These seminars focus on the exchange and development of ideas and not so much on the presentation of already achieved results. They profit from Dagstuhl’s ambience and setup that promote personal interaction and open discussion (&lt;a href=&quot;https://www.dagstuhl.de/en/seminars/dagstuhl-seminars&quot;&gt;source&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;You can find the outputs produced below.&lt;/p&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+
+&lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
+
+&lt;span id=&quot;DagRep_14_2_191&quot;&gt;D. Archambault, F. McGee, N. Reinoso-Schiller, T. von Landesberger, and S. Scheithauer, “Reflections on Pandemic Visualization (Dagstuhl Seminar 24091),” &lt;i&gt;Dagstuhl Reports&lt;/i&gt;, vol. 14, no. 2, pp. 191–205, 2024.&lt;/span&gt;
+
+&lt;br /&gt;
+
+&lt;span class=&quot;biblinks&quot;&gt;
+  [&lt;a href=&quot;/bibliography/DagRep_14_2_191/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+  
+        
+          [&lt;a href=&quot;&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+         
+  
+   
+  
+  
+  [doi:&lt;a href=&quot;http://dx.doi.org/10.4230/DagRep.14.2.191&quot; class=&quot;doilink&quot;&gt;10.4230/DagRep.14.2.191&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+   
+&lt;/span&gt;
+&lt;a class=&quot;details&quot; href=&quot;/bibliography/DagRep_14_2_191/&quot;&gt;&lt;span hidden=&quot;&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Paper published in IEEE CG&A Vis Viewpoints</title>
+   <link href="http://localhost:4000/news/2024/02/15/publications/"/>
+   <updated>2024-02-15T00:00:00+01:00</updated>
+   <id>http://localhost:4000/news/2024/02/15/publications</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/unity-webxr-benchmarks.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;WebXR vs Game Engine Bnechmarks&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our paper &lt;a href=&quot;/publicationsYear#Butcher-et-al-CGA2024&quot;&gt;“Is Native Naïve? Comparing Native Game Engines and WebXR as Immersive Analytics Development Platforms,”&lt;/a&gt; has been published in &lt;a href=&quot;https://tc.computer.org/vgtc/conferences/currently-sponsored-events/cga-viewpoints/&quot;&gt;IEEE Computer Graphics and Applications Visualization Viewpoints&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In this paper, we investigate common assumptions about native game engines vs. WebXR and find that while native engines still have an advantage in many areas, WebXR is rapidly catching up and is superior for many immersive analytics applications.&lt;/p&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+
+&lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
+
+&lt;span id=&quot;Butcher-et-al-CGA2024&quot;&gt;P. W. S. Butcher, A. Batch, D. Saffo, B. MacIntyre, N. Elmqvist, and P. D. Ritsos, “Is Native Naïve? Comparing Native Game Engines and WebXR as Immersive Analytics Development Platforms,” &lt;i&gt;IEEE Computer Graphics and Applications&lt;/i&gt;, vol. 44, no. 3, pp. 91–98, May 2024.&lt;/span&gt;
+
+  &lt;span class=&quot;toggle&quot;&gt;
+    Native game engines have long been the 3D development platform of choice for research in mixed and augmented reality. For this reason they have also been adopted in many immersive visualization and immersive analytics systems and toolkits. However, with the rapid improvements of WebXR and related open technologies, this choice may not always be optimal for future visualization research. In this paper, we investigate common assumptions about native game engines vs. WebXR and find that while native engines still have an advantage in many areas, WebXR is rapidly catching up and is superior for many immersive analytics applications.
+  &lt;/span&gt;
+  &lt;br /&gt;
+  &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+
+&lt;span class=&quot;biblinks&quot;&gt;
+  [&lt;a href=&quot;/bibliography/Butcher-et-al-CGA2024/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+  
+        
+          [&lt;a href=&quot;/files/Butcher-et-al-CGA2024.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+         
+  
+   
+  
+  
+  [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/MCG.2024.3367422&quot; class=&quot;doilink&quot;&gt;10.1109/MCG.2024.3367422&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+   
+&lt;/span&gt;
+&lt;a class=&quot;details&quot; href=&quot;/bibliography/Butcher-et-al-CGA2024/&quot;&gt;&lt;span hidden=&quot;&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
    <title>XRVA at IEEE VIS 2023</title>
-   <link href="https://hccbu.github.io//news/2023/10/21/publications/"/>
-   <updated>2023-10-21T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2023/10/21/publications</id>
+   <link href="http://localhost:4000/news/2023/10/21/publications/"/>
+   <updated>2023-10-21T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2023/10/21/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/vis2023-banner.png&quot; alt=&quot;VIS2023 Header&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We visited Melbourne, Australia, for &lt;a href=&quot;https://ieeevis.org/year/2023/welcome&quot;&gt;&lt;em&gt;IEEE VIS2023&lt;/em&gt;&lt;/a&gt;, the premier forum for advances in scientific and information visualization. This week-long event convenes an international community of researchers and practitioners from academia, government, and industry to explore their shared interests in tools, techniques, and technology.&lt;/p&gt;
@@ -187,9 +599,9 @@
  
  <entry>
    <title>Workshop paper accepted in HUI / ISMAR2023</title>
-   <link href="https://hccbu.github.io//news/2023/08/07/publications/"/>
-   <updated>2023-08-07T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2023/08/07/publications</id>
+   <link href="http://localhost:4000/news/2023/08/07/publications/"/>
+   <updated>2023-08-07T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2023/08/07/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/wiz_hui_ismar.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Wizualization System Overview&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Our paper &lt;a href=&quot;/publications#Butcher-et-al-HUI-ISMAR2023&quot;&gt;“Don’t Pull the Balrog — Lessons Learned from Designing Wizualization: a Magic-inspired Data Analytics System in XR”&lt;/a&gt; has been accepted for publication in &lt;a href=&quot;https://hybrid-ui-workshop.io/&quot;&gt;HybridUI: 1st Workshop on Hybrid User Interfaces: Complementary Interfaces for Mixed Reality Interaction&lt;/a&gt;, taking place during &lt;a href=&quot;https://ismar23.org/&quot;&gt;ISMAR 2023&lt;/a&gt;.&lt;/p&gt;
@@ -229,9 +641,9 @@
  
  <entry>
    <title>Journal paper accepted in IEEE TVCG / VIS2023</title>
-   <link href="https://hccbu.github.io//news/2023/07/17/publications/"/>
-   <updated>2023-07-17T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2023/07/17/publications</id>
+   <link href="http://localhost:4000/news/2023/07/17/publications/"/>
+   <updated>2023-07-17T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2023/07/17/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/wiz.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Motivating scenario for Wizualization&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Our paper &lt;a href=&quot;/publications#Batch-et-al-TVCG-2024&quot;&gt;“Wizualization: A ``Hard Magic’’ Visualization System for Immersive and Ubiquitous Analytics”&lt;/a&gt; has been accepted for publication at &lt;a href=&quot;https://ieeevis.org/year/2023/welcome&quot;&gt;IEEE VIS 2023&lt;/a&gt; and will appear in &lt;a href=&quot;https://www.computer.org/csdl/journal/tg&quot;&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/a&gt;.&lt;/p&gt;
@@ -272,9 +684,9 @@
  
  <entry>
    <title>Journal paper accepted in IEEE TVCG</title>
-   <link href="https://hccbu.github.io//news/2023/06/08/publications/"/>
-   <updated>2023-06-08T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2023/06/08/publications</id>
+   <link href="http://localhost:4000/news/2023/06/08/publications/"/>
+   <updated>2023-06-08T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2023/06/08/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/situated_survey.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Example of a situated analytics tool that uses Augmented Reality to enable sensemaking in-situ&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Our paper &lt;a href=&quot;/publications#Shin-et-al-TVCG-2023&quot;&gt;“The Reality of the Situation: A Survey of Situated Analytics”&lt;/a&gt; has been accepted for publication in &lt;a href=&quot;https://www.computer.org/csdl/journal/tg&quot;&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/a&gt;, and will be presented, later this year, at &lt;a href=&quot;https://ieeevis.org/year/2023/welcome&quot;&gt;IEEE VIS 2023&lt;/a&gt;. In this work, we identify prior literature in this emerging field with a focus on the technologies enabling such situated analytics. We identify archetypical patterns in our classification using an ensemble cluster analysis, gauge the level of support for sensemaking and discuss several insights and design guidelines that we learned from our analysis.&lt;/p&gt;
@@ -313,9 +725,9 @@
  
  <entry>
    <title>Journal paper accepted in Computer Graphics Forum</title>
-   <link href="https://hccbu.github.io//news/2023/03/30/publications/"/>
-   <updated>2023-03-30T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2023/03/30/publications</id>
+   <link href="http://localhost:4000/news/2023/03/30/publications/"/>
+   <updated>2023-03-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2023/03/30/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/holodeck-teaser.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Situated Analytics with Handheld AR&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Our paper &lt;a href=&quot;/publications#Batch-et-al-EuroVis-2023&quot;&gt;“Evaluating View Management for Situated Visualization in Web-based Handheld AR”&lt;/a&gt; has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wiley.com/journal/14678659&quot;&gt;Computer Graphics Forum&lt;/a&gt;, and was presented at &lt;a href=&quot;https://www.eurovis.org/&quot;&gt;EuroVis 2023&lt;/a&gt;. In this paper, we (1) present an analysis of the properties and challenges of view management for situated visualizations in Augmented Reality (AR), (2) revisit existing techniques from the domains of computer graphics, Virtual Reality (VR), and visualization, and (3) evaluate implementations of interaction, layout, and presentation of some of those techniques, accessible in web-based handheld AR.&lt;/p&gt;
@@ -354,9 +766,9 @@
  
  <entry>
    <title>Journal paper accepted in Environmental Modelling & Software</title>
-   <link href="https://hccbu.github.io//news/2022/07/21/publications/"/>
-   <updated>2022-07-21T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2022/07/21/publications</id>
+   <link href="http://localhost:4000/news/2022/07/21/publications/"/>
+   <updated>2022-07-21T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2022/07/21/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/LUCSTc.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;LUCST&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Our paper &lt;a href=&quot;/publications#Rigby-et-al-EnvModSoft-2022&quot;&gt;“LUCST: A novel toolkit for Land Use Land Cover change assessment in SWAT+ to support flood management decisions”&lt;/a&gt; has been accepted for publication in Elsevier’s &lt;a href=&quot;https://www.sciencedirect.com/journal/environmental-modelling-and-software&quot;&gt;Environmental Modelling &amp;amp; Software&lt;/a&gt;. LUCST is an open-source, locally hosted, JavaScript application that allows for editing and interpreting &lt;a href=&quot;https://swat.tamu.edu/&quot;&gt;SWAT&lt;/a&gt;+ files relevant to land-use land-cover changes. LUCST employs visual analytics, to facilitate easier change detection in catchments, and enhances SWAT+ accessibility by reducing scenario modelling complexity.&lt;/p&gt;
@@ -395,9 +807,9 @@
  
  <entry>
    <title>Journal papers accepted in Epidemics and in Phil. Trans. R. Soc. A.</title>
-   <link href="https://hccbu.github.io//news/2022/04/25/publications/"/>
-   <updated>2022-04-25T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2022/04/25/publications</id>
+   <link href="http://localhost:4000/news/2022/04/25/publications/"/>
+   <updated>2022-04-25T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2022/04/25/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/ramvisII_teaser.png&quot; alt=&quot;RAMPVIS Project pipeline&quot; style=&quot;margin: 0 auto; width: 8S00px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Two journal papers from the &lt;a href=&quot;/projects/RAMPVIS/&quot;&gt;RAMPVIS project&lt;/a&gt; have been accepted for publication in Elsevier’s &lt;a href=&quot;https://www.journals.elsevier.com/epidemics&quot;&gt;Epidemics&lt;/a&gt; and in the &lt;a href=&quot;https://royalsocietypublishing.org/journal/rsta&quot;&gt;Philosophical Transactions of the Royal Society A&lt;/a&gt; (Special issue on ’Technical challenges of modelling real-life epidemics and examples of overcoming these’). Bangor’s contribution in both works revolves around public engagement and disseminative visualisation for the Covid-19 pandemic.&lt;/p&gt;
@@ -462,9 +874,9 @@
  
  <entry>
    <title>Delivered an XReality course at Airbus</title>
-   <link href="https://hccbu.github.io//news/2022/03/08/teaching/"/>
-   <updated>2022-03-08T00:00:00+00:00</updated>
-   <id>https://hccbu.github.io//news/2022/03/08/teaching</id>
+   <link href="http://localhost:4000/news/2022/03/08/teaching/"/>
+   <updated>2022-03-08T00:00:00+01:00</updated>
+   <id>http://localhost:4000/news/2022/03/08/teaching</id>
    <content type="html">&lt;p&gt;Between 15th of February and the 8th of March, we delivered, along with &lt;a href=&quot;https://www.bangor.ac.uk/staff/computer-science-electronic-engineering/peter-butcher-080986/en&quot;&gt;Dr Peter Butcher&lt;/a&gt;, a course on XReality, to &lt;a href=&quot;https://www.airbus.com/en&quot;&gt;Airbus&lt;/a&gt; employees. The course is part of the &lt;a href=&quot;https://dsp-centre.bangor.ac.uk/&quot;&gt;DSP Centre’s&lt;/a&gt; Educational College and was delivered within the &lt;a href=&quot;https://www.bangor.ac.uk/news/bangor-university-and-coleg-cambria-announce-a-new-collaborative-relationship&quot;&gt;Skills Factory programme&lt;/a&gt;, for which the &lt;a href=&quot;https://www.bangor.ac.uk/computer-science-and-electronic-engineering/index.php.en&quot;&gt;School of Computer Science and Electronic Engineering&lt;/a&gt;, &lt;a href=&quot;https://www.bangor.ac.uk/&quot;&gt;Bangor University&lt;/a&gt; is a primary contributor.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/XR_Airbus.jpg&quot; alt=&quot;XReality course delivered at Airbus&quot; style=&quot;margin: 10 auto; width: 800px;&quot; /&gt;&lt;/p&gt;
@@ -475,9 +887,9 @@
  
  <entry>
    <title>Sprint Project on Visual Analytics for Flood Modelling funded by WDNA</title>
-   <link href="https://hccbu.github.io//news/2022/02/09/funding-updates/"/>
-   <updated>2022-02-09T00:00:00+00:00</updated>
-   <id>https://hccbu.github.io//news/2022/02/09/funding-updates</id>
+   <link href="http://localhost:4000/news/2022/02/09/funding-updates/"/>
+   <updated>2022-02-09T00:00:00+01:00</updated>
+   <id>http://localhost:4000/news/2022/02/09/funding-updates</id>
    <content type="html">&lt;p&gt;We have received funding to extend our work on the development of a new decision support visual analytics toolkit, called LUCST (&lt;a href=&quot;/projects/LUCST/&quot;&gt;project page&lt;/a&gt;), as a Sprint Project from the &lt;a href=&quot;https://www.cardiff.ac.uk/__data/assets/pdf_file/0006/2520393/Wales-Data-Nation-Accelerator.pdf&quot;&gt;Wales Data Nation Accelerator&lt;/a&gt;. The toolkit is to help improve the planning and management of flood alleviation schemes in Gwynedd, and the funded extension is to integrate AI capabilities.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/LUCSTc.png&quot; alt=&quot;The LUCST toolkit developed by Bangor University and YCG&quot; style=&quot;margin: 0 auto; width: 500px;&quot; /&gt;&lt;/p&gt;
@@ -488,9 +900,9 @@
  
  <entry>
    <title>Journal paper in MDPI Computers</title>
-   <link href="https://hccbu.github.io//news/2022/02/03/publications/"/>
-   <updated>2022-02-03T00:00:00+00:00</updated>
-   <id>https://hccbu.github.io//news/2022/02/03/publications</id>
+   <link href="http://localhost:4000/news/2022/02/03/publications/"/>
+   <updated>2022-02-03T00:00:00+01:00</updated>
+   <id>http://localhost:4000/news/2022/02/03/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/oneViewNotEnough_teaser.png&quot; alt=&quot;Visualisation Data Flow for 3D&quot; style=&quot;margin: 0 auto; width: 8S00px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Our journal article &lt;a href=&quot;/publications#Roberts-et-al-MDPI-2022&quot;&gt;“One View Is Not Enough: Review of and Encouragement for Multiple and Alternative Representations in 3D and Immersive Visualisation”&lt;/a&gt; has been accepted for publication in &lt;a href=&quot;https://www.mdpi.com/journal/computers/special_issues/CGVC_2021&quot;&gt;&lt;em&gt;MDPI Computers&lt;/em&gt;&lt;/a&gt;, in a special issue with invited extended publications from EG CGVC 2021.&lt;/p&gt;
@@ -530,9 +942,9 @@
  
  <entry>
    <title>Visual Analytics research on local press</title>
-   <link href="https://hccbu.github.io//news/2021/12/22/media/"/>
-   <updated>2021-12-22T00:00:00+00:00</updated>
-   <id>https://hccbu.github.io//news/2021/12/22/media</id>
+   <link href="http://localhost:4000/news/2021/12/22/media/"/>
+   <updated>2021-12-22T00:00:00+01:00</updated>
+   <id>http://localhost:4000/news/2021/12/22/media</id>
    <content type="html">&lt;p&gt;Our collaboration with the &lt;a href=&quot;https://www.bangor.ac.uk/natural-sciences/index.php.en&quot;&gt;School of Natural Sciences&lt;/a&gt; and Gwynedd Council’s consultancy arm &lt;a href=&quot;https://ygc.cymru/&quot;&gt;Ymgynghoriaeth Gwynedd Consultancy (YGC)&lt;/a&gt; on the development of a new decision support visual analytics toolkit (&lt;a href=&quot;/projects/LUCST/&quot;&gt;project page&lt;/a&gt;), that facilitates modelling the impact of land use change on river hydrology and provides valuable insights, has appeared in the &lt;a href=&quot;https://www.northwaleschronicle.co.uk/news/19802617.bangor-researchers-gwynedd-council-manage-flood-risk-using-visual-analytics/&quot;&gt;North Wales Chronicle&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The toolkit is to help improve the planning and management of flood alleviation schemes in Gwynedd.&lt;/p&gt;
@@ -545,9 +957,9 @@
  
  <entry>
    <title>DSP Centre receives 3M funding</title>
-   <link href="https://hccbu.github.io//news/2021/12/15/funding-updates/"/>
-   <updated>2021-12-15T00:00:00+00:00</updated>
-   <id>https://hccbu.github.io//news/2021/12/15/funding-updates</id>
+   <link href="http://localhost:4000/news/2021/12/15/funding-updates/"/>
+   <updated>2021-12-15T00:00:00+01:00</updated>
+   <id>http://localhost:4000/news/2021/12/15/funding-updates</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/dspBanner.jpg&quot; alt=&quot;Research at the DSP Centre of Excellence, in Bangor University&quot; style=&quot;margin: 0 auto; width: 960px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Bangor University’s &lt;a href=&quot;http://dsp-centre.bangor.ac.uk/&quot;&gt;Digital Signal Processing (DSP) Centre of Excellence&lt;/a&gt; has secured £3 million to invest in cutting-edge equipment, which will develop the facility as well as create up to 40 new jobs. The DSP Centre is the first project funded from the North Wales Growth Deal, a £1 billion investment to the region’s economy, £240m of which is funded by the Welsh Government and UK Government. The project is recognised by both governments as being critical to the development and future of North Wales and the wider economy. More information can be found &lt;a href=&quot;https://www.bangor.ac.uk/news/major-milestone-for-north-wales-growth-deal-and-bangor-universitys-dsp-centre&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
@@ -559,9 +971,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>RAMPVIS project funded by EPSRC</title>
-   <link href="https://hccbu.github.io//news/2021/01/01/funding-updates/"/>
-   <updated>2021-01-01T00:00:00+00:00</updated>
-   <id>https://hccbu.github.io//news/2021/01/01/funding-updates</id>
+   <link href="http://localhost:4000/news/2021/01/01/funding-updates/"/>
+   <updated>2021-01-01T00:00:00+01:00</updated>
+   <id>http://localhost:4000/news/2021/01/01/funding-updates</id>
    <content type="html">&lt;p&gt;Our project_RAMP VIS: Making Visual Analytics an Integral Part of the Technological Infrastructure for Combating COVID-19_ (01/2020 - 12/2020) has been funderd by the &lt;a href=&quot;https://gtr.ukri.org/projects?ref=EP%2FV054236%2F1&quot;&gt;EPSRC funded project (EP/V054236/1)&lt;/a&gt;. This work is continuation of our volunteering work in the &lt;a href=&quot;https://epcced.github.io/ramp/&quot;&gt;Rapid Assistance in Modelling the Pandemic (RAMP)&lt;/a&gt; initiative. Bangor VIS experts, &lt;a href=&quot;https://sites.google.com/view/rampvis/home&quot;&gt;along with some twenty VIS scientists&lt;/a&gt;, researchers, and developers in the UK answered a call in May 2020 for VIS volunteers to support modelling scientists and epidemiologists in the &lt;a href=&quot;https://www.gla.ac.uk/research/az/scrc/&quot;&gt;Scottish COVID-19 Response Consortium (SCRC)&lt;/a&gt;, which is one of the three consortia in the Royal Society’s &lt;a href=&quot;https://epcced.github.io/ramp/&quot;&gt;RAMP)&lt;/a&gt; programme.&lt;/p&gt;
 
 &lt;p&gt;The Bangor team is involved in efforts of visual analyics for modellers and epidemiologists (F. Vidal), public engagement through visualisation, data-driven storytelling and interfaces suitable for informing the public of the outputs of the modelling stages (J.C. Roberts, P.D. Ritsos), as well as more general data-driven guidance on COVID-19.&lt;/p&gt;
@@ -570,9 +982,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title> PhDs in AI, Immersive Analytics and Edge Computing, and Hydrology (UKRI CDT),</title>
-   <link href="https://hccbu.github.io//news/2020/12/15/postgrad-opportunities/"/>
-   <updated>2020-12-15T00:00:00+00:00</updated>
-   <id>https://hccbu.github.io//news/2020/12/15/postgrad-opportunities</id>
+   <link href="http://localhost:4000/news/2020/12/15/postgrad-opportunities/"/>
+   <updated>2020-12-15T00:00:00+01:00</updated>
+   <id>http://localhost:4000/news/2020/12/15/postgrad-opportunities</id>
    <content type="html">&lt;p&gt;We have some exciting PhD opprtunities, funded from our &lt;a href=&quot;http://cdt-aimlac.org/cdt-research.html&quot; target=&quot;\_blank&quot;&gt;UKRI Centre for Doctoral Training in Artificial Intelligence, Machine Learning &amp;amp; Advanced Computing&lt;/a&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -605,9 +1017,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>IEEE TVCG journal paper & a poster to be presented in IEEE VIS 2020</title>
-   <link href="https://hccbu.github.io//news/2020/09/08/publications/"/>
-   <updated>2020-09-08T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2020/09/08/publications</id>
+   <link href="http://localhost:4000/news/2020/09/08/publications/"/>
+   <updated>2020-09-08T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2020/09/08/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/vria_out_s.png&quot; alt=&quot;WebVR-based visualizations built with VRIA&quot; style=&quot;margin: 0 auto; width: 800px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Our IEEE TVCG journal article &lt;a href=&quot;/publications#Butcher-et-al-TVCG-2020&quot;&gt;“VRIA: A Web-based Framework for Creating Immersive Analytics Experiences”&lt;/a&gt; will be presented at the virtual IEEE VIS 2020 &lt;a href=&quot;http://ieeevis.org/year/2020/welcome&quot;&gt;&lt;em&gt;IEEE VIS 2020&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
@@ -685,9 +1097,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Journal paper in MDPI Computers</title>
-   <link href="https://hccbu.github.io//news/2020/03/06/publications/"/>
-   <updated>2020-03-06T00:00:00+00:00</updated>
-   <id>https://hccbu.github.io//news/2020/03/06/publications</id>
+   <link href="http://localhost:4000/news/2020/03/06/publications/"/>
+   <updated>2020-03-06T00:00:00+01:00</updated>
+   <id>http://localhost:4000/news/2020/03/06/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/virtual_forest_s.png&quot; alt=&quot;Virtual Forests, created procedurally&quot; style=&quot;margin: 0 auto; width: 8S00px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Our journal article &lt;a href=&quot;/publications#Williams-et-al-MDPI-2020&quot;&gt;“Virtual Forestry Generation: Evaluating Models for Tree Placement in Games”&lt;/a&gt; has been accepted for publication in &lt;a href=&quot;https://www.mdpi.com/journal/computers/special_issues/CGVC_2019&quot;&gt;&lt;em&gt;MDPI Computers&lt;/em&gt;&lt;/a&gt;, in a special issue with invited extended publications from EG CGVC 2019.&lt;/p&gt;
@@ -727,9 +1139,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Journal paper in IEEE TVCG</title>
-   <link href="https://hccbu.github.io//news/2020/01/04/publications/"/>
-   <updated>2020-01-04T00:00:00+00:00</updated>
-   <id>https://hccbu.github.io//news/2020/01/04/publications</id>
+   <link href="http://localhost:4000/news/2020/01/04/publications/"/>
+   <updated>2020-01-04T00:00:00+01:00</updated>
+   <id>http://localhost:4000/news/2020/01/04/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/vria_out_s.png&quot; alt=&quot;WebVR-based visualizations built with VRIA&quot; style=&quot;margin: 0 auto; width: 800px;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Our journal article &lt;a href=&quot;/publications#Butcher-et-al-TVCG-2020&quot;&gt;“VRIA: A Web-based Framework for Creating Immersive Analytics Experiences”&lt;/a&gt; has been accepted in &lt;a href=&quot;https://www.computer.org/web/tvcg&quot;&gt;&lt;em&gt;IEEE Transactions of Visualization and Computer Graphics (TVCG)&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
@@ -783,9 +1195,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>PhD opportunity in AI and Hydrology (UKRI CDT)</title>
-   <link href="https://hccbu.github.io//news/2020/01/03/postgrad-opportunities-copy/"/>
-   <updated>2020-01-03T00:00:00+00:00</updated>
-   <id>https://hccbu.github.io//news/2020/01/03/postgrad-opportunities copy</id>
+   <link href="http://localhost:4000/news/2020/01/03/postgrad-opportunities-copy/"/>
+   <updated>2020-01-03T00:00:00+01:00</updated>
+   <id>http://localhost:4000/news/2020/01/03/postgrad-opportunities copy</id>
    <content type="html">&lt;p&gt;We have an exciting PhD opprtunity, funded from our &lt;a href=&quot;http://cdt-aimlac.org/cdt-research.html&quot; target=&quot;_blank&quot;&gt;UKRI Centre for Doctoral Training in Artificial Intelligence, Machine Learning &amp;amp; Advanced Computing&lt;/a&gt;.&lt;/p&gt;
 
 &lt;ul&gt;
@@ -826,9 +1238,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Journal paper in T&F Assessment & Evaluation in Higher Education</title>
-   <link href="https://hccbu.github.io//news/2019/10/02/publications/"/>
-   <updated>2019-10-02T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2019/10/02/publications</id>
+   <link href="http://localhost:4000/news/2019/10/02/publications/"/>
+   <updated>2019-10-02T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2019/10/02/publications</id>
    <content type="html">&lt;p&gt;Our publication &lt;a href=&quot;https://doi.org/10.1080/02602938.2019.1676397&quot;&gt;Visualizing the University Student Journey&lt;/a&gt; is published the journal of &lt;a href=&quot;https://www.tandfonline.com/toc/caeh20/current&quot;&gt;Assessment &amp;amp; Evaluation in Higher Education&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Our article reports on the work that we have been involved in which combines the concept of Learning Pictures (Lindsley 1977, All 1977) with contemporary InfoVis techniques, such as Small Multiples, in order to provide enhanced, objective guidance to examiners when making adjustment decisions. Our goal is to improve the sense making process of examiners, during situations such as annual board of studies, where dozens, if not hundreds of students need to be evaluated in terms of their overall performance.&lt;/p&gt;
@@ -866,9 +1278,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Papers at EG CGVC 2019</title>
-   <link href="https://hccbu.github.io//news/2019/07/31/publications/"/>
-   <updated>2019-07-31T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2019/07/31/publications</id>
+   <link href="http://localhost:4000/news/2019/07/31/publications/"/>
+   <updated>2019-07-31T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2019/07/31/publications</id>
    <content type="html">&lt;p&gt;We presented one full paper and one short paper in the   &lt;a href=&quot;http://eguk.bangor.ac.uk/CGVC2019/&quot;&gt;&lt;em&gt;Eurographics Conference on Computer Graphics and Visual Computing 2019 (CGVC 2019)&lt;/em&gt;&lt;/a&gt;, held in Bangor, UK, on the 12th - 13th of September, 2019. The full paper received the Rob Fletcher Prize for Best Student Application Paper.&lt;/p&gt;
 
 &lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
@@ -930,9 +1342,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Extended Abstract at ACM CHI 2019 Late-Breaking Work</title>
-   <link href="https://hccbu.github.io//news/2019/04/30/publications/"/>
-   <updated>2019-04-30T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2019/04/30/publications</id>
+   <link href="http://localhost:4000/news/2019/04/30/publications/"/>
+   <updated>2019-04-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2019/04/30/publications</id>
    <content type="html">&lt;p&gt;We presented our work on the VRIA framework, as a Late Breaking work extended abstract in the &lt;a href=&quot;http://chi2019.acm.org/&quot;&gt;&lt;em&gt;ACM Conference on Human Factors in Computing Systems (CHI 2019)&lt;/em&gt;&lt;/a&gt;, held in Glasgow, UK, on the 4th - 9th of May, 2019.&lt;/p&gt;
 
 &lt;p&gt;The work was a preamble, for our more recent journal work available &lt;a href=&quot;/news/2020/01/04/publications/&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
@@ -947,9 +1359,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Workshop papers at ACM CHI 2019</title>
-   <link href="https://hccbu.github.io//news/2019/04/25/publications/"/>
-   <updated>2019-04-25T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2019/04/25/publications</id>
+   <link href="http://localhost:4000/news/2019/04/25/publications/"/>
+   <updated>2019-04-25T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2019/04/25/publications</id>
    <content type="html">&lt;p&gt;We presented three workshop papers during the &lt;a href=&quot;http://chi2019.acm.org/&quot;&gt;&lt;em&gt;ACM Conference on Human Factors in Computing Systems (CHI 2019)&lt;/em&gt;&lt;/a&gt;, held in Glasgow, UK, on the 4th - 9th of May, 2019.&lt;/p&gt;
 
 &lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
@@ -1035,9 +1447,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Posters and workshop paper at IEEE VIS 2018</title>
-   <link href="https://hccbu.github.io//news/2018/08/23/publications/"/>
-   <updated>2018-08-23T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2018/08/23/publications</id>
+   <link href="http://localhost:4000/news/2018/08/23/publications/"/>
+   <updated>2018-08-23T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2018/08/23/publications</id>
    <content type="html">&lt;p&gt;We presented the following two posters and a workshop paper, in the &lt;a href=&quot;http://ieeevis.org/year/2018/welcome&quot;&gt;&lt;em&gt;International Conference on Visualization (IEEE VIS 2018)&lt;/em&gt;&lt;/a&gt;, held in Berlin, Germany, on the 21th - 26th of October, 2018.&lt;/p&gt;
 
 &lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
@@ -1123,9 +1535,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Paper at the Fragile Earth Workshop (FEED) @ KDD'18</title>
-   <link href="https://hccbu.github.io//news/2018/07/20/publications/"/>
-   <updated>2018-07-20T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2018/07/20/publications</id>
+   <link href="http://localhost:4000/news/2018/07/20/publications/"/>
+   <updated>2018-07-20T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2018/07/20/publications</id>
    <content type="html">&lt;p&gt;We presented a workshop paper, below,  introducing the &lt;a href=&quot;/projects/Water4Cities/&quot;&gt;Water4Cities project&lt;/a&gt;, in the &lt;a href=&quot;https://ai4good.org/kdd-2018-workshop/&quot;&gt;&lt;em&gt;Fragile Earth Workshop (FEED) @ KDD’18&lt;/em&gt;&lt;/a&gt;, held in London, UK, on the 20th of August, 2018.&lt;/p&gt;
 
 &lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
@@ -1159,9 +1571,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Paper at the 3rd EWaS International Conference</title>
-   <link href="https://hccbu.github.io//news/2018/06/21/publications/"/>
-   <updated>2018-06-21T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2018/06/21/publications</id>
+   <link href="http://localhost:4000/news/2018/06/21/publications/"/>
+   <updated>2018-06-21T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2018/06/21/publications</id>
    <content type="html">&lt;p&gt;We presented a conference publication, below, introducing the &lt;a href=&quot;/projects/Water4Cities/&quot;&gt;Water4Cities project&lt;/a&gt; in the &lt;a href=&quot;http://ewas3.civ.uth.gr/index.html&quot;&gt;&lt;em&gt;3rd Efficient Water Systems (EWaS) International Conference&lt;/em&gt;&lt;/a&gt; on “insights on the Water-Energy-Food Nexus”, held in Lefkada Island, Greece, from 27th to 30th of June 2018.&lt;/p&gt;
 
 &lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
@@ -1197,9 +1609,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>IEEE TVCG paper invited to IEEE VR 2018</title>
-   <link href="https://hccbu.github.io//news/2018/02/25/publications/"/>
-   <updated>2018-02-25T00:00:00+00:00</updated>
-   <id>https://hccbu.github.io//news/2018/02/25/publications</id>
+   <link href="http://localhost:4000/news/2018/02/25/publications/"/>
+   <updated>2018-02-25T00:00:00+01:00</updated>
+   <id>http://localhost:4000/news/2018/02/25/publications</id>
    <content type="html">&lt;p&gt;One of our past &lt;a href=&quot;https://www.computer.org/web/tvcg&quot;&gt;&lt;em&gt;IEEE TVCG&lt;/em&gt;&lt;/a&gt;  articles was invited for presentation at &lt;a href=&quot;http://ieeevr.org/2018/&quot;&gt;IEEE VR 2018&lt;/a&gt;, held in Reutlingen, Germany.&lt;/p&gt;
 
 &lt;div class=&quot;bibliography&quot;&gt;&lt;/div&gt;
@@ -1209,9 +1621,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Papers at IEEE VIS 2017</title>
-   <link href="https://hccbu.github.io//news/2017/08/01/publications/"/>
-   <updated>2017-08-01T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2017/08/01/publications</id>
+   <link href="http://localhost:4000/news/2017/08/01/publications/"/>
+   <updated>2017-08-01T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/08/01/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/vis2017.jpg&quot; alt=&quot;Vis2017 Header&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We visited Phoenix, Arizona, in October 2017 for &lt;a href=&quot;http://ieeevis.org&quot;&gt;IEEE VIS2017&lt;/a&gt;, the premier forum for advances in scientific and information visualization. We presented the following:&lt;/p&gt;
@@ -1378,9 +1790,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Short paper at Cyberworlds 2017</title>
-   <link href="https://hccbu.github.io//news/2017/07/30/publications/"/>
-   <updated>2017-07-30T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2017/07/30/publications</id>
+   <link href="http://localhost:4000/news/2017/07/30/publications/"/>
+   <updated>2017-07-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/07/30/publications</id>
    <content type="html">&lt;p&gt;We presented a short paper in Cyberworlds 2017, held in Chester, UK, in September. More information about the conference can be found &lt;a href=&quot;http://cw2017.org/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
@@ -1415,9 +1827,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Journal paper at IEEE TVCG / VIS 2017</title>
-   <link href="https://hccbu.github.io//news/2017/07/25/publications/"/>
-   <updated>2017-07-25T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2017/07/25/publications</id>
+   <link href="http://localhost:4000/news/2017/07/25/publications/"/>
+   <updated>2017-07-25T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/07/25/publications</id>
    <content type="html">&lt;p&gt;Our publication &lt;a href=&quot;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7192707&quot;&gt;The explanatory visualization framework: An active learning framework for teaching creative computing using explanatory visualizations&lt;/a&gt; was presented in &lt;em&gt;IEEE VIS2017&lt;/em&gt;, held in Phoenix, AZ, USA.&lt;/p&gt;
 
 &lt;p&gt;While visualization techniques are starting to pervade our work and leisure, we feel that there are many opportunities to use explanatoryvisualizations in teaching and learning. The Explanatory Visualization Framework (EVF) guides a learner to think through an explanatory visualization task, consider alternative solutions and reflect on their design, implementation choices, and actions. The framework is designed to provide a good balance between fostering creative thinking and providing the structured guidance that students need. It also enables teachers to swap-in their favoured exercise or assessment and apply the model to their situation. By creating their own explanatory visualizations, students learn and develop their creative, reflection and communication skills.&lt;/p&gt;
@@ -1458,9 +1870,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Journal paper in IEEE TVCG</title>
-   <link href="https://hccbu.github.io//news/2017/04/30/publications/"/>
-   <updated>2017-04-30T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2017/04/30/publications</id>
+   <link href="http://localhost:4000/news/2017/04/30/publications/"/>
+   <updated>2017-04-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2017/04/30/publications</id>
    <content type="html">&lt;p&gt;Our journal article &lt;a href=&quot;/publications#John-et-al-TVCG-2017&quot;&gt;“The Implementation &amp;amp; Validation of a Virtual Environment for Training Powered Wheelchair Manoeuvres”&lt;/a&gt; has been accepted in &lt;a href=&quot;https://www.computer.org/web/tvcg&quot;&gt;&lt;em&gt;IEEE Transactions of Visualization and Computer Graphics (TVCG)&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;We present the utility of a cost-effective virtual environment for powered wheelchair training, built from commercial off-the-shelf components. Our  indings support our hypothesis that a serious game (virtual environment) utilising the Oculus Rift HMD can provide a safe environment in which a new user of a powered wheelchair can quickly learn driving skills. Our results indicate that: a) the learning done in the HMD-based VR environment was transferred to the physical world; and b) there is a benefit in using a VR-HMD simulator for training wheelchair users, in terms of navigation performance improvement. Coupling that with the safety that users felt and overall confidence the HMD version provided, there are clear benefits in using HMD-based VR for training wheelchair users.&lt;/p&gt;
@@ -1473,9 +1885,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Papers at IEEE VIS 2016</title>
-   <link href="https://hccbu.github.io//news/2016/10/30/publications/"/>
-   <updated>2016-10-30T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2016/10/30/publications</id>
+   <link href="http://localhost:4000/news/2016/10/30/publications/"/>
+   <updated>2016-10-30T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2016/10/30/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/Vis16-header.jpg&quot; alt=&quot;Vis2016 Header&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We visited Baltimore, MD in October 2016 for &lt;em&gt;IEEE VIS2016&lt;/em&gt;, the premier forum for advances in scientific and information visualization. This week-long event convenes an international community of researchers and practitioners from academia, government, and industry to explore their shared interests in tools, techniques, and technology.&lt;/p&gt;
@@ -1592,9 +2004,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Paper at MMVR 22</title>
-   <link href="https://hccbu.github.io//news/2016/05/01/publications/"/>
-   <updated>2016-05-01T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2016/05/01/publications</id>
+   <link href="http://localhost:4000/news/2016/05/01/publications/"/>
+   <updated>2016-05-01T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2016/05/01/publications</id>
    <content type="html">&lt;p&gt;We presented a conference paper at &lt;a href=&quot;http://www.nextmed.com/&quot;&gt;Medicine Meets Virtual Reality Conference (MMVR22)&lt;/a&gt;:&lt;/p&gt;
 
 &lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
@@ -1628,9 +2040,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Journal paper in ACM Journal on Computing and Cultural Heritage (JOCCH)</title>
-   <link href="https://hccbu.github.io//news/2015/11/21/publications/"/>
-   <updated>2015-11-21T00:00:00+00:00</updated>
-   <id>https://hccbu.github.io//news/2015/11/21/publications</id>
+   <link href="http://localhost:4000/news/2015/11/21/publications/"/>
+   <updated>2015-11-21T00:00:00+01:00</updated>
+   <id>http://localhost:4000/news/2015/11/21/publications</id>
    <content type="html">&lt;p&gt;A journal paper, in which we have contributed the design of a Handheld Augmented Reality application for cultural heritage was published in ACM Journal on Computing and Cultural Heritage (JOCCH). The paper provides an overview of the &lt;em&gt;Heritage Together&lt;/em&gt; project, lead by Bangor University.&lt;/p&gt;
 
 &lt;p&gt;More information can be obtained from the projects website, &lt;a href=&quot;http://heritagetogether.org/?lang=en&quot;&gt;HeritageTogether.org&lt;/a&gt; or the project’s twitter page &lt;a href=&quot;https://twitter.com/heritage2gether&quot;&gt;@heritagetogether&lt;/a&gt;.&lt;/p&gt;
@@ -1667,9 +2079,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Papers at IEEE VIS 2015</title>
-   <link href="https://hccbu.github.io//news/2015/10/20/publications/"/>
-   <updated>2015-10-20T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2015/10/20/publications</id>
+   <link href="http://localhost:4000/news/2015/10/20/publications/"/>
+   <updated>2015-10-20T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2015/10/20/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/Vis15-header.png&quot; alt=&quot;Vis2015 Header&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We visited Chicago, IL in October 2015 for &lt;em&gt;IEEE VIS2015&lt;/em&gt;, the premier forum for advances in scientific and information visualization. This week-long event convenes an international community of researchers and practitioners from academia, government, and industry to explore their shared interests in tools, techniques, and technology.&lt;/p&gt;
@@ -1815,9 +2227,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Posters at EG VCBM 2015</title>
-   <link href="https://hccbu.github.io//news/2015/09/19/publications/"/>
-   <updated>2015-09-19T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2015/09/19/publications</id>
+   <link href="http://localhost:4000/news/2015/09/19/publications/"/>
+   <updated>2015-09-19T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2015/09/19/publications</id>
    <content type="html">&lt;p&gt;We presented two posters in &lt;a href=&quot;http://www.vcbm.org/&quot;&gt;EG VCBM2015&lt;/a&gt;:&lt;/p&gt;
 
 &lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
@@ -1879,9 +2291,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Paper at IEEE VIS 2015 Personal Visualization Workshop</title>
-   <link href="https://hccbu.github.io//news/2015/09/06/publications/"/>
-   <updated>2015-09-06T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2015/09/06/publications</id>
+   <link href="http://localhost:4000/news/2015/09/06/publications/"/>
+   <updated>2015-09-06T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2015/09/06/publications</id>
    <content type="html">&lt;p&gt;Our publication &lt;a href=&quot;http://pdritsos.com/files/Roberts-et-al-Viz4me-VIS2015.pdf&quot;&gt;Personal Learning Visualization&lt;/a&gt; was presented in the &lt;em&gt;Personal Visualization: Exploring Data in Everyday Life&lt;/em&gt; workshop of &lt;em&gt;IEEE VIS2015&lt;/em&gt;. You can have a look at the accepted papers, news and updates from the workshop at  &lt;a href=&quot;http://www.vis4me.com/personalvis15/&quot;&gt;Vis4me&lt;/a&gt;.&lt;/p&gt;
 
 &lt;figure id=&quot;figure-1&quot;&gt;&lt;a href=&quot;/assets/figures/banner-for-personal-learning.png&quot;&gt;&lt;img src=&quot;/assets/figures/banner-for-personal-learning.png&quot; alt=&quot;Personal Visualization, from data to learning&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;Figure 1: Personal Visualization, from data to learning [&lt;a href=&quot;/assets/figures/banner-for-personal-learning.png&quot;&gt;PNG&lt;/a&gt;]&lt;/figcaption&gt;&lt;/figure&gt;
@@ -1898,9 +2310,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Paper at IEEE VizSec 2015</title>
-   <link href="https://hccbu.github.io//news/2015/09/05/publications/"/>
-   <updated>2015-09-05T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2015/09/05/publications</id>
+   <link href="http://localhost:4000/news/2015/09/05/publications/"/>
+   <updated>2015-09-05T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2015/09/05/publications</id>
    <content type="html">&lt;p&gt;Our publication &lt;a href=&quot;http://pdritsos.com/files/Gray-et-al-VizSec2015.pdf&quot;&gt;Contextual Network Navigation; Situational Awareness for Network Administrators&lt;/a&gt; was presented in the &lt;em&gt;IEEE Symposium on Visualization for Cyber Security&lt;/em&gt; held in conjunction with &lt;em&gt;IEEE VIS2015&lt;/em&gt;. You can have a look at the accepted papers, news and updates from the symposium at  &lt;a href=&quot;http://vizsec.org/&quot;&gt;VisSec&lt;/a&gt;.&lt;/p&gt;
 
 &lt;figure id=&quot;figure-1&quot;&gt;&lt;a href=&quot;/assets/figures/cnvizsec.png&quot;&gt;&lt;img src=&quot;/assets/figures/cnvizsec.png&quot; alt=&quot;Contextual Navigation Projection for AS34623 with AS5577 highlighted as a ‘network of interest’. The yellow nodes shown where AS5577 appears, allowing the user to visually reason potential blocking points.&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;Figure 1: Contextual Navigation Projection for AS34623 with AS5577 highlighted as a ‘network of interest’. The yellow nodes shown where AS5577 appears, allowing the user to visually reason potential blocking points. [&lt;a href=&quot;/assets/figures/cnvizsec.png&quot;&gt;PNG&lt;/a&gt;]&lt;/figcaption&gt;&lt;/figure&gt;
@@ -1917,9 +2329,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Poster at IEEE VIS 2015</title>
-   <link href="https://hccbu.github.io//news/2015/07/24/publications/"/>
-   <updated>2015-07-24T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2015/07/24/publications</id>
+   <link href="http://localhost:4000/news/2015/07/24/publications/"/>
+   <updated>2015-07-24T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2015/07/24/publications</id>
    <content type="html">&lt;p&gt;Our poster &lt;a href=&quot;http://pdritsos.com/files/Gray-et-al-ContextNav-VIS2015.pdf&quot;&gt;Where Can I Go From Here? Drawing Contextual Navigation Maps of the London Underground&lt;/a&gt; was presented in &lt;em&gt;IEEE VIS2015&lt;/em&gt; held in Chicago, IL. You can have a look at the accepted papers, news and updates from the symposium at  &lt;a href=&quot;http://www.ieeevis.org&quot;&gt;VIS2015&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;span class=&quot;mystrong&quot;&gt;Abstract&lt;/span&gt; - Network administrators often wish to ascertain where network attackers are located; therefore it would be useful to display the network map from the context of either the attacker’s potential location or the attacked host. As part of a bigger project we are investigating how to best visualize contextual network data. We use a dataset of station adjacencies with journey times as edge weights, to explore which visualization design is most suitable, and also ascertain the best network shortest-path metric. This short paper presents our initial findings, and a visualization for Contextual Navigation using circular, centered-phylogram projections of the network. Our visualizations are interactive allowing users to explore different scenarios and observe relative distances in the data.&lt;/p&gt;
@@ -1942,9 +2354,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Journal paper at IEEE TVCG / VIS 2015</title>
-   <link href="https://hccbu.github.io//news/2015/06/08/publications/"/>
-   <updated>2015-06-08T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2015/06/08/publications</id>
+   <link href="http://localhost:4000/news/2015/06/08/publications/"/>
+   <updated>2015-06-08T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2015/06/08/publications</id>
    <content type="html">&lt;p&gt;Our publication &lt;a href=&quot;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7192707&quot;&gt;Sketching designs using the Five Design-Sheet methodology&lt;/a&gt; was presented in &lt;em&gt;IEEE VIS2015&lt;/em&gt; held in Chicago, IL. More information on the FDS methodology can be found over at the project’s website, at &lt;a href=&quot;http://fds.design/&quot;&gt;fds.design&lt;/a&gt;.&lt;/p&gt;
 
 &lt;figure id=&quot;figure-1&quot;&gt;&lt;a href=&quot;/assets/figures/ideas-designs-realisation2.jpg&quot;&gt;&lt;img src=&quot;/assets/figures/ideas-designs-realisation2.jpg&quot; alt=&quot;Five-design sheets - creating information visualization interfaces through lo-fidelity methods.&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;Figure 1: Five-design sheets - creating information visualization interfaces through lo-fidelity methods. [&lt;a href=&quot;/assets/figures/ideas-designs-realisation2.jpg&quot;&gt;JPG&lt;/a&gt;]&lt;/figcaption&gt;&lt;/figure&gt;
@@ -1983,9 +2395,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>IEEE CG&amp;A journal paper invited in IEEE VIS 2015</title>
-   <link href="https://hccbu.github.io//news/2015/05/08/publications/"/>
-   <updated>2015-05-08T00:00:00+01:00</updated>
-   <id>https://hccbu.github.io//news/2015/05/08/publications</id>
+   <link href="http://localhost:4000/news/2015/05/08/publications/"/>
+   <updated>2015-05-08T00:00:00+02:00</updated>
+   <id>http://localhost:4000/news/2015/05/08/publications</id>
    <content type="html">&lt;p&gt;Our publication &lt;a href=&quot;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6879056&quot;&gt;Visualization Beyond the Desktop - the next big thing&lt;/a&gt; was invited and presented in &lt;a href=&quot;http://www.ieeevis.org&quot;&gt;VIS2015&lt;/a&gt;, held in Chicago, IL. Our paper presents a road-map to the future of data visualization, facilitated from a technological metamorphosis in interface design, towards a mixed reality world, that encompasses various sensors, is transparent to the user and can be accessed via the Web.&lt;/p&gt;
 
 &lt;figure id=&quot;figure-1&quot;&gt;&lt;a href=&quot;/assets/figures/vis_perception.png&quot;&gt;&lt;img src=&quot;/assets/figures/vis_perception.png&quot; alt=&quot;caption:Visualization processes between the computer and human. Data is mapped onto perceptual variables and presented through various technologies. This all occurs in a particular place—a space with context (for example, a classroom, laboratory, or means of transportation). Through perception we acquire meaning of the presented data and awareness of our context.&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;Figure 1: caption:Visualization processes between the computer and human. Data is mapped onto perceptual variables and presented through various technologies. This all occurs in a particular place—a space with context (for example, a classroom, laboratory, or means of transportation). Through perception we acquire meaning of the presented data and awareness of our context. [&lt;a href=&quot;/assets/figures/vis_perception.png&quot;&gt;PNG&lt;/a&gt;]&lt;/figcaption&gt;&lt;/figure&gt;
@@ -2023,9 +2435,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Papers at IEEE VIS 2014 Death of the Desktop Wokshop</title>
-   <link href="https://hccbu.github.io//news/2014/11/30/publications/"/>
-   <updated>2014-11-30T00:00:00+00:00</updated>
-   <id>https://hccbu.github.io//news/2014/11/30/publications</id>
+   <link href="http://localhost:4000/news/2014/11/30/publications/"/>
+   <updated>2014-11-30T00:00:00+01:00</updated>
+   <id>http://localhost:4000/news/2014/11/30/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/Death_of_the_Desktop.png&quot; alt=&quot;DoTD&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We presented two position papers in the Death of the Desktop Workshop of &lt;em&gt;IEEE VIS2014&lt;/em&gt;:&lt;/p&gt;
@@ -2088,9 +2500,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>Paper at EG GCH Workshop</title>
-   <link href="https://hccbu.github.io//news/2014/10/30/publications/"/>
-   <updated>2014-10-30T00:00:00+00:00</updated>
-   <id>https://hccbu.github.io//news/2014/10/30/publications</id>
+   <link href="http://localhost:4000/news/2014/10/30/publications/"/>
+   <updated>2014-10-30T00:00:00+01:00</updated>
+   <id>http://localhost:4000/news/2014/10/30/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/EGGCH.png&quot; alt=&quot;EGGCH&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;We presented a short paper in the &lt;em&gt;12th Eurographics Workshop on Graphics and Cultural Heritage&lt;/em&gt;:&lt;/p&gt;

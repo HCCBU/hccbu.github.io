@@ -8,6 +8,10 @@ tags:
 shortUrl:
 img: Peter_Butcher.jpg
 order: 3
+list: true
 ---
 
-Bill Teahan leads research activities in Artificial Intelligence and Intelligent Agents. In the graphics and visualisation area, his interests include the creation of virtual environments, and the design and implementation of intelligent agents to sense and interact within them.
+Peter is a Lecturer in Human-Computer Interaction, at the <a href="http://www.cs.bangor.ac.uk/" target="_blank">School of Computer Science and Engineering</a>, <a href="http://www.bangor.ac.uk/" target="_blank">Bangor University, UK</a>.  He is a memebr of the <a href="https://xrvalab.github.io/" target="_blank"> XReality, Visualization and Analytics (XRVA) Lab</a> on Immersive Analytics and WebXR.
+
+
+

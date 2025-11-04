@@ -5,6 +5,8 @@ tags:
 - Artificial Intelligence
 shortUrl:
 img: Sharah.jpg
+order: 6
+list: true
 ---
 
-Soon...
+Bio incoming soon...

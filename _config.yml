@@ -22,7 +22,7 @@ paginate: 15
 paginate_path: "page:num"
 
 # Custom vars
-update: September 2025
+update: November 2025
 
 github:
   repo:
