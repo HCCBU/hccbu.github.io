@@ -9,7 +9,8 @@ tags:
   - infoVis
   - WebXR
   - EuroVis
-  - "situated analytics"
+  - situated 
+  - analytics
 related:
 list: true
 type: home

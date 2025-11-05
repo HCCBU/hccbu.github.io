@@ -9,7 +9,8 @@ tags:
   - infoVis
   - WebXR
   - IEEE
-  - "situated analytics"
+  - situated 
+  - analytics
 related:
 list: true
 type: home

@@ -9,7 +9,8 @@ tags:
   - XR
   - infoVis
   - WebXR
-  - "immersive analytics"
+  - immersive 
+  - analytics
 related:
 list: true
 type: home

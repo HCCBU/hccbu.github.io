@@ -6,7 +6,7 @@ tags:
 shortUrl:
 img: Rhiannon.jpg
 order: 3
-list: true
+list: false
 ---
 
 Bio incoming soon...

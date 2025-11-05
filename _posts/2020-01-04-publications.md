@@ -4,12 +4,11 @@ title: [Journal paper in IEEE TVCG]
 categories: news
 tags:
   - IEEE
-  - journal
-  - VR
   - XR
   - InfoVis
   - WebXR
-  - "immersive analytics"
+  - immersive 
+  - analytics
 related:
 list: true
 type: home

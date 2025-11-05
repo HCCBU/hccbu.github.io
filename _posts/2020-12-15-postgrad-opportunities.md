@@ -4,9 +4,11 @@ title:
   " PhDs in AI, Immersive Analytics and Edge Computing, and Hydrology (UKRI CDT),"
 categories: news
 tags:
-  - "artficial intelligence"
-  - "immersive analytics"
-  - "edge computing"
+  - AI
+  - immersive
+  - analytics
+  - edge 
+  - computing
   - hydrology
   - visualization
 related:

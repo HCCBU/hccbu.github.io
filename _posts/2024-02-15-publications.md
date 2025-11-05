@@ -6,9 +6,11 @@ tags:
   - XR
   - WebXR
   - IEEE
-  - "game engine"
-  - "immersive analytics"
-  - "situated analytics"
+  - game
+  - engine
+  - immersive
+  - situated
+  - analytics
 related:
 list: true
 type: home

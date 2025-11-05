@@ -7,8 +7,9 @@ tags:
   - WebXR
   - IEEE
   - ISMAR
-  - "hybrid user interfaces"
-  - "situated analytics"
+  - HUI
+  - situated 
+  - analytics
 related:
 list: true
 type: home

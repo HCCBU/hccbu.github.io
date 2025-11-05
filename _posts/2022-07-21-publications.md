@@ -7,8 +7,10 @@ tags:
   - analytics
   - infoVis
   - hydrology
-  - "environmental visualisation"  
-  - "flooding modelling"
+  - environmental 
+  - visualisation
+  - flooding 
+  - modelling
 related:
 list: true
 type: home

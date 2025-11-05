@@ -4,12 +4,10 @@ title: [XRVA at IEEE VIS 2023]
 categories: news
 tags:
 - IEEE
-- conference
-- journal
-- TVCG
-- 'Situated Analytics'
-- 'Immersive Analytics'
-- 'Ubiquitous Analytics'
+- Situated
+- Immersive
+- Ubiquitous
+- Analytics
 - XR
 - WebXR
 related: ieeevis

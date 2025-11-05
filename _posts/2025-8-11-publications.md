@@ -31,7 +31,14 @@ We will also be presenting our IEEE TVCG Paper ["DashSpace: A Cross-Reality Tool
 
 Related to our DashSpace project, we will be presenting a tutorial on ["Live Collaborative Immersive Analytics Development with DashSpace"]({{site.baseurl}}/publicationsYear#Borowski-et-al-IEEEVIS205-Tutorial). This tutorial will cover the DashSpace/SpatialStrate platform's architecture, its use of web technologies, and how it supports cross-reality collaboration.
 
-We are also presenting a workshop paper titled ["From Data to Insight: Using Contextual Scenarios to Teach Critical Thinking in Data Visualisation"]({{site.baseurl}}/publicationsYear#Roberts-et-al-EduVis-2025), which discusses the use of contextual scenarios to enhance data visualization education.
+We are also presenting two workshop papers and one poster:
+
+In the EduVis workshop, we present a paper titled ["From Data to Insight: Using Contextual Scenarios to Teach Critical Thinking in Data Visualisation"]({{site.baseurl}}/publicationsYear#Roberts-et-al-EduVis-2025), which discusses the use of contextual scenarios to enhance data visualization education.
+
+In the workshop on Visual Analytics in Healthcare (VAHC), we present a paper titled ["Embedding Empathy into Visual Analytics: A Framework for Person-Centred Dementia Care"]({{site.baseurl}}/publicationsYear#Owen-et-al-VAHC-2025), which introduces an empathy-centred visualisation framework designed to support person-centred dementia care.
+
+
+Lastly, we present a poster titled ["Explanatory Visualization with LLMs for Employment Law"]({{site.baseurl}}/publicationsYear#Ogbonda-et-al-Poster-VIS2025), which explores the use of visualization as means of explaining complex legal concepts in employment law, leveraging large language models (LLMs).
 
 
 You can find more details on these papers following the reference links below.
@@ -45,3 +52,7 @@ You can find more details on these papers following the reference links below.
 {% bibliography -f tutorials --query @*[key=Borowski-et-al-IEEEVIS205-Tutorial] %}
 
 {% bibliography -f workshops --query @*[key=Roberts-et-al-EduVis-2025] %}
+
+{% bibliography -f workshops --query @*[key=Owen-et-al-VAHC-2025] %}
+
+{% bibliography -f posters --query @*[key=Ogbonda-et-al-Poster-VIS2025] %}

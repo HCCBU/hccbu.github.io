@@ -6,8 +6,10 @@ tags:
   - journal
   - Covid-19
   - infoVis
-  - "disseminative visualisation"
-  - "public engagement"
+  - disseminative 
+  - visualisation"
+  - public 
+  - engagement
 related:
 list: true
 type: home

@@ -3,13 +3,12 @@ layout: post
 title: [Journal paper in MDPI Computers]
 categories: news
 tags:
-  - journal
-  - MDPI
-  - "3D"
-  - "immersive visualisation"
-  - "multiple views"
-  - "alternative representation"
-  - "multivocality"
+  - 3D
+  - immersive
+  - visualisation
+  - multiple 
+  - alternative
+  - views
 related:
 list: true
 type: home

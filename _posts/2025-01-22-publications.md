@@ -11,9 +11,9 @@ tags:
   - XR
   - WebXR
   - IEEE
-  - "collaborative visualization"
-  - "situated analytics"
-  - toolkits
+  - collaboration
+  - situated
+  - analytics
 related:
 list: true
 type: home

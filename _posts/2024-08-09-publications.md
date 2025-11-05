@@ -5,11 +5,11 @@ categories: news
 tags:
   - XR
   - WebXR
-  - IEEE
-  - "glyphs"
-  - "situated analytics"
+  - glyphs
+  - situated
+  - analytics
   - toolkits
-  - "visualization authoring"
+  - authoring
 related:
 list: true
 type: home

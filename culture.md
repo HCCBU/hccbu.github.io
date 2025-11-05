@@ -2,7 +2,7 @@
 layout: page
 title: Culture
 type: culture
-menu: main
+menu: none
 order: 5
 ---
 

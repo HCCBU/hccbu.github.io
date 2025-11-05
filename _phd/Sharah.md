@@ -6,7 +6,7 @@ tags:
 shortUrl:
 img: Sharah.jpg
 order: 6
-list: true
+list: false
 ---
 
 Bio incoming soon...

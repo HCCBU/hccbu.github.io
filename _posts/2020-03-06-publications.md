@@ -3,11 +3,12 @@ layout: post
 title: [Journal paper in MDPI Computers]
 categories: news
 tags:
-  - journal
-  - MDPI
-  - "procedural generation"
-  - "virtual environments"
-  - "computer gaming"
+  - procedural 
+  - generation"
+  - virtual 
+  - environments
+  - computer 
+  - gaming
 related:
 list: true
 type: home

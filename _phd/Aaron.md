@@ -6,7 +6,7 @@ tags:
 shortUrl:
 img: Aron.jpg
 order: 1
-list: true
+list: false
 ---
 
 

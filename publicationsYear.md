@@ -22,6 +22,7 @@ order: 4
 {% bibliography --query @*[year=2025] -f journals %}
 {% bibliography --query @*[year=2025] -f tutorials %}
 {% bibliography --query @*[year=2025] -f workshops %}
+{% bibliography --query @*[year=2025] -f posters %}
 {% bibliography --query @*[year=2025] -f preprints %}
 
 

@@ -6,7 +6,7 @@ tags:
 shortUrl:
 img: Shannon.jpg
 order: 4
-list: true
+list: false
 ---
 
 Bio incoming soon...

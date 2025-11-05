@@ -4,10 +4,12 @@ title: [Sprint Project on Visual Analytics for Flood Modelling funded by WDNA]
 categories: news
 tags:
   - infoVis
-  - "visual analytics"
+  - visual 
+   - analytics
   - data
   - AI
-  - "flooding modelling"
+  - flooding 
+  - modelling
 related:
 list: true
 type: home

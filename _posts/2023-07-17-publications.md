@@ -3,14 +3,12 @@ layout: post
 title: [Journal paper accepted in IEEE TVCG / VIS2023]
 categories: news
 tags:
-  - journal
-  - TVCG
   - XR
-  - infoVis
+  - TVCG
   - WebXR
   - IEEE
-  - VIS
-  - "situated analytics"
+  - situated 
+  - analytics
 related:
 list: true
 type: home

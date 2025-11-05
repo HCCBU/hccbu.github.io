@@ -6,7 +6,7 @@ tags:
 shortUrl:
 img: Dan.jpg
 order: 2
-list: true
+list: false
 ---
 
 Bio incoming soon...

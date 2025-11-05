@@ -4,7 +4,7 @@
  <title>Human-Centred Computing Research Group, Bangor University</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2025-11-04T15:01:52+01:00</updated>
+ <updated>2025-11-05T13:27:04+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -27,7 +27,13 @@
 
 &lt;p&gt;Related to our DashSpace project, we will be presenting a tutorial on &lt;a href=&quot;/publicationsYear#Borowski-et-al-IEEEVIS205-Tutorial&quot;&gt;“Live Collaborative Immersive Analytics Development with DashSpace”&lt;/a&gt;. This tutorial will cover the DashSpace/SpatialStrate platform’s architecture, its use of web technologies, and how it supports cross-reality collaboration.&lt;/p&gt;
 
-&lt;p&gt;We are also presenting a workshop paper titled &lt;a href=&quot;/publicationsYear#Roberts-et-al-EduVis-2025&quot;&gt;“From Data to Insight: Using Contextual Scenarios to Teach Critical Thinking in Data Visualisation”&lt;/a&gt;, which discusses the use of contextual scenarios to enhance data visualization education.&lt;/p&gt;
+&lt;p&gt;We are also presenting two workshop papers and one poster:&lt;/p&gt;
+
+&lt;p&gt;In the EduVis workshop, we present a paper titled &lt;a href=&quot;/publicationsYear#Roberts-et-al-EduVis-2025&quot;&gt;“From Data to Insight: Using Contextual Scenarios to Teach Critical Thinking in Data Visualisation”&lt;/a&gt;, which discusses the use of contextual scenarios to enhance data visualization education.&lt;/p&gt;
+
+&lt;p&gt;In the workshop on Visual Analytics in Healthcare (VAHC), we present a paper titled &lt;a href=&quot;/publicationsYear#Owen-et-al-VAHC-2025&quot;&gt;“Embedding Empathy into Visual Analytics: A Framework for Person-Centred Dementia Care”&lt;/a&gt;, which introduces an empathy-centred visualisation framework designed to support person-centred dementia care.&lt;/p&gt;
+
+&lt;p&gt;Lastly, we present a poster titled &lt;a href=&quot;/publicationsYear#Ogbonda-et-al-Poster-VIS2025&quot;&gt;“Explanatory Visualization with LLMs for Employment Law”&lt;/a&gt;, which explores the use of visualization as means of explaining complex legal concepts in employment law, leveraging large language models (LLMs).&lt;/p&gt;
 
 &lt;p&gt;You can find more details on these papers following the reference links below.&lt;/p&gt;
 
@@ -139,6 +145,58 @@
    
 &lt;/span&gt;
 &lt;a class=&quot;details&quot; href=&quot;/bibliography/Roberts-et-al-EduVis-2025/&quot;&gt;&lt;span hidden=&quot;&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
+
+&lt;span id=&quot;Owen-et-al-VAHC-2025&quot;&gt;R. Owen and J. C. Roberts, “Embedding Empathy into Visual Analytics: A Framework for Person-Centred Dementia Care,” in &lt;i&gt;IEEE Workshop on Visual Analytics in Healthcare (VAHC)&lt;/i&gt;, 2025.&lt;/span&gt;
+
+  &lt;span class=&quot;toggle&quot;&gt;
+    Dementia care requires healthcare professionals to balance a patient’s medical needs with a deep understanding of their personal needs, preferences, and emotional cues. However, current digital tools prioritise quantitative metrics over empathetic engagement, limiting caregivers’ ability to develop a deeper personal understanding of their patients. This paper presents an empathy-centred visualisation framework, developed through a design study, to address this gap. The framework integrates established principles of person-centred care with empathy mapping methodologies to encourage deeper engagement. Our methodology provides a structured approach to designing for indirect end-users, patients whose experience is shaped by a tool they may not directly interact with. To validate the framework, we conducted evaluations with healthcare professionals, including usability testing of a working prototype and a User Experience Questionnaire (UEQ) study. Results suggest the feasibility of the framework, with participants highlighting its potential to support a more personal and empathetic relationship between medical staff and patients. The work starts to explore how empathy could be systematically embedded into visualisation design, as we contribute to ongoing efforts in the data visualisation community to support human-centred, interpretable, and ethically-aligned clinical care, addressing the urgent need to improve dementia patients’ experiences in hospital settings.
+  &lt;/span&gt;
+  &lt;br /&gt;
+  &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+
+&lt;span class=&quot;biblinks&quot;&gt;
+  [&lt;a href=&quot;/bibliography/Owen-et-al-VAHC-2025/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+  
+        
+          [&lt;a href=&quot;/files/Owen-et-al-VAHC-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+         
+  
+   
+   [&lt;a href=&quot;https://arxiv.org/abs/2509.08548&quot; class=&quot;doilink&quot;&gt;Preprint&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+  
+   
+&lt;/span&gt;
+&lt;a class=&quot;details&quot; href=&quot;/bibliography/Owen-et-al-VAHC-2025/&quot;&gt;&lt;span hidden=&quot;&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
+
+&lt;span id=&quot;Ogbonda-et-al-Poster-VIS2025&quot;&gt;E. G. Ogbonda, S. Nason, J. C. Roberts, and P. W. S. Butcher, “Explanatory Visualization with LLMs for Employment Law,” in &lt;i&gt;Posters presented at the IEEE Conference on Visualization (IEEE VIS 2025), Vienna, Austria&lt;/i&gt;, 2025.&lt;/span&gt;
+
+  &lt;span class=&quot;toggle&quot;&gt;
+    This paper presents EmployODR, an AI-enhanced online tool to help improve access to employment law dispute resolution. The system combines a chat bot powered by a Large Language Model (LLM) with explanatory visualizations that aim to communicate the system’s reasoning. Our tool integrates GPT-3.5 Turbo with structured legal data through a Retrieval-Augmented Generation (RAG) pipeline. The system guides users through complex employment law scenarios using network maps visualized using node-link diagrams, and plain-language summaries. Through our ongoing research, an early framework has emerged that we then apply for scalable AI-driven legal visualization that we hope can aid in bridging the gap between complex legal procedures and public accessibility, placing explainable AI as an essential component for democratizing access to justice. This work supports the developing integration of legal technology and explainable AI by exploring how visualization principles can promote transparency in AI-driven legal decision-making systems, aiming to formulate methodologies applicable across various legal domains to enhance public access to justice.
+  &lt;/span&gt;
+  &lt;br /&gt;
+  &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+
+&lt;span class=&quot;biblinks&quot;&gt;
+  [&lt;a href=&quot;/bibliography/Ogbonda-et-al-Poster-VIS2025/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+  
+        
+          [&lt;a href=&quot;/files/Ogbonda-et-al-Poster-VIS2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+         
+  
+   
+  
+  
+  
+   
+&lt;/span&gt;
+&lt;a class=&quot;details&quot; href=&quot;/bibliography/Ogbonda-et-al-Poster-VIS2025/&quot;&gt;&lt;span hidden=&quot;&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 </content>
  </entry>
  
@@ -261,7 +319,7 @@
    <id>http://localhost:4000/news/2024/09/20/workshop</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/DAFNI-logo.jpg&quot; class=&quot;prjImgFlt&quot; alt=&quot;DAFNI_banner&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I presented a lightning talk on our &lt;a href=&quot;/projects/ia/&quot;&gt;Immersive and Situated Analytics&lt;/a&gt; systems at the DAFNI Wales Roadshow 2024 event, held at the &lt;a href=&quot;https://www.swansea.ac.uk/computational-foundry/&quot;&gt;Computational Foundry&lt;/a&gt;, &lt;a href=&quot;https://www.swansea.ac.uk/&quot;&gt;Swansea University&lt;/a&gt;.  We discussed research into infrastructure systems, synergies with visualization, and the challenges and opportunities of data sharing.&lt;/p&gt;
+&lt;p&gt;Panos presented a lightning talk on our &lt;a href=&quot;/projects/ia/&quot;&gt;Immersive and Situated Analytics&lt;/a&gt; systems at the DAFNI Wales Roadshow 2024 event, held at the &lt;a href=&quot;https://www.swansea.ac.uk/computational-foundry/&quot;&gt;Computational Foundry&lt;/a&gt;, &lt;a href=&quot;https://www.swansea.ac.uk/&quot;&gt;Swansea University&lt;/a&gt;.  We discussed research into infrastructure systems, synergies with visualization, and the challenges and opportunities of data sharing.&lt;/p&gt;
 
 </content>
  </entry>
@@ -346,7 +404,7 @@
    <id>http://localhost:4000/news/2024/03/01/travel</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/dagstuhl.jpg&quot; class=&quot;prjImgFlt&quot; alt=&quot;Image of Schloss Dagstuhl&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;I attended the Reflections on &lt;a href=&quot;https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24091&quot;&gt;Reflections on Pandemic Visualization Dagstuhl Seminar&lt;/a&gt;, held in the &lt;a href=&quot;https://www.dagstuhl.de/en/&quot;&gt;Computer Science Centre, Schloss Dagstuhl, Germany&lt;/a&gt;, between 24/2 and 1/3.&lt;/p&gt;
+&lt;p&gt;Panos attended the Reflections on &lt;a href=&quot;https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24091&quot;&gt;Reflections on Pandemic Visualization Dagstuhl Seminar&lt;/a&gt;, held in the &lt;a href=&quot;https://www.dagstuhl.de/en/&quot;&gt;Computer Science Centre, Schloss Dagstuhl, Germany&lt;/a&gt;, between 24/2 and 1/3.&lt;/p&gt;
 
 &lt;p&gt;The purpose of this Dagstuhl Seminar was to bring the visualization community, modelling experts, epidemiologists, infection control experts, and end users together with other application domain experts to reflect on research work done in response to the COVID-19 pandemic.&lt;/p&gt;
 
@@ -877,7 +935,7 @@
    <link href="http://localhost:4000/news/2022/03/08/teaching/"/>
    <updated>2022-03-08T00:00:00+01:00</updated>
    <id>http://localhost:4000/news/2022/03/08/teaching</id>
-   <content type="html">&lt;p&gt;Between 15th of February and the 8th of March, we delivered, along with &lt;a href=&quot;https://www.bangor.ac.uk/staff/computer-science-electronic-engineering/peter-butcher-080986/en&quot;&gt;Dr Peter Butcher&lt;/a&gt;, a course on XReality, to &lt;a href=&quot;https://www.airbus.com/en&quot;&gt;Airbus&lt;/a&gt; employees. The course is part of the &lt;a href=&quot;https://dsp-centre.bangor.ac.uk/&quot;&gt;DSP Centre’s&lt;/a&gt; Educational College and was delivered within the &lt;a href=&quot;https://www.bangor.ac.uk/news/bangor-university-and-coleg-cambria-announce-a-new-collaborative-relationship&quot;&gt;Skills Factory programme&lt;/a&gt;, for which the &lt;a href=&quot;https://www.bangor.ac.uk/computer-science-and-electronic-engineering/index.php.en&quot;&gt;School of Computer Science and Electronic Engineering&lt;/a&gt;, &lt;a href=&quot;https://www.bangor.ac.uk/&quot;&gt;Bangor University&lt;/a&gt; is a primary contributor.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Between 15th of February and the 8th of March, Panos and Peter delivered a course on XReality, to &lt;a href=&quot;https://www.airbus.com/en&quot;&gt;Airbus&lt;/a&gt; employees. The course is part of the &lt;a href=&quot;https://dsp-centre.bangor.ac.uk/&quot;&gt;DSP Centre’s&lt;/a&gt; Educational College and was delivered within the &lt;a href=&quot;https://www.bangor.ac.uk/news/bangor-university-and-coleg-cambria-announce-a-new-collaborative-relationship&quot;&gt;Skills Factory programme&lt;/a&gt;, for which the &lt;a href=&quot;https://www.bangor.ac.uk/computer-science-and-electronic-engineering/index.php.en&quot;&gt;School of Computer Science and Electronic Engineering&lt;/a&gt;, &lt;a href=&quot;https://www.bangor.ac.uk/&quot;&gt;Bangor University&lt;/a&gt; is a primary contributor.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/XR_Airbus.jpg&quot; alt=&quot;XReality course delivered at Airbus&quot; style=&quot;margin: 10 auto; width: 800px;&quot; /&gt;&lt;/p&gt;
 
@@ -1195,9 +1253,9 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  
  <entry>
    <title>PhD opportunity in AI and Hydrology (UKRI CDT)</title>
-   <link href="http://localhost:4000/news/2020/01/03/postgrad-opportunities-copy/"/>
+   <link href="http://localhost:4000/news/2020/01/03/postgrad-opportunities/"/>
    <updated>2020-01-03T00:00:00+01:00</updated>
-   <id>http://localhost:4000/news/2020/01/03/postgrad-opportunities copy</id>
+   <id>http://localhost:4000/news/2020/01/03/postgrad-opportunities</id>
    <content type="html">&lt;p&gt;We have an exciting PhD opprtunity, funded from our &lt;a href=&quot;http://cdt-aimlac.org/cdt-research.html&quot; target=&quot;_blank&quot;&gt;UKRI Centre for Doctoral Training in Artificial Intelligence, Machine Learning &amp;amp; Advanced Computing&lt;/a&gt;.&lt;/p&gt;
 
 &lt;ul&gt;

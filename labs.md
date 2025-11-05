@@ -2,7 +2,7 @@
 layout: page
 title: Labs
 type: labs
-menu: main
+menu: none
 order: 1
 ---
 

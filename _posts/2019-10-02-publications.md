@@ -3,7 +3,8 @@ layout: post
 title: [Journal paper in T&F Assessment & Evaluation in Higher Education]
 categories: news
 tags:
-  - "learning analytics"
+  - learning 
+  - analytics
   - visualization
   - education
 related:

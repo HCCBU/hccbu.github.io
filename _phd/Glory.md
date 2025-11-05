@@ -6,6 +6,6 @@ tags:
 shortUrl:
 img: Glory.jpg
 order: 5
-list: true
+list: false
 
 Bio incoming soon...

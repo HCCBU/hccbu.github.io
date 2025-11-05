@@ -2,22 +2,8 @@
 layout: default
 ---
 
-<div class="page">
-
-<h1  class="post-title">{{ page.title }}</h1>
 
 <p>{{ content }}</p>
-
-
-<ul>
-    {% for technology in page.technology%}
-    <li><a>{{ technology }}</a></li>
-    {% endfor %}
-</ul>
-
-
-
-
 
 <div class="social">
 <span class="linkback"><a href="{{ site.baseurl }}/projects/"><i class="fa fa-hand-o-left" aria-hidden="true"></i> Back to Projects</a></span>
