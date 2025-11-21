@@ -4,7 +4,7 @@
  <title>Human-Centred Computing Research Group, Bangor University</title>
  <link href="https://hccbu.github.io//atom.xml" rel="self"/>
  <link href="https://hccbu.github.io//"/>
- <updated>2025-11-05T13:45:57+01:00</updated>
+ <updated>2025-11-21T11:50:53+00:00</updated>
  <id>https://hccbu.github.io/</id>
  <author>
    <name></name>
@@ -15,7 +15,7 @@
  <entry>
    <title>Papers for presentation at IEEE VIS2025</title>
    <link href="https://hccbu.github.io//news/2025/08/11/publications/"/>
-   <updated>2025-08-11T00:00:00+02:00</updated>
+   <updated>2025-08-11T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2025/08/11/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/vis2025_logo.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;IEEE VIS2025 Banner and Logo&quot; /&gt;&lt;/p&gt;
 
@@ -203,7 +203,7 @@
  <entry>
    <title>Paper accepted by UIST'25</title>
    <link href="https://hccbu.github.io//news/2025/07/24/publications/"/>
-   <updated>2025-07-24T00:00:00+02:00</updated>
+   <updated>2025-07-24T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2025/07/24/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/Spatialstrates.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Spatialstrates&quot; /&gt;&lt;/p&gt;
 
@@ -252,7 +252,7 @@
  <entry>
    <title>Paper published in IEEE CG&A</title>
    <link href="https://hccbu.github.io//news/2025/04/11/publications/"/>
-   <updated>2025-04-11T00:00:00+02:00</updated>
+   <updated>2025-04-11T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2025/04/11/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/prepareVisPandemic.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Dashspace&quot; /&gt;&lt;/p&gt;
 
@@ -293,7 +293,7 @@
  <entry>
    <title>Paper published in IEEE TVCG, to be presented at IEEE VIS 2025</title>
    <link href="https://hccbu.github.io//news/2025/01/22/publications/"/>
-   <updated>2025-01-22T00:00:00+01:00</updated>
+   <updated>2025-01-22T00:00:00+00:00</updated>
    <id>https://hccbu.github.io//news/2025/01/22/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/dashspace.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Dashspace&quot; /&gt;&lt;/p&gt;
 
@@ -315,7 +315,7 @@
  <entry>
    <title>Presented at DAFNI Wales Roadshow 2024</title>
    <link href="https://hccbu.github.io//news/2024/09/20/workshop/"/>
-   <updated>2024-09-20T00:00:00+02:00</updated>
+   <updated>2024-09-20T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2024/09/20/workshop</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/DAFNI-logo.jpg&quot; class=&quot;prjImgFlt&quot; alt=&quot;DAFNI_banner&quot; /&gt;&lt;/p&gt;
 
@@ -327,7 +327,7 @@
  <entry>
    <title>Papers accepted by IEEE TVCG/ VIS2024</title>
    <link href="https://hccbu.github.io//news/2024/08/09/publications/"/>
-   <updated>2024-08-09T00:00:00+02:00</updated>
+   <updated>2024-08-09T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2024/08/09/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/vi2024_logo.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;IEEE VIS2024 Banner and Logo&quot; /&gt;&lt;/p&gt;
 
@@ -400,7 +400,7 @@
  <entry>
    <title>Participated in Dagstuhl Seminar - Reflections on Pandemic Visualization</title>
    <link href="https://hccbu.github.io//news/2024/03/01/travel/"/>
-   <updated>2024-03-01T00:00:00+01:00</updated>
+   <updated>2024-03-01T00:00:00+00:00</updated>
    <id>https://hccbu.github.io//news/2024/03/01/travel</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/dagstuhl.jpg&quot; class=&quot;prjImgFlt&quot; alt=&quot;Image of Schloss Dagstuhl&quot; /&gt;&lt;/p&gt;
 
@@ -442,7 +442,7 @@
  <entry>
    <title>Paper published in IEEE CG&A Vis Viewpoints</title>
    <link href="https://hccbu.github.io//news/2024/02/15/publications/"/>
-   <updated>2024-02-15T00:00:00+01:00</updated>
+   <updated>2024-02-15T00:00:00+00:00</updated>
    <id>https://hccbu.github.io//news/2024/02/15/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/unity-webxr-benchmarks.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;WebXR vs Game Engine Bnechmarks&quot; /&gt;&lt;/p&gt;
 
@@ -485,7 +485,7 @@
  <entry>
    <title>XRVA at IEEE VIS 2023</title>
    <link href="https://hccbu.github.io//news/2023/10/21/publications/"/>
-   <updated>2023-10-21T00:00:00+02:00</updated>
+   <updated>2023-10-21T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2023/10/21/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/vis2023-banner.png&quot; alt=&quot;VIS2023 Header&quot; /&gt;&lt;/p&gt;
 
@@ -658,7 +658,7 @@
  <entry>
    <title>Workshop paper accepted in HUI / ISMAR2023</title>
    <link href="https://hccbu.github.io//news/2023/08/07/publications/"/>
-   <updated>2023-08-07T00:00:00+02:00</updated>
+   <updated>2023-08-07T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2023/08/07/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/wiz_hui_ismar.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Wizualization System Overview&quot; /&gt;&lt;/p&gt;
 
@@ -700,7 +700,7 @@
  <entry>
    <title>Journal paper accepted in IEEE TVCG / VIS2023</title>
    <link href="https://hccbu.github.io//news/2023/07/17/publications/"/>
-   <updated>2023-07-17T00:00:00+02:00</updated>
+   <updated>2023-07-17T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2023/07/17/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/wiz.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Motivating scenario for Wizualization&quot; /&gt;&lt;/p&gt;
 
@@ -743,7 +743,7 @@
  <entry>
    <title>Journal paper accepted in IEEE TVCG</title>
    <link href="https://hccbu.github.io//news/2023/06/08/publications/"/>
-   <updated>2023-06-08T00:00:00+02:00</updated>
+   <updated>2023-06-08T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2023/06/08/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/situated_survey.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Example of a situated analytics tool that uses Augmented Reality to enable sensemaking in-situ&quot; /&gt;&lt;/p&gt;
 
@@ -784,7 +784,7 @@
  <entry>
    <title>Journal paper accepted in Computer Graphics Forum</title>
    <link href="https://hccbu.github.io//news/2023/03/30/publications/"/>
-   <updated>2023-03-30T00:00:00+02:00</updated>
+   <updated>2023-03-30T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2023/03/30/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/holodeck-teaser.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Situated Analytics with Handheld AR&quot; /&gt;&lt;/p&gt;
 
@@ -825,7 +825,7 @@
  <entry>
    <title>Journal paper accepted in Environmental Modelling & Software</title>
    <link href="https://hccbu.github.io//news/2022/07/21/publications/"/>
-   <updated>2022-07-21T00:00:00+02:00</updated>
+   <updated>2022-07-21T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2022/07/21/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/LUCSTc.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;LUCST&quot; /&gt;&lt;/p&gt;
 
@@ -866,7 +866,7 @@
  <entry>
    <title>Journal papers accepted in Epidemics and in Phil. Trans. R. Soc. A.</title>
    <link href="https://hccbu.github.io//news/2022/04/25/publications/"/>
-   <updated>2022-04-25T00:00:00+02:00</updated>
+   <updated>2022-04-25T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2022/04/25/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/ramvisII_teaser.png&quot; alt=&quot;RAMPVIS Project pipeline&quot; style=&quot;margin: 0 auto; width: 8S00px;&quot; /&gt;&lt;/p&gt;
 
@@ -933,7 +933,7 @@
  <entry>
    <title>Delivered an XReality course at Airbus</title>
    <link href="https://hccbu.github.io//news/2022/03/08/teaching/"/>
-   <updated>2022-03-08T00:00:00+01:00</updated>
+   <updated>2022-03-08T00:00:00+00:00</updated>
    <id>https://hccbu.github.io//news/2022/03/08/teaching</id>
    <content type="html">&lt;p&gt;Between 15th of February and the 8th of March, Panos and Peter delivered a course on XReality, to &lt;a href=&quot;https://www.airbus.com/en&quot;&gt;Airbus&lt;/a&gt; employees. The course is part of the &lt;a href=&quot;https://dsp-centre.bangor.ac.uk/&quot;&gt;DSP Centre’s&lt;/a&gt; Educational College and was delivered within the &lt;a href=&quot;https://www.bangor.ac.uk/news/bangor-university-and-coleg-cambria-announce-a-new-collaborative-relationship&quot;&gt;Skills Factory programme&lt;/a&gt;, for which the &lt;a href=&quot;https://www.bangor.ac.uk/computer-science-and-electronic-engineering/index.php.en&quot;&gt;School of Computer Science and Electronic Engineering&lt;/a&gt;, &lt;a href=&quot;https://www.bangor.ac.uk/&quot;&gt;Bangor University&lt;/a&gt; is a primary contributor.&lt;/p&gt;
 
@@ -946,7 +946,7 @@
  <entry>
    <title>Sprint Project on Visual Analytics for Flood Modelling funded by WDNA</title>
    <link href="https://hccbu.github.io//news/2022/02/09/funding-updates/"/>
-   <updated>2022-02-09T00:00:00+01:00</updated>
+   <updated>2022-02-09T00:00:00+00:00</updated>
    <id>https://hccbu.github.io//news/2022/02/09/funding-updates</id>
    <content type="html">&lt;p&gt;We have received funding to extend our work on the development of a new decision support visual analytics toolkit, called LUCST (&lt;a href=&quot;/projects/LUCST/&quot;&gt;project page&lt;/a&gt;), as a Sprint Project from the &lt;a href=&quot;https://www.cardiff.ac.uk/__data/assets/pdf_file/0006/2520393/Wales-Data-Nation-Accelerator.pdf&quot;&gt;Wales Data Nation Accelerator&lt;/a&gt;. The toolkit is to help improve the planning and management of flood alleviation schemes in Gwynedd, and the funded extension is to integrate AI capabilities.&lt;/p&gt;
 
@@ -959,7 +959,7 @@
  <entry>
    <title>Journal paper in MDPI Computers</title>
    <link href="https://hccbu.github.io//news/2022/02/03/publications/"/>
-   <updated>2022-02-03T00:00:00+01:00</updated>
+   <updated>2022-02-03T00:00:00+00:00</updated>
    <id>https://hccbu.github.io//news/2022/02/03/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/oneViewNotEnough_teaser.png&quot; alt=&quot;Visualisation Data Flow for 3D&quot; style=&quot;margin: 0 auto; width: 8S00px;&quot; /&gt;&lt;/p&gt;
 
@@ -1001,7 +1001,7 @@
  <entry>
    <title>Visual Analytics research on local press</title>
    <link href="https://hccbu.github.io//news/2021/12/22/media/"/>
-   <updated>2021-12-22T00:00:00+01:00</updated>
+   <updated>2021-12-22T00:00:00+00:00</updated>
    <id>https://hccbu.github.io//news/2021/12/22/media</id>
    <content type="html">&lt;p&gt;Our collaboration with the &lt;a href=&quot;https://www.bangor.ac.uk/natural-sciences/index.php.en&quot;&gt;School of Natural Sciences&lt;/a&gt; and Gwynedd Council’s consultancy arm &lt;a href=&quot;https://ygc.cymru/&quot;&gt;Ymgynghoriaeth Gwynedd Consultancy (YGC)&lt;/a&gt; on the development of a new decision support visual analytics toolkit (&lt;a href=&quot;/projects/LUCST/&quot;&gt;project page&lt;/a&gt;), that facilitates modelling the impact of land use change on river hydrology and provides valuable insights, has appeared in the &lt;a href=&quot;https://www.northwaleschronicle.co.uk/news/19802617.bangor-researchers-gwynedd-council-manage-flood-risk-using-visual-analytics/&quot;&gt;North Wales Chronicle&lt;/a&gt;.&lt;/p&gt;
 
@@ -1016,7 +1016,7 @@
  <entry>
    <title>DSP Centre receives 3M funding</title>
    <link href="https://hccbu.github.io//news/2021/12/15/funding-updates/"/>
-   <updated>2021-12-15T00:00:00+01:00</updated>
+   <updated>2021-12-15T00:00:00+00:00</updated>
    <id>https://hccbu.github.io//news/2021/12/15/funding-updates</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/dspBanner.jpg&quot; alt=&quot;Research at the DSP Centre of Excellence, in Bangor University&quot; style=&quot;margin: 0 auto; width: 960px;&quot; /&gt;&lt;/p&gt;
 
@@ -1030,7 +1030,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>RAMPVIS project funded by EPSRC</title>
    <link href="https://hccbu.github.io//news/2021/01/01/funding-updates/"/>
-   <updated>2021-01-01T00:00:00+01:00</updated>
+   <updated>2021-01-01T00:00:00+00:00</updated>
    <id>https://hccbu.github.io//news/2021/01/01/funding-updates</id>
    <content type="html">&lt;p&gt;Our project_RAMP VIS: Making Visual Analytics an Integral Part of the Technological Infrastructure for Combating COVID-19_ (01/2020 - 12/2020) has been funderd by the &lt;a href=&quot;https://gtr.ukri.org/projects?ref=EP%2FV054236%2F1&quot;&gt;EPSRC funded project (EP/V054236/1)&lt;/a&gt;. This work is continuation of our volunteering work in the &lt;a href=&quot;https://epcced.github.io/ramp/&quot;&gt;Rapid Assistance in Modelling the Pandemic (RAMP)&lt;/a&gt; initiative. Bangor VIS experts, &lt;a href=&quot;https://sites.google.com/view/rampvis/home&quot;&gt;along with some twenty VIS scientists&lt;/a&gt;, researchers, and developers in the UK answered a call in May 2020 for VIS volunteers to support modelling scientists and epidemiologists in the &lt;a href=&quot;https://www.gla.ac.uk/research/az/scrc/&quot;&gt;Scottish COVID-19 Response Consortium (SCRC)&lt;/a&gt;, which is one of the three consortia in the Royal Society’s &lt;a href=&quot;https://epcced.github.io/ramp/&quot;&gt;RAMP)&lt;/a&gt; programme.&lt;/p&gt;
 
@@ -1041,7 +1041,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title> PhDs in AI, Immersive Analytics and Edge Computing, and Hydrology (UKRI CDT),</title>
    <link href="https://hccbu.github.io//news/2020/12/15/postgrad-opportunities/"/>
-   <updated>2020-12-15T00:00:00+01:00</updated>
+   <updated>2020-12-15T00:00:00+00:00</updated>
    <id>https://hccbu.github.io//news/2020/12/15/postgrad-opportunities</id>
    <content type="html">&lt;p&gt;We have some exciting PhD opprtunities, funded from our &lt;a href=&quot;http://cdt-aimlac.org/cdt-research.html&quot; target=&quot;\_blank&quot;&gt;UKRI Centre for Doctoral Training in Artificial Intelligence, Machine Learning &amp;amp; Advanced Computing&lt;/a&gt;.&lt;/p&gt;
 
@@ -1076,7 +1076,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>IEEE TVCG journal paper & a poster to be presented in IEEE VIS 2020</title>
    <link href="https://hccbu.github.io//news/2020/09/08/publications/"/>
-   <updated>2020-09-08T00:00:00+02:00</updated>
+   <updated>2020-09-08T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2020/09/08/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/vria_out_s.png&quot; alt=&quot;WebVR-based visualizations built with VRIA&quot; style=&quot;margin: 0 auto; width: 800px;&quot; /&gt;&lt;/p&gt;
 
@@ -1156,7 +1156,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Journal paper in MDPI Computers</title>
    <link href="https://hccbu.github.io//news/2020/03/06/publications/"/>
-   <updated>2020-03-06T00:00:00+01:00</updated>
+   <updated>2020-03-06T00:00:00+00:00</updated>
    <id>https://hccbu.github.io//news/2020/03/06/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/virtual_forest_s.png&quot; alt=&quot;Virtual Forests, created procedurally&quot; style=&quot;margin: 0 auto; width: 8S00px;&quot; /&gt;&lt;/p&gt;
 
@@ -1198,7 +1198,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Journal paper in IEEE TVCG</title>
    <link href="https://hccbu.github.io//news/2020/01/04/publications/"/>
-   <updated>2020-01-04T00:00:00+01:00</updated>
+   <updated>2020-01-04T00:00:00+00:00</updated>
    <id>https://hccbu.github.io//news/2020/01/04/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/vria_out_s.png&quot; alt=&quot;WebVR-based visualizations built with VRIA&quot; style=&quot;margin: 0 auto; width: 800px;&quot; /&gt;&lt;/p&gt;
 
@@ -1254,7 +1254,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>PhD opportunity in AI and Hydrology (UKRI CDT)</title>
    <link href="https://hccbu.github.io//news/2020/01/03/postgrad-opportunities/"/>
-   <updated>2020-01-03T00:00:00+01:00</updated>
+   <updated>2020-01-03T00:00:00+00:00</updated>
    <id>https://hccbu.github.io//news/2020/01/03/postgrad-opportunities</id>
    <content type="html">&lt;p&gt;We have an exciting PhD opprtunity, funded from our &lt;a href=&quot;http://cdt-aimlac.org/cdt-research.html&quot; target=&quot;_blank&quot;&gt;UKRI Centre for Doctoral Training in Artificial Intelligence, Machine Learning &amp;amp; Advanced Computing&lt;/a&gt;.&lt;/p&gt;
 
@@ -1297,7 +1297,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Journal paper in T&F Assessment & Evaluation in Higher Education</title>
    <link href="https://hccbu.github.io//news/2019/10/02/publications/"/>
-   <updated>2019-10-02T00:00:00+02:00</updated>
+   <updated>2019-10-02T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2019/10/02/publications</id>
    <content type="html">&lt;p&gt;Our publication &lt;a href=&quot;https://doi.org/10.1080/02602938.2019.1676397&quot;&gt;Visualizing the University Student Journey&lt;/a&gt; is published the journal of &lt;a href=&quot;https://www.tandfonline.com/toc/caeh20/current&quot;&gt;Assessment &amp;amp; Evaluation in Higher Education&lt;/a&gt;.&lt;/p&gt;
 
@@ -1337,7 +1337,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Papers at EG CGVC 2019</title>
    <link href="https://hccbu.github.io//news/2019/07/31/publications/"/>
-   <updated>2019-07-31T00:00:00+02:00</updated>
+   <updated>2019-07-31T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2019/07/31/publications</id>
    <content type="html">&lt;p&gt;We presented one full paper and one short paper in the   &lt;a href=&quot;http://eguk.bangor.ac.uk/CGVC2019/&quot;&gt;&lt;em&gt;Eurographics Conference on Computer Graphics and Visual Computing 2019 (CGVC 2019)&lt;/em&gt;&lt;/a&gt;, held in Bangor, UK, on the 12th - 13th of September, 2019. The full paper received the Rob Fletcher Prize for Best Student Application Paper.&lt;/p&gt;
 
@@ -1401,7 +1401,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Extended Abstract at ACM CHI 2019 Late-Breaking Work</title>
    <link href="https://hccbu.github.io//news/2019/04/30/publications/"/>
-   <updated>2019-04-30T00:00:00+02:00</updated>
+   <updated>2019-04-30T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2019/04/30/publications</id>
    <content type="html">&lt;p&gt;We presented our work on the VRIA framework, as a Late Breaking work extended abstract in the &lt;a href=&quot;http://chi2019.acm.org/&quot;&gt;&lt;em&gt;ACM Conference on Human Factors in Computing Systems (CHI 2019)&lt;/em&gt;&lt;/a&gt;, held in Glasgow, UK, on the 4th - 9th of May, 2019.&lt;/p&gt;
 
@@ -1418,7 +1418,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Workshop papers at ACM CHI 2019</title>
    <link href="https://hccbu.github.io//news/2019/04/25/publications/"/>
-   <updated>2019-04-25T00:00:00+02:00</updated>
+   <updated>2019-04-25T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2019/04/25/publications</id>
    <content type="html">&lt;p&gt;We presented three workshop papers during the &lt;a href=&quot;http://chi2019.acm.org/&quot;&gt;&lt;em&gt;ACM Conference on Human Factors in Computing Systems (CHI 2019)&lt;/em&gt;&lt;/a&gt;, held in Glasgow, UK, on the 4th - 9th of May, 2019.&lt;/p&gt;
 
@@ -1506,7 +1506,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Posters and workshop paper at IEEE VIS 2018</title>
    <link href="https://hccbu.github.io//news/2018/08/23/publications/"/>
-   <updated>2018-08-23T00:00:00+02:00</updated>
+   <updated>2018-08-23T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2018/08/23/publications</id>
    <content type="html">&lt;p&gt;We presented the following two posters and a workshop paper, in the &lt;a href=&quot;http://ieeevis.org/year/2018/welcome&quot;&gt;&lt;em&gt;International Conference on Visualization (IEEE VIS 2018)&lt;/em&gt;&lt;/a&gt;, held in Berlin, Germany, on the 21th - 26th of October, 2018.&lt;/p&gt;
 
@@ -1594,7 +1594,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Paper at the Fragile Earth Workshop (FEED) @ KDD'18</title>
    <link href="https://hccbu.github.io//news/2018/07/20/publications/"/>
-   <updated>2018-07-20T00:00:00+02:00</updated>
+   <updated>2018-07-20T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2018/07/20/publications</id>
    <content type="html">&lt;p&gt;We presented a workshop paper, below,  introducing the &lt;a href=&quot;/projects/Water4Cities/&quot;&gt;Water4Cities project&lt;/a&gt;, in the &lt;a href=&quot;https://ai4good.org/kdd-2018-workshop/&quot;&gt;&lt;em&gt;Fragile Earth Workshop (FEED) @ KDD’18&lt;/em&gt;&lt;/a&gt;, held in London, UK, on the 20th of August, 2018.&lt;/p&gt;
 
@@ -1630,7 +1630,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Paper at the 3rd EWaS International Conference</title>
    <link href="https://hccbu.github.io//news/2018/06/21/publications/"/>
-   <updated>2018-06-21T00:00:00+02:00</updated>
+   <updated>2018-06-21T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2018/06/21/publications</id>
    <content type="html">&lt;p&gt;We presented a conference publication, below, introducing the &lt;a href=&quot;/projects/Water4Cities/&quot;&gt;Water4Cities project&lt;/a&gt; in the &lt;a href=&quot;http://ewas3.civ.uth.gr/index.html&quot;&gt;&lt;em&gt;3rd Efficient Water Systems (EWaS) International Conference&lt;/em&gt;&lt;/a&gt; on “insights on the Water-Energy-Food Nexus”, held in Lefkada Island, Greece, from 27th to 30th of June 2018.&lt;/p&gt;
 
@@ -1668,7 +1668,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>IEEE TVCG paper invited to IEEE VR 2018</title>
    <link href="https://hccbu.github.io//news/2018/02/25/publications/"/>
-   <updated>2018-02-25T00:00:00+01:00</updated>
+   <updated>2018-02-25T00:00:00+00:00</updated>
    <id>https://hccbu.github.io//news/2018/02/25/publications</id>
    <content type="html">&lt;p&gt;One of our past &lt;a href=&quot;https://www.computer.org/web/tvcg&quot;&gt;&lt;em&gt;IEEE TVCG&lt;/em&gt;&lt;/a&gt;  articles was invited for presentation at &lt;a href=&quot;http://ieeevr.org/2018/&quot;&gt;IEEE VR 2018&lt;/a&gt;, held in Reutlingen, Germany.&lt;/p&gt;
 
@@ -1680,7 +1680,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Papers at IEEE VIS 2017</title>
    <link href="https://hccbu.github.io//news/2017/08/01/publications/"/>
-   <updated>2017-08-01T00:00:00+02:00</updated>
+   <updated>2017-08-01T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2017/08/01/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/vis2017.jpg&quot; alt=&quot;Vis2017 Header&quot; /&gt;&lt;/p&gt;
 
@@ -1849,7 +1849,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Short paper at Cyberworlds 2017</title>
    <link href="https://hccbu.github.io//news/2017/07/30/publications/"/>
-   <updated>2017-07-30T00:00:00+02:00</updated>
+   <updated>2017-07-30T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2017/07/30/publications</id>
    <content type="html">&lt;p&gt;We presented a short paper in Cyberworlds 2017, held in Chester, UK, in September. More information about the conference can be found &lt;a href=&quot;http://cw2017.org/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
@@ -1886,7 +1886,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Journal paper at IEEE TVCG / VIS 2017</title>
    <link href="https://hccbu.github.io//news/2017/07/25/publications/"/>
-   <updated>2017-07-25T00:00:00+02:00</updated>
+   <updated>2017-07-25T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2017/07/25/publications</id>
    <content type="html">&lt;p&gt;Our publication &lt;a href=&quot;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7192707&quot;&gt;The explanatory visualization framework: An active learning framework for teaching creative computing using explanatory visualizations&lt;/a&gt; was presented in &lt;em&gt;IEEE VIS2017&lt;/em&gt;, held in Phoenix, AZ, USA.&lt;/p&gt;
 
@@ -1929,7 +1929,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Journal paper in IEEE TVCG</title>
    <link href="https://hccbu.github.io//news/2017/04/30/publications/"/>
-   <updated>2017-04-30T00:00:00+02:00</updated>
+   <updated>2017-04-30T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2017/04/30/publications</id>
    <content type="html">&lt;p&gt;Our journal article &lt;a href=&quot;/publications#John-et-al-TVCG-2017&quot;&gt;“The Implementation &amp;amp; Validation of a Virtual Environment for Training Powered Wheelchair Manoeuvres”&lt;/a&gt; has been accepted in &lt;a href=&quot;https://www.computer.org/web/tvcg&quot;&gt;&lt;em&gt;IEEE Transactions of Visualization and Computer Graphics (TVCG)&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
@@ -1944,7 +1944,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Papers at IEEE VIS 2016</title>
    <link href="https://hccbu.github.io//news/2016/10/30/publications/"/>
-   <updated>2016-10-30T00:00:00+02:00</updated>
+   <updated>2016-10-30T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2016/10/30/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/Vis16-header.jpg&quot; alt=&quot;Vis2016 Header&quot; /&gt;&lt;/p&gt;
 
@@ -2063,7 +2063,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Paper at MMVR 22</title>
    <link href="https://hccbu.github.io//news/2016/05/01/publications/"/>
-   <updated>2016-05-01T00:00:00+02:00</updated>
+   <updated>2016-05-01T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2016/05/01/publications</id>
    <content type="html">&lt;p&gt;We presented a conference paper at &lt;a href=&quot;http://www.nextmed.com/&quot;&gt;Medicine Meets Virtual Reality Conference (MMVR22)&lt;/a&gt;:&lt;/p&gt;
 
@@ -2099,7 +2099,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Journal paper in ACM Journal on Computing and Cultural Heritage (JOCCH)</title>
    <link href="https://hccbu.github.io//news/2015/11/21/publications/"/>
-   <updated>2015-11-21T00:00:00+01:00</updated>
+   <updated>2015-11-21T00:00:00+00:00</updated>
    <id>https://hccbu.github.io//news/2015/11/21/publications</id>
    <content type="html">&lt;p&gt;A journal paper, in which we have contributed the design of a Handheld Augmented Reality application for cultural heritage was published in ACM Journal on Computing and Cultural Heritage (JOCCH). The paper provides an overview of the &lt;em&gt;Heritage Together&lt;/em&gt; project, lead by Bangor University.&lt;/p&gt;
 
@@ -2138,7 +2138,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Papers at IEEE VIS 2015</title>
    <link href="https://hccbu.github.io//news/2015/10/20/publications/"/>
-   <updated>2015-10-20T00:00:00+02:00</updated>
+   <updated>2015-10-20T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2015/10/20/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/Vis15-header.png&quot; alt=&quot;Vis2015 Header&quot; /&gt;&lt;/p&gt;
 
@@ -2286,7 +2286,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Posters at EG VCBM 2015</title>
    <link href="https://hccbu.github.io//news/2015/09/19/publications/"/>
-   <updated>2015-09-19T00:00:00+02:00</updated>
+   <updated>2015-09-19T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2015/09/19/publications</id>
    <content type="html">&lt;p&gt;We presented two posters in &lt;a href=&quot;http://www.vcbm.org/&quot;&gt;EG VCBM2015&lt;/a&gt;:&lt;/p&gt;
 
@@ -2350,7 +2350,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Paper at IEEE VIS 2015 Personal Visualization Workshop</title>
    <link href="https://hccbu.github.io//news/2015/09/06/publications/"/>
-   <updated>2015-09-06T00:00:00+02:00</updated>
+   <updated>2015-09-06T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2015/09/06/publications</id>
    <content type="html">&lt;p&gt;Our publication &lt;a href=&quot;http://pdritsos.com/files/Roberts-et-al-Viz4me-VIS2015.pdf&quot;&gt;Personal Learning Visualization&lt;/a&gt; was presented in the &lt;em&gt;Personal Visualization: Exploring Data in Everyday Life&lt;/em&gt; workshop of &lt;em&gt;IEEE VIS2015&lt;/em&gt;. You can have a look at the accepted papers, news and updates from the workshop at  &lt;a href=&quot;http://www.vis4me.com/personalvis15/&quot;&gt;Vis4me&lt;/a&gt;.&lt;/p&gt;
 
@@ -2369,7 +2369,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Paper at IEEE VizSec 2015</title>
    <link href="https://hccbu.github.io//news/2015/09/05/publications/"/>
-   <updated>2015-09-05T00:00:00+02:00</updated>
+   <updated>2015-09-05T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2015/09/05/publications</id>
    <content type="html">&lt;p&gt;Our publication &lt;a href=&quot;http://pdritsos.com/files/Gray-et-al-VizSec2015.pdf&quot;&gt;Contextual Network Navigation; Situational Awareness for Network Administrators&lt;/a&gt; was presented in the &lt;em&gt;IEEE Symposium on Visualization for Cyber Security&lt;/em&gt; held in conjunction with &lt;em&gt;IEEE VIS2015&lt;/em&gt;. You can have a look at the accepted papers, news and updates from the symposium at  &lt;a href=&quot;http://vizsec.org/&quot;&gt;VisSec&lt;/a&gt;.&lt;/p&gt;
 
@@ -2388,7 +2388,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Poster at IEEE VIS 2015</title>
    <link href="https://hccbu.github.io//news/2015/07/24/publications/"/>
-   <updated>2015-07-24T00:00:00+02:00</updated>
+   <updated>2015-07-24T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2015/07/24/publications</id>
    <content type="html">&lt;p&gt;Our poster &lt;a href=&quot;http://pdritsos.com/files/Gray-et-al-ContextNav-VIS2015.pdf&quot;&gt;Where Can I Go From Here? Drawing Contextual Navigation Maps of the London Underground&lt;/a&gt; was presented in &lt;em&gt;IEEE VIS2015&lt;/em&gt; held in Chicago, IL. You can have a look at the accepted papers, news and updates from the symposium at  &lt;a href=&quot;http://www.ieeevis.org&quot;&gt;VIS2015&lt;/a&gt;.&lt;/p&gt;
 
@@ -2413,7 +2413,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Journal paper at IEEE TVCG / VIS 2015</title>
    <link href="https://hccbu.github.io//news/2015/06/08/publications/"/>
-   <updated>2015-06-08T00:00:00+02:00</updated>
+   <updated>2015-06-08T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2015/06/08/publications</id>
    <content type="html">&lt;p&gt;Our publication &lt;a href=&quot;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7192707&quot;&gt;Sketching designs using the Five Design-Sheet methodology&lt;/a&gt; was presented in &lt;em&gt;IEEE VIS2015&lt;/em&gt; held in Chicago, IL. More information on the FDS methodology can be found over at the project’s website, at &lt;a href=&quot;http://fds.design/&quot;&gt;fds.design&lt;/a&gt;.&lt;/p&gt;
 
@@ -2454,7 +2454,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>IEEE CG&amp;A journal paper invited in IEEE VIS 2015</title>
    <link href="https://hccbu.github.io//news/2015/05/08/publications/"/>
-   <updated>2015-05-08T00:00:00+02:00</updated>
+   <updated>2015-05-08T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2015/05/08/publications</id>
    <content type="html">&lt;p&gt;Our publication &lt;a href=&quot;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6879056&quot;&gt;Visualization Beyond the Desktop - the next big thing&lt;/a&gt; was invited and presented in &lt;a href=&quot;http://www.ieeevis.org&quot;&gt;VIS2015&lt;/a&gt;, held in Chicago, IL. Our paper presents a road-map to the future of data visualization, facilitated from a technological metamorphosis in interface design, towards a mixed reality world, that encompasses various sensors, is transparent to the user and can be accessed via the Web.&lt;/p&gt;
 
@@ -2494,7 +2494,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Papers at IEEE VIS 2014 Death of the Desktop Wokshop</title>
    <link href="https://hccbu.github.io//news/2014/11/30/publications/"/>
-   <updated>2014-11-30T00:00:00+01:00</updated>
+   <updated>2014-11-30T00:00:00+00:00</updated>
    <id>https://hccbu.github.io//news/2014/11/30/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/Death_of_the_Desktop.png&quot; alt=&quot;DoTD&quot; /&gt;&lt;/p&gt;
 
@@ -2559,7 +2559,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
  <entry>
    <title>Paper at EG GCH Workshop</title>
    <link href="https://hccbu.github.io//news/2014/10/30/publications/"/>
-   <updated>2014-10-30T00:00:00+01:00</updated>
+   <updated>2014-10-30T00:00:00+00:00</updated>
    <id>https://hccbu.github.io//news/2014/10/30/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/EGGCH.png&quot; alt=&quot;EGGCH&quot; /&gt;&lt;/p&gt;
 
