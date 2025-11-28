@@ -11,7 +11,4 @@ order: 3
 list: true
 ---
 
-Peter is a Lecturer in Human-Computer Interaction, at the <a href="http://www.cs.bangor.ac.uk/" target="_blank">School of Computer Science and Engineering</a>, <a href="http://www.bangor.ac.uk/" target="_blank">Bangor University, UK</a>.  He is a memebr of the <a href="https://xrvalab.github.io/" target="_blank"> XReality, Visualization and Analytics (XRVA) Lab</a> on Immersive Analytics and WebXR.
-
-
-
+Peter is a Lecturer in Human-Computer Interaction, at the [School of Computer Science and Engineering](http://www.cs.bangor.ac.uk), [Bangor University, UK](http://www.bangor.ac.uk/).  He is a memebr of the [XReality, Visualization and Analytics (XRVA) Lab](https://xrvalab.github.io/), working at the intersection of human-computer interaction, information visualisation, and immersive analytics. Peter’s research focuses on leveraging Web technologies to support the next generation of interactive, collaborative, and cross-device visual analytics systems. He is a member of the ACM and the BCS. You can find more about Peter on his [personal website](https://pbutcher.uk).
