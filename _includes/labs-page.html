@@ -1,0 +1,25 @@
+<div class="labs-page">
+  
+  <p class="labs-sublead">
+    Our group comprises three inter-dependent and collaborative labs, each focused on a key strand of our research portfolio.
+  </p>
+
+  <div class="labs-collection">
+    {% assign lab_pages = site.labs | sort:"order" %}
+    {% for lab in lab_pages %}
+      <article class="labCard">
+	<div class="labMedia">
+		<img class="labImg" src="{{ site.baseurl }}{{ lab.image.url }}" alt="{{ lab.image.alt }}" />
+	</div>
+
+	<div class="labDesc">
+		<h3 class="labTitle">{{ lab.title }}</h3>
+
+		<div class="labBody">
+			{{ lab.content | markdownify }}
+		</div>
+	</div>
+</article>
+    {% endfor %}
+  </div>
+</div>

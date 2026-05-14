@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<article class="culture-post">
+  <div class="culture-hero">
+    {% if page.image %}
+      <img src="{{ site.baseurl }}/assets/images/{{ page.image }}" alt="{{ page.title }}" class="culture-hero-image">
+      <div class="culture-overlay"></div>
+    {% endif %}
+    <div class="culture-header-content">
+      <h1 class="culture-title">{{ page.title }}</h1>
+      {% if page.category %}
+        <span class="culture-category">{{ page.category }}</span>
+      {% endif %}
+      {% if page.date %}
+        <time class="culture-date">{{ page.date | date: "%B %d, %Y" }}</time>
+      {% endif %}
+    </div>
+  </div>
+
+  <div class="culture-content">
+    {% include attendees.html %}
+    {{ content }}
+    {% include slideshow.html %}
+  </div>
+
+  {% if page.tags %}
+    <div class="culture-tags">
+      {% for tag in page.tags %}
+        <span class="culture-tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+  {% endif %}
+</article>

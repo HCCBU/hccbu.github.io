@@ -1,0 +1,109 @@
+<div class="conference-map-page">
+  <div class="conference-map-intro">
+    <p>Explore recent conference locations, open the related culture post, and jump straight to the linked publications.</p>
+  </div>
+
+  <div class="conference-map-container">
+    <div class="conference-map-square">
+      <div id="conference-map-canvas" class="conference-map-canvas" aria-label="Conference events map"></div>
+    </div>
+  </div>
+</div>
+
+<script id="conference-map-data" type="application/json">
+[
+{% assign culture_items = site.culture | where_exp: "item", "item.conference_map" | sort: "date" | reverse %}
+{% assign post_items = site.posts | where_exp: "item", "item.conference_map" | sort: "date" | reverse %}
+{% assign separator = "" %}
+{% for item in culture_items %}
+  {% assign raw_map_image = item.conference_map.image | default: item.conference_map.thumbnail | default: item.image %}
+  {% assign raw_publication_url = item.conference_map.publication_url %}
+  {% assign raw_culture_label = item.conference_map.culture_label | default: "Culture post" %}
+  {% assign raw_publication_label = item.conference_map.publication_label | default: "Publications" %}
+  {% capture raw_event_title %}{{ item.conference_map.city }} {{ item.conference_map.year }}{% endcapture %}
+
+  {% if raw_map_image %}
+    {% if raw_map_image contains '://' or raw_map_image contains '/' %}
+      {% assign map_image_url = raw_map_image %}
+    {% else %}
+      {% assign map_image_url = raw_map_image | prepend: '/assets/images/' | prepend: site.baseurl %}
+    {% endif %}
+  {% else %}
+    {% assign map_image_url = nil %}
+  {% endif %}
+
+  {% if raw_publication_url %}
+    {% if raw_publication_url contains '://' %}
+      {% assign publication_url = raw_publication_url %}
+    {% else %}
+      {% assign publication_url = raw_publication_url | prepend: site.baseurl %}
+    {% endif %}
+  {% else %}
+    {% assign publication_url = nil %}
+  {% endif %}
+
+  {{ separator }}
+  {
+    "kind": "culture",
+    "location_id": {{ item.conference_map.location_id | jsonify }},
+    "city": {{ item.conference_map.city | jsonify }},
+    "country": {{ item.conference_map.country | jsonify }},
+    "lat": {{ item.conference_map.lat | jsonify }},
+    "lng": {{ item.conference_map.lng | jsonify }},
+    "conference": {{ item.conference_map.conference | jsonify }},
+    "year": {{ item.conference_map.year | jsonify }},
+    "event_title": {{ item.conference_map.event_title | default: raw_event_title | strip | jsonify }},
+    "title": {{ item.title | jsonify }},
+    "culture_url": {{ item.url | prepend: site.baseurl | jsonify }},
+    "culture_label": {{ raw_culture_label | jsonify }},
+    "publication_url": {{ publication_url | jsonify }},
+    "publication_label": {{ raw_publication_label | jsonify }},
+    "image_url": {{ map_image_url | jsonify }}
+  }
+  {% assign separator = "," %}
+{% endfor %}
+{% for item in post_items %}
+  {% assign raw_map_image = item.conference_map.image | default: item.conference_map.thumbnail | default: item.image %}
+  {% assign raw_publication_url = item.conference_map.publication_url | default: item.url %}
+  {% assign raw_publication_label = item.conference_map.publication_label | default: "Publications" %}
+  {% capture raw_event_title %}{{ item.conference_map.city }} {{ item.conference_map.year }}{% endcapture %}
+
+  {% if raw_map_image %}
+    {% if raw_map_image contains '://' or raw_map_image contains '/' %}
+      {% assign map_image_url = raw_map_image %}
+    {% else %}
+      {% assign map_image_url = raw_map_image | prepend: '/assets/images/' | prepend: site.baseurl %}
+    {% endif %}
+  {% else %}
+    {% assign map_image_url = nil %}
+  {% endif %}
+
+  {% if raw_publication_url contains '://' %}
+    {% assign publication_url = raw_publication_url %}
+  {% else %}
+    {% assign publication_url = raw_publication_url | prepend: site.baseurl %}
+  {% endif %}
+
+  {{ separator }}
+  {
+    "kind": "publication",
+    "location_id": {{ item.conference_map.location_id | jsonify }},
+    "city": {{ item.conference_map.city | jsonify }},
+    "country": {{ item.conference_map.country | jsonify }},
+    "lat": {{ item.conference_map.lat | jsonify }},
+    "lng": {{ item.conference_map.lng | jsonify }},
+    "conference": {{ item.conference_map.conference | jsonify }},
+    "year": {{ item.conference_map.year | jsonify }},
+    "event_title": {{ item.conference_map.event_title | default: raw_event_title | strip | jsonify }},
+    "title": {{ item.title | jsonify }},
+    "publication_url": {{ publication_url | jsonify }},
+    "publication_label": {{ raw_publication_label | jsonify }},
+    "image_url": {{ map_image_url | jsonify }}
+  }
+  {% assign separator = "," %}
+{% endfor %}
+]
+</script>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script src="{{ site.baseurl }}/public/js/conference-map.js"></script>

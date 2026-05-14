@@ -1,0 +1,19 @@
+
+{% for tag in page.tags %}
+  {% assign social_tags = social_tags | append: ' %23' | append: tag %}
+{% endfor %}
+
+{% assign social_string = page.description | append: ' More info... ' | append: site.url | append: page.url | append: social_tags %}
+
+  <div id="share-box" style="float:right"> Share this:
+
+
+      <a href="https://bsky.app/intent/compose?text={{social_string}}" onclick="window.open(this.href, 'mywin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"><i class="fa-brands fa-bluesky"></i></a>&nbsp
+
+      <a href="https://www.linkedin.com/feed/?shareActive=true&text={{social_string}}" onclick="window.open(this.href, 'mywin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" ><i class="fa-brands fa-linkedin"></i></a>    
+
+      <a href="https://twitter.com/intent/tweet?text={{social_string}}" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"><i class="fa-brands fa-x-twitter"></i></a>
+
+    <!--  <a href="https://mastodon.social/share?text={{social_string}}" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"><i class="fa-brands fa-twitter"></i></a>-->
+
+  </div>

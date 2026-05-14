@@ -1,0 +1,140 @@
+---
+layout: default
+title: Welcome!
+type: home
+menu: main
+---
+<div class="home-page home-new" markdown="1">
+
+  <section class="home-new-hero">
+    <p class="home-new-badge">Research Group @ Bangor University</p>
+    <p class="home-new-lead">
+      We investigate how people interact with and understand complex information through visualization,
+      virtual reality, and human-computer interaction. Our research spans immersive analytics,
+      visual analytics, and next-generation interfaces.
+    </p>
+  </section>
+
+  <section class="home-new-section">
+    <h2>Research Areas</h2>
+    <p class="home-new-subtitle">Our work spans three main research directions.</p>
+
+    <div class="home-new-labs-grid">
+      {% assign sorted_labs = site.labs | sort: 'order' %}
+      {% for lab in sorted_labs %}
+        {% assign lab_image = lab.image.url %}
+        {% if lab.title contains 'XReality' %}
+          {% assign lab_image = '/assets/images/xrva-simple-logo.png' %}
+        {% endif %}
+        {% if lab.title contains 'Visualization' %}
+          {% assign lab_image = '/assets/images/vislab-simple-logo.png' %}
+        {% endif %}
+
+        <article class="home-new-lab-card carousel-card">
+          <div class="home-new-lab-image-wrap">
+            <img src="{{ lab_image }}" alt="{{ lab.image.alt }}" class="home-new-lab-image carousel-card-image" />
+          </div>
+          <div class="home-new-lab-content">
+            <h3>{{ lab.title }}</h3>
+            <p>{{ lab.content | strip_html | strip_newlines | truncate: 160 }}</p>
+          </div>
+        </article>
+      {% endfor %}
+    </div>
+  </section>
+
+  <!-- <div class="home-new-hero-grid">
+    <section class="home-new-culture-hero" aria-label="Our Culture">
+      <a href="{{ site.baseurl }}/culture" class="home-new-culture-hero-link">
+        <img
+          src="{{ site.baseurl }}/assets/images/VIS2.jpeg"
+          alt="HCC group photo at VIS 2025"
+          class="home-new-culture-hero-image"
+        />
+        <div class="home-new-culture-hero-overlay">
+          <h2 class="home-new-culture-hero-title">Our Culture</h2>
+          <span class="home-new-culture-hero-cta">Read more</span>
+        </div>
+      </a>
+    </section>
+
+    <section class="home-new-culture-hero" aria-label="Our Labs">
+      <a href="{{ site.baseurl }}/labs" class="home-new-culture-hero-link">
+        <img
+          src="{{ site.baseurl }}/assets/images/xr-music.png"
+          alt="HCC group photo at VIS 2025"
+          class="home-new-culture-hero-image"
+        />
+        <div class="home-new-culture-hero-overlay">
+          <h2 class="home-new-culture-hero-title">Our Labs</h2>
+          <span class="home-new-culture-hero-cta">Read more</span>
+        </div>
+      </a>
+    </section>
+
+    <section class="home-new-culture-hero" aria-label="Our Projects">
+      <a href="{{ site.baseurl }}/projects" class="home-new-culture-hero-link">
+        <img
+          src="{{ site.baseurl }}/assets/images/vria_teaser.png"
+          alt="HCC group photo at VIS 2025"
+          class="home-new-culture-hero-image"
+        />
+        <div class="home-new-culture-hero-overlay">
+          <h2 class="home-new-culture-hero-title">Our Projects</h2>
+          <span class="home-new-culture-hero-cta">Read more</span>
+        </div>
+      </a>
+    </section>
+
+    <section class="home-new-culture-hero" aria-label="Our Team">
+      <a href="{{ site.baseurl }}/team" class="home-new-culture-hero-link">
+        <img
+          src="{{ site.baseurl }}/assets/images/VIS25Group.jpeg"
+          alt="HCC group photo at VIS 2025"
+          class="home-new-culture-hero-image"
+        />
+        <div class="home-new-culture-hero-overlay">
+          <h2 class="home-new-culture-hero-title">Our Team</h2>
+          <span class="home-new-culture-hero-cta">Read more</span>
+        </div>
+      </a>
+    </section>
+  </div> -->
+
+  <section class="home-new-section">
+    <h2>News and Upcoming Events</h2>
+    <p class="home-new-subtitle">Click the links below for detailed information on recent activities:</p>
+
+    {% if paginator and paginator.posts %}
+      {% assign posts_source = paginator.posts %}
+    {% else %}
+      {% assign posts_source = site.posts %}
+    {% endif %}
+    {% assign current_posts = posts_source | where: 'list', true %}
+    <div class="home-new-news-list">
+      {% for post in current_posts limit: 8 %}
+        <a class="home-new-news-item news-item" href="{{ site.baseurl }}{{ post.url }}">
+          <span class="home-new-news-date">{{ post.date | date: '%b %Y' }}</span>
+          <span class="home-new-news-title">{{ post.title }}</span>
+        </a>
+      {% endfor %}
+    </div>
+
+    {% if paginator and paginator.total_pages > 1 %}
+      <div class="pagination">
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Newer</a>
+        {% else %}
+          <span>&laquo; Prev</span>
+        {% endif %}
+
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older &raquo;</a>
+        {% else %}
+          <span>Next &raquo;</span>
+        {% endif %}
+      </div>
+    {% endif %}
+  </section>
+
+</div>

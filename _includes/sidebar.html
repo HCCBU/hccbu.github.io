@@ -1,0 +1,56 @@
+<div id="mysidebar">
+
+  <div class="author-info">
+    <a href="/" class="hcc-animated-logo">
+      <div class="shield"></div>
+      <div class="text"></div>
+      <div class="acronym"></div>
+    </a>
+    <!--<h2 class="role"><span class="subtitleAccent">XR</span>eality, <span class="subtitleAccent">V</span>isualization &amp; <span class="subtitleAccent">A</span>nalytics</h2>-->
+
+    <!--<h2 class="role">Senior Lecturer in Visualization</h2>-->
+
+    <!--{% include sidenav.html %}-->
+    <i>Human-Centred Computing<br />Research Group</i> @
+    <a
+      href="https://www.bangor.ac.uk/computer-science-and-electronic-engineering/"
+      target="_blank"
+      >School of Computer Science and Engineering,</a
+    >
+    <br />
+    <a href="https://www.bangor.ac.uk/" target="_blank">Bangor University,</a
+    ><br />
+    Dean Street, Bangor,<br />
+    Gwynedd, UK, LL57 1UT<br />
+  </div>
+
+  <div class="author-links">
+    <!--- <span class="icoFrame"><i class="ico fas fa-university fa-fw"></i></span> &nbsp; <a href="https://www.bangor.ac.uk/computer-science-and-electronic-engineering/staff/panagiotis-ritsos/en" target="_blank">University Page</a><br/>                
+    <span class="icoFrame"><i class="ico fab fa-github fa-fw"></i></span> &nbsp; <a href="https://github.com/ritsosp" target="_blank">GitHub</a><br/>-->
+
+    <nav class="sidenav">
+      <span>
+        {% assign pages_list = site.pages | where: 'menu', 'main' | where:
+        'layout': 'page' | sort: "order" %}
+
+        <span id="nav-home"><a href="{{ site.baseurl }}/">Home</a></span
+        ><br />
+        {% for node in pages_list %} {% if node.title != null %}
+        <span id="nav-{{ node.type }}"
+          ><a href="{{ node.url }}">{{ node.title }}</a></span
+        ><br />
+        {% endif %} {% endfor %}
+      </span>
+    </nav>
+
+    <!-- {% include socials.html %} -->
+
+    <div class="legal">
+      <p>
+        Built with Jekyll <br />
+        Last updated on {{ site.update }}<br />
+        &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+      </p>
+    </div>
+  </div>
+</div>

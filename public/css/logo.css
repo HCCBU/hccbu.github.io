@@ -1,0 +1,122 @@
+.hcc-animated-logo {
+  display: block;
+  position: relative;
+  overflow: hidden;
+  box-sizing: border-box;
+  width: calc(1028px * 0.19);
+  height: calc(550px * 0.19);
+  transition: opacity 0.25s ease-in-out;
+  box-sizing: border-box;
+  margin-bottom: 15px;
+}
+.hcc-animated-logo:hover {
+  opacity: 0.75;
+  transition: opacity 0.25s ease-in-out;
+}
+.hcc-animated-logo .shield {
+  position: absolute;
+  width: calc(502px * 0.19);
+  height: calc(550px * 0.19);
+  background-image: url("../../assets/images/shield.svg");
+  background-size: calc(502px * 0.19) calc(550px * 0.19);
+  background-repeat: no-repeat;
+  animation: shield-flip 8s ease-in-out infinite;
+  box-sizing: border-box;
+}
+.hcc-animated-logo .text {
+  position: absolute;
+  overflow: hidden;
+  top: calc(186px * 0.19);
+  left: calc(183px * 0.19);
+  width: calc(842px * 0.19);
+  height: calc(207px * 0.19);
+  background-image: url("../../assets/images/text-full-shape.svg");
+  background-size: calc(842px * 0.19) calc(207px * 0.19);
+  background-repeat: no-repeat;
+  animation: text-reveal 8s ease-in-out infinite;
+  box-sizing: border-box;
+}
+.hcc-animated-logo .acronym {
+  position: absolute;
+  overflow: hidden;
+  top: calc(188px * 0.19);
+  left: calc(245px * 0.19);
+  width: calc(615px * 0.19);
+  height: calc(201px * 0.19);
+  background-image: url("/assets/images/acronym.svg");
+  background-size: calc(615px * 0.19) calc(201px * 0.19);
+  background-repeat: no-repeat;
+  animation: acronym-reveal 8s ease-in-out infinite;
+  box-sizing: border-box;
+}
+
+@keyframes shield-flip {
+  0% {
+    transform: rotateY(0deg);
+    transform-origin: right;
+  }
+  6% {
+    transform: rotateY(180deg);
+    transform-origin: right;
+  }
+  25% {
+    transform: rotateY(180deg);
+    transform-origin: right;
+  }
+  30% {
+    transform: rotateY(0deg);
+  }
+}
+@keyframes text-reveal {
+  0% {
+    background-position: 0px;
+    width: calc(842px * 0.19);
+  }
+  5% {
+    width: 0px;
+    left: calc((183px + 842px) * 0.19);
+    background-position: calc(-842px * 2 * 0.19);
+  }
+  25% {
+    width: 0px;
+    left: calc((183px + 842px) * 0.19);
+    background-position: calc(-842px * 2 * 0.19);
+  }
+  29.5% {
+    background-position: 0px;
+    width: calc(842px * 0.19);
+    left: calc(183px * 0.19);
+  }
+  100% {
+    background-position: 0px;
+    width: calc(842px * 0.19);
+  }
+}
+@keyframes acronym-reveal {
+  0% {
+    background-position: calc(183px * 0.19);
+    width: 0;
+  }
+  0.5% {
+    background-position: calc(183px * 0.19);
+    width: 0;
+  }
+  5% {
+    width: calc(615px * 0.19);
+    background-position: 0px;
+  }
+  25% {
+    width: calc(615px * 0.19);
+    background-position: 0px;
+  }
+  29% {
+    width: 0px;
+    background-position: calc(183px * 0.19);
+  }
+  100% {
+    background-position: calc(183px * 0.19);
+    width: 0px;
+  }
+}
+
+/* End Animated Logo */

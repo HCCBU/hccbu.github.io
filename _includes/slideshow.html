@@ -1,0 +1,19 @@
+{% if page.slideshow_images and page.slideshow_images.size > 0 %}
+  <script src="{{ site.baseurl }}/public/js/slideshow.js"></script>
+
+  <div class="slideshow-container">
+    {% for image_name in page.slideshow_images %}
+      <div class="slide{% if forloop.first %} active{% endif %}">
+        <img src="{{ site.baseurl }}/assets/images/{{ image_name }}" alt="{{ page.title }} image {{ forloop.index }}">
+      </div>
+    {% endfor %}
+  </div>
+
+  {% if page.show_slideshow_dots == true %}
+    <div class="dots">
+      {% for image_name in page.slideshow_images %}
+        <span class="dot{% if forloop.first %} active{% endif %}" onclick="currentSlide('{{ forloop.index }}')"></span>
+      {% endfor %}
+    </div>
+  {% endif %}
+{% endif %}

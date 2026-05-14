@@ -1,0 +1,39 @@
+{% assign attendee_tags = page.name_tags | default: page.attendees %}
+
+{% if attendee_tags and attendee_tags.size > 0 %}
+  {% capture attendee_cards %}
+    {% for attendee_tag in attendee_tags %}
+      {% assign attendee_key = attendee_tag | downcase | slugify %}
+      {% assign matched_person = nil %}
+
+      {% for person in site.people %}
+        {% assign person_key = person.path | split: '/' | last | split: '.' | first | downcase | slugify %}
+        {% if person_key == attendee_key %}
+          {% assign matched_person = person %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+
+      {% if matched_person %}
+        {% assign person_slug = matched_person.path | split: '/' | last | split: '.' | first | downcase | slugify %}
+        {% assign person_name = matched_person.path | split: '/' | last | split: '.' | first %}
+        <div class="attendee">
+          <a href="{{ site.baseurl }}/team#{{ person_slug }}">
+            <img src="{{ site.baseurl }}/assets/people/{{ matched_person.img }}" alt="{{ person_name }}" class="attendee-photo">
+            <div class="attendee-name">{{ person_name }}</div>
+          </a>
+        </div>
+      {% endif %}
+    {% endfor %}
+  {% endcapture %}
+
+  {% assign attendee_cards = attendee_cards | strip %}
+  {% if attendee_cards != '' %}
+    <div class="attendees-section">
+      <h3>Conference Attendees</h3>
+      <div class="attendees-grid">
+        {{ attendee_cards }}
+      </div>
+    </div>
+  {% endif %}
+{% endif %}
