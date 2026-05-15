@@ -1,0 +1,44 @@
+<div class="events-page">
+  <section class="events-intro">
+  </section>
+
+  <div class="events-grid">
+    {% if site.events %}
+      {% assign events_posts = site.events | sort: "date" | reverse %}
+      {% for post in events_posts %}
+      <article class="events-card">
+        {% if post.image %}
+          <div class="events-card-image-wrapper">
+            <img src="{{ site.baseurl }}/assets/images/{{ post.image }}" alt="{{ post.title }}" class="events-card-image">
+            <div class="events-card-overlay"></div>
+          </div>
+        {% endif %}
+        
+        <div class="events-card-content">
+          {% if post.category %}
+            <span class="events-card-category">{{ post.category }}</span>
+          {% endif %}
+          
+          <h3 class="events-card-title">
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </h3>
+          
+          {% if post.date %}
+            <time class="events-card-date">{{ post.date | date: "%B %d, %Y" }}</time>
+          {% endif %}
+          
+          <p class="events-card-excerpt">
+            {% if post.excerpt %}
+              {{ post.excerpt | strip_html | truncatewords: 25 }}
+            {% else %}
+              {{ post.content | strip_html | truncatewords: 25 }}
+            {% endif %}
+          </p>
+          
+          <a href="{{ post.url | prepend: site.baseurl }}" class="events-card-link">Read More →</a>
+        </div>
+      </article>
+      {% endfor %}
+    {% endif %}
+  </div>
+</div>

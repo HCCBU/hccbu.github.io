@@ -1,10 +1,10 @@
 ---
-layout: culture-post
+layout: events-post
 title: Welcome Sioned to HCC
 category: Team Update
 date: 2026-02-17
 image: 14Bangor.webp
-permalink: /culture/welcome-sioned/
+permalink: /events/welcome-sioned/
 tags:
   - Team
   - Internship
@@ -16,7 +16,7 @@ We are thrilled to announce that **Sioned Owen** has joined the Human-Centred Co
 
 ## About Sioned's Role
 
-Sioned is bringing fresh perspectives and creative energy to HCC as she works on an exciting project focused on **branding and redesigning the HCC research group website**. Her internship combines her passion for design with our commitment to enhancing how we present our research and culture to the world.
+Sioned is bringing fresh perspectives and creative energy to HCC as she works on an exciting project focused on **branding and redesigning the HCC research group website**. Her internship combines her passion for design with our commitment to enhancing how we present our research and events to the world.
 
 ## What to Expect
 

@@ -1,0 +1,59 @@
+---
+layout: default
+---
+
+<article class="events-post">
+  <div class="events-hero">
+    {% if page.image %}
+      <img src="{{ site.baseurl }}/assets/images/{{ page.image }}" alt="{{ page.title }}" class="events-hero-image">
+      <div class="events-overlay"></div>
+    {% endif %}
+    <div class="events-header-content">
+      <h1 class="events-title">{{ page.title }}</h1>
+      {% if page.category %}
+        <span class="events-category">{{ page.category }}</span>
+      {% endif %}
+      {% if page.date %}
+        <time class="events-date">{{ page.date | date: "%B %d, %Y" }}</time>
+      {% endif %}
+    </div>
+  </div>
+
+  <div class="events-content">
+    {% include attendees.html %}
+    {{ content }}
+    {% include slideshow.html %}
+  </div>
+
+  <!-- {% if page.tags %}
+    <div class="events-tags">
+      {% for tag in page.tags %}
+        <span class="events-tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+  {% endif %} -->
+</article>
+
+
+
+<div class="social">
+  <a id="go-back"><span class="linkback" style="cursor: pointer;"><i class="fa fa-hand-o-left" aria-hidden="true"></i> Go Back </span></a>
+
+
+<!-- <span class="linktweet"><a href="https://twitter.com/share?
+  text={{ page.entry.title }}
+  &url={{site.url}}{{page.url}}
+  &via=ritsos_p
+  &hashtags={% for tag in page.entry.tags %}{{tag}},{% endfor %}">
+  <div class="twitter-sharing">Share on <i class="fab fa-twitter-square"></i></div>
+  </a></div></span> -->
+  
+  </div>
+  
+
+
+<script>
+  document.getElementById('go-back').addEventListener('click', () => {
+  history.back();
+});
+</script>

@@ -5,7 +5,7 @@
   </p>
 
   <div class="labs-collection">
-    {% assign lab_pages = site.labs | sort:"order" %}
+    {% assign lab_pages = site.labs | where: 'status', 'core' | sort:"order" %}
     {% for lab in lab_pages %}
       <article class="labCard">
 	<div class="labMedia">

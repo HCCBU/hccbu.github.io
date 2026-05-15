@@ -34,7 +34,7 @@ collections:
       permalink: /:path/
   themes:
   people:
-  culture:
+  events:
       output: true
   labs:
   downloads:

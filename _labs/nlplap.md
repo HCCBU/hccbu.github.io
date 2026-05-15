@@ -2,6 +2,7 @@
 layout: labs
 title: Natural Language Processing (NLP) Lab
 order: 3
+status: affiliated
 tags:
   - XR
 image:

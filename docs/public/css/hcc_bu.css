@@ -136,7 +136,7 @@ html {overflow-y:scroll;}
 
 #nav-home a {font-weight: bold; font-size: 1.1em;}
 #nav-research a {font-weight: bold; font-size: 1.1em}
-#nav-culture a {font-weight: bold; font-size: 1.1em; color:#4F759B;}
+#nav-events a {font-weight: bold; font-size: 1.1em;}
 #nav-team a {font-weight: bold; font-size: 1.1em}
 #nav-service a {font-weight: bold; font-size: 1.1em}
 #nav-publications a {font-weight: bold; font-size: 1.1em}
@@ -146,7 +146,7 @@ html {overflow-y:scroll;}
 
 #home #nav-home a, #nav-home a:hover, #nav-home a:active {color:#4F759B; }
 #research #nav-research a, #nav-research a:hover, #nav-research a:active {color:#2ca25f; }
-#culture #nav-culture a, #nav-culture a:hover, #nav-culture a:active {color:#e5370c; }
+#events #nav-events a, #nav-events a:hover, #nav-events a:active {color:#e5370c; }
 #team #nav-team a, #nav-team a:hover, #nav-team a:active {color:#D57A66;}
 #service #nav-service a, #nav-service a:hover, #nav-service a:active {color:#6f3e71;}
 #publications #nav-publications a,  #nav-publications a:hover,  #nav-publications a:active {color:#CA6680;}
@@ -159,7 +159,7 @@ html {overflow-y:scroll;}
 /*
 #nav-home a:hover  {color:#4F759B;}
 #nav-research a:hover  {color:#2ca25f;}
-#nav-culture a:hover  {color:#759298;}
+#nav-events a:hover  {color:#759298;}
 #nav-team a:hover  {color:#D57A66;}
 #nav-service a:hover  {color:#6f3e71;}
 #nav-publications a:hover  {color:#CA6680;}
@@ -168,7 +168,7 @@ html {overflow-y:scroll;}
 
 #nav-home a:active  {color:#4F759B;}
 #nav-research a:active  {color:#2ca25f;}
-#nav-culture a:active  {color:#759298;}
+#nav-events a:active  {color:#759298;}
 #nav-team a:active  {color:#D57A66;}
 #nav-service a:active  {color:#6f3e71;}
 #nav-publications a:active  {color:#CA6680;}
@@ -182,7 +182,7 @@ html {overflow-y:scroll;}
 #mysidebar,
 #mysidebar * {font-family: "Poppins", sans-serif;}
 #mysidebar h1 { color:#000000;}
-#mysidebar h1 a {color:#444;}
+#mysidebar h1 a {color:#2b4678;}
 #mysidebar .namePlate { margin-bottom: 1em; color: #000000;}
 #mysidebar .author-info, .author-links{margin:20px 0;font-size:12px;font-style:normal;}
 #mysidebar .author-info p {margin:0;}
@@ -192,20 +192,20 @@ html {overflow-y:scroll;}
 #mysidebar .social a:hover {color:#084B8A;border-bottom: none;}
 
 
-#head-home {border-bottom: 3px solid #4F759B; padding-bottom:5px;color:#444;}
+#head-home {border-bottom: 3px solid #4F759B; padding-bottom:5px;color:#2b4678;}
 #head-home {font-family: 'Poppins', sans-serif;}
-#head-research {border-bottom: 3px solid #2ca25f; padding-bottom:5px;color:#444;}
-#head-culture {border-bottom: 3px solid #e5370c; padding-bottom:5px;color:#444;}
-#head-team {border-bottom: 3px solid #D57A66; padding-bottom:5px;color:#444;}
-#head-service {border-bottom: 3px solid #6f3e71; padding-bottom:5px;color:#444;}
-#head-publications {border-bottom: 3px solid #CA6680; padding-bottom:5px;color:#444;}
-#head-news {border-bottom: 3px solid #4F759B; padding-bottom:5px;color:#444;}
-#head-labs {border-bottom: 3px solid #8A03CE; padding-bottom:5px;color:#444;}
-#head-contact {border-bottom: 3px solid #F6339A; padding-bottom:5px;color:#444;}
+#head-research {border-bottom: 3px solid #2ca25f; padding-bottom:5px;color:#2b4678;}
+#head-events {border-bottom: 3px solid #e5370c; padding-bottom:5px;color:#2b4678;}
+#head-team {border-bottom: 3px solid #D57A66; padding-bottom:5px;color:#2b4678;}
+#head-service {border-bottom: 3px solid #6f3e71; padding-bottom:5px;color:#2b4678;}
+#head-publications {border-bottom: 3px solid #CA6680; padding-bottom:5px;color:#2b4678;}
+#head-news {border-bottom: 3px solid #4F759B; padding-bottom:5px;color:#2b4678;}
+#head-labs {border-bottom: 3px solid #8A03CE; padding-bottom:5px;color:#2b4678;}
+#head-contact {border-bottom: 3px solid #F6339A; padding-bottom:5px;color:#2b4678;}
 #head-conference-map {
   border-bottom: 3px solid #1e40af;
   padding-bottom: 5px;
-  color: #444;
+  color: #2b4678;
   width: min(100%, 860px);
   margin-left: auto;
   margin-right: auto;
@@ -358,13 +358,13 @@ p {margin: 0 0 1em 0;}
 /* OTHER */
 h1, h2, h3, h4, h5, h6 {  font-family: "Poppins", sans-serif; font-optical-sizing: auto;}
 
-h1 {font-size: 1.5em; line-height: 1em; margin: 0px 0px 5px 0px; color: #444 ;}
+h1 {font-size: 1.5em; line-height: 1em; margin: 0px 0px 5px 0px; color: #2b4678 ;}
 h1 a {text-transform: none; color: #084B8A;}
-h2 {text-transform: none; font-size: 1.2em; font-weight: bold; color: #444; border-bottom: 1px solid #cccccc; margin: 1.6em 0 0.5em 0; width:100%;  padding-bottom: 0.4em;}
-h3 {font-size: 1.1em; font-weight: 700; color:#444; border-left: 0px dotted #888888; margin: 1.4em 0 0.5em 0; width:100%;}
-h4 {font-size: 1.0em; font-weight: 600;  color:#444;  border-bottom: 0px solid #dadada; font-style:italic; margin: 1.0em 0 0.5em 0; width:100%;}
-h5 {font-size: 0.9em; font-style:italic; color:#444;}
-h6 {font-size: 1.0em; color:#444; font-weight: 400;}
+h2 {text-transform: none; font-size: 1.2em; font-weight: bold; color: #2b4678; border-bottom: 1px solid #cccccc; margin: 1.6em 0 0.5em 0; width:100%;  padding-bottom: 0.4em;}
+h3 {font-size: 1.1em; font-weight: 700; color:#2b4678; border-left: 0px dotted #888888; margin: 1.4em 0 0.5em 0; width:100%;}
+h4 {font-size: 1.0em; font-weight: 600;  color:#2b4678;  border-bottom: 0px solid #dadada; font-style:italic; margin: 1.0em 0 0.5em 0; width:100%;}
+h5 {font-size: 0.9em; font-style:italic; color:#2b4678;}
+h6 {font-size: 1.0em; color:#2b4678; font-weight: 400;}
 
 h2 .smallTeach {font-weight: normal; font-style: italic; font-size:0.8em; color: #db7f1c;}
 h2 .smallPub {font-weight: normal; font-style: italic; font-size:0.8em; color: #CA6680;}
@@ -612,7 +612,7 @@ figcaption { margin-top:1em; }
 /* = Projects
  * -------------------------------------------------------------------------- */
 
-.projects-page{ animation: fadeIn 0.8s ease-in-out; }
+/* .projects-page{ animation: fadeIn 0.8s ease-in-out; } */
 .project-card {display: flex; border: 1px red solid; padding-left: 1em; margin-bottom: 1em;}
 .project-image {flex: 0 0 20%;}
 .project-text {flex: 1;}
@@ -701,7 +701,7 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
 .labs-page {
   max-width: 980px;
   margin: 0 auto;
-  animation: fadeIn 0.8s ease-in-out;
+  /* animation: fadeIn 0.8s ease-in-out; */
 }
 
 .labs-lead {
@@ -730,22 +730,22 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   grid-template-columns: 220px 1fr;
   gap: 1.25rem;
   align-items: stretch;
-  border: 1px solid #dbe3ef;
+  /* border: 1px solid #dbe3ef;
   border-radius: 16px;
   padding: 1rem;
   background: linear-gradient(145deg, #ffffff 0%, #f8fbff 100%);
   box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
-  transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease;
+  transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease; */
   overflow: hidden;
 }
 
 
 
-.labCard:hover {
+/* .labCard:hover {
   transform: none;
   box-shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
   border-color: #dbe3ef;
-}
+} */
 
 .labMedia {
   position: relative;
@@ -758,9 +758,9 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   max-height: 220px;
   object-fit: cover;
   border-radius: 12px;
-  border: 1px solid rgba(30, 64, 175, 0.12);
+  /* border: 1px solid rgba(30, 64, 175, 0.12);
   box-shadow: 0 8px 18px rgba(30, 64, 175, 0.15);
-  background: #fff;
+  background: #fff; */
 }
 
 .labDesc {
@@ -772,7 +772,7 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
 
 .labTitle {
   margin: 0 0 0.45rem 0;
-  color: #1f2937;
+  color: #2c3e50;
   font-size: 1.35rem;
   line-height: 1.3;
 }
@@ -801,7 +801,7 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
 .labBody p {
   margin: 0;
   color: #475569;
-  line-height: 1.7;
+  /* line-height: 1.7; */
 }
 
 /* People Cards */
@@ -819,7 +819,7 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   transition: transform 0.22s ease, box-shadow 0.22s ease, border-color 0.22s ease;
   overflow: hidden;
   margin-bottom: 1rem;
-  animation: slideUp 0.6s ease-out both;
+  /* animation: slideUp 0.6s ease-out both; */
 }
 
 .pplCard::before {
@@ -878,10 +878,10 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   font-size: 0.8rem;
 }
 
-.pplCard:nth-child(1) { animation-delay: 0.1s; }
+/* .pplCard:nth-child(1) { animation-delay: 0.1s; }
 .pplCard:nth-child(2) { animation-delay: 0.2s; }
 .pplCard:nth-child(3) { animation-delay: 0.3s; }
-.pplCard:nth-child(n+4) { animation-delay: 0.4s; }
+.pplCard:nth-child(n+4) { animation-delay: 0.4s; } */
 
 @media (max-width: 760px) {
   .labCard {
@@ -1103,63 +1103,64 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
     .topnav ul a {font-size:0.5em;}
 }
 
-/* ===== CULTURE PAGE STYLES ===== */
+/* ===== events PAGE STYLES ===== */
 
-.culture-page {
+.events-page {
   max-width: 1200px;
   margin: 0 auto;
-  animation: fadeIn 0.8s ease-in-out;
+  /* animation: fadeIn 0.8s ease-in-out; */
 }
 
-.culture-intro {
+.events-intro {
   text-align: left;
   margin-bottom: 4rem;
-  animation: fadeIn 0.8s ease-in-out;
+  /* animation: fadeIn 0.8s ease-in-out; */
 }
 
-.culture-intro h2 {
+.events-intro h2 {
   font-size: 2.5rem;
   color: #2c3e50;
   margin-bottom: 1rem;
   margin-top: 50px;
 }
 
-.culture-intro p {
+.events-intro p {
   font-size: 1.2rem;
   color: #666;
   max-width: 600px;
 }
 
-.culture-grid {
+.events-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 2rem;
   margin-bottom: 3rem;
 }
 
-.culture-card {
+.events-card {
   display: flex;
   flex-direction: column;
   height: 100%;
   background: white;
   border-radius: 8px;
   overflow: hidden;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  transition: all 0.3s ease;
-  animation: slideUp 0.6s ease-out both;
+  /* box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); */
+  border: 1px solid #e0e0e0;
+  /* transition: all 0.3s ease; */
+  /* animation: slideUp 0.6s ease-out both; */
 }
 
-.culture-card:nth-child(1) { animation-delay: 0.1s; }
-.culture-card:nth-child(2) { animation-delay: 0.2s; }
-.culture-card:nth-child(3) { animation-delay: 0.3s; }
-.culture-card:nth-child(n+4) { animation-delay: 0.4s; }
+/* .events-card:nth-child(1) { animation-delay: 0.1s; }
+.events-card:nth-child(2) { animation-delay: 0.2s; }
+.events-card:nth-child(3) { animation-delay: 0.3s; }
+.events-card:nth-child(n+4) { animation-delay: 0.4s; } */
 
-.culture-card:hover {
-  transform: translateY(-8px);
-  box-shadow: 0 8px 16px rgba(170, 214, 239, 0.15);
+.events-card:hover {
+  /* transform: translateY(-8px); */
+  /* box-shadow: 0 8px 16px rgba(170, 214, 239, 0.15); */
 }
 
-.culture-card-image-wrapper {
+.events-card-image-wrapper {
   position: relative;
   width: 100%;
   height: 200px;
@@ -1167,18 +1168,18 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   background: linear-gradient(135deg, #f5f5f5 0%, #e0e0e0 100%);
 }
 
-.culture-card-image {
+.events-card-image {
   width: 100%;
   height: 100%;
   object-fit: cover;
   transition: transform 0.3s ease;
 }
 
-.culture-card:hover .culture-card-image {
-  transform: scale(1.05);
+.events-card:hover .events-card-image {
+  /* transform: scale(1.05); */
 }
 
-.culture-card-overlay {
+.events-card-overlay {
   position: absolute;
   top: 0;
   left: 0;
@@ -1186,21 +1187,21 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   bottom: 0;
   background: linear-gradient(135deg, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0.3) 100%);
   opacity: 0;
-  transition: opacity 0.3s ease;
+  /* transition: opacity 0.3s ease; */
 }
 
-.culture-card:hover .culture-card-overlay {
-  opacity: 1;
+.events-card:hover .events-card-overlay {
+  /* opacity: 1; */
 }
 
-.culture-card-content {
+.events-card-content {
   flex: 1;
   display: flex;
   flex-direction: column;
   padding: 1.5rem;
 }
 
-.culture-card-category {
+.events-card-category {
   display: inline-block;
   background-color: #f0f0f0;
   color: #e5370c;
@@ -1212,31 +1213,31 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   width: fit-content;
 }
 
-.culture-card-title {
+.events-card-title {
   margin: 0.5rem 0 0.5rem 0;
   font-size: 1.3rem;
   color: #2c3e50;
   line-height: 1.4;
 }
 
-.culture-card-title a {
+.events-card-title a {
   color: #2c3e50;
   text-decoration: none;
   transition: color 0.3s ease;
 }
 
-.culture-card-title a:hover {
+.events-card-title a:hover {
   color: #e5370c;
 }
 
-.culture-card-date {
+.events-card-date {
   display: block;
   font-size: 0.9rem;
   color: #999;
   margin-bottom: 1rem;
 }
 
-.culture-card-excerpt {
+.events-card-excerpt {
   flex: 1;
   color: #666;
   line-height: 1.6;
@@ -1244,25 +1245,25 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   font-size: 0.95rem;
 }
 
-.culture-card-link {
+.events-card-link {
   color: #e5370c;
   text-decoration: none;
   font-weight: 600;
-  transition: all 0.3s ease;
+  /* transition: all 0.3s ease; */
   display: inline-block;
 }
 
-.culture-card-link:hover {
-  color: #c62c08;
-  transform: translateX(4px);
+.events-card-link:hover {
+  color: #2c3e50;
+  /* transform: translateX(4px); */
+} 
+
+/* events Post Styles */
+.events-post {
+  /* animation: fadeIn 0.8s ease-in-out; */
 }
 
-/* Culture Post Styles */
-.culture-post {
-  animation: fadeIn 0.8s ease-in-out;
-}
-
-.culture-hero {
+.events-hero {
   position: relative;
   width: 100%;
   height: 400px;
@@ -1273,7 +1274,7 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   align-items: flex-end;
 }
 
-.culture-hero-image {
+.events-hero-image {
   position: absolute;
   top: 0;
   left: 0;
@@ -1283,7 +1284,7 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   z-index: 1;
 }
 
-.culture-overlay {
+.events-overlay {
   position: absolute;
   top: 0;
   left: 0;
@@ -1293,7 +1294,7 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   z-index: 2;
 }
 
-.culture-header-content {
+.events-header-content {
   position: relative;
   z-index: 3;
   padding: 2rem;
@@ -1301,7 +1302,7 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   width: 100%;
 }
 
-.culture-title {
+.events-title {
   margin: 0 0 0.5rem 0;
   font-size: 2.5rem;
   font-weight: bold;
@@ -1319,7 +1320,7 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   max-width: 860px;
   margin: 0 auto 3rem auto;
   padding: 0 1rem;
-  animation: fadeIn 0.8s ease-in-out;
+  /* animation: fadeIn 0.8s ease-in-out; */
 }
 
 .conference-map-intro {
@@ -1407,7 +1408,7 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   overflow: hidden;
   border-radius: 12px;
   background: #dfe8ef;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.18), 0 2px 8px rgba(0, 0, 0, 0.10);
+  /* box-shadow: 0 8px 32px rgba(0, 0, 0, 0.18), 0 2px 8px rgba(0, 0, 0, 0.10); */
 }
 
 
@@ -1468,14 +1469,16 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
 
 
 .conference-map-card-title {
-  margin: 0 0 0.4rem 0;
+  margin: 0 0 0rem 0;
   color: #2c3e50;
+    text-align: left;
 }
 
 .conference-map-card a {
   color: #2c3e50;
   font-weight: 600;
   text-decoration: none;
+  text-align: left;
 }
 
 .conference-map-popup {
@@ -1548,8 +1551,8 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
 
 
 
-/* Culture Post Styles */
-.culture-category {
+/* events Post Styles */
+.events-category {
   display: inline-block;
   background-color: rgba(255,255,255,0.2);
   color: white;
@@ -1560,45 +1563,45 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   backdrop-filter: blur(10px);
 }
 
-.culture-date {
+.events-date {
   display: block;
   color: rgba(255,255,255,0.9);
   font-size: 1rem;
   margin-top: 0.5rem;
 }
 
-.culture-content {
-  max-width: 900px;
+.events-content {
+  /* max-width: 900px; */
   margin: 0 auto;
-  padding: 2rem 1rem 2rem 4rem;
-  line-height: 1.8;
-  font-size: 1.1rem;
-  animation: slideUp 0.8s ease-out 0.2s both;
+  /* padding: 2rem 1rem 2rem 4rem; */
+  /* line-height: 1.8;
+  font-size: 1.1rem; */
+  /* animation: slideUp 0.8s ease-out 0.2s both; */
 }
 
-.culture-content p {
+.events-content p {
   margin-bottom: 1.5rem;
   color: #333;
 }
 
-.culture-content h2 {
+.events-content h2 {
   margin-top: 2rem;
   margin-bottom: 1rem;
   color: #2c3e50;
-  font-size: 1.8rem;
+  font-size: 1.1rem;
   border-left: 4px solid #e5370c;
   padding-left: 1rem;
 }
 
-.culture-content ul, .culture-content ol {
+.events-content ul, .events-content ol {
   margin: 1.5rem 0 1.5rem 2rem;
 }
 
-.culture-content li {
+.events-content li {
   margin-bottom: 0.5rem;
 }
 
-.culture-tags {
+.events-tags {
   display: flex;
   flex-wrap: wrap;
   gap: 0.5rem;
@@ -1607,7 +1610,7 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   border-top: 1px solid #eee;
 }
 
-.culture-tag {
+.events-tag {
   display: inline-block;
   background-color: #f0f0f0;
   color: #e5370c;
@@ -1617,7 +1620,7 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   transition: all 0.3s ease;
 }
 
-.culture-tag:hover {
+.events-tag:hover {
   background-color: #e5370c;
   color: white;
   transform: translateY(-2px);
@@ -1635,7 +1638,7 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   .attendees-section h3 {
     font-size: 1.2em;
     margin-bottom: 20px;
-    color: #444;
+    color: #2b4678;
     font-weight: 600;
   }
 
@@ -1666,8 +1669,8 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
     height: 80px;
     border-radius: 50%;
     object-fit: cover;
-    border: 3px solid #08728a;
-    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    /* border: 3px solid #08728a;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease; */
     display: block;
     margin: 0 auto;
   }
@@ -1758,28 +1761,28 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
 }
 
 @media (max-width: 768px) {
-  .culture-hero {
+  .events-hero {
     height: 250px;
   }
 
-  .culture-intro h2 {
+  .events-intro h2 {
     font-size: 1.8rem;
   }
 
-  .culture-grid {
+  .events-grid {
     grid-template-columns: 1fr;
     gap: 1.5rem;
   }
 
-  .culture-card-title {
+  .events-card-title {
     font-size: 1.1rem;
   }
 
-  .culture-title {
+  .events-title {
     font-size: 1.8rem;
   }
 
-  .culture-content {
+  .events-content {
     padding: 1.5rem 1rem 1.5rem 2rem;
     font-size: 1rem;
   }
@@ -1788,13 +1791,13 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
 
 
 /* ===== PAGE TRANSITION ANIMATIONS ===== */
-.contact-page{animation: fadeIn 0.8s ease-in-out;}
+/* .contact-page{animation: fadeIn 0.8s ease-in-out;}
 .publications-page{animation: fadeIn 0.8s ease-in-out;}
 .publicationsYear-page{animation: fadeIn 0.8s ease-in-out;}
-.home-page{animation: fadeIn 0.8s ease-in-out;}
+.home-page{animation: fadeIn 0.8s ease-in-out;} */
 
 /* Page-level animations for body ID */
-#team .main {animation: fadeIn 0.8s ease-in-out;}
+/* #team .main {animation: fadeIn 0.8s ease-in-out;} */
 
 /* ===== NEW HOME PAGE ===== */
 .home-new {
@@ -1860,7 +1863,7 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   margin: 2rem 0 2.5rem 0;
 }
 
-.home-new-culture-hero {
+.home-new-events-hero {
   position: relative;
   width: 100%;
   min-height: 150px;
@@ -1870,7 +1873,7 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   background: #0f172a;
 }
 
-.home-new-culture-hero-link a {
+.home-new-events-hero-link a {
   position: relative;
   display: block;
   width: 100%;
@@ -1880,7 +1883,7 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   text-decoration: none;
 }
 
-.home-new-culture-hero-image {
+.home-new-events-hero-image {
   display: block;
   width: 100%;
   height: 100%;
@@ -1889,7 +1892,7 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   object-position: center 35%;
 }
 
-.home-new-culture-hero-overlay {
+.home-new-events-hero-overlay {
   position: absolute;
   inset: 0;
   display: flex;
@@ -1902,7 +1905,7 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   text-align: left;
 }
 
-.home-new-culture-hero-title {
+.home-new-events-hero-title {
   margin: 0;
   border: 0;
   padding: 0;
@@ -1919,13 +1922,13 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   transition: transform 0.2s ease;
 }
 
-.home-new-culture-hero-link .home-new-culture-hero-title,
-.home-new-culture-hero-link:hover .home-new-culture-hero-title,
-.home-new-culture-hero-link:visited .home-new-culture-hero-title {
+.home-new-events-hero-link .home-new-events-hero-title,
+.home-new-events-hero-link:hover .home-new-events-hero-title,
+.home-new-events-hero-link:visited .home-new-events-hero-title {
   color: #ffffff;
 }
 
-.home-new-culture-hero-cta {
+.home-new-events-hero-cta {
   position: absolute;
   bottom: 1.5rem;
   left: 1.75rem;
@@ -1944,21 +1947,21 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
   gap: 0.2rem;
 }
 
-.home-new-culture-hero-link:hover .home-new-culture-hero-cta,
-.home-new-culture-hero-link:focus-visible .home-new-culture-hero-cta {
+.home-new-events-hero-link:hover .home-new-events-hero-cta,
+.home-new-events-hero-link:focus-visible .home-new-events-hero-cta {
   color: #ffffff;
   gap: 0.45rem;
   transform: translateX(0.15rem);
 }
 
-.home-new-culture-hero-link:focus-visible {
+.home-new-events-hero-link:focus-visible {
   outline: 3px solid rgba(255, 255, 255, 0.85);
   outline-offset: -6px;
   text-decoration: none;
 }
 
-.home-new-culture-hero-link:hover .home-new-culture-hero-title,
-.home-new-culture-hero-link:focus-visible .home-new-culture-hero-title {
+.home-new-events-hero-link:hover .home-new-events-hero-title,
+.home-new-events-hero-link:focus-visible .home-new-events-hero-title {
   transform: scale(1.03);
 }
 
@@ -1974,7 +1977,7 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
     gap: 1rem;
   }
 
-  .home-new-culture-hero {
+  .home-new-events-hero {
     aspect-ratio: 16 / 6;
   }
 }
@@ -2156,9 +2159,9 @@ a:hover .projects-name {background: rgb(44, 162, 95); /* fallback colour */ back
     grid-template-columns: 1fr;
   }
 
-  .home-new-culture-hero,
-  .home-new-culture-hero-link,
-  .home-new-culture-hero-image {
+  .home-new-events-hero,
+  .home-new-events-hero-link,
+  .home-new-events-hero-image {
     min-height: 440px;
     aspect-ratio: 16 / 7;
   }

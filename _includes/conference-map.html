@@ -1,6 +1,6 @@
 <div class="conference-map-page">
   <div class="conference-map-intro">
-    <p>Explore recent conference locations, open the related culture post, and jump straight to the linked publications.</p>
+    <p>Explore recent conference locations, open the related events post, and jump straight to the linked publications.</p>
   </div>
 
   <div class="conference-map-container">
@@ -12,13 +12,13 @@
 
 <script id="conference-map-data" type="application/json">
 [
-{% assign culture_items = site.culture | where_exp: "item", "item.conference_map" | sort: "date" | reverse %}
+{% assign events_items = site.events | where_exp: "item", "item.conference_map" | sort: "date" | reverse %}
 {% assign post_items = site.posts | where_exp: "item", "item.conference_map" | sort: "date" | reverse %}
 {% assign separator = "" %}
-{% for item in culture_items %}
+{% for item in events_items %}
   {% assign raw_map_image = item.conference_map.image | default: item.conference_map.thumbnail | default: item.image %}
   {% assign raw_publication_url = item.conference_map.publication_url %}
-  {% assign raw_culture_label = item.conference_map.culture_label | default: "Culture post" %}
+  {% assign raw_events_label = item.conference_map.events_label | default: "Events post" %}
   {% assign raw_publication_label = item.conference_map.publication_label | default: "Publications" %}
   {% capture raw_event_title %}{{ item.conference_map.city }} {{ item.conference_map.year }}{% endcapture %}
 
@@ -44,7 +44,7 @@
 
   {{ separator }}
   {
-    "kind": "culture",
+    "kind": "events",
     "location_id": {{ item.conference_map.location_id | jsonify }},
     "city": {{ item.conference_map.city | jsonify }},
     "country": {{ item.conference_map.country | jsonify }},
@@ -54,8 +54,8 @@
     "year": {{ item.conference_map.year | jsonify }},
     "event_title": {{ item.conference_map.event_title | default: raw_event_title | strip | jsonify }},
     "title": {{ item.title | jsonify }},
-    "culture_url": {{ item.url | prepend: site.baseurl | jsonify }},
-    "culture_label": {{ raw_culture_label | jsonify }},
+    "events_url": {{ item.url | prepend: site.baseurl | jsonify }},
+    "events_label": {{ raw_events_label | jsonify }},
     "publication_url": {{ publication_url | jsonify }},
     "publication_label": {{ raw_publication_label | jsonify }},
     "image_url": {{ map_image_url | jsonify }}

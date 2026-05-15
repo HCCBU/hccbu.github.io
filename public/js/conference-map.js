@@ -49,8 +49,8 @@
           year: item.year,
           event_title: item.event_title,
           image_url: item.image_url || '',
-          culture_url: '',
-          culture_label: 'Culture post',
+          events_url: '',
+          events_label: 'Events post',
           publication_url: '',
           publication_label: 'Publications'
         };
@@ -61,9 +61,9 @@
         event.image_url = item.image_url;
       }
 
-      if (item.culture_url && !event.culture_url) {
-        event.culture_url = item.culture_url;
-        event.culture_label = item.culture_label || event.culture_label;
+      if (item.events_url && !event.events_url) {
+        event.events_url = item.events_url;
+        event.events_label = item.events_label || event.events_label;
       }
 
       if (item.publication_url && !event.publication_url) {
@@ -82,8 +82,8 @@
 
     var links = [];
 
-    if (item.culture_url) {
-      links.push('<a class="conference-map-popup-link" href="' + escapeHtml(item.culture_url) + '">' + escapeHtml(item.culture_label || 'Culture post') + '</a>');
+    if (item.events_url) {
+      links.push('<a class="conference-map-popup-link" href="' + escapeHtml(item.events_url) + '">' + escapeHtml(item.events_label || 'Events post') + '</a>');
     }
 
     if (item.publication_url) {

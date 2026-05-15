@@ -1,9 +1,10 @@
 ---
-layout: culture-post
+layout: events-post
 category: Collaboration
+title: Visitors from Aarhus
 image: Visit.jpeg
 date: 2026-05-11
-permalink: /culture/aarhus-collaboration-2026/
+permalink: /events/aarhus-collaboration-2026/
 tags:
   - Collaboration
   - Research Partnership
