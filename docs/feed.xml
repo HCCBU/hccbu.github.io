@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://hccbu.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://hccbu.github.io//" rel="alternate" type="text/html" /><updated>2026-05-15T19:26:09+01:00</updated><id>https://hccbu.github.io//feed.xml</id><title type="html">Human-Centred Computing Research Group, Bangor University</title><subtitle>Human-Centred Computing research group,&lt;br/&gt; School of Computer Science and Engineering, &lt;br/&gt; College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT&lt;span&gt;</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;url&quot;=&gt;nil}</name></author><entry><title type="html">Papers for presentation at IEEE VIS2025</title><link href="https://hccbu.github.io//news/2025/08/11/publications/" rel="alternate" type="text/html" title="Papers for presentation at IEEE VIS2025" /><published>2025-08-11T00:00:00+01:00</published><updated>2025-08-11T00:00:00+01:00</updated><id>https://hccbu.github.io//news/2025/08/11/publications</id><content type="html" xml:base="https://hccbu.github.io//news/2025/08/11/publications/"><![CDATA[<p><img src="/assets/images/vis2025_logo.png" class="prjImgFlt" alt="IEEE VIS2025 Banner and Logo" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://hccbu.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://hccbu.github.io//" rel="alternate" type="text/html" /><updated>2026-05-20T11:09:58+01:00</updated><id>https://hccbu.github.io//feed.xml</id><title type="html">Human-Centred Computing Research Group, Bangor University</title><subtitle>Human-Centred Computing research group,&lt;br/&gt; School of Computer Science and Engineering, &lt;br/&gt; College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT&lt;span&gt;</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;url&quot;=&gt;nil}</name></author><entry><title type="html">Paper accepted in IEEE TVCG</title><link href="https://hccbu.github.io//news/2026/03/04/publications/" rel="alternate" type="text/html" title="Paper accepted in IEEE TVCG" /><published>2026-03-04T00:00:00+00:00</published><updated>2026-03-04T00:00:00+00:00</updated><id>https://hccbu.github.io//news/2026/03/04/publications</id><content type="html" xml:base="https://hccbu.github.io//news/2026/03/04/publications/"><![CDATA[<p><img src="/assets/images/ironman_teaser.png" class="prjImgFlt" alt="Ironman Study Teaser" /></p>
+
+<p>Our paper <a href="/publicationsYear#MBorowski-et-al-TVCG-2026">‘I Feel Like Iron Man’ - Authoring, Exploring, and Presenting Data Visualizations in Immersive AR</a> has been accepted in <a href="https://www.computer.org/csdl/journal/tg">IEEE Transactions on Visualization and Computer Graphics</a>.</p>
+
+<p>In this paper, we present a generalizable visual programming technique for immersive authoring, exploration, and presentation of data visualizations through direct manipulation, and implement it in a web-based augmented reality (AR) system. In a preregistered user study, we use this implementation to explore how analysts author and use data visualizations in immersive AR accessed using a head-mounted display (HMD). The study focuses on the authoring technique, spatial organization strategies, and sensemaking and presentation practices in such immersive analytics environments for HMD-based AR. Our findings suggest that participants particularly liked the direct manipulation of our approach, and that participants’ spatial organization is not based on physical landmarks in the room.</p>
+
+<h3 id="reference">Reference</h3>
+
+<div class="bibliography"><p>
+
+<span id="Borowski-et-al-TVCG-2026">M. Borowski, P. W. S. Butcher, S. J. Jones, P. D. Ritsos, C. N. Klokmose, and N. Elmqvist, “‘I Feel Like Iron Man’: Authoring, Exploring, and Presenting Data Visualizations in Immersive AR,” <i>IEEE Transactions on Visualization and Computer Graphics (to appear)</i>, Mar. 2026.</span>
+
+  <span class="toggle">
+    A truly anytime, anywhere approach to immersive analytics is predicated on the ability for users to author and explore visualizations in an immersive fashion and without a desktop computer. In this paper, we present a generalizable visual programming technique for immersive authoring, exploration, and presentation of data visualizations through direct manipulation, and implement it in a web-based augmented reality (AR) system. In a preregistered user study, we use this implementation to explore how analysts author and use data visualizations in immersive AR accessed using a head-mounted display (HMD). The study focuses on the authoring technique, spatial organization strategies, and sensemaking and presentation practices in such immersive analytics environments for HMD-based AR. Our findings suggest that participants particularly liked the direct manipulation of our approach, and that participants’ spatial organization is not based on physical landmarks in the room.
+  </span>
+  <br />
+  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+
+<span class="biblinks">
+  [<a href="/bibliography/Borowski-et-al-TVCG-2026/">Details</a>]&nbsp;&nbsp;
+  
+  
+        
+          [<a href="" class="pdflink">PDF</a>]&nbsp;&nbsp;
+         
+  
+   
+  
+  
+  [doi:<a href="http://dx.doi.org/10.1109/TVCG.2026.3672314" class="doilink">10.1109/TVCG.2026.3672314</a>]&nbsp;&nbsp;
+  
+   
+</span>
+<a class="details" href="/bibliography/Borowski-et-al-TVCG-2026/"><span hidden=""></span></a></p></div>]]></content><author><name>Panagiotis Ritsos</name></author><category term="news" /><category term="XR" /><category term="WebXR" /><category term="situated" /><category term="analytics" /><category term="visualization" /><category term="authoring" /><category term="IEEE" /><summary type="html"><![CDATA[Our paper "‘I Feel Like Iron Man’ - Authoring, Exploring, and Presenting Data Visualizations in Immersive AR" has been accepted in IEEE TVCG.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://hccbu.github.io//assets/images/ironman_teaser.png" /><media:content medium="image" url="https://hccbu.github.io//assets/images/ironman_teaser.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Papers for presentation at IEEE VIS2025</title><link href="https://hccbu.github.io//news/2025/08/11/publications/" rel="alternate" type="text/html" title="Papers for presentation at IEEE VIS2025" /><published>2025-08-11T00:00:00+01:00</published><updated>2025-08-11T00:00:00+01:00</updated><id>https://hccbu.github.io//news/2025/08/11/publications</id><content type="html" xml:base="https://hccbu.github.io//news/2025/08/11/publications/"><![CDATA[<p><img src="/assets/images/vis2025_logo.png" class="prjImgFlt" alt="IEEE VIS2025 Banner and Logo" /></p>
 
 <p>We are participating, with several works, at <a href="https://ieeevis.org/year/2025/welcome">IEEE VIS2025</a>, to be held in Vienna, Austria.</p>
 
@@ -22,7 +55,7 @@
 
 <div class="bibliography"><p>
 
-<span id="Roberts-et-al-TVCG-2026">J. C. Roberts, A. Hanan, O. A. E., and P. D. Ritsos, “Critical Design Strategy: a Method for Heuristically Evaluating Visualisation Designs,” <i>IEEE Transactions on Visualization and Computer Graphics</i>, 2026.</span>
+<span id="Roberts-et-al-TVCG-2026">J. C. Roberts, H. Alnjar, A. E. Owen, and P. D. Ritsos, “Critical Design Strategy: a Method for Heuristically Evaluating Visualisation Designs,” <i>IEEE Transactions on Visualization and Computer Graphics</i>, vol. 32, no. 1, pp. 1383–1393, Jan. 2026.</span>
 
   <span class="toggle">
     We present the Critical Design Strategy (CDS)—a structured method designed to facilitate the examination of visualisation designs through reflection and critical thought. The CDS helps designers think critically and make informed improvements using heuristic evaluation. When developing a visual tool or pioneering a novel visualisation approach, identifying areas for enhancement can be challenging. Critical thinking is particularly crucial for visualisation designers and tool developers, especially those new to the field, such as studying visualisation in higher education. The CDS consists of three stages across six perspectives: Stage 1 captures the essence of the idea by assigning an indicative title and selecting five adjectives (from twenty options) to form initial impressions of the design. Stage 2 involves an in-depth critique using 30 heuristic questions spanning six key perspectives—user, environment, interface, components, design, and visual marks. Stage 3 focuses on synthesising insights, reflecting on design decisions, and determining the next steps forward. We introduce the CDS and explore its use across three visualisation modules in both undergraduate and postgraduate courses. Our longstanding experience with the CDS has allowed us to refine and develop it over time: from its initial creation through workshops in 2017/18 to improvements in wording and the development of two applications by 2020, followed by the expansion of support notes and refinement of heuristics through 2023; while using it in our teaching each year. This sustained use allows us to reflect on its practical application and offer guidance on how others can incorporate it into their own work.
@@ -41,8 +74,9 @@
    
    [<a href="https://arxiv.org/abs/2508.05325" class="doilink">Preprint</a>]&nbsp;&nbsp;
   
+  [doi:<a href="http://dx.doi.org/10.1109/TVCG.2025.3634783" class="doilink">10.1109/TVCG.2025.3634783</a>]&nbsp;&nbsp;
   
-   [<span class="addedInfo">To be presented at IEEE VIS 2025</span>] 
+   [<span class="addedInfo">Presented at IEEE VIS 2025</span>] 
 </span>
 <a class="details" href="/bibliography/Roberts-et-al-TVCG-2026/"><span hidden=""></span></a></p></div>
 
@@ -224,7 +258,7 @@
 
 <div class="bibliography"><p>
 
-<span id="McGee-et-al-CGA-2025">F. McGee, M. Abu Sin, M. Chen, D. Ebert, K. Misue, P. D. Ritsos, and A. Wulff, “Preparedness for visualization in the next pandemic,” <i>IEEE Computer Graphics and Applications</i>, vol. 45, no. 3, pp. 95–103, 2025.</span>
+<span id="McGee-et-al-CGA-2025">F. McGee, M. Abu Sin, M. Chen, D. Ebert, K. Misue, P. D. Ritsos, and A. Wulff, “Preparedness for visualization in the next pandemic,” <i>IEEE Computer Graphics and Applications</i>, vol. 45, no. 3, pp. 95–103, May 2025.</span>
 
   <span class="toggle">
     This article discusses considerations on how visualization can be best positioned to help response to future pandemics. We examine visualization, along with the corresponding and necessary enabling technologies and platforms, as a tool to facilitate a rapid and effective response to a forthcoming pandemic. We consider challenges in terms of an infrastructure supporting world-wide response, corresponding training and stakeholder engagement, integration of future technologies, and appraisal of such systems, Finally, we discuss how addressing these challenges also helps emergency response beyond infectious diseases.
@@ -245,7 +279,7 @@
   
   [doi:<a href="http://dx.doi.org/10.1109/MCG.2025.3561619" class="doilink">10.1109/MCG.2025.3561619</a>]&nbsp;&nbsp;
   
-   
+   [<span class="addedInfo">Featured in IEEE Computing Edge, November 2025</span>] 
 </span>
 <a class="details" href="/bibliography/McGee-et-al-CGA-2025/"><span hidden=""></span></a></p></div>]]></content><author><name>Panagiotis Ritsos</name></author><category term="news" /><category term="pandemics" /><category term="visualization" /><category term="IEEE" /><category term="preparedness" /><summary type="html"><![CDATA[Our paper "Preparedness for visualization in the next pandemic" has been published in IEEE CGA.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://hccbu.github.io//assets/images/prepareVisPandemic.png" /><media:content medium="image" url="https://hccbu.github.io//assets/images/prepareVisPandemic.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Paper published in IEEE TVCG, to be presented at IEEE VIS 2025</title><link href="https://hccbu.github.io//news/2025/01/22/publications/" rel="alternate" type="text/html" title="Paper published in IEEE TVCG, to be presented at IEEE VIS 2025" /><published>2025-01-22T00:00:00+00:00</published><updated>2025-01-22T00:00:00+00:00</updated><id>https://hccbu.github.io//news/2025/01/22/publications</id><content type="html" xml:base="https://hccbu.github.io//news/2025/01/22/publications/"><![CDATA[<p><img src="/assets/images/dashspace.png" class="prjImgFlt" alt="Dashspace" /></p>
 
@@ -555,36 +589,4 @@
 </span>
 <a class="details" href="/bibliography/Roberts-et-al-Poster-VIS2023/"><span hidden=""></span></a></p></div>
 
-<p>You can find more information on the conference at <a href="http://ieeevis.org/">IEEE VIS2023</a>.</p>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;url&quot;=&gt;nil}</name></author><category term="news" /><category term="IEEE" /><category term="Situated" /><category term="Immersive" /><category term="Ubiquitous" /><category term="Analytics" /><category term="XR" /><category term="WebXR" /><category term="Melbourne" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">[“Workshop paper accepted in HUI / ISMAR2023”]</title><link href="https://hccbu.github.io//news/2023/08/07/publications/" rel="alternate" type="text/html" title="[“Workshop paper accepted in HUI / ISMAR2023”]" /><published>2023-08-07T00:00:00+01:00</published><updated>2023-08-07T00:00:00+01:00</updated><id>https://hccbu.github.io//news/2023/08/07/publications</id><content type="html" xml:base="https://hccbu.github.io//news/2023/08/07/publications/"><![CDATA[<p><img src="/assets/images/wiz_hui_ismar.png" class="prjImgFlt" alt="Wizualization System Overview" /></p>
-
-<p>Our paper <a href="/publications#Butcher-et-al-HUI-ISMAR2023">“Don’t Pull the Balrog — Lessons Learned from Designing Wizualization: a Magic-inspired Data Analytics System in XR”</a> has been accepted for publication in <a href="https://hybrid-ui-workshop.io/">HybridUI: 1st Workshop on Hybrid User Interfaces: Complementary Interfaces for Mixed Reality Interaction</a>, taking place during <a href="https://ismar23.org/">ISMAR 2023</a>.</p>
-
-<p>In this paper, we review lessons learned during the development of <a href="/bibliography/Batch-et-al-TVCG-2024/">Wizualization</a>, a visual analytics system for eXtended Reality (XR) that enables an analyst to author and interact with visualizations using a ‘hard-magic’ metaphor. Wizualization is based on a fundamentally hybrid and multimodal approach utilizing AR/XR, gestures, sound, and speech to support the mobile setting.</p>
-
-<h3 id="reference">Reference</h3>
-
-<div class="bibliography"><p>
-
-<span id="Butcher-et-al-HUI-ISMAR2023">P. W. S. Butcher, A. Batch, P. D. Ritsos, and N. Elmqvist, “Don’t Pull the Balrog — Lessons Learned from Designing Wizualization: a Magic-inspired Data Analytics System in XR,” in <i>HybridUI: 1st Workshop on Hybrid User Interfaces: Complementary Interfaces for Mixed Reality Interaction</i>, 2023.</span>
-
-  <span class="toggle">
-    This paper presents lessons learned in the design and development of Wizualization, a ubiquitous analytics system for authoring visualizations in WebXR using a magic metaphor. The system is based on a fundamentally hybrid and multimodal approach utilizing AR/XR, gestures, sound, and speech to support the mobile setting. Our lessons include how to overcome mostly technical challenges, such as view management and combining multiple sessions in the same analytical 3D space, but also user-based, design-oriented, and even social ones. Our intention in sharing these teachings is to help fellow travellers navigate the same troubled waters we have traversed.
-  </span>
-  <br />
-  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
-
-<span class="biblinks">
-  [<a href="/bibliography/Butcher-et-al-HUI-ISMAR2023/">Details</a>]&nbsp;&nbsp;
-  
-  
-        
-          [<a href="/files/Butcher-et-al-HUI-ISMAR2023.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
-         
-  
-   
-  
-  
-  
-   
-</span>
-<a class="details" href="/bibliography/Butcher-et-al-HUI-ISMAR2023/"><span hidden=""></span></a></p></div>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;url&quot;=&gt;nil}</name></author><category term="news" /><category term="XR" /><category term="WebXR" /><category term="IEEE" /><category term="ISMAR" /><category term="HUI" /><category term="situated" /><category term="analytics" /><summary type="html"><![CDATA[Our paper “Don’t Pull the Balrog — Lessons Learned from Designing Wizualization: a Magic-inspired Data Analytics System in XR” has been accepted for publication in HybridUI: 1st Workshop on Hybrid User Interfaces: Complementary Interfaces for Mixed Reality Interaction, taking place during ISMAR 2023. In this paper, we review lessons learned during the development of Wizualization, a visual analytics system for eXtended Reality (XR) that enables an analyst to author and interact with visualizations using a ‘hard-magic’ metaphor. Wizualization is based on a fundamentally hybrid and multimodal approach utilizing AR/XR, gestures, sound, and speech to support the mobile setting. Reference P. W. S. Butcher, A. Batch, P. D. Ritsos, and N. Elmqvist, “Don’t Pull the Balrog — Lessons Learned from Designing Wizualization: a Magic-inspired Data Analytics System in XR,” in HybridUI: 1st Workshop on Hybrid User Interfaces: Complementary Interfaces for Mixed Reality Interaction, 2023. This paper presents lessons learned in the design and development of Wizualization, a ubiquitous analytics system for authoring visualizations in WebXR using a magic metaphor. The system is based on a fundamentally hybrid and multimodal approach utilizing AR/XR, gestures, sound, and speech to support the mobile setting. Our lessons include how to overcome mostly technical challenges, such as view management and combining multiple sessions in the same analytical 3D space, but also user-based, design-oriented, and even social ones. Our intention in sharing these teachings is to help fellow travellers navigate the same troubled waters we have traversed. [Abstract]&nbsp;&nbsp; [Details]&nbsp;&nbsp; [PDF]&nbsp;&nbsp;]]></summary></entry></feed>
+<p>You can find more information on the conference at <a href="http://ieeevis.org/">IEEE VIS2023</a>.</p>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;url&quot;=&gt;nil}</name></author><category term="news" /><category term="IEEE" /><category term="Situated" /><category term="Immersive" /><category term="Ubiquitous" /><category term="Analytics" /><category term="XR" /><category term="WebXR" /><category term="Melbourne" /><summary type="html"><![CDATA[]]></summary></entry></feed>

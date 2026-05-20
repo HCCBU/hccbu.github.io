@@ -4,13 +4,56 @@
  <title>Human-Centred Computing Research Group, Bangor University</title>
  <link href="https://hccbu.github.io//atom.xml" rel="self"/>
  <link href="https://hccbu.github.io//"/>
- <updated>2026-05-15T19:26:09+01:00</updated>
+ <updated>2026-05-20T11:09:58+01:00</updated>
  <id>https://hccbu.github.io/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Paper accepted in IEEE TVCG</title>
+   <link href="https://hccbu.github.io//news/2026/03/04/publications/"/>
+   <updated>2026-03-04T00:00:00+00:00</updated>
+   <id>https://hccbu.github.io//news/2026/03/04/publications</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/ironman_teaser.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Ironman Study Teaser&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Our paper &lt;a href=&quot;/publicationsYear#MBorowski-et-al-TVCG-2026&quot;&gt;‘I Feel Like Iron Man’ - Authoring, Exploring, and Presenting Data Visualizations in Immersive AR&lt;/a&gt; has been accepted in &lt;a href=&quot;https://www.computer.org/csdl/journal/tg&quot;&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In this paper, we present a generalizable visual programming technique for immersive authoring, exploration, and presentation of data visualizations through direct manipulation, and implement it in a web-based augmented reality (AR) system. In a preregistered user study, we use this implementation to explore how analysts author and use data visualizations in immersive AR accessed using a head-mounted display (HMD). The study focuses on the authoring technique, spatial organization strategies, and sensemaking and presentation practices in such immersive analytics environments for HMD-based AR. Our findings suggest that participants particularly liked the direct manipulation of our approach, and that participants’ spatial organization is not based on physical landmarks in the room.&lt;/p&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+
+&lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
+
+&lt;span id=&quot;Borowski-et-al-TVCG-2026&quot;&gt;M. Borowski, P. W. S. Butcher, S. J. Jones, P. D. Ritsos, C. N. Klokmose, and N. Elmqvist, “‘I Feel Like Iron Man’: Authoring, Exploring, and Presenting Data Visualizations in Immersive AR,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics (to appear)&lt;/i&gt;, Mar. 2026.&lt;/span&gt;
+
+  &lt;span class=&quot;toggle&quot;&gt;
+    A truly anytime, anywhere approach to immersive analytics is predicated on the ability for users to author and explore visualizations in an immersive fashion and without a desktop computer. In this paper, we present a generalizable visual programming technique for immersive authoring, exploration, and presentation of data visualizations through direct manipulation, and implement it in a web-based augmented reality (AR) system. In a preregistered user study, we use this implementation to explore how analysts author and use data visualizations in immersive AR accessed using a head-mounted display (HMD). The study focuses on the authoring technique, spatial organization strategies, and sensemaking and presentation practices in such immersive analytics environments for HMD-based AR. Our findings suggest that participants particularly liked the direct manipulation of our approach, and that participants’ spatial organization is not based on physical landmarks in the room.
+  &lt;/span&gt;
+  &lt;br /&gt;
+  &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+
+&lt;span class=&quot;biblinks&quot;&gt;
+  [&lt;a href=&quot;/bibliography/Borowski-et-al-TVCG-2026/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+  
+        
+          [&lt;a href=&quot;&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+         
+  
+   
+  
+  
+  [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2026.3672314&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2026.3672314&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+  
+   
+&lt;/span&gt;
+&lt;a class=&quot;details&quot; href=&quot;/bibliography/Borowski-et-al-TVCG-2026/&quot;&gt;&lt;span hidden=&quot;&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Papers for presentation at IEEE VIS2025</title>
@@ -41,7 +84,7 @@
 
 &lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
 
-&lt;span id=&quot;Roberts-et-al-TVCG-2026&quot;&gt;J. C. Roberts, A. Hanan, O. A. E., and P. D. Ritsos, “Critical Design Strategy: a Method for Heuristically Evaluating Visualisation Designs,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, 2026.&lt;/span&gt;
+&lt;span id=&quot;Roberts-et-al-TVCG-2026&quot;&gt;J. C. Roberts, H. Alnjar, A. E. Owen, and P. D. Ritsos, “Critical Design Strategy: a Method for Heuristically Evaluating Visualisation Designs,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 32, no. 1, pp. 1383–1393, Jan. 2026.&lt;/span&gt;
 
   &lt;span class=&quot;toggle&quot;&gt;
     We present the Critical Design Strategy (CDS)—a structured method designed to facilitate the examination of visualisation designs through reflection and critical thought. The CDS helps designers think critically and make informed improvements using heuristic evaluation. When developing a visual tool or pioneering a novel visualisation approach, identifying areas for enhancement can be challenging. Critical thinking is particularly crucial for visualisation designers and tool developers, especially those new to the field, such as studying visualisation in higher education. The CDS consists of three stages across six perspectives: Stage 1 captures the essence of the idea by assigning an indicative title and selecting five adjectives (from twenty options) to form initial impressions of the design. Stage 2 involves an in-depth critique using 30 heuristic questions spanning six key perspectives—user, environment, interface, components, design, and visual marks. Stage 3 focuses on synthesising insights, reflecting on design decisions, and determining the next steps forward. We introduce the CDS and explore its use across three visualisation modules in both undergraduate and postgraduate courses. Our longstanding experience with the CDS has allowed us to refine and develop it over time: from its initial creation through workshops in 2017/18 to improvements in wording and the development of two applications by 2020, followed by the expansion of support notes and refinement of heuristics through 2023; while using it in our teaching each year. This sustained use allows us to reflect on its practical application and offer guidance on how others can incorporate it into their own work.
@@ -60,8 +103,9 @@
    
    [&lt;a href=&quot;https://arxiv.org/abs/2508.05325&quot; class=&quot;doilink&quot;&gt;Preprint&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
   
+  [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2025.3634783&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2025.3634783&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
   
-   [&lt;span class=&quot;addedInfo&quot;&gt;To be presented at IEEE VIS 2025&lt;/span&gt;] 
+   [&lt;span class=&quot;addedInfo&quot;&gt;Presented at IEEE VIS 2025&lt;/span&gt;] 
 &lt;/span&gt;
 &lt;a class=&quot;details&quot; href=&quot;/bibliography/Roberts-et-al-TVCG-2026/&quot;&gt;&lt;span hidden=&quot;&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 
@@ -262,7 +306,7 @@
 
 &lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
 
-&lt;span id=&quot;McGee-et-al-CGA-2025&quot;&gt;F. McGee, M. Abu Sin, M. Chen, D. Ebert, K. Misue, P. D. Ritsos, and A. Wulff, “Preparedness for visualization in the next pandemic,” &lt;i&gt;IEEE Computer Graphics and Applications&lt;/i&gt;, vol. 45, no. 3, pp. 95–103, 2025.&lt;/span&gt;
+&lt;span id=&quot;McGee-et-al-CGA-2025&quot;&gt;F. McGee, M. Abu Sin, M. Chen, D. Ebert, K. Misue, P. D. Ritsos, and A. Wulff, “Preparedness for visualization in the next pandemic,” &lt;i&gt;IEEE Computer Graphics and Applications&lt;/i&gt;, vol. 45, no. 3, pp. 95–103, May 2025.&lt;/span&gt;
 
   &lt;span class=&quot;toggle&quot;&gt;
     This article discusses considerations on how visualization can be best positioned to help response to future pandemics. We examine visualization, along with the corresponding and necessary enabling technologies and platforms, as a tool to facilitate a rapid and effective response to a forthcoming pandemic. We consider challenges in terms of an infrastructure supporting world-wide response, corresponding training and stakeholder engagement, integration of future technologies, and appraisal of such systems, Finally, we discuss how addressing these challenges also helps emergency response beyond infectious diseases.
@@ -283,7 +327,7 @@
   
   [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/MCG.2025.3561619&quot; class=&quot;doilink&quot;&gt;10.1109/MCG.2025.3561619&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
   
-   
+   [&lt;span class=&quot;addedInfo&quot;&gt;Featured in IEEE Computing Edge, November 2025&lt;/span&gt;] 
 &lt;/span&gt;
 &lt;a class=&quot;details&quot; href=&quot;/bibliography/McGee-et-al-CGA-2025/&quot;&gt;&lt;span hidden=&quot;&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 
