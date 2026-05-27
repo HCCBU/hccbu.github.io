@@ -46,7 +46,7 @@
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
-  <link type="application/atom+xml" rel="alternate" href="https://hccbu.github.io//feed.xml" title="Human-Centred Computing Research Group, Bangor University" />
+  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Human-Centred Computing Research Group, Bangor University" />
   <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>VIsualization environment for coastal analysis (VINCA) | Human-Centred Computing Research Group, Bangor University</title>
 <meta name="generator" content="Jekyll v4.3.2" />
@@ -54,21 +54,71 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Human-Centred Computing research group, School of Computer Science and Engineering, College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT" />
 <meta property="og:description" content="Human-Centred Computing research group, School of Computer Science and Engineering, College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT" />
-<link rel="canonical" href="https://hccbu.github.io//projects/VINCA/" />
-<meta property="og:url" content="https://hccbu.github.io//projects/VINCA/" />
+<link rel="canonical" href="http://localhost:4000/projects/VINCA/" />
+<meta property="og:url" content="http://localhost:4000/projects/VINCA/" />
 <meta property="og:site_name" content="Human-Centred Computing Research Group, Bangor University" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2026-05-20T14:23:12+01:00" />
+<meta property="article:published_time" content="2026-05-27T15:49:49+01:00" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="VIsualization environment for coastal analysis (VINCA)" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2026-05-20T14:23:12+01:00","datePublished":"2026-05-20T14:23:12+01:00","description":"Human-Centred Computing research group, School of Computer Science and Engineering, College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT","headline":"VIsualization environment for coastal analysis (VINCA)","mainEntityOfPage":{"@type":"WebPage","@id":"https://hccbu.github.io//projects/VINCA/"},"url":"https://hccbu.github.io//projects/VINCA/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2026-05-27T15:49:49+01:00","datePublished":"2026-05-27T15:49:49+01:00","description":"Human-Centred Computing research group, School of Computer Science and Engineering, College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT","headline":"VIsualization environment for coastal analysis (VINCA)","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/projects/VINCA/"},"url":"http://localhost:4000/projects/VINCA/"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
 
 
       <body id="research">
+        <!-- Mobile menu button -->
+        <button class="mobile-menu-toggle" id="mobileMenuToggle">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+
+        <!-- Mobile menu overlay -->
+        <div class="mobile-menu-overlay" id="mobileMenuOverlay"></div>
+
+        <!-- Mobile menu sidebar -->
+        <div class="mobile-menu" id="mobileMenu">
+          <div class="mobile-menu-close">
+            <button class="mobile-menu-close-btn" id="mobileMenuClose">&times;</button>
+          </div>
+          <nav class="mobile-sidenav">
+            
+            <a href="/" class="mobile-nav-link" id="mobile-nav-home">Home</a>
+            
+              
+                <a href="/labs/" class="mobile-nav-link" id="mobile-nav-labs">Labs</a>
+              
+            
+              
+                <a href="/projects/" class="mobile-nav-link" id="mobile-nav-research">Projects</a>
+              
+            
+              
+                <a href="/team/" class="mobile-nav-link" id="mobile-nav-team">Team</a>
+              
+            
+              
+                <a href="/publicationsYear/" class="mobile-nav-link" id="mobile-nav-publications">Publications</a>
+              
+            
+              
+                <a href="/events/" class="mobile-nav-link" id="mobile-nav-events">Events</a>
+              
+            
+              
+                <a href="/contact/" class="mobile-nav-link" id="mobile-nav-contact">Contact</a>
+              
+            
+              
+                <a href="/conference-map/" class="mobile-nav-link" id="mobile-nav-conference-map">Conference Map</a>
+              
+            
+          </nav>
+        </div>
+
         <div class="wrapper">
           <div id="mysidebar">
 
@@ -241,55 +291,77 @@
 
 <div class="bibliography"><p>
 
-<span id="George-et-al-Evn2014">R. L. S. F. George, P. E. Robins, A. G. Davies, P. D. Ritsos, and J. C. Roberts, “Interactive visual analytics of hydrodynamic flux for the coastal zone,” <i>Environmental Earth Sciences</i>, vol. 72, no. 10, pp. 3753–3766, Nov. 2014.</span>
+<div class="publication-entry">
+  
+  <div class="publication-image">
+    <img src="/assets/images/vincabanner.png" alt="Interactive visual analytics of hydrodynamic flux for the coastal zone" />
+  </div>
+  
+  <div class="publication-content">
+    <span id="George-et-al-Evn2014">R. L. S. F. George, P. E. Robins, A. G. Davies, P. D. Ritsos, and J. C. Roberts, “Interactive visual analytics of hydrodynamic flux for the coastal zone,” <i>Environmental Earth Sciences</i>, vol. 72, no. 10, pp. 3753–3766, Nov. 2014.</span>
+    
+    
+      <span class="toggle">
+        Researchers wish to study the potential impact of sea level rise from climate change, and visual analytic tools can allow scientists to visually examine and explore different possible scenarios from simulation runs. In particular, hydrodynamic flux is calculated to understand the net movement of water; but typically this calculation is tedious and is not easily achieved with traditional visualization and analytic tools. We present a visual analytic method that incorporates a transect profiler and flux calculator. The analytic software is incorporated into our visual analytics tool Vinca, and generates multiple transects, which can be visualized and analysed in several alternative visualizations; users can choose specific transects to compare against real-world data; users can explore how flux changes within a domain. In addition, we report how ocean scientists have used our tool to display multiple-view views of their data and analyse hydrodynamic flux for the coastal zone.
+      </span>
+      <br />
+      <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+    
+    <span class="biblinks">
+      [<a href="/bibliography/George-et-al-Evn2014/">Details</a>]&nbsp;&nbsp;
+      
+      
+            
+              [<a href="/files/George-et-al-Evn2014.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+             
+      
+       
+      
+      
+      [doi:<a href="http://dx.doi.org/10.1007/s12665-014-3283-9" class="doilink">10.1007/s12665-014-3283-9</a>]&nbsp;&nbsp;
+      
+       
+    </span>
+  </div>
+</div>
 
-  <span class="toggle">
-    Researchers wish to study the potential impact of sea level rise from climate change, and visual analytic tools can allow scientists to visually examine and explore different possible scenarios from simulation runs. In particular, hydrodynamic flux is calculated to understand the net movement of water; but typically this calculation is tedious and is not easily achieved with traditional visualization and analytic tools. We present a visual analytic method that incorporates a transect profiler and flux calculator. The analytic software is incorporated into our visual analytics tool Vinca, and generates multiple transects, which can be visualized and analysed in several alternative visualizations; users can choose specific transects to compare against real-world data; users can explore how flux changes within a domain. In addition, we report how ocean scientists have used our tool to display multiple-view views of their data and analyse hydrodynamic flux for the coastal zone.
-  </span>
-  <br />
-  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
-
-<span class="biblinks">
-  [<a href="/bibliography/George-et-al-Evn2014/">Details</a>]&nbsp;&nbsp;
-  
-  
-        
-          [<a href="/files/George-et-al-Evn2014.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
-         
-  
-   
-  
-  
-  [doi:<a href="http://dx.doi.org/10.1007/s12665-014-3283-9" class="doilink">10.1007/s12665-014-3283-9</a>]&nbsp;&nbsp;
-  
-   
-</span>
 <a class="details" href="/bibliography/George-et-al-Evn2014/"><span hidden=""></span></a></p></div>
 
 <div class="bibliography"><p>
 
-<span id="George-et-al-Poster-EuroVis2014">R. L. S. F. George, P. D. Ritsos, and J. C. Roberts, “Interactive Oceanographic Visualization using spatially-aggregated Parallel Coordinate Plots,” in <i>Posters presented at EuroVis 2014, June 9-13 , Swansea, Wales, UK</i>, 2014.</span>
+<div class="publication-entry">
+  
+  <div class="publication-image">
+    <img src="/assets/images/no_image.jpg" alt="Interactive Oceanographic Visualization using spatially-aggregated Parallel Coordinate Plots" />
+  </div>
+  
+  <div class="publication-content">
+    <span id="George-et-al-Poster-EuroVis2014">R. L. S. F. George, P. D. Ritsos, and J. C. Roberts, “Interactive Oceanographic Visualization using spatially-aggregated Parallel Coordinate Plots,” in <i>Posters presented at EuroVis 2014, June 9-13 , Swansea, Wales, UK</i>, 2014.</span>
+    
+    
+      <span class="toggle">
+        Visual Analytics interfaces allow ocean scientists to interactively investigate and compare different runs and parameterizations. However, oceanographic models are complex, temporal and the datasets that are generated are huge. Parallel Coordinate Plots can help explore multivariate data such as ocean-science data. Common issues with traditional PCPs of clutter and performance inhibit interactive spatial exploration. We describe techniques that aggregates the PCP based on the spatial nature of the data and we render the polylines as ranges.
+      </span>
+      <br />
+      <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+    
+    <span class="biblinks">
+      [<a href="/bibliography/George-et-al-Poster-EuroVis2014/">Details</a>]&nbsp;&nbsp;
+      
+      
+            
+              [<a href="/files/George-et-al-Poster-EuroVis2014.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+             
+      
+       
+      
+      
+      
+       
+    </span>
+  </div>
+</div>
 
-  <span class="toggle">
-    Visual Analytics interfaces allow ocean scientists to interactively investigate and compare different runs and parameterizations. However, oceanographic models are complex, temporal and the datasets that are generated are huge. Parallel Coordinate Plots can help explore multivariate data such as ocean-science data. Common issues with traditional PCPs of clutter and performance inhibit interactive spatial exploration. We describe techniques that aggregates the PCP based on the spatial nature of the data and we render the polylines as ranges.
-  </span>
-  <br />
-  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
-
-<span class="biblinks">
-  [<a href="/bibliography/George-et-al-Poster-EuroVis2014/">Details</a>]&nbsp;&nbsp;
-  
-  
-        
-          [<a href="/files/George-et-al-Poster-EuroVis2014.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
-         
-  
-   
-  
-  
-  
-   
-</span>
 <a class="details" href="/bibliography/George-et-al-Poster-EuroVis2014/"><span hidden=""></span></a></p></div>
 
 </p>
@@ -325,6 +397,9 @@
 
 
     
+
+    <!-- Mobile menu script -->
+    <script src="/public/js/mobile-menu.js"></script>
 
   </body>
 </html>

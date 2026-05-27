@@ -11,6 +11,32 @@
   {% include head.html %}
 
       <body id="{{page.type}}">
+        <!-- Mobile menu button -->
+        <button class="mobile-menu-toggle" id="mobileMenuToggle">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+
+        <!-- Mobile menu overlay -->
+        <div class="mobile-menu-overlay" id="mobileMenuOverlay"></div>
+
+        <!-- Mobile menu sidebar -->
+        <div class="mobile-menu" id="mobileMenu">
+          <div class="mobile-menu-close">
+            <button class="mobile-menu-close-btn" id="mobileMenuClose">&times;</button>
+          </div>
+          <nav class="mobile-sidenav">
+            {% assign pages_list = site.pages | where: "menu", "main" | where: "layout", "page" | sort: "order" %}
+            <a href="{{ site.baseurl }}/" class="mobile-nav-link" id="mobile-nav-home">Home</a>
+            {% for node in pages_list %}
+              {% if node.title != null %}
+                <a href="{{ node.url }}" class="mobile-nav-link" id="mobile-nav-{{ node.type }}">{{ node.title }}</a>
+              {% endif %}
+            {% endfor %}
+          </nav>
+        </div>
+
         <div class="wrapper">
           {% include sidebar.html %}
           <div class="main">
@@ -69,6 +95,9 @@
       });
       </script>
     {% endif %}
+
+    <!-- Mobile menu script -->
+    <script src="{{ site.baseurl }}/public/js/mobile-menu.js"></script>
 
   </body>
 </html>

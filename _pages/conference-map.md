@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Conference Map
 type: conference-map
 menu: main
 order: 7

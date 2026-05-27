@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Publications
+description: "Browse research publications from the HCC group including journals, conferences, books, and preprints in visualization, AR/VR, and HCI."
 type: publications
 menu: none
 order: 4

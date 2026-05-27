@@ -14,6 +14,17 @@ tags:
 related:
 list: true
 type: home
+
+conference_map:
+  title: Journal paper accepted in Computer Graphics Forum
+  location_id: Leipzig-Germany
+  city: Leipzig
+  country: Germany
+  lat: 51.3397
+  lng: 12.3731
+  conference: EuroVis 2023
+  year: 2023
+  thumbnail: /assets/images/holodeck-teaser.png
 ---
 
 <img src="{{ site.baseurl }}/assets/images/holodeck-teaser.png" class="prjImgFlt"  alt="Situated Analytics with Handheld AR">

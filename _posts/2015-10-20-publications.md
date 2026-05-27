@@ -10,6 +10,16 @@ shortUrl: http://goo.gl/1hCp4i
 related: ieeevis
 list: true
 type: home
+
+conference_map:
+  location_id: chicago-usa
+  city: Chicago
+  country: United States
+  lat: 41.8781
+  lng: -87.6298
+  conference: IEEE VIS 2015
+  year: 2015
+  thumbnail: /assets/images/Vis15-header.jpg
 ---
 
 <img src="{{ site.baseurl }}/assets/images/Vis15-header.png" alt="Vis2015 Header">

@@ -9,6 +9,16 @@ tags:
 related: ieeevis
 list: true
 type: home
+
+conference_map:
+  location_id: paris-france
+  city: Paris
+  country: Frnace
+  lat: 48.8566
+  lng: 2.3522
+  conference: IEEE VIS 2014
+  year: 2014
+  thumbnail: /assets/images/Death_of_the_Desktop.jpg
 ---
 
 <img src="{{ site.baseurl }}/assets/images/Death_of_the_Desktop.png" alt="DoTD">

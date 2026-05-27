@@ -46,7 +46,7 @@
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
-  <link type="application/atom+xml" rel="alternate" href="https://hccbu.github.io//feed.xml" title="Human-Centred Computing Research Group, Bangor University" />
+  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Human-Centred Computing Research Group, Bangor University" />
   <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>[“XRVA at IEEE VIS 2023”] | Human-Centred Computing Research Group, Bangor University</title>
 <meta name="generator" content="Jekyll v4.3.2" />
@@ -54,21 +54,71 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Human-Centred Computing research group, School of Computer Science and Engineering, College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT" />
 <meta property="og:description" content="Human-Centred Computing research group, School of Computer Science and Engineering, College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT" />
-<link rel="canonical" href="https://hccbu.github.io//news/2023/10/21/publications/" />
-<meta property="og:url" content="https://hccbu.github.io//news/2023/10/21/publications/" />
+<link rel="canonical" href="http://localhost:4000/news/2023/10/21/publications/" />
+<meta property="og:url" content="http://localhost:4000/news/2023/10/21/publications/" />
 <meta property="og:site_name" content="Human-Centred Computing Research Group, Bangor University" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2023-10-21T00:00:00+01:00" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="[“XRVA at IEEE VIS 2023”]" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-10-21T00:00:00+01:00","datePublished":"2023-10-21T00:00:00+01:00","description":"Human-Centred Computing research group, School of Computer Science and Engineering, College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT","headline":"[“XRVA at IEEE VIS 2023”]","mainEntityOfPage":{"@type":"WebPage","@id":"https://hccbu.github.io//news/2023/10/21/publications/"},"url":"https://hccbu.github.io//news/2023/10/21/publications/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2023-10-21T00:00:00+01:00","datePublished":"2023-10-21T00:00:00+01:00","description":"Human-Centred Computing research group, School of Computer Science and Engineering, College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT","headline":"[“XRVA at IEEE VIS 2023”]","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/news/2023/10/21/publications/"},"url":"http://localhost:4000/news/2023/10/21/publications/"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
 
 
       <body id="home">
+        <!-- Mobile menu button -->
+        <button class="mobile-menu-toggle" id="mobileMenuToggle">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+
+        <!-- Mobile menu overlay -->
+        <div class="mobile-menu-overlay" id="mobileMenuOverlay"></div>
+
+        <!-- Mobile menu sidebar -->
+        <div class="mobile-menu" id="mobileMenu">
+          <div class="mobile-menu-close">
+            <button class="mobile-menu-close-btn" id="mobileMenuClose">&times;</button>
+          </div>
+          <nav class="mobile-sidenav">
+            
+            <a href="/" class="mobile-nav-link" id="mobile-nav-home">Home</a>
+            
+              
+                <a href="/labs/" class="mobile-nav-link" id="mobile-nav-labs">Labs</a>
+              
+            
+              
+                <a href="/projects/" class="mobile-nav-link" id="mobile-nav-research">Projects</a>
+              
+            
+              
+                <a href="/team/" class="mobile-nav-link" id="mobile-nav-team">Team</a>
+              
+            
+              
+                <a href="/publicationsYear/" class="mobile-nav-link" id="mobile-nav-publications">Publications</a>
+              
+            
+              
+                <a href="/events/" class="mobile-nav-link" id="mobile-nav-events">Events</a>
+              
+            
+              
+                <a href="/contact/" class="mobile-nav-link" id="mobile-nav-contact">Contact</a>
+              
+            
+              
+                <a href="/conference-map/" class="mobile-nav-link" id="mobile-nav-conference-map">Conference Map</a>
+              
+            
+          </nav>
+        </div>
+
         <div class="wrapper">
           <div id="mysidebar">
 
@@ -272,160 +322,226 @@
 
 <div class="bibliography"><p>
 
-<span id="Batch-et-al-TVCG-2024">A. Batch, P. W. S. Butcher, P. D. Ritsos, and N. Elmqvist, “Wizualization: A ’Hard Magic’ Visualization System for Immersive and Ubiquitous Analytics,” <i>IEEE Transactions on Visualization and Computer Graphics (to appear)</i>, 2024.</span>
+<div class="publication-entry">
+  
+  <div class="publication-image">
+    <img src="/assets/images/wiz.png" alt="Wizualization: A ’Hard Magic’ Visualization System for Immersive and Ubiquitous Analytics" />
+  </div>
+  
+  <div class="publication-content">
+    <span id="Batch-et-al-TVCG-2024">A. Batch, P. W. S. Butcher, P. D. Ritsos, and N. Elmqvist, “Wizualization: A ’Hard Magic’ Visualization System for Immersive and Ubiquitous Analytics,” <i>IEEE Transactions on Visualization and Computer Graphics (to appear)</i>, 2024.</span>
+    
+    
+      <span class="toggle">
+        What if magic could be used as an effective metaphor to perform data visualization and analysis using speech and gestures while mobile and on-the-go? In this paper, we introduce Wizualization, a visual analytics system for eXtended Reality (XR) that enables an analyst to author and interact with visualizations using such a magic system through gestures, speech commands, and touch interaction. Wizualization is a rendering system for current XR headsets that comprises several components: a cross-device (or Arcane Focuses) infrastructure for signalling and view control (Weave), a code notebook (SpellBook), and a grammar of graphics for XR (Optomancy). The system offers users three modes of input: gestures, spoken commands, and materials. We demonstrate Wizualization and its components using a motivating scenario on collaborative data analysis of pandemic data across time and space.
+      </span>
+      <br />
+      <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+    
+    <span class="biblinks">
+      [<a href="/bibliography/Batch-et-al-TVCG-2024/">Details</a>]&nbsp;&nbsp;
+      
+      
+            
+              [<a href="/files/Batch-et-al-TVCG-2024.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+             
+      
+       
+      
+      
+      [doi:<a href="http://dx.doi.org/10.1109/TVCG.2023.3326580" class="doilink">10.1109/TVCG.2023.3326580</a>]&nbsp;&nbsp;
+      
+       [<span class="addedInfo">Presented at IEEE VIS 2023</span>] 
+    </span>
+  </div>
+</div>
 
-  <span class="toggle">
-    What if magic could be used as an effective metaphor to perform data visualization and analysis using speech and gestures while mobile and on-the-go? In this paper, we introduce Wizualization, a visual analytics system for eXtended Reality (XR) that enables an analyst to author and interact with visualizations using such a magic system through gestures, speech commands, and touch interaction. Wizualization is a rendering system for current XR headsets that comprises several components: a cross-device (or Arcane Focuses) infrastructure for signalling and view control (Weave), a code notebook (SpellBook), and a grammar of graphics for XR (Optomancy). The system offers users three modes of input: gestures, spoken commands, and materials. We demonstrate Wizualization and its components using a motivating scenario on collaborative data analysis of pandemic data across time and space.
-  </span>
-  <br />
-  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
-
-<span class="biblinks">
-  [<a href="/bibliography/Batch-et-al-TVCG-2024/">Details</a>]&nbsp;&nbsp;
-  
-  
-        
-          [<a href="/files/Batch-et-al-TVCG-2024.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
-         
-  
-   
-  
-  
-  [doi:<a href="http://dx.doi.org/10.1109/TVCG.2023.3326580" class="doilink">10.1109/TVCG.2023.3326580</a>]&nbsp;&nbsp;
-  
-   [<span class="addedInfo">Presented at IEEE VIS 2023</span>] 
-</span>
 <a class="details" href="/bibliography/Batch-et-al-TVCG-2024/"><span hidden=""></span></a></p></div>
 
 <div class="bibliography"><p>
 
-<span id="Shin-et-al-TVCG-2023">S. Shin, A. Batch, P. W. S. Butcher, P. D. Ritsos, and N. Elmqvist, “The Reality of the Situation: A Survey of Situated Analytics,” <i>IEEE Transactions on Visualization and Computer Graphics (to appear)</i>, 2023.</span>
+<div class="publication-entry">
+  
+  <div class="publication-image">
+    <img src="/assets/images/situated_survey.png" alt="The Reality of the Situation: A Survey of Situated Analytics" />
+  </div>
+  
+  <div class="publication-content">
+    <span id="Shin-et-al-TVCG-2023">S. Shin, A. Batch, P. W. S. Butcher, P. D. Ritsos, and N. Elmqvist, “The Reality of the Situation: A Survey of Situated Analytics,” <i>IEEE Transactions on Visualization and Computer Graphics (to appear)</i>, 2023.</span>
+    
+    
+      <span class="toggle">
+         The advent of low-cost, accessible, and high-performance augmented reality (AR) has shed light on a situated form of analytics where in-situ visualizations embedded in the real world can facilitate sensemaking based on the user’s physical location. In this work, we identify prior literature in this emerging field with a focus on situated analytics. After collecting 47 relevant situated analytics systems, we classify them using a taxonomy of three dimensions: situating triggers, view situatedness, and data depiction. We then identify four archetypical patterns in our classification using an ensemble cluster analysis. We also assess the level which these systems support the sensemaking process. Finally, we discuss insights and design guidelines that we learned from our analysis.
+      </span>
+      <br />
+      <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+    
+    <span class="biblinks">
+      [<a href="/bibliography/Shin-et-al-TVCG-2023/">Details</a>]&nbsp;&nbsp;
+      
+      
+            
+              [<a href="/files/Shin-et-al-TVCG-2023.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+             
+      
+       
+      
+      
+      [doi:<a href="http://dx.doi.org/10.1109/TVCG.2023.3285546" class="doilink">10.1109/TVCG.2023.3285546</a>]&nbsp;&nbsp;
+      
+       [<span class="addedInfo">Presented at IEEE VIS 2023</span>] 
+    </span>
+  </div>
+</div>
 
-  <span class="toggle">
-     The advent of low-cost, accessible, and high-performance augmented reality (AR) has shed light on a situated form of analytics where in-situ visualizations embedded in the real world can facilitate sensemaking based on the user’s physical location. In this work, we identify prior literature in this emerging field with a focus on situated analytics. After collecting 47 relevant situated analytics systems, we classify them using a taxonomy of three dimensions: situating triggers, view situatedness, and data depiction. We then identify four archetypical patterns in our classification using an ensemble cluster analysis. We also assess the level which these systems support the sensemaking process. Finally, we discuss insights and design guidelines that we learned from our analysis.
-  </span>
-  <br />
-  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
-
-<span class="biblinks">
-  [<a href="/bibliography/Shin-et-al-TVCG-2023/">Details</a>]&nbsp;&nbsp;
-  
-  
-        
-          [<a href="/files/Shin-et-al-TVCG-2023.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
-         
-  
-   
-  
-  
-  [doi:<a href="http://dx.doi.org/10.1109/TVCG.2023.3285546" class="doilink">10.1109/TVCG.2023.3285546</a>]&nbsp;&nbsp;
-  
-   [<span class="addedInfo">Presented at IEEE VIS 2023</span>] 
-</span>
 <a class="details" href="/bibliography/Shin-et-al-TVCG-2023/"><span hidden=""></span></a></p></div>
 
 <div class="bibliography"><p>
 
-<span id="Chen-et-al-Bulletin-Vis4PandemRes-VIS2023">M. Chen, A. Abdul-Rahman, D. Archambault, J. Dykes, P. D. Ritsos, A. Slingsby, T. Torsney-Weir, C. Turkay, B. Bach, R. Borgo, A. Brett, H. Fang, R. Jianu, S. Khan, R. S. Laramee, L. Matthews, P. Nguyen, R. Reeve, J. C. Roberts, F. P. Vidal, Q. Wang, J. Wood, and K. Xu, “RAMPVIS: Answering the Challenges of Building Visualization Capabilities for Large-scale Emergency Responses,” in <i>Bulletins presented at the IEEE VIS Workshop on Visualization for Pandemic and Emergency Responses 2023 (Vis4PandEmRes), IEEE Conference on Visualization (IEEE VIS 2023), Melbourne, Australia</i>, 2023.</span>
+<div class="publication-entry">
+  
+  <div class="publication-image">
+    <img src="/assets/images/no_image.jpg" alt="RAMPVIS: Answering the Challenges of Building Visualization Capabilities for Large-scale Emergency Responses" />
+  </div>
+  
+  <div class="publication-content">
+    <span id="Chen-et-al-Bulletin-Vis4PandemRes-VIS2023">M. Chen, A. Abdul-Rahman, D. Archambault, J. Dykes, P. D. Ritsos, A. Slingsby, T. Torsney-Weir, C. Turkay, B. Bach, R. Borgo, A. Brett, H. Fang, R. Jianu, S. Khan, R. S. Laramee, L. Matthews, P. Nguyen, R. Reeve, J. C. Roberts, F. P. Vidal, Q. Wang, J. Wood, and K. Xu, “RAMPVIS: Answering the Challenges of Building Visualization Capabilities for Large-scale Emergency Responses,” in <i>Bulletins presented at the IEEE VIS Workshop on Visualization for Pandemic and Emergency Responses 2023 (Vis4PandEmRes), IEEE Conference on Visualization (IEEE VIS 2023), Melbourne, Australia</i>, 2023.</span>
+    
+    
+      <span class="toggle">
+        In this bulletin video, we summarize the volunteering activities of  a group of visualization researchers who provided support to  epidemiological modeling during the COVID-19 pandemic. Epidemiological modeling during a pandemic is a complex and continuous process. The intraoperative workflow entails different visualization tasks at four different levels, i.e., disseminative, observational, analytical, and model-developmental visualization. The visualization volunteers were organized into seven teams, including a generic support team, an analytical support team, a disseminative visualization team, and four modeling support teams. During the volunteering activities, we encountered a few major challenges. We made an effort to address these challenges and gained useful experience.
+      </span>
+      <br />
+      <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+    
+    <span class="biblinks">
+      [<a href="/bibliography/Chen-et-al-Bulletin-Vis4PandemRes-VIS2023/">Details</a>]&nbsp;&nbsp;
+      
+      
+            
+              [<a href="/files/Chen-et-al-Bulletin-Vis4PandemRes-VIS2023.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+             
+      
+       
+      
+      
+      
+       
+    </span>
+  </div>
+</div>
 
-  <span class="toggle">
-    In this bulletin video, we summarize the volunteering activities of  a group of visualization researchers who provided support to  epidemiological modeling during the COVID-19 pandemic. Epidemiological modeling during a pandemic is a complex and continuous process. The intraoperative workflow entails different visualization tasks at four different levels, i.e., disseminative, observational, analytical, and model-developmental visualization. The visualization volunteers were organized into seven teams, including a generic support team, an analytical support team, a disseminative visualization team, and four modeling support teams. During the volunteering activities, we encountered a few major challenges. We made an effort to address these challenges and gained useful experience.
-  </span>
-  <br />
-  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
-
-<span class="biblinks">
-  [<a href="/bibliography/Chen-et-al-Bulletin-Vis4PandemRes-VIS2023/">Details</a>]&nbsp;&nbsp;
-  
-  
-        
-          [<a href="/files/Chen-et-al-Bulletin-Vis4PandemRes-VIS2023.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
-         
-  
-   
-  
-  
-  
-   
-</span>
 <a class="details" href="/bibliography/Chen-et-al-Bulletin-Vis4PandemRes-VIS2023/"><span hidden=""></span></a></p></div>
 
 <div class="bibliography"><p>
 
-<span id="Ritsos-et-al-Bulletin-Vis4PandemRes-VIS2023">P. D. Ritsos, S. Khan, S. Jones, B. Bach, J. Meikle, J. C. Roberts, J. Wood, and M. Chen, “Creating storytelling visualizations for the Covid-19 pandemic using Feature-Action Design Patterns,” in <i>Bulletins presented at the IEEE VIS Workshop on Visualization for Pandemic and Emergency Responses 2023 (Vis4PandEmRes), IEEE Conference on Visualization (IEEE VIS 2023), Melbourne, Australia</i>, 2023.</span>
+<div class="publication-entry">
+  
+  <div class="publication-image">
+    <img src="/assets/images/no_image.jpg" alt="Creating storytelling visualizations for the Covid-19 pandemic using Feature-Action Design Patterns" />
+  </div>
+  
+  <div class="publication-content">
+    <span id="Ritsos-et-al-Bulletin-Vis4PandemRes-VIS2023">P. D. Ritsos, S. Khan, S. Jones, B. Bach, J. Meikle, J. C. Roberts, J. Wood, and M. Chen, “Creating storytelling visualizations for the Covid-19 pandemic using Feature-Action Design Patterns,” in <i>Bulletins presented at the IEEE VIS Workshop on Visualization for Pandemic and Emergency Responses 2023 (Vis4PandEmRes), IEEE Conference on Visualization (IEEE VIS 2023), Melbourne, Australia</i>, 2023.</span>
+    
+    
+      <span class="toggle">
+        In this bulletin video, we summarize a novel technique for authoring storytelling visualization. The technique was developed by one of the teams in the RAMPVIS project, which provided visualization support to epidemiological modeling during the COVID-19 pandemic. The team explored the prevailing approaches, in the UK and internationally, for creating public-facing visualizations related to the pandemic. This ranged from those produced by a number of governments (e.g., the four home nations in the UK), organizations (e.g., WHO, UK ONS), universities (e.g., Johns Hopkins dashboards), media outlets (e.g., FT Coronavirus tracker), and non-commercial web services (e.g., Worldometers). The team concluded that we should complement, but not duplicate, the existing effort, and defined our goal as to inform the public through advanced storytelling visualization.
+      </span>
+      <br />
+      <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+    
+    <span class="biblinks">
+      [<a href="/bibliography/Ritsos-et-al-Bulletin-Vis4PandemRes-VIS2023/">Details</a>]&nbsp;&nbsp;
+      
+      
+            
+              [<a href="/files/Ritsos-et-al-Bulletin-Vis4PandemRes-VIS2023.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+             
+      
+       
+      
+      
+      
+       
+    </span>
+  </div>
+</div>
 
-  <span class="toggle">
-    In this bulletin video, we summarize a novel technique for authoring storytelling visualization. The technique was developed by one of the teams in the RAMPVIS project, which provided visualization support to epidemiological modeling during the COVID-19 pandemic. The team explored the prevailing approaches, in the UK and internationally, for creating public-facing visualizations related to the pandemic. This ranged from those produced by a number of governments (e.g., the four home nations in the UK), organizations (e.g., WHO, UK ONS), universities (e.g., Johns Hopkins dashboards), media outlets (e.g., FT Coronavirus tracker), and non-commercial web services (e.g., Worldometers). The team concluded that we should complement, but not duplicate, the existing effort, and defined our goal as to inform the public through advanced storytelling visualization.
-  </span>
-  <br />
-  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
-
-<span class="biblinks">
-  [<a href="/bibliography/Ritsos-et-al-Bulletin-Vis4PandemRes-VIS2023/">Details</a>]&nbsp;&nbsp;
-  
-  
-        
-          [<a href="/files/Ritsos-et-al-Bulletin-Vis4PandemRes-VIS2023.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
-         
-  
-   
-  
-  
-  
-   
-</span>
 <a class="details" href="/bibliography/Ritsos-et-al-Bulletin-Vis4PandemRes-VIS2023/"><span hidden=""></span></a></p></div>
 
 <div class="bibliography"><p>
 
-<span id="Rigby-et-al-Poster-VIS2023">A. Rigby, P. W. S. Butcher, R. Bellini, P. Coughlan, A. Mc Nabola, and P. D. Ritsos, “DUVis: A visual analytics tool for supporting a trans-disciplinary project,” in <i>Posters presented at the IEEE Conference on Visualization (IEEE VIS 2023), Melbourne, Australia</i>, 2023.</span>
+<div class="publication-entry">
+  
+  <div class="publication-image">
+    <img src="/assets/images/no_image.jpg" alt="DUVis: A visual analytics tool for supporting a trans-disciplinary project" />
+  </div>
+  
+  <div class="publication-content">
+    <span id="Rigby-et-al-Poster-VIS2023">A. Rigby, P. W. S. Butcher, R. Bellini, P. Coughlan, A. Mc Nabola, and P. D. Ritsos, “DUVis: A visual analytics tool for supporting a trans-disciplinary project,” in <i>Posters presented at the IEEE Conference on Visualization (IEEE VIS 2023), Melbourne, Australia</i>, 2023.</span>
+    
+    
+      <span class="toggle">
+        We present DUVis, a visual analytics application developed to support the analysis and appraisal, of the transdiciplinary project Dŵr Uisce, from internal project managers and external stakeholders. DUVis provides a number of visualizations and additional features to facilitate data exploration of a project’s progress. It presents a map of stakeholders’ activities, and their engagement with each other, as well as outputs, workpackages, their completion status and potential impact. We present our preliminary design and provide a blueprint for further development.
+      </span>
+      <br />
+      <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+    
+    <span class="biblinks">
+      [<a href="/bibliography/Rigby-et-al-Poster-VIS2023/">Details</a>]&nbsp;&nbsp;
+      
+      
+            
+              [<a href="/files/Rigby-et-al-Poster-VIS2023.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+             
+      
+       
+      
+      
+      
+       
+    </span>
+  </div>
+</div>
 
-  <span class="toggle">
-    We present DUVis, a visual analytics application developed to support the analysis and appraisal, of the transdiciplinary project Dŵr Uisce, from internal project managers and external stakeholders. DUVis provides a number of visualizations and additional features to facilitate data exploration of a project’s progress. It presents a map of stakeholders’ activities, and their engagement with each other, as well as outputs, workpackages, their completion status and potential impact. We present our preliminary design and provide a blueprint for further development.
-  </span>
-  <br />
-  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
-
-<span class="biblinks">
-  [<a href="/bibliography/Rigby-et-al-Poster-VIS2023/">Details</a>]&nbsp;&nbsp;
-  
-  
-        
-          [<a href="/files/Rigby-et-al-Poster-VIS2023.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
-         
-  
-   
-  
-  
-  
-   
-</span>
 <a class="details" href="/bibliography/Rigby-et-al-Poster-VIS2023/"><span hidden=""></span></a></p></div>
 
 <div class="bibliography"><p>
 
-<span id="Roberts-et-al-Poster-VIS2023">J. C. Roberts, H. Alnjar, A. E. Owen, and P. D. Ritsos, “A method for Critical and Creative Visualisation Design-Thinking,” in <i>Posters presented at the IEEE Conference on Visualization (IEEE VIS 2023), Melbourne, Australia</i>, 2023.</span>
+<div class="publication-entry">
+  
+  <div class="publication-image">
+    <img src="/assets/images/no_image.jpg" alt="A method for Critical and Creative Visualisation Design-Thinking" />
+  </div>
+  
+  <div class="publication-content">
+    <span id="Roberts-et-al-Poster-VIS2023">J. C. Roberts, H. Alnjar, A. E. Owen, and P. D. Ritsos, “A method for Critical and Creative Visualisation Design-Thinking,” in <i>Posters presented at the IEEE Conference on Visualization (IEEE VIS 2023), Melbourne, Australia</i>, 2023.</span>
+    
+    
+      <span class="toggle">
+        Visualisation design requires critical thought: to understand important facets, investigate design suitability and explore alternatives. But, especially for learners, it can be difficult to structure a critical reflection of creative solutions. We introduce the Critical Design Survey (CDS): structured method that facilitates visualisation design analysis through reflective and critical thought. Applying the CDS helps someone to structure critical thought, provides a unified method that can be readily taught, learners can actively engage with the process and directly use it to write a critical-thinking report of their design ideas. The CDS contains three steps: Step 1, summarise and write down the essence of the idea. Step 2, perform an in-depth critique (we define 30 questions structured in six perspectives). Step 3, synthesise the ideas, implications, and decide on the next steps. We present the CDS, describe our design process (critical thinking workshops, talk aloud, and student use), and describe our use in teaching visualisation to undergraduate and postgraduate students.
+      </span>
+      <br />
+      <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+    
+    <span class="biblinks">
+      [<a href="/bibliography/Roberts-et-al-Poster-VIS2023/">Details</a>]&nbsp;&nbsp;
+      
+      
+            
+              [<a href="/files/Roberts-et-al-Poster-VIS2023.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+             
+      
+       
+      
+      
+      
+       
+    </span>
+  </div>
+</div>
 
-  <span class="toggle">
-    Visualisation design requires critical thought: to understand important facets, investigate design suitability and explore alternatives. But, especially for learners, it can be difficult to structure a critical reflection of creative solutions. We introduce the Critical Design Survey (CDS): structured method that facilitates visualisation design analysis through reflective and critical thought. Applying the CDS helps someone to structure critical thought, provides a unified method that can be readily taught, learners can actively engage with the process and directly use it to write a critical-thinking report of their design ideas. The CDS contains three steps: Step 1, summarise and write down the essence of the idea. Step 2, perform an in-depth critique (we define 30 questions structured in six perspectives). Step 3, synthesise the ideas, implications, and decide on the next steps. We present the CDS, describe our design process (critical thinking workshops, talk aloud, and student use), and describe our use in teaching visualisation to undergraduate and postgraduate students.
-  </span>
-  <br />
-  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
-
-<span class="biblinks">
-  [<a href="/bibliography/Roberts-et-al-Poster-VIS2023/">Details</a>]&nbsp;&nbsp;
-  
-  
-        
-          [<a href="/files/Roberts-et-al-Poster-VIS2023.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
-         
-  
-   
-  
-  
-  
-   
-</span>
 <a class="details" href="/bibliography/Roberts-et-al-Poster-VIS2023/"><span hidden=""></span></a></p></div>
 
 <p>You can find more information on the conference at <a href="http://ieeevis.org/">IEEE VIS2023</a>.</p>
@@ -444,13 +560,13 @@
   <div id="share-box" style="float:right"> Share this:
 
 
-      <a href="https://bsky.app/intent/compose?text= More info... https://hccbu.github.io//news/2023/10/21/publications/ %23IEEE %23Situated %23Immersive %23Ubiquitous %23Analytics %23XR %23WebXR %23Melbourne" onclick="window.open(this.href, 'mywin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"><i class="fa-brands fa-bluesky"></i></a>&nbsp
+      <a href="https://bsky.app/intent/compose?text= More info... http://localhost:4000/news/2023/10/21/publications/ %23IEEE %23Situated %23Immersive %23Ubiquitous %23Analytics %23XR %23WebXR %23Melbourne" onclick="window.open(this.href, 'mywin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"><i class="fa-brands fa-bluesky"></i></a>&nbsp
 
-      <a href="https://www.linkedin.com/feed/?shareActive=true&text= More info... https://hccbu.github.io//news/2023/10/21/publications/ %23IEEE %23Situated %23Immersive %23Ubiquitous %23Analytics %23XR %23WebXR %23Melbourne" onclick="window.open(this.href, 'mywin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" ><i class="fa-brands fa-linkedin"></i></a>    
+      <a href="https://www.linkedin.com/feed/?shareActive=true&text= More info... http://localhost:4000/news/2023/10/21/publications/ %23IEEE %23Situated %23Immersive %23Ubiquitous %23Analytics %23XR %23WebXR %23Melbourne" onclick="window.open(this.href, 'mywin', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" ><i class="fa-brands fa-linkedin"></i></a>    
 
-      <a href="https://twitter.com/intent/tweet?text= More info... https://hccbu.github.io//news/2023/10/21/publications/ %23IEEE %23Situated %23Immersive %23Ubiquitous %23Analytics %23XR %23WebXR %23Melbourne" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"><i class="fa-brands fa-x-twitter"></i></a>
+      <a href="https://twitter.com/intent/tweet?text= More info... http://localhost:4000/news/2023/10/21/publications/ %23IEEE %23Situated %23Immersive %23Ubiquitous %23Analytics %23XR %23WebXR %23Melbourne" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"><i class="fa-brands fa-x-twitter"></i></a>
 
-    <!--  <a href="https://mastodon.social/share?text= More info... https://hccbu.github.io//news/2023/10/21/publications/ %23IEEE %23Situated %23Immersive %23Ubiquitous %23Analytics %23XR %23WebXR %23Melbourne" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"><i class="fa-brands fa-twitter"></i></a>-->
+    <!--  <a href="https://mastodon.social/share?text= More info... http://localhost:4000/news/2023/10/21/publications/ %23IEEE %23Situated %23Immersive %23Ubiquitous %23Analytics %23XR %23WebXR %23Melbourne" onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"><i class="fa-brands fa-twitter"></i></a>-->
 
   </div>
 
@@ -483,6 +599,9 @@
 
 
     
+
+    <!-- Mobile menu script -->
+    <script src="/public/js/mobile-menu.js"></script>
 
   </body>
 </html>

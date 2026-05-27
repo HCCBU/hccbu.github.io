@@ -1,6 +1,14 @@
 (function() {
   var mapElement = document.getElementById('conference-map-canvas');
   var mapDataElement = document.getElementById('conference-map-data');
+  var sidebarElement = document.getElementById('map-sidebar');
+  var emptyStateElement = document.getElementById('map-empty-state');
+  var detailElement = document.getElementById('map-detail');
+  var closeButton = document.getElementById('map-sidebar-close');
+
+
+
+
 
   if (!mapElement || !mapDataElement || typeof L === 'undefined') {
     return;
@@ -40,6 +48,7 @@
 
       if (!event) {
         event = {
+          title: item.event_title,
           location_id: item.location_id,
           city: item.city,
           country: item.country,
@@ -75,32 +84,46 @@
     }, {});
   }
 
-  function buildPopupContent(item) {
-    var imageMarkup = item.image_url
-      ? '<div class="conference-map-popup-image-wrapper"><img class="conference-map-popup-image" src="' + escapeHtml(item.image_url) + '" alt="' + escapeHtml(item.event_title) + '"></div>'
-      : '';
 
-    var links = [];
 
+  function showSidebarDetail(item) {
+    // Update sidebar content
+    document.getElementById('map-detail-name').textContent = item.conference
+    document.getElementById('map-detail-city').textContent = item.city || '';
+    document.getElementById('map-detail-country').textContent = item.country || '';
+    
+   
+    
+    // Handle event link
+    var eventLink = document.getElementById('map-detail-events-link');
     if (item.events_url) {
-      links.push('<a class="conference-map-popup-link" href="' + escapeHtml(item.events_url) + '">' + escapeHtml(item.events_label || 'Events post') + '</a>');
+      eventLink.href = item.events_url;
+      eventLink.textContent = item.events_label || 'Events post';
+      eventLink.hidden = false;
+    } else {
+      eventLink.hidden = true;
     }
-
+    
+    // Handle publication link
+    var pubLink = document.getElementById('map-detail-pub-link');
     if (item.publication_url) {
-      links.push('<a class="conference-map-popup-link" href="' + escapeHtml(item.publication_url) + '">' + escapeHtml(item.publication_label || 'Publications') + '</a>');
+      pubLink.href = item.publication_url;
+      pubLink.textContent = item.publication_label || 'Publications';
+      pubLink.hidden = false;
+    } else {
+      pubLink.hidden = true;
     }
+    
+    // Show detail, hide empty state
+    emptyStateElement.style.display = 'none';
+    detailElement.classList.add('is-visible');
+    closeButton.hidden = false;
+  }
 
-    if (!links.length) {
-      links.push('<span class="conference-map-popup-link">No links available yet.</span>');
-    }
-
-    return [
-      '<article class="conference-map-popup">',
-      imageMarkup,
-      '<h3>' + escapeHtml(item.event_title) + '</h3>',
-      '<div class="conference-map-popup-links">' + links.join('') + '</div>',
-      '</article>'
-    ].join('');
+  function hideSidebarDetail() {
+    detailElement.classList.remove('is-visible');
+    emptyStateElement.style.display = '';
+    closeButton.hidden = true;
   }
 
   var mergedEvents = mergeEventEntries(mapItems);
@@ -111,11 +134,12 @@
   var map = L.map(mapElement, {
     scrollWheelZoom: false,
     worldCopyJump: true,
-    maxBounds: [[-85, -180], [85, 180]]
-  }).setView([20, 10], 2);
+    minZoom: 1,
+    maxZoom: 20
+
+  }).setView([19, 0], 2);
 
   L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
-    maxZoom: 18,
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
   }).addTo(map);
 
@@ -141,53 +165,50 @@
   });
 
   var bounds = [];
+  var markers = {};
+
+  function fitMapToBounds() {
+    if (bounds.length > 1) {
+      map.fitBounds(bounds, {
+        padding: [40, 40],
+        maxZoom: 5
+      });
+    }
+    // If 0 or 1 bounds, keep the initial setView
+  }
 
   mergedMapItems.forEach(function(item) {
     bounds.push([item.lat, item.lng]);
 
     var marker = L.marker([item.lat, item.lng], { icon: hccIcon })
-      .addTo(map)
-      .bindPopup(buildPopupContent(item), {
-        maxWidth: 160,
-        minWidth: 160
-      });
+      .addTo(map);
+
+    var markerId = item.location_id + '_' + item.year;
+    markers[markerId] = { marker: marker, item: item };
+
+    marker.on('click', function() {
+      showSidebarDetail(item);
+      marker.getElement().classList.add('is-hovered');
+    });
 
     marker.on('mouseover', function() {
-      var element = marker.getElement();
-      if (element) {
-        element.classList.add('is-hovered');
-      }
+      marker.getElement().classList.add('is-hovered');
     });
 
     marker.on('mouseout', function() {
-      var element = marker.getElement();
-      if (element) {
-        element.classList.remove('is-hovered');
-      }
+      marker.getElement().classList.remove('is-hovered');
     });
   });
 
-  if (bounds.length === 1) {
-    map.setView(bounds[0], 5);
-  } else if (bounds.length > 1) {
-    map.fitBounds(bounds, {
-      padding: [40, 40]
-    });
-  }
+  // fitMapToBounds();
 
-  window.requestAnimationFrame(function() {
-    map.invalidateSize();
+  // Close button handler
+  closeButton.addEventListener('click', function() {
+    hideSidebarDetail();
   });
 
   window.addEventListener('resize', function() {
     map.invalidateSize();
-
-    if (bounds.length === 1) {
-      map.setView(bounds[0], map.getZoom());
-    } else if (bounds.length > 1) {
-      map.fitBounds(bounds, {
-        padding: [40, 40]
-      });
-    }
+    fitMapToBounds();
   });
 })();

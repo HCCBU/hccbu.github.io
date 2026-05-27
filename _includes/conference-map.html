@@ -1,12 +1,35 @@
 <div class="conference-map-page">
-  <div class="conference-map-intro">
-    <p>Explore recent conference locations, open the related events post, and jump straight to the linked publications.</p>
-  </div>
 
-  <div class="conference-map-container">
-    <div class="conference-map-square">
-      <div id="conference-map-canvas" class="conference-map-canvas" aria-label="Conference events map"></div>
-    </div>
+
+  <div class="map-layout">
+    <div id="conference-map-canvas" class="map-canvas" aria-label="Conference events map"></div>
+    
+    <aside id="map-sidebar" class="map-sidebar">
+      <button id="map-sidebar-close" class="map-sidebar__close" type="button" aria-label="Close" hidden>
+        <i class="fa-solid fa-xmark"></i>
+      </button>
+      
+      <div id="map-empty-state" class="map-empty-state">
+        <h2>Select a location</h2>
+        <p class="muted">Click a pin on the map to view details.</p>
+      </div>
+      
+      <article id="map-detail" class="map-detail" aria-live="polite">
+        <h2 id="map-detail-name"></h2>
+        
+ 
+        <section class="map-detail__section">
+          <h3>Location</h3>
+          <p><strong>City:</strong> <span id="map-detail-city"></span></p>
+          <p><strong>Country:</strong> <span id="map-detail-country"></span></p>
+        </section>
+        
+        <div class="map-detail__chips">
+          <a id="map-detail-events-link" class="map-detail__chip" href="#" hidden></a>
+          <a id="map-detail-pub-link" class="map-detail__chip" href="#" hidden></a>
+        </div>
+      </article>
+    </aside>
   </div>
 </div>
 
@@ -22,16 +45,7 @@
   {% assign raw_publication_label = item.conference_map.publication_label | default: "Publications" %}
   {% capture raw_event_title %}{{ item.conference_map.city }} {{ item.conference_map.year }}{% endcapture %}
 
-  {% if raw_map_image %}
-    {% if raw_map_image contains '://' or raw_map_image contains '/' %}
-      {% assign map_image_url = raw_map_image %}
-    {% else %}
-      {% assign map_image_url = raw_map_image | prepend: '/assets/images/' | prepend: site.baseurl %}
-    {% endif %}
-  {% else %}
-    {% assign map_image_url = nil %}
-  {% endif %}
-
+  
   {% if raw_publication_url %}
     {% if raw_publication_url contains '://' %}
       {% assign publication_url = raw_publication_url %}

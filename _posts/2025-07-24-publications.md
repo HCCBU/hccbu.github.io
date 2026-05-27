@@ -19,6 +19,8 @@ tags:
 related:
 list: true
 type: home
+
+
 ---
 
 <img src="{{ site.baseurl }}/assets/images/Spatialstrates.png" class="prjImgFlt"  alt="Spatialstrates" />

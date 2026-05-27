@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Team 
+description: "Meet the faculty, researchers, and PhD students of the Human-Centred Computing research group at Bangor University."
 type: team
 menu: main
 order: 3

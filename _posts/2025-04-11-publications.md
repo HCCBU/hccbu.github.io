@@ -15,6 +15,16 @@ tags:
 related:
 list: true
 type: home
+
+conference_map:
+  location_id: Wadern-germany
+  city: Wadern
+  country: Germany
+  lat: 49.530278
+  lng: 6.899167
+  conference: Dangstuhl Seminar 23482
+  year: 2025
+  thumbnail: /assets/images/prepareVisPandemic.png
 ---
 
 <img src="{{ site.baseurl }}/assets/images/prepareVisPandemic.png" class="prjImgFlt"  alt="Dashspace">

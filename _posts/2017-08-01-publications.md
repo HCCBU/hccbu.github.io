@@ -12,6 +12,7 @@ list: true
 type: home
 pagination: 
   enabled: true
+
 conference_map:
   location_id: phoenix-usa
   city: Phoenix

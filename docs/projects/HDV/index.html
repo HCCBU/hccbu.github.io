@@ -46,7 +46,7 @@
   <!-- RSS -->
   <link rel="alternate" type="application/rss+xml" title="RSS" href="/atom.xml">
 
-  <link type="application/atom+xml" rel="alternate" href="https://hccbu.github.io//feed.xml" title="Human-Centred Computing Research Group, Bangor University" />
+  <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="Human-Centred Computing Research Group, Bangor University" />
   <!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Haptic Data Visualization | Human-Centred Computing Research Group, Bangor University</title>
 <meta name="generator" content="Jekyll v4.3.2" />
@@ -54,21 +54,71 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="Human-Centred Computing research group, School of Computer Science and Engineering, College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT" />
 <meta property="og:description" content="Human-Centred Computing research group, School of Computer Science and Engineering, College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT" />
-<link rel="canonical" href="https://hccbu.github.io//projects/HDV/" />
-<meta property="og:url" content="https://hccbu.github.io//projects/HDV/" />
+<link rel="canonical" href="http://localhost:4000/projects/HDV/" />
+<meta property="og:url" content="http://localhost:4000/projects/HDV/" />
 <meta property="og:site_name" content="Human-Centred Computing Research Group, Bangor University" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2026-05-20T14:23:12+01:00" />
+<meta property="article:published_time" content="2026-05-27T15:49:49+01:00" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Haptic Data Visualization" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2026-05-20T14:23:12+01:00","datePublished":"2026-05-20T14:23:12+01:00","description":"Human-Centred Computing research group, School of Computer Science and Engineering, College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT","headline":"Haptic Data Visualization","mainEntityOfPage":{"@type":"WebPage","@id":"https://hccbu.github.io//projects/HDV/"},"url":"https://hccbu.github.io//projects/HDV/"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","dateModified":"2026-05-27T15:49:49+01:00","datePublished":"2026-05-27T15:49:49+01:00","description":"Human-Centred Computing research group, School of Computer Science and Engineering, College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT","headline":"Haptic Data Visualization","mainEntityOfPage":{"@type":"WebPage","@id":"http://localhost:4000/projects/HDV/"},"url":"http://localhost:4000/projects/HDV/"}</script>
 <!-- End Jekyll SEO tag -->
 
 </head>
 
 
       <body id="research">
+        <!-- Mobile menu button -->
+        <button class="mobile-menu-toggle" id="mobileMenuToggle">
+          <span></span>
+          <span></span>
+          <span></span>
+        </button>
+
+        <!-- Mobile menu overlay -->
+        <div class="mobile-menu-overlay" id="mobileMenuOverlay"></div>
+
+        <!-- Mobile menu sidebar -->
+        <div class="mobile-menu" id="mobileMenu">
+          <div class="mobile-menu-close">
+            <button class="mobile-menu-close-btn" id="mobileMenuClose">&times;</button>
+          </div>
+          <nav class="mobile-sidenav">
+            
+            <a href="/" class="mobile-nav-link" id="mobile-nav-home">Home</a>
+            
+              
+                <a href="/labs/" class="mobile-nav-link" id="mobile-nav-labs">Labs</a>
+              
+            
+              
+                <a href="/projects/" class="mobile-nav-link" id="mobile-nav-research">Projects</a>
+              
+            
+              
+                <a href="/team/" class="mobile-nav-link" id="mobile-nav-team">Team</a>
+              
+            
+              
+                <a href="/publicationsYear/" class="mobile-nav-link" id="mobile-nav-publications">Publications</a>
+              
+            
+              
+                <a href="/events/" class="mobile-nav-link" id="mobile-nav-events">Events</a>
+              
+            
+              
+                <a href="/contact/" class="mobile-nav-link" id="mobile-nav-contact">Contact</a>
+              
+            
+              
+                <a href="/conference-map/" class="mobile-nav-link" id="mobile-nav-conference-map">Conference Map</a>
+              
+            
+          </nav>
+        </div>
+
         <div class="wrapper">
           <div id="mysidebar">
 
@@ -241,55 +291,77 @@
 
 <div class="bibliography"><p>
 
-<span id="Paneels-et-al-CG2013">S. A. Panëels, P. D. Ritsos, P. J. Rodgers, and J. C. Roberts, “Prototyping 3D haptic data visualizations,” <i>Computers and Graphics</i>, vol. 37, no. 3, pp. 179–192, May 2013.</span>
+<div class="publication-entry">
+  
+  <div class="publication-image">
+    <img src="/assets/images/hitproto.png" alt="Prototyping 3D haptic data visualizations" />
+  </div>
+  
+  <div class="publication-content">
+    <span id="Paneels-et-al-CG2013">S. A. Panëels, P. D. Ritsos, P. J. Rodgers, and J. C. Roberts, “Prototyping 3D haptic data visualizations,” <i>Computers and Graphics</i>, vol. 37, no. 3, pp. 179–192, May 2013.</span>
+    
+    
+      <span class="toggle">
+        Haptic devices are becoming more widely used as hardware becomes available and the cost of both low and high fidelity haptic devices decreases. One of the application areas of haptics is haptic data visualization (HDV). HDV provides functionality by which users can feel and touch data. Blind and partially sighted users can benefit from HDV, as it helps them manipulate and understand information. However, developing any 3D haptic world is difficult, time-consuming and requires skilled programmers. Therefore, systems that enable haptic worlds to be rapidly developed in a simple environment could enable non-computer skilled users to create haptic 3D interactions. In this article we present HITPROTO: a system that enables users, such as mentors or support workers, to quickly create haptic interactions (with an emphasis on HDVs) through a visual programming interface. We describe HITPROTO and include details of the design and implementation. We present the results of a detailed study using postgraduate students as potential mentors, which provides evidence of the usability of HITPROTO. We also present a pilot study of HITPROTO with a blind user. It can be difficult to create prototyping tools and support 3D interactions, therefore we present a detailed list of ‘lessons learnt’ that provides a set of guidelines for developers of other 3D haptic prototyping tools.
+      </span>
+      <br />
+      <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+    
+    <span class="biblinks">
+      [<a href="/bibliography/Paneels-et-al-CG2013/">Details</a>]&nbsp;&nbsp;
+      
+      
+            
+              [<a href="/files/Paneels-et-al-CG2013.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+             
+      
+       
+      
+      
+      [doi:<a href="http://dx.doi.org/10.1016/j.cag.2013.01.009" class="doilink">10.1016/j.cag.2013.01.009</a>]&nbsp;&nbsp;
+      
+       
+    </span>
+  </div>
+</div>
 
-  <span class="toggle">
-    Haptic devices are becoming more widely used as hardware becomes available and the cost of both low and high fidelity haptic devices decreases. One of the application areas of haptics is haptic data visualization (HDV). HDV provides functionality by which users can feel and touch data. Blind and partially sighted users can benefit from HDV, as it helps them manipulate and understand information. However, developing any 3D haptic world is difficult, time-consuming and requires skilled programmers. Therefore, systems that enable haptic worlds to be rapidly developed in a simple environment could enable non-computer skilled users to create haptic 3D interactions. In this article we present HITPROTO: a system that enables users, such as mentors or support workers, to quickly create haptic interactions (with an emphasis on HDVs) through a visual programming interface. We describe HITPROTO and include details of the design and implementation. We present the results of a detailed study using postgraduate students as potential mentors, which provides evidence of the usability of HITPROTO. We also present a pilot study of HITPROTO with a blind user. It can be difficult to create prototyping tools and support 3D interactions, therefore we present a detailed list of ‘lessons learnt’ that provides a set of guidelines for developers of other 3D haptic prototyping tools.
-  </span>
-  <br />
-  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
-
-<span class="biblinks">
-  [<a href="/bibliography/Paneels-et-al-CG2013/">Details</a>]&nbsp;&nbsp;
-  
-  
-        
-          [<a href="/files/Paneels-et-al-CG2013.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
-         
-  
-   
-  
-  
-  [doi:<a href="http://dx.doi.org/10.1016/j.cag.2013.01.009" class="doilink">10.1016/j.cag.2013.01.009</a>]&nbsp;&nbsp;
-  
-   
-</span>
 <a class="details" href="/bibliography/Paneels-et-al-CG2013/"><span hidden=""></span></a></p></div>
 
 <div class="bibliography"><p>
 
-<span id="Ritsos-et-al-Poster-VIS2013">P. D. Ritsos, S. A. Panëels, P. J. Rodgers, and J. C. Roberts, “Towards a Formalized Process for Creating Haptic Data Visualizations,” in <i>Posters presented at the IEEE Conference on Visualization (VIS), October 15-18, Atlanta, Georgia, USA</i>, 2013.</span>
+<div class="publication-entry">
+  
+  <div class="publication-image">
+    <img src="/assets/images/no_image.jpg" alt="Towards a Formalized Process for Creating Haptic Data Visualizations" />
+  </div>
+  
+  <div class="publication-content">
+    <span id="Ritsos-et-al-Poster-VIS2013">P. D. Ritsos, S. A. Panëels, P. J. Rodgers, and J. C. Roberts, “Towards a Formalized Process for Creating Haptic Data Visualizations,” in <i>Posters presented at the IEEE Conference on Visualization (VIS), October 15-18, Atlanta, Georgia, USA</i>, 2013.</span>
+    
+    
+      <span class="toggle">
+        Haptic Data Visualization (HDV) is a novel application of haptics. It provides functionality by which users touch and feel data, making it a useful tool for users with vision impairments. However, creating such visualizations usually requires programming knowledge, that support workers and tutors of blind users may not possess. To address this issue we propose a formalized process for creating HDVs using the HITPROTO [5] toolkit, which requires no programming experience. We further illustrate this process using an example HDV.
+      </span>
+      <br />
+      <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+    
+    <span class="biblinks">
+      [<a href="/bibliography/Ritsos-et-al-Poster-VIS2013/">Details</a>]&nbsp;&nbsp;
+      
+      
+            
+              [<a href="/files/Ritsos-et-al-Poster-VIS2013.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
+             
+      
+       
+      
+      
+      
+       
+    </span>
+  </div>
+</div>
 
-  <span class="toggle">
-    Haptic Data Visualization (HDV) is a novel application of haptics. It provides functionality by which users touch and feel data, making it a useful tool for users with vision impairments. However, creating such visualizations usually requires programming knowledge, that support workers and tutors of blind users may not possess. To address this issue we propose a formalized process for creating HDVs using the HITPROTO [5] toolkit, which requires no programming experience. We further illustrate this process using an example HDV.
-  </span>
-  <br />
-  <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
-
-<span class="biblinks">
-  [<a href="/bibliography/Ritsos-et-al-Poster-VIS2013/">Details</a>]&nbsp;&nbsp;
-  
-  
-        
-          [<a href="/files/Ritsos-et-al-Poster-VIS2013.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
-         
-  
-   
-  
-  
-  
-   
-</span>
 <a class="details" href="/bibliography/Ritsos-et-al-Poster-VIS2013/"><span hidden=""></span></a></p></div>
 
 </p>
@@ -325,6 +397,9 @@
 
 
     
+
+    <!-- Mobile menu script -->
+    <script src="/public/js/mobile-menu.js"></script>
 
   </body>
 </html>

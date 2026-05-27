@@ -11,6 +11,14 @@ tags:
 related:
 list: true
 type: home
+conference_map:
+  location_id: Greece-Lefkada
+  city: Lefkada island 
+  country: Greece
+  lat: 38.8141
+  lng: 20.7173
+  conference: EwaS international confreance 
+  year: 2018
 ---
 
 
