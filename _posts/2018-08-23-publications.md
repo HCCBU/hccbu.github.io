@@ -18,6 +18,7 @@ conference_map:
   lng: 13.405
   conference: IEEE VIS 2018
   year: 2018
+  thumbnail: /assets/images/Vis2018.jpeg
 ---
 
 We presented the following two posters and a workshop paper, in the [_International Conference on Visualization (IEEE VIS 2018)_](http://ieeevis.org/year/2018/welcome), held in Berlin, Germany, on the 21th - 26th of October, 2018. 

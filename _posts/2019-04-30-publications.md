@@ -10,14 +10,8 @@ tags:
 related:
 list: true
 type: home
-conference_map:
-  location_id: glasgow-uk
-  city: Glasgow
-  country: United Kingdom
-  lat: 55.8642
-  lng: -4.2518
-  conference: ACM CHI 2019
-  year: 2019
+
+
 ---
 
 

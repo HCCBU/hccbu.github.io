@@ -13,13 +13,14 @@ list: true
 type: home
 
 conference_map:
-  location_id: london-england
+  location_id: England 
   city: London
   country: United Kingdom
   lat: 51.5074
   lng: -0.1278
   conference: Fragile Earth Workshop
   year: 2018
+  thumbnail: /assets/images/KDD.gif
   ---
 
 

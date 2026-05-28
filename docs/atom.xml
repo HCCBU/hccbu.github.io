@@ -4,7 +4,7 @@
  <title>Human-Centred Computing Research Group, Bangor University</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2026-05-27T15:49:49+01:00</updated>
+ <updated>2026-05-28T16:23:08+01:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -48,7 +48,7 @@
       
       
             
-              [&lt;a href=&quot;&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Borowski-et-al-TVCG-2026.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
              
       
        
@@ -174,7 +174,7 @@
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;Tutorial: Live Collaborative Immersive Analytics Development with DashSpace&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;Tutorial: Live Collaborative Immersive Analytics Development with DashSpace&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -213,7 +213,7 @@
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;From Data to Insight: Using Contextual Scenarios to Teach Critical Thinking in Data Visualisation&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;From Data to Insight: Using Contextual Scenarios to Teach Critical Thinking in Data Visualisation&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -250,7 +250,7 @@
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;Embedding Empathy into Visual Analytics: A Framework for Person-Centred Dementia Care&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;Embedding Empathy into Visual Analytics: A Framework for Person-Centred Dementia Care&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -287,7 +287,7 @@
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;Explanatory Visualization with LLMs for Employment Law&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;Explanatory Visualization with LLMs for Employment Law&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -584,7 +584,7 @@
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;Reflections on Pandemic Visualization (Dagstuhl Seminar 24091)&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;Reflections on Pandemic Visualization (Dagstuhl Seminar 24091)&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -761,7 +761,7 @@
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;RAMPVIS: Answering the Challenges of Building Visualization Capabilities for Large-scale Emergency Responses&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;RAMPVIS: Answering the Challenges of Building Visualization Capabilities for Large-scale Emergency Responses&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -798,7 +798,7 @@
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;Creating storytelling visualizations for the Covid-19 pandemic using Feature-Action Design Patterns&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;Creating storytelling visualizations for the Covid-19 pandemic using Feature-Action Design Patterns&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -835,7 +835,7 @@
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;DUVis: A visual analytics tool for supporting a trans-disciplinary project&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;DUVis: A visual analytics tool for supporting a trans-disciplinary project&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -872,7 +872,7 @@
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;A method for Critical and Creative Visualisation Design-Thinking&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;A method for Critical and Creative Visualisation Design-Thinking&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -926,7 +926,7 @@
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;Don’t Pull the Balrog — Lessons Learned from Designing Wizualization: a Magic-inspired Data Analytics System in XR&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;Don’t Pull the Balrog — Lessons Learned from Designing Wizualization: a Magic-inspired Data Analytics System in XR&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -1485,7 +1485,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;Immersive visualisation of COVID-19 UK travel and US happiness data&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;Immersive visualisation of COVID-19 UK travel and US happiness data&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -1969,7 +1969,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;Towards a Framework for Immersive Analytics on the Web&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;Towards a Framework for Immersive Analytics on the Web&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -2006,7 +2006,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;Creating Small Unit Based Glyph Visualisations&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;Creating Small Unit Based Glyph Visualisations&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -2043,7 +2043,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;Developing a formative visual feedback report for data brokering&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;Developing a formative visual feedback report for data brokering&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -2100,13 +2100,14 @@ type: home&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;conference_map:
-  location_id: london-england
+  location_id: England 
   city: London
   country: United Kingdom
   lat: 51.5074
   lng: -0.1278
   conference: Fragile Earth Workshop
   year: 2018
+  thumbnail: /assets/images/KDD.gif
   —&lt;/p&gt;
 
 &lt;p&gt;We presented a workshop paper, below,  introducing the &lt;a href=&quot;/projects/Water4Cities/&quot;&gt;Water4Cities project&lt;/a&gt;, in the &lt;a href=&quot;https://ai4good.org/kdd-2018-workshop/&quot;&gt;&lt;em&gt;Fragile Earth Workshop (FEED) @ KDD’18&lt;/em&gt;&lt;/a&gt;, held in London, UK, on the 20th of August, 2018.&lt;/p&gt;
@@ -2116,7 +2117,7 @@ type: home&lt;/li&gt;
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;Smart Water Management for Cities&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;Smart Water Management for Cities&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -2163,7 +2164,7 @@ type: home&lt;/li&gt;
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;Water4Cities: An ICT platform enabling Holistic Surface Water and Groundwater Management for Sustainable Cities&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;Water4Cities: An ICT platform enabling Holistic Surface Water and Groundwater Management for Sustainable Cities&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -2264,7 +2265,7 @@ type: home&lt;/li&gt;
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;Half-day Tutorial on Sketching Visualization designs, and using the Five Design-Sheet (FdS) Methodology in Teaching&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;Half-day Tutorial on Sketching Visualization designs, and using the Five Design-Sheet (FdS) Methodology in Teaching&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -2301,7 +2302,7 @@ type: home&lt;/li&gt;
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;Web-based Immersive Analytics in Handheld Augmented Reality&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;Web-based Immersive Analytics in Handheld Augmented Reality&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -2375,7 +2376,7 @@ type: home&lt;/li&gt;
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;Experience and Guidance for the use of Sketching and low-fidelity Visualisation-design in teaching&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;Experience and Guidance for the use of Sketching and low-fidelity Visualisation-design in teaching&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -2580,7 +2581,7 @@ type: home&lt;/li&gt;
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;Sketching Designs for Data-Visualization using the Five Design-Sheet Methodology&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;Sketching Designs for Data-Visualization using the Five Design-Sheet Methodology&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -2654,7 +2655,7 @@ type: home&lt;/li&gt;
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;Immersive Analytics with WebVR and Google Cardboard&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;Immersive Analytics with WebVR and Google Cardboard&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -2691,7 +2692,7 @@ type: home&lt;/li&gt;
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;Creating Explanatory Visualizations of Algorithms for Active Learning&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;Creating Explanatory Visualizations of Algorithms for Active Learning&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -2739,7 +2740,7 @@ type: home&lt;/li&gt;
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;A Cost-Effective Virtual Environment for Simulating and Training Powered Wheelchairs Manoeuvres&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;A Cost-Effective Virtual Environment for Simulating and Training Powered Wheelchairs Manoeuvres&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -2954,7 +2955,7 @@ type: home&lt;/li&gt;
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;Personal Visualisation for Learning&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;Personal Visualisation for Learning&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -2991,7 +2992,7 @@ type: home&lt;/li&gt;
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;Where Can I Go From Here? Drawing Contextual Navigation Maps of the London Underground&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;Where Can I Go From Here? Drawing Contextual Navigation Maps of the London Underground&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -3039,7 +3040,7 @@ type: home&lt;/li&gt;
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;Challenges and Technologies for Low Cost Wheelchair Simulation&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;Challenges and Technologies for Low Cost Wheelchair Simulation&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -3077,7 +3078,7 @@ type: home&lt;/li&gt;
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;A Haptics-enabled Simulator for Transperineal Ultrasound-Guided Biopsy&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;A Haptics-enabled Simulator for Transperineal Ultrasound-Guided Biopsy&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
@@ -3380,7 +3381,7 @@ type: home&lt;/li&gt;
 &lt;div class=&quot;publication-entry&quot;&gt;
   
   &lt;div class=&quot;publication-image&quot;&gt;
-    &lt;img src=&quot;/assets/images/no_image.jpg&quot; alt=&quot;Community-driven Generation of 3D and Augmented Web Content for Archaeology&quot; /&gt;
+    &lt;img src=&quot;/assets/images/no_image.png&quot; alt=&quot;Community-driven Generation of 3D and Augmented Web Content for Archaeology&quot; /&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;

@@ -23,6 +23,10 @@
           <p><strong>City:</strong> <span id="map-detail-city"></span></p>
           <p><strong>Country:</strong> <span id="map-detail-country"></span></p>
         </section>
+
+        <div id="map-detail-image" class="map-detail__image-shell" hidden>
+          <img id="map-detail-image-img" src="" alt="Conference location" />
+        </div>
         
         <div class="map-detail__chips">
           <a id="map-detail-events-link" class="map-detail__chip" href="#" hidden></a>
@@ -45,7 +49,16 @@
   {% assign raw_publication_label = item.conference_map.publication_label | default: "Publications" %}
   {% capture raw_event_title %}{{ item.conference_map.city }} {{ item.conference_map.year }}{% endcapture %}
 
-  
+  {% if raw_map_image %}
+    {% if raw_map_image contains '://' or raw_map_image contains '/' %}
+      {% assign map_image_url = raw_map_image %}
+    {% else %}
+      {% assign map_image_url = raw_map_image | prepend: '/assets/images/' | prepend: site.baseurl %}
+    {% endif %}
+  {% else %}
+    {% assign map_image_url = nil %}
+  {% endif %}
+
   {% if raw_publication_url %}
     {% if raw_publication_url contains '://' %}
       {% assign publication_url = raw_publication_url %}
@@ -63,7 +76,7 @@
     "city": {{ item.conference_map.city | jsonify }},
     "country": {{ item.conference_map.country | jsonify }},
     "lat": {{ item.conference_map.lat | jsonify }},
-    "lng": {{ item.conference_map.lng | jsonify }},
+    "lng": {{ item.conference_map.lng| jsonify }},
     "conference": {{ item.conference_map.conference | jsonify }},
     "year": {{ item.conference_map.year | jsonify }},
     "event_title": {{ item.conference_map.event_title | default: raw_event_title | strip | jsonify }},
@@ -104,8 +117,8 @@
     "location_id": {{ item.conference_map.location_id | jsonify }},
     "city": {{ item.conference_map.city | jsonify }},
     "country": {{ item.conference_map.country | jsonify }},
-    "lat": {{ item.conference_map.lat | jsonify }},
-    "lng": {{ item.conference_map.lng | jsonify }},
+    "lat": {{ item.conference_map.lat }},
+    "lng": {{ item.conference_map.lng }},
     "conference": {{ item.conference_map.conference | jsonify }},
     "year": {{ item.conference_map.year | jsonify }},
     "event_title": {{ item.conference_map.event_title | default: raw_event_title | strip | jsonify }},

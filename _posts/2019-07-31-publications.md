@@ -18,6 +18,8 @@ conference_map:
   lng: -4.1297
   conference: EG CGVC 2019
   year: 2019
+  thumbnail: /assets/images/CGVC.png
+
 ---
 
 

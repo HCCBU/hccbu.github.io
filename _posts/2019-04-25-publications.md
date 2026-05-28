@@ -18,6 +18,8 @@ conference_map:
   lng: -4.2518
   conference: ACM CHI 2019
   year: 2019
+  thumbnail: /assets/images/chi2019.jpeg
+  
 ---
 
 

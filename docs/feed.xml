@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-05-27T15:49:49+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Human-Centred Computing Research Group, Bangor University</title><subtitle>Human-Centred Computing research group,&lt;br/&gt; School of Computer Science and Engineering, &lt;br/&gt; College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT&lt;span&gt;</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;url&quot;=&gt;nil}</name></author><entry><title type="html">Paper accepted in IEEE TVCG</title><link href="http://localhost:4000/news/2026/03/04/publications/" rel="alternate" type="text/html" title="Paper accepted in IEEE TVCG" /><published>2026-03-04T00:00:00+00:00</published><updated>2026-03-04T00:00:00+00:00</updated><id>http://localhost:4000/news/2026/03/04/publications</id><content type="html" xml:base="http://localhost:4000/news/2026/03/04/publications/"><![CDATA[<p><img src="/assets/images/ironman_teaser.png" class="prjImgFlt" alt="Ironman Study Teaser" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2026-05-28T16:23:08+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Human-Centred Computing Research Group, Bangor University</title><subtitle>Human-Centred Computing research group,&lt;br/&gt; School of Computer Science and Engineering, &lt;br/&gt; College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT&lt;span&gt;</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;url&quot;=&gt;nil}</name></author><entry><title type="html">Paper accepted in IEEE TVCG</title><link href="http://localhost:4000/news/2026/03/04/publications/" rel="alternate" type="text/html" title="Paper accepted in IEEE TVCG" /><published>2026-03-04T00:00:00+00:00</published><updated>2026-03-04T00:00:00+00:00</updated><id>http://localhost:4000/news/2026/03/04/publications</id><content type="html" xml:base="http://localhost:4000/news/2026/03/04/publications/"><![CDATA[<p><img src="/assets/images/ironman_teaser.png" class="prjImgFlt" alt="Ironman Study Teaser" /></p>
 
 <p>Our paper <a href="/publicationsYear#MBorowski-et-al-TVCG-2026">‘I Feel Like Iron Man’ - Authoring, Exploring, and Presenting Data Visualizations in Immersive AR</a> has been accepted in <a href="https://www.computer.org/csdl/journal/tg">IEEE Transactions on Visualization and Computer Graphics</a>.</p>
 
@@ -29,7 +29,7 @@
       
       
             
-              [<a href="" class="pdflink">PDF</a>]&nbsp;&nbsp;
+              [<a href="/files/Borowski-et-al-TVCG-2026.pdf" class="pdflink">PDF</a>]&nbsp;&nbsp;
              
       
        
@@ -145,7 +145,7 @@
 <div class="publication-entry">
   
   <div class="publication-image">
-    <img src="/assets/images/no_image.jpg" alt="Tutorial: Live Collaborative Immersive Analytics Development with DashSpace" />
+    <img src="/assets/images/no_image.png" alt="Tutorial: Live Collaborative Immersive Analytics Development with DashSpace" />
   </div>
   
   <div class="publication-content">
@@ -184,7 +184,7 @@
 <div class="publication-entry">
   
   <div class="publication-image">
-    <img src="/assets/images/no_image.jpg" alt="From Data to Insight: Using Contextual Scenarios to Teach Critical Thinking in Data Visualisation" />
+    <img src="/assets/images/no_image.png" alt="From Data to Insight: Using Contextual Scenarios to Teach Critical Thinking in Data Visualisation" />
   </div>
   
   <div class="publication-content">
@@ -221,7 +221,7 @@
 <div class="publication-entry">
   
   <div class="publication-image">
-    <img src="/assets/images/no_image.jpg" alt="Embedding Empathy into Visual Analytics: A Framework for Person-Centred Dementia Care" />
+    <img src="/assets/images/no_image.png" alt="Embedding Empathy into Visual Analytics: A Framework for Person-Centred Dementia Care" />
   </div>
   
   <div class="publication-content">
@@ -258,7 +258,7 @@
 <div class="publication-entry">
   
   <div class="publication-image">
-    <img src="/assets/images/no_image.jpg" alt="Explanatory Visualization with LLMs for Employment Law" />
+    <img src="/assets/images/no_image.png" alt="Explanatory Visualization with LLMs for Employment Law" />
   </div>
   
   <div class="publication-content">
@@ -497,7 +497,7 @@
 <div class="publication-entry">
   
   <div class="publication-image">
-    <img src="/assets/images/no_image.jpg" alt="Reflections on Pandemic Visualization (Dagstuhl Seminar 24091)" />
+    <img src="/assets/images/no_image.png" alt="Reflections on Pandemic Visualization (Dagstuhl Seminar 24091)" />
   </div>
   
   <div class="publication-content">
@@ -655,7 +655,7 @@
 <div class="publication-entry">
   
   <div class="publication-image">
-    <img src="/assets/images/no_image.jpg" alt="RAMPVIS: Answering the Challenges of Building Visualization Capabilities for Large-scale Emergency Responses" />
+    <img src="/assets/images/no_image.png" alt="RAMPVIS: Answering the Challenges of Building Visualization Capabilities for Large-scale Emergency Responses" />
   </div>
   
   <div class="publication-content">
@@ -692,7 +692,7 @@
 <div class="publication-entry">
   
   <div class="publication-image">
-    <img src="/assets/images/no_image.jpg" alt="Creating storytelling visualizations for the Covid-19 pandemic using Feature-Action Design Patterns" />
+    <img src="/assets/images/no_image.png" alt="Creating storytelling visualizations for the Covid-19 pandemic using Feature-Action Design Patterns" />
   </div>
   
   <div class="publication-content">
@@ -729,7 +729,7 @@
 <div class="publication-entry">
   
   <div class="publication-image">
-    <img src="/assets/images/no_image.jpg" alt="DUVis: A visual analytics tool for supporting a trans-disciplinary project" />
+    <img src="/assets/images/no_image.png" alt="DUVis: A visual analytics tool for supporting a trans-disciplinary project" />
   </div>
   
   <div class="publication-content">
@@ -766,7 +766,7 @@
 <div class="publication-entry">
   
   <div class="publication-image">
-    <img src="/assets/images/no_image.jpg" alt="A method for Critical and Creative Visualisation Design-Thinking" />
+    <img src="/assets/images/no_image.png" alt="A method for Critical and Creative Visualisation Design-Thinking" />
   </div>
   
   <div class="publication-content">

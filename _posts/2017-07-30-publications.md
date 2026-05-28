@@ -20,6 +20,7 @@ conference_map:
   lng: -2.8917
   conference: Cyberworlds 2017
   year: 2017
+  thumbnail: /assets/images/cyberworld.png
 ---
 
 We presented a short paper in Cyberworlds 2017, held in Chester, UK, in September. More information about the conference can be found [here](http://cw2017.org/).

@@ -19,7 +19,7 @@ conference_map:
   lng: -87.6298
   conference: IEEE VIS 2015
   year: 2015
-  thumbnail: /assets/images/Vis15-header.jpg
+  thumbnail: /assets/images/Vis15-header.png
 ---
 
 <img src="{{ site.baseurl }}/assets/images/Vis15-header.png" alt="Vis2015 Header">

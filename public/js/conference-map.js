@@ -92,7 +92,16 @@
     document.getElementById('map-detail-city').textContent = item.city || '';
     document.getElementById('map-detail-country').textContent = item.country || '';
     
-   
+    // Handle image
+    var imageElement = document.getElementById('map-detail-image');
+    var imageImg = document.getElementById('map-detail-image-img');
+    if (item.image_url) {
+      imageImg.src = item.image_url;
+      imageImg.alt = item.city + ', ' + item.country;
+      imageElement.hidden = false;
+    } else {
+      imageElement.hidden = true;
+    }
     
     // Handle event link
     var eventLink = document.getElementById('map-detail-events-link');

@@ -27,6 +27,7 @@
             <button class="mobile-menu-close-btn" id="mobileMenuClose">&times;</button>
           </div>
           <nav class="mobile-sidenav">
+            <img src="{{ site.baseurl }}/assets/images/hccbu_logo2.png" alt="HCCBU Logo" class="mobile-menu-logo">
             {% assign pages_list = site.pages | where: "menu", "main" | where: "layout", "page" | sort: "order" %}
             <a href="{{ site.baseurl }}/" class="mobile-nav-link" id="mobile-nav-home">Home</a>
             {% for node in pages_list %}

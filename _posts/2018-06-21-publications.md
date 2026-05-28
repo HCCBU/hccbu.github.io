@@ -19,6 +19,7 @@ conference_map:
   lng: 20.7173
   conference: EwaS international confreance 
   year: 2018
+  thumbnail: /assets/images/EWAS.png
 ---
 
 

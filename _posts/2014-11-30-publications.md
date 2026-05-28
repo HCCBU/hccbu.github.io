@@ -18,7 +18,7 @@ conference_map:
   lng: 2.3522
   conference: IEEE VIS 2014
   year: 2014
-  thumbnail: /assets/images/Death_of_the_Desktop.jpg
+  thumbnail: /assets/images/Death_of_the_Desktop.png
 ---
 
 <img src="{{ site.baseurl }}/assets/images/Death_of_the_Desktop.png" alt="DoTD">
