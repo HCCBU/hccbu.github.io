@@ -20,32 +20,33 @@
         {{ entry.abstract }}
       </span>
       <br/>
-      <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]&nbsp;&nbsp; </span>
+      <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]</span>
     {% elsif entry.about %}
       <span class="toggle">
         {{ entry.about }}
       </span>
       <br/>
-      <span class="trigger biblinks">[<span class="abstractlink">About</span>]&nbsp;&nbsp; </span>
+      <span class="trigger biblinks">[<span class="abstractlink">About</span>]</span>
     {% else %}
     <br/>
     {% endif %}
     <span class="biblinks">
-      [<a href="/bibliography/{{key}}/">Details</a>]&nbsp;&nbsp;
+      [<a href="/bibliography/{{key}}/">Details</a>]
       {% if entry.archiveprefix %} [Available at: <a href="https://arxiv.org/abs/{{entry.url}}" class="doilink">arXiv:{{entry.url}}</a>]
       {% else %}
       {% unless {{key}} contains 'book'%}
             {% if entry.nopaper %}   
             {% else %}
-              [<a href="{{links.pdf}}" class="pdflink">PDF</a>]&nbsp;&nbsp;
+              [<a href="{{links.pdf}}" class="pdflink">PDF</a>]
             {% endif %} 
       {% endunless %}
       {% endif %} 
-      {% if entry.preprint %} [<a href="https://arxiv.org/abs/{{entry.url}}" class="doilink">Preprint</a>]&nbsp;&nbsp;{% endif %}
-      {% if entry.pubmed %}[PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/{{entry.pubmed}}" class="doilink">{{entry.pubmed}}</a>]&nbsp;&nbsp;{% endif %}
-      {% if entry.doi %}[doi:<a href="http://dx.doi.org/{{entry.doi}}" class="doilink">{{entry.doi}}</a>]&nbsp;&nbsp;
-      {% elsif entry.isbn %}[<span class="isbnlink">ISBN:{{entry.isbn}}</span>]&nbsp;&nbsp;{% endif %}
+      {% if entry.preprint %} [<a href="https://arxiv.org/abs/{{entry.url}}" class="doilink">Preprint</a>]{% endif %}
+      {% if entry.pubmed %}[PMID:<a href="https://pubmed.ncbi.nlm.nih.gov/{{entry.pubmed}}" class="doilink">{{entry.pubmed}}</a>]&nbsp;{% endif %}
+      {% if entry.doi %}[doi:<a href="http://dx.doi.org/{{entry.doi}}" class="doilink">{{entry.doi}}</a>]
+      {% elsif entry.isbn %}[<span class="isbnlink">ISBN:{{entry.isbn}}</span>]{% endif %}
       {% if entry.info %} [<span class="addedInfo">{{entry.info}}</span>]{% endif %} 
+      {% if entry.moreinfo %} [<span class="addedInfo">{{entry.moreinfo}}</span>]{% endif %}
     </span>
   </div>
 </div>

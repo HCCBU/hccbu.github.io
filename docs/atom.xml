@@ -4,7 +4,7 @@
  <title>Human-Centred Computing Research Group, Bangor University</title>
  <link href="https://hccbu.github.io//atom.xml" rel="self"/>
  <link href="https://hccbu.github.io//"/>
- <updated>2026-05-29T12:25:45+01:00</updated>
+ <updated>2026-06-03T15:02:38+01:00</updated>
  <id>https://hccbu.github.io/</id>
  <author>
    <name></name>
@@ -41,22 +41,23 @@
         A truly anytime, anywhere approach to immersive analytics is predicated on the ability for users to author and explore visualizations in an immersive fashion and without a desktop computer. In this paper, we present a generalizable visual programming technique for immersive authoring, exploration, and presentation of data visualizations through direct manipulation, and implement it in a web-based augmented reality (AR) system. In a preregistered user study, we use this implementation to explore how analysts author and use data visualizations in immersive AR accessed using a head-mounted display (HMD). The study focuses on the authoring technique, spatial organization strategies, and sensemaking and presentation practices in such immersive analytics environments for HMD-based AR. Our findings suggest that participants particularly liked the direct manipulation of our approach, and that participants’ spatial organization is not based on physical landmarks in the room.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Borowski-et-al-TVCG-2026/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Borowski-et-al-TVCG-2026/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Borowski-et-al-TVCG-2026.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Borowski-et-al-TVCG-2026.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2026.3672314&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2026.3672314&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2026.3672314&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2026.3672314&lt;/a&gt;]
       
-       
+       [&lt;span class=&quot;addedInfo&quot;&gt;To be presented at IEEE ISMAR 2026&lt;/span&gt;] 
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -109,22 +110,23 @@
         We present the Critical Design Strategy (CDS)—a structured method designed to facilitate the examination of visualisation designs through reflection and critical thought. The CDS helps designers think critically and make informed improvements using heuristic evaluation. When developing a visual tool or pioneering a novel visualisation approach, identifying areas for enhancement can be challenging. Critical thinking is particularly crucial for visualisation designers and tool developers, especially those new to the field, such as studying visualisation in higher education. The CDS consists of three stages across six perspectives: Stage 1 captures the essence of the idea by assigning an indicative title and selecting five adjectives (from twenty options) to form initial impressions of the design. Stage 2 involves an in-depth critique using 30 heuristic questions spanning six key perspectives—user, environment, interface, components, design, and visual marks. Stage 3 focuses on synthesising insights, reflecting on design decisions, and determining the next steps forward. We introduce the CDS and explore its use across three visualisation modules in both undergraduate and postgraduate courses. Our longstanding experience with the CDS has allowed us to refine and develop it over time: from its initial creation through workshops in 2017/18 to improvements in wording and the development of two applications by 2020, followed by the expansion of support notes and refinement of heuristics through 2023; while using it in our teaching each year. This sustained use allows us to reflect on its practical application and offer guidance on how others can incorporate it into their own work.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Roberts-et-al-TVCG-2026/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Roberts-et-al-TVCG-2026/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Roberts-et-al-TVCG-2026.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Roberts-et-al-TVCG-2026.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
-       [&lt;a href=&quot;https://arxiv.org/abs/2508.05325&quot; class=&quot;doilink&quot;&gt;Preprint&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+       [&lt;a href=&quot;https://arxiv.org/abs/2508.05325&quot; class=&quot;doilink&quot;&gt;Preprint&lt;/a&gt;]
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2025.3634783&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2025.3634783&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2025.3634783&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2025.3634783&lt;/a&gt;]
       
        [&lt;span class=&quot;addedInfo&quot;&gt;Presented at IEEE VIS 2025&lt;/span&gt;] 
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -147,22 +149,23 @@
         We introduce DashSpace, a live collaborative immersive and ubiquitous analytics (IA/UA) platform designed for handheld and head-mounted Augmented/Extended Reality (AR/XR) implemented using WebXR and open standards. To bridge the gap between existing web-based visualizations and the immersive analytics setting, DashSpace supports visualizing both legacy D3 and Vega-Lite visualizations on 2D planes, and extruding Vega-Lite specifications into 2.5D. It also supports fully 3D visual representations using the Optomancy grammar. To facilitate authoring new visualizations in immersive XR, the platform provides a visual authoring mechanism where the user groups specification snippets to construct visualizations dynamically. The approach is fully persistent and collaborative, allowing multiple participants—whose presence is shown using 3D avatars and webcam feeds—to interact with the shared space synchronously, both co-located and remotely. We present three examples of DashSpace in action: immersive data analysis in 3D space, synchronous collaboration, and immersive data presentations.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Borowski-et-al-TVCG-2025/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Borowski-et-al-TVCG-2025/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Borowski-et-al-TVCG-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Borowski-et-al-TVCG-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2025.3537679&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2025.3537679&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2025.3537679&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2025.3537679&lt;/a&gt;]
       
-       [&lt;span class=&quot;addedInfo&quot;&gt;To be presented at IEEE VIS 2025&lt;/span&gt;] 
+       [&lt;span class=&quot;addedInfo&quot;&gt;Presented at IEEE VIS 2025&lt;/span&gt;] 
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -187,14 +190,14 @@
 	We deem the tutorial framing particularly well suited to introduce DashSpace in depth to a broader audience of IA/SA/UA researchers, with the goal of creating a growing and interoperable platform for these interaction flavors. We envision to grow the platform and create a “component store” or package repository with self-contained components and packages that can be mixed and matched within the same platform without the need to install new applications on multiple devices or re-implementing common features.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Borowski-et-al-IEEEVIS205-Tutorial/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Borowski-et-al-IEEEVIS205-Tutorial/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Borowski-et-al-IEEEVIS205-Tutorial.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Borowski-et-al-IEEEVIS205-Tutorial.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -202,6 +205,7 @@
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -224,21 +228,22 @@
         This paper explores the use of scenario-based visualisation examples as a pedagogical strategy for teaching students the complexities of data insight, representation, and interpretation. Teaching data visualisation often involves explaining intricate issues related to data management and the challenges of presenting data meaningfully. In this work, we present a series of data-driven scenarios. These concise stories depict specific situations, and are created to help the educators highlight key concerns in data communication, such as chart selection, temporal versus categorical comparison, visual bias, and narrative framing. By grounding these examples in real-world contexts, students are encouraged to critically assess not only what the data shows, but how and why it is shown that way. This approach aims to deepen students’ data literacy and awareness of the ethical, analytical, and rhetorical choices that shape effective visual storytelling. The paper presents a collection of example scenarios, that educators can use for their own lessons; the work fits with a larger project on looking at critical thinking in the classroom, and developing appropriate tools. We also start to abstract principles, from our approach, so that others can develop their own scenarios for their teaching. Our approach aligns with principles of authentic and scenario-based learning, using real-world contexts to foster critical engagement with data.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Roberts-et-al-EduVis-2025/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Roberts-et-al-EduVis-2025/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Roberts-et-al-EduVis-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Roberts-et-al-EduVis-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
-       [&lt;a href=&quot;https://arxiv.org/abs/2508.08737&quot; class=&quot;doilink&quot;&gt;Preprint&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+       [&lt;a href=&quot;https://arxiv.org/abs/2508.08737&quot; class=&quot;doilink&quot;&gt;Preprint&lt;/a&gt;]
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -261,21 +266,22 @@
         Dementia care requires healthcare professionals to balance a patient’s medical needs with a deep understanding of their personal needs, preferences, and emotional cues. However, current digital tools prioritise quantitative metrics over empathetic engagement, limiting caregivers’ ability to develop a deeper personal understanding of their patients. This paper presents an empathy-centred visualisation framework, developed through a design study, to address this gap. The framework integrates established principles of person-centred care with empathy mapping methodologies to encourage deeper engagement. Our methodology provides a structured approach to designing for indirect end-users, patients whose experience is shaped by a tool they may not directly interact with. To validate the framework, we conducted evaluations with healthcare professionals, including usability testing of a working prototype and a User Experience Questionnaire (UEQ) study. Results suggest the feasibility of the framework, with participants highlighting its potential to support a more personal and empathetic relationship between medical staff and patients. The work starts to explore how empathy could be systematically embedded into visualisation design, as we contribute to ongoing efforts in the data visualisation community to support human-centred, interpretable, and ethically-aligned clinical care, addressing the urgent need to improve dementia patients’ experiences in hospital settings.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Owen-et-al-VAHC-2025/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Owen-et-al-VAHC-2025/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Owen-et-al-VAHC-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Owen-et-al-VAHC-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
-       [&lt;a href=&quot;https://arxiv.org/abs/2509.08548&quot; class=&quot;doilink&quot;&gt;Preprint&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+       [&lt;a href=&quot;https://arxiv.org/abs/2509.08548&quot; class=&quot;doilink&quot;&gt;Preprint&lt;/a&gt;]
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -298,14 +304,14 @@
         This paper presents EmployODR, an AI-enhanced online tool to help improve access to employment law dispute resolution. The system combines a chat bot powered by a Large Language Model (LLM) with explanatory visualizations that aim to communicate the system’s reasoning. Our tool integrates GPT-3.5 Turbo with structured legal data through a Retrieval-Augmented Generation (RAG) pipeline. The system guides users through complex employment law scenarios using network maps visualized using node-link diagrams, and plain-language summaries. Through our ongoing research, an early framework has emerged that we then apply for scalable AI-driven legal visualization that we hope can aid in bridging the gap between complex legal procedures and public accessibility, placing explainable AI as an essential component for democratizing access to justice. This work supports the developing integration of legal technology and explainable AI by exploring how visualization principles can promote transparency in AI-driven legal decision-making systems, aiming to formulate methodologies applicable across various legal domains to enhance public access to justice.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Ogbonda-et-al-Poster-VIS2025/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Ogbonda-et-al-Poster-VIS2025/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Ogbonda-et-al-Poster-VIS2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Ogbonda-et-al-Poster-VIS2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -313,6 +319,7 @@
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -356,22 +363,23 @@
         Consumer-level XR hardware now enables immersive spatial computing, yet most knowledge work remains confined to traditional 2D desktop environments. These worlds exist in isolation: writing emails or editing presentations favors desktop interfaces, while viewing 3D simulations or architectural models benefits from immersive environments. We address this fragmentation by combining spatial hypermedia, shareable dynamic media, and cross-reality computing to provide (1) composability of heterogeneous content and of nested information spaces through spatial transclusion,(2) pervasive cooperation across heterogeneous devices and platforms, and (3) congruent spatial representations despite underlying environmental differences. Our implementation, the Spatialstrates platform, embodies these principles using standard web technologies to bridge 2D desktop and 3D immersive environments. Through four scenarios—collaborative brainstorming, architectural design, molecular science visualization, and immersive analytics—we demonstrate how Spatialstrates enables collaboration between desktop 2D and immersive 3D contexts, allowing users to select the most appropriate interface for each task while maintaining collaborative capabilities.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Borowski-et-al-UIST-2025/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Borowski-et-al-UIST-2025/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Borowski-et-al-UIST-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Borowski-et-al-UIST-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1145/3746059.3747708&quot; class=&quot;doilink&quot;&gt;10.1145/3746059.3747708&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1145/3746059.3747708&quot; class=&quot;doilink&quot;&gt;10.1145/3746059.3747708&lt;/a&gt;]
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -408,22 +416,23 @@
         This article discusses considerations on how visualization can be best positioned to help response to future pandemics. We examine visualization, along with the corresponding and necessary enabling technologies and platforms, as a tool to facilitate a rapid and effective response to a forthcoming pandemic. We consider challenges in terms of an infrastructure supporting world-wide response, corresponding training and stakeholder engagement, integration of future technologies, and appraisal of such systems, Finally, we discuss how addressing these challenges also helps emergency response beyond infectious diseases.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/McGee-et-al-CGA-2025/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/McGee-et-al-CGA-2025/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/McGee-et-al-CGA-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/McGee-et-al-CGA-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/MCG.2025.3561619&quot; class=&quot;doilink&quot;&gt;10.1109/MCG.2025.3561619&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/MCG.2025.3561619&quot; class=&quot;doilink&quot;&gt;10.1109/MCG.2025.3561619&lt;/a&gt;]
       
        [&lt;span class=&quot;addedInfo&quot;&gt;Featured in IEEE Computing Edge, November 2025&lt;/span&gt;] 
+       [&lt;span class=&quot;addedInfo&quot;&gt;To be presented at EG EuroVis 2026&lt;/span&gt;]
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -500,22 +509,23 @@
         We propose the notion of Attention-Aware Visualizations (AAVs) that track the user’s perception of a visual representation over time and feed this information back to the visualization. Such context awareness is particularly useful for ubiquitous and immersive analytics where knowing which embedded visualizations the user is looking at can be used to make visualizations react appropriately to the user’s attention: for example, by highlighting data the user has not yet seen. We can separate the approach into three components: (1) measuring the user’s gaze on a visualization and its parts; (2) tracking the user’s attention over time; and (3) reactively modifying the visual representation based on the current attention metric. In this paper, we present two separate implementations of AAV: a 2D data-agnostic method for web-based visualizations that can use an embodied eyetracker to capture the user’s gaze, and a 3D data-aware one that uses the stencil buffer to track the visibility of each individual mark in a visualization. Both methods provide similar mechanisms for accumulating attention over time and changing the appearance of marks in response. We also present results from a qualitative evaluation studying visual feedback and triggering mechanisms for capturing and revisualizing attention.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Srinivasan-et-al-TVCG-2025/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Srinivasan-et-al-TVCG-2025/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Srinivasan-et-al-TVCG-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Srinivasan-et-al-TVCG-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
-       [&lt;a href=&quot;https://arxiv.org/abs/2404.10732&quot; class=&quot;doilink&quot;&gt;Preprint&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+       [&lt;a href=&quot;https://arxiv.org/abs/2404.10732&quot; class=&quot;doilink&quot;&gt;Preprint&lt;/a&gt;]
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2024.3456300&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2024.3456300&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2024.3456300&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2024.3456300&lt;/a&gt;]
       
        [&lt;span class=&quot;addedInfo&quot;&gt;Presented at IEEE VIS 2024&lt;/span&gt;] 
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -538,22 +548,23 @@
         We present a path-based design model and system for designing and creating visualisations. Our model represents a systematic approach to constructing visual representations of data or concepts following a predefined sequence of steps. The initial step involves outlining the overall appearance of the visualisation by creating a skeleton structure, referred to as a flowpath. Subsequently, we specify objects, visual marks, properties, and appearance, storing them in a gene. Lastly, we map data onto the flowpath, ensuring suitable morphisms. Alternative designs are created by exchanging values in the gene. For example, designs that share similar traits, are created by making small incremental changes to the gene. Our design methodology fosters the generatiion of diverse creative concepts, space-filling visualisations, and traditional formats like bar charts, circular plots and pie charts. Through our implementation we showcase the model in action. As an example application, we integrate the output visualisations onto a smartwatch and visualisation dashboards. In this article we (1) introduce, define and explain the path model and discuss possibilities for its use, (2) present our implementation, results, and evaluation, and (3) demonstrate and evaluate an application of its use on a mobile watch.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Jackson-et-al-TVCG-2025/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Jackson-et-al-TVCG-2025/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Jackson-et-al-TVCG-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Jackson-et-al-TVCG-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
-       [&lt;a href=&quot;https://arxiv.org/abs/2408.03681&quot; class=&quot;doilink&quot;&gt;Preprint&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+       [&lt;a href=&quot;https://arxiv.org/abs/2408.03681&quot; class=&quot;doilink&quot;&gt;Preprint&lt;/a&gt;]
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2024.3456323&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2024.3456323&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2024.3456323&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2024.3456323&lt;/a&gt;]
       
        [&lt;span class=&quot;addedInfo&quot;&gt;Presented at IEEE VIS 2024&lt;/span&gt;] 
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -594,19 +605,20 @@
     &lt;br /&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/DagRep_14_2_191/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/DagRep_14_2_191/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.4230/DagRep.14.2.191&quot; class=&quot;doilink&quot;&gt;10.4230/DagRep.14.2.191&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.4230/DagRep.14.2.191&quot; class=&quot;doilink&quot;&gt;10.4230/DagRep.14.2.191&lt;/a&gt;]
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -644,22 +656,23 @@
         Native game engines have long been the 3D development platform of choice for research in mixed and augmented reality. For this reason they have also been adopted in many immersive visualization and immersive analytics systems and toolkits. However, with the rapid improvements of WebXR and related open technologies, this choice may not always be optimal for future visualization research. In this paper, we investigate common assumptions about native game engines vs. WebXR and find that while native engines still have an advantage in many areas, WebXR is rapidly catching up and is superior for many immersive analytics applications.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Butcher-et-al-CGA2024/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Butcher-et-al-CGA2024/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Butcher-et-al-CGA2024.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Butcher-et-al-CGA2024.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/MCG.2024.3367422&quot; class=&quot;doilink&quot;&gt;10.1109/MCG.2024.3367422&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/MCG.2024.3367422&quot; class=&quot;doilink&quot;&gt;10.1109/MCG.2024.3367422&lt;/a&gt;]
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -696,22 +709,23 @@
         What if magic could be used as an effective metaphor to perform data visualization and analysis using speech and gestures while mobile and on-the-go? In this paper, we introduce Wizualization, a visual analytics system for eXtended Reality (XR) that enables an analyst to author and interact with visualizations using such a magic system through gestures, speech commands, and touch interaction. Wizualization is a rendering system for current XR headsets that comprises several components: a cross-device (or Arcane Focuses) infrastructure for signalling and view control (Weave), a code notebook (SpellBook), and a grammar of graphics for XR (Optomancy). The system offers users three modes of input: gestures, spoken commands, and materials. We demonstrate Wizualization and its components using a motivating scenario on collaborative data analysis of pandemic data across time and space.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Batch-et-al-TVCG-2024/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Batch-et-al-TVCG-2024/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Batch-et-al-TVCG-2024.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Batch-et-al-TVCG-2024.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2023.3326580&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2023.3326580&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2023.3326580&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2023.3326580&lt;/a&gt;]
       
        [&lt;span class=&quot;addedInfo&quot;&gt;Presented at IEEE VIS 2023&lt;/span&gt;] 
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -734,22 +748,23 @@
          The advent of low-cost, accessible, and high-performance augmented reality (AR) has shed light on a situated form of analytics where in-situ visualizations embedded in the real world can facilitate sensemaking based on the user’s physical location. In this work, we identify prior literature in this emerging field with a focus on situated analytics. After collecting 47 relevant situated analytics systems, we classify them using a taxonomy of three dimensions: situating triggers, view situatedness, and data depiction. We then identify four archetypical patterns in our classification using an ensemble cluster analysis. We also assess the level which these systems support the sensemaking process. Finally, we discuss insights and design guidelines that we learned from our analysis.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Shin-et-al-TVCG-2023/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Shin-et-al-TVCG-2023/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Shin-et-al-TVCG-2023.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Shin-et-al-TVCG-2023.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2023.3285546&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2023.3285546&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2023.3285546&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2023.3285546&lt;/a&gt;]
       
        [&lt;span class=&quot;addedInfo&quot;&gt;Presented at IEEE VIS 2023&lt;/span&gt;] 
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -772,14 +787,14 @@
         In this bulletin video, we summarize the volunteering activities of  a group of visualization researchers who provided support to  epidemiological modeling during the COVID-19 pandemic. Epidemiological modeling during a pandemic is a complex and continuous process. The intraoperative workflow entails different visualization tasks at four different levels, i.e., disseminative, observational, analytical, and model-developmental visualization. The visualization volunteers were organized into seven teams, including a generic support team, an analytical support team, a disseminative visualization team, and four modeling support teams. During the volunteering activities, we encountered a few major challenges. We made an effort to address these challenges and gained useful experience.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Chen-et-al-Bulletin-Vis4PandemRes-VIS2023/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Chen-et-al-Bulletin-Vis4PandemRes-VIS2023/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Chen-et-al-Bulletin-Vis4PandemRes-VIS2023.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Chen-et-al-Bulletin-Vis4PandemRes-VIS2023.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -787,6 +802,7 @@
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -809,14 +825,14 @@
         In this bulletin video, we summarize a novel technique for authoring storytelling visualization. The technique was developed by one of the teams in the RAMPVIS project, which provided visualization support to epidemiological modeling during the COVID-19 pandemic. The team explored the prevailing approaches, in the UK and internationally, for creating public-facing visualizations related to the pandemic. This ranged from those produced by a number of governments (e.g., the four home nations in the UK), organizations (e.g., WHO, UK ONS), universities (e.g., Johns Hopkins dashboards), media outlets (e.g., FT Coronavirus tracker), and non-commercial web services (e.g., Worldometers). The team concluded that we should complement, but not duplicate, the existing effort, and defined our goal as to inform the public through advanced storytelling visualization.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Ritsos-et-al-Bulletin-Vis4PandemRes-VIS2023/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Ritsos-et-al-Bulletin-Vis4PandemRes-VIS2023/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Ritsos-et-al-Bulletin-Vis4PandemRes-VIS2023.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Ritsos-et-al-Bulletin-Vis4PandemRes-VIS2023.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -824,6 +840,7 @@
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -846,14 +863,14 @@
         We present DUVis, a visual analytics application developed to support the analysis and appraisal, of the transdiciplinary project Dŵr Uisce, from internal project managers and external stakeholders. DUVis provides a number of visualizations and additional features to facilitate data exploration of a project’s progress. It presents a map of stakeholders’ activities, and their engagement with each other, as well as outputs, workpackages, their completion status and potential impact. We present our preliminary design and provide a blueprint for further development.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Rigby-et-al-Poster-VIS2023/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Rigby-et-al-Poster-VIS2023/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Rigby-et-al-Poster-VIS2023.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Rigby-et-al-Poster-VIS2023.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -861,6 +878,7 @@
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -883,14 +901,14 @@
         Visualisation design requires critical thought: to understand important facets, investigate design suitability and explore alternatives. But, especially for learners, it can be difficult to structure a critical reflection of creative solutions. We introduce the Critical Design Survey (CDS): structured method that facilitates visualisation design analysis through reflective and critical thought. Applying the CDS helps someone to structure critical thought, provides a unified method that can be readily taught, learners can actively engage with the process and directly use it to write a critical-thinking report of their design ideas. The CDS contains three steps: Step 1, summarise and write down the essence of the idea. Step 2, perform an in-depth critique (we define 30 questions structured in six perspectives). Step 3, synthesise the ideas, implications, and decide on the next steps. We present the CDS, describe our design process (critical thinking workshops, talk aloud, and student use), and describe our use in teaching visualisation to undergraduate and postgraduate students.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Roberts-et-al-Poster-VIS2023/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Roberts-et-al-Poster-VIS2023/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Roberts-et-al-Poster-VIS2023.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Roberts-et-al-Poster-VIS2023.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -898,6 +916,7 @@
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -937,14 +956,14 @@
         This paper presents lessons learned in the design and development of Wizualization, a ubiquitous analytics system for authoring visualizations in WebXR using a magic metaphor. The system is based on a fundamentally hybrid and multimodal approach utilizing AR/XR, gestures, sound, and speech to support the mobile setting. Our lessons include how to overcome mostly technical challenges, such as view management and combining multiple sessions in the same analytical 3D space, but also user-based, design-oriented, and even social ones. Our intention in sharing these teachings is to help fellow travellers navigate the same troubled waters we have traversed.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Butcher-et-al-HUI-ISMAR2023/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Butcher-et-al-HUI-ISMAR2023/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Butcher-et-al-HUI-ISMAR2023.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Butcher-et-al-HUI-ISMAR2023.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -952,6 +971,7 @@
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -990,22 +1010,23 @@
         What if magic could be used as an effective metaphor to perform data visualization and analysis using speech and gestures while mobile and on-the-go? In this paper, we introduce Wizualization, a visual analytics system for eXtended Reality (XR) that enables an analyst to author and interact with visualizations using such a magic system through gestures, speech commands, and touch interaction. Wizualization is a rendering system for current XR headsets that comprises several components: a cross-device (or Arcane Focuses) infrastructure for signalling and view control (Weave), a code notebook (SpellBook), and a grammar of graphics for XR (Optomancy). The system offers users three modes of input: gestures, spoken commands, and materials. We demonstrate Wizualization and its components using a motivating scenario on collaborative data analysis of pandemic data across time and space.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Batch-et-al-TVCG-2024/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Batch-et-al-TVCG-2024/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Batch-et-al-TVCG-2024.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Batch-et-al-TVCG-2024.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2023.3326580&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2023.3326580&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2023.3326580&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2023.3326580&lt;/a&gt;]
       
        [&lt;span class=&quot;addedInfo&quot;&gt;Presented at IEEE VIS 2023&lt;/span&gt;] 
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1045,22 +1066,23 @@
          The advent of low-cost, accessible, and high-performance augmented reality (AR) has shed light on a situated form of analytics where in-situ visualizations embedded in the real world can facilitate sensemaking based on the user’s physical location. In this work, we identify prior literature in this emerging field with a focus on situated analytics. After collecting 47 relevant situated analytics systems, we classify them using a taxonomy of three dimensions: situating triggers, view situatedness, and data depiction. We then identify four archetypical patterns in our classification using an ensemble cluster analysis. We also assess the level which these systems support the sensemaking process. Finally, we discuss insights and design guidelines that we learned from our analysis.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Shin-et-al-TVCG-2023/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Shin-et-al-TVCG-2023/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Shin-et-al-TVCG-2023.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Shin-et-al-TVCG-2023.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2023.3285546&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2023.3285546&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2023.3285546&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2023.3285546&lt;/a&gt;]
       
        [&lt;span class=&quot;addedInfo&quot;&gt;Presented at IEEE VIS 2023&lt;/span&gt;] 
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1097,22 +1119,23 @@
         As visualization makes the leap to mobile and situated settings, where data is increasingly integrated with the physical world using mixed reality, there is a corresponding need for effectively managing the immersed user’s view of situated visualizations. In this paper we present an analysis of view management techniques for situated 3D visualizations in handheld augmented reality: a shadowbox, a world-in-miniature metaphor, and an interactive tour. We validate these view management solutions through a concrete implementation of all techniques within a situated visualization framework built using a web-based augmented reality visualization toolkit, and present results from a user study in augmented reality accessed using handheld mobile devices.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Batch-et-al-CGF-2023/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Batch-et-al-CGF-2023/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Batch-et-al-CGF-2023.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Batch-et-al-CGF-2023.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1111/cgf.14835&quot; class=&quot;doilink&quot;&gt;10.1111/cgf.14835&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1111/cgf.14835&quot; class=&quot;doilink&quot;&gt;10.1111/cgf.14835&lt;/a&gt;]
       
        [&lt;span class=&quot;addedInfo&quot;&gt;Presented at EG EuroVis 2023&lt;/span&gt;] 
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1149,22 +1172,23 @@
         Land Use Land Cover (LULC) change is widely recognised as one of the most important factors impacting the hydrological response of river basins. SWAT +, the latest version of the Soil and Water Assessment Tool, has been used extensively to assess the hydrological impacts of LULC change. However, the process of making and assessing such changes in SWAT+ is often cumbersome and non-intuitive, thereby reducing its usability amongst a wider pool of applied users. We address this issue by developing a user-friendly toolkit, Land Use Change SWAT+ Toolkit (LUCST), that will: (1) allow the end-user to define various LULC change scenarios in their study catchment, (2) run the SWAT+ model with the specified LULC changes, and (3) enable interactive visualisation of the different SWAT+ output variables. A good System Usability Score (79.8) and positive feedback from end-users promises the potential for adopting LUCST in future LULC change studies.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Rigby-et-al-EnvModSoft-2022/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Rigby-et-al-EnvModSoft-2022/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Rigby-et-al-EnvModSoft-2022.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Rigby-et-al-EnvModSoft-2022.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1016/j.envsoft.2022.105469&quot; class=&quot;doilink&quot;&gt;10.1016/j.envsoft.2022.105469&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1016/j.envsoft.2022.105469&quot; class=&quot;doilink&quot;&gt;10.1016/j.envsoft.2022.105469&lt;/a&gt;]
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1201,22 +1225,23 @@
         We report on an ongoing collaboration between epidemiological modellers and visualization researchers by documenting and reflecting upon knowledge constructs - a series of ideas, approaches and methods taken from existing visualization research and practice – deployed and developed to support modelling of the COVID-19 pandemic. Structured independent commentary on these efforts is synthesized through iterative reflection to develop: evidence of the effectiveness and value of visualization in this context; open problems upon which the research communities may focus; guidance for future activity of this type; and recommendations to safeguard the achievements and promote, advance, secure and prepare for future collaborations of this kind. In describing and comparing a series of related projects that were undertaken in unprecedented conditions, our hope is that this unique report, and its rich interactive supplementary materials, will guide the scientific community in embracing visualization in its observation, analysis and modelling of data as well as in disseminating findings. Equally we hope to encourage the visualization community to engage with impactful science in addressing its emerging data challenges. If we are successful, this showcase of activity may stimulate mutually beneficial engagement between communities with complementary expertise to address problems of significance in epidemiology and beyond.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Dykes-et-al-PhilTransA-2022/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Dykes-et-al-PhilTransA-2022/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Dykes-et-al-PhilTransA-2022.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Dykes-et-al-PhilTransA-2022.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
-       [&lt;a href=&quot;https://arxiv.org/abs/2204.06946&quot; class=&quot;doilink&quot;&gt;Preprint&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+       [&lt;a href=&quot;https://arxiv.org/abs/2204.06946&quot; class=&quot;doilink&quot;&gt;Preprint&lt;/a&gt;]
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1098/rsta.2021.0299&quot; class=&quot;doilink&quot;&gt;10.1098/rsta.2021.0299&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1098/rsta.2021.0299&quot; class=&quot;doilink&quot;&gt;10.1098/rsta.2021.0299&lt;/a&gt;]
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1239,22 +1264,23 @@
         The effort for combating the COVID-19 pandemic around the world has resulted in a huge amount of data, e.g., from testing, contact tracing, modelling, treatment, vaccine trials, and more. In addition to numerous challenges in epidemiology, healthcare, biosciences, and social sciences, there has been an urgent need to develop and provide visualisation and visual analytics (VIS) capacities to support emergency responses under difficult operational conditions. In this paper, we report the experience of a group of VIS volunteers who have been working in a large research and development consortium and providing VIS support to various observational, analytical, model-developmental, and disseminative tasks. In particular, we describe our approaches to the challenges that we have encountered in requirements analysis, data acquisition, visual design, software design, system development, team organisation, and resource planning. By reflecting on our experience, we propose a set of recommendations as the first step towards a methodology for developing and providing rapid VIS capacities to support emergency responses.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Chen-et-al-Epidemics-2022/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Chen-et-al-Epidemics-2022/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Chen-et-al-Epidemics-2022.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Chen-et-al-Epidemics-2022.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
-       [&lt;a href=&quot;https://arxiv.org/abs/2012.04757&quot; class=&quot;doilink&quot;&gt;Preprint&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+       [&lt;a href=&quot;https://arxiv.org/abs/2012.04757&quot; class=&quot;doilink&quot;&gt;Preprint&lt;/a&gt;]
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1016/j.epidem.2022.100569&quot; class=&quot;doilink&quot;&gt;10.1016/j.epidem.2022.100569&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1016/j.epidem.2022.100569&quot; class=&quot;doilink&quot;&gt;10.1016/j.epidem.2022.100569&lt;/a&gt;]
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1318,22 +1344,23 @@
         The opportunities for 3D visualisations are huge. People can be immersed inside their data, interface with it in natural ways, and see it in ways that are not possible on a traditional desktop screen. Indeed, 3D visualisations, especially those that are immersed inside head-mounted displays are becoming popular. Much of this growth is driven by the availability, popularity and falling cost of head-mounted displays and other immersive technologies. However, there are also challenges. For example, data visualisation objects can be obscured, important facets missed (perhaps behind the viewer), and the interfaces may be unfamiliar. Some of these challenges are not unique to 3D immersive technologies. Indeed, developers of traditional 2D exploratory visualisation tools would use alternative views, across a multiple coordinated view (MCV) system. Coordinated view interfaces help users explore the richness of the data. For instance, an alphabetical list of people in one view shows everyone in the database, while a map view depicts where they live. Each view provides a different task or purpose. While it is possible to translate some desktop interface techniques into the 3D immersive world, it is not always clear what equivalences would be. In this paper, using several case studies, we discuss the challenges and opportunities for using multiple views in immersive visualisation. Our aim is to provide a set of concepts that will enable developers to perform critical thinking, creative thinking and push the boundaries of what is possible with 3D and immersive visualisation. In summary developers should consider how to integrate many views, techniques and presentation styles, and one view is not enough when using 3D and immersive visualisations.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Roberts-et-al-MDPI-2022/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Roberts-et-al-MDPI-2022/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Roberts-et-al-MDPI-2022.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Roberts-et-al-MDPI-2022.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.3390/computers11020020&quot; class=&quot;doilink&quot;&gt;10.3390/computers11020020&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.3390/computers11020020&quot; class=&quot;doilink&quot;&gt;10.3390/computers11020020&lt;/a&gt;]
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1458,22 +1485,23 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
   discuss current limitations of our framework, the lessons learned from its development, and outline further extensions.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Butcher-et-al-TVCG-2021/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Butcher-et-al-TVCG-2021/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Butcher-et-al-TVCG-2021.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Butcher-et-al-TVCG-2021.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2020.2965109&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2020.2965109&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2020.2965109&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2020.2965109&lt;/a&gt;]
       
        [&lt;span class=&quot;addedInfo&quot;&gt;Presented at IEEE VIS 2020&lt;/span&gt;] 
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1496,14 +1524,14 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
         The global COVID-19 pandemic has had great affect on the lives of everyone, from changing how children are educated to how or whether at all, we travel, go to work or do our shopping. Consequently, not only has people’s happiness changed throughout the pandemic, but there has been less vehicles on the roads. We present work to visualise both US happiness and UK travel data, as examples, in immersive environments. These impromptu visualisations encourage discussion and engagement with these topics, and can help people see the data in an alternative way.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Williams-et-al-VIS-2020/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Williams-et-al-VIS-2020/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Williams-et-al-VIS-2020.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Williams-et-al-VIS-2020.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -1511,6 +1539,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1548,22 +1577,23 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
         A handful of approaches have been previously proposed to generate procedurally virtual forestry for virtual worlds and computer games, including plant growthmodels and point distribution methods. However, there has been no evaluation to date which assesses how effective these algorithms are at modelling real-world phenomena. In this paper we tackle this issue by evaluating three algorithms used in the generation of virtual forests – a randomly uniform point distribution method (control), a plant competition model, and an iterative random point distribution technique.Our results show that a plant competition model generated more believable content when viewed from an aerial perspective. Interestingly however, we also found that a randomly uniform point distribution method produced forestry which was rated higher in playability and photorealism, when viewed from a first-person perspective. We conclude that the objective of the game designer is important to consider when selecting an algorithm to generate forestry, as the algorithms produce forestry which is perceived differently.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Williams-et-al-MDPI-2020/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Williams-et-al-MDPI-2020/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Williams-et-al-MDPI-2020.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Williams-et-al-MDPI-2020.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.3390/computers9010020&quot; class=&quot;doilink&quot;&gt;10.3390/computers9010020&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.3390/computers9010020&quot; class=&quot;doilink&quot;&gt;10.3390/computers9010020&lt;/a&gt;]
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1615,22 +1645,23 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
   discuss current limitations of our framework, the lessons learned from its development, and outline further extensions.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Butcher-et-al-TVCG-2021/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Butcher-et-al-TVCG-2021/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Butcher-et-al-TVCG-2021.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Butcher-et-al-TVCG-2021.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2020.2965109&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2020.2965109&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2020.2965109&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2020.2965109&lt;/a&gt;]
       
        [&lt;span class=&quot;addedInfo&quot;&gt;Presented at IEEE VIS 2020&lt;/span&gt;] 
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1709,22 +1740,23 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
         The field of learning analytics is progressing at a rapid rate. New tools, with ever-increasing number of features and a plethora of datasets that are increasingly utilized demonstrate the evolution and multifaceted nature of the field. In particular, the depth and scope of insight that can be gleaned from analysing related datasets can have a significant, and positive, effect in educational practices. We introduce the concept of degree pictures, a symbolic overview of students’ achievement. Degree pictures are small visualizations that depict graphically 16 categories of overall student achievement, over the duration of a higher education course. They offer a quick summary of students’ achievement and are intended to initiate appropriate responses, such as teaching and pastoral interventions. This can address the subjective nature of assessment, by providing a method for educators to calibrate their own marking practices by showing an overview of any cohort. We present a prototype implementation of degree pictures, which was evaluated within our School of Computer Science, with favourable results.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Gray-et-al-CAEH-2020/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Gray-et-al-CAEH-2020/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Gray-et-al-CAEH-2020.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Gray-et-al-CAEH-2020.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1080/02602938.2019.1676397&quot; class=&quot;doilink&quot;&gt;10.1080/02602938.2019.1676397&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1080/02602938.2019.1676397&quot; class=&quot;doilink&quot;&gt;10.1080/02602938.2019.1676397&lt;/a&gt;]
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1756,22 +1788,23 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
         A handful of approaches have been previously proposed to generate procedurally virtual forestry for virtual worlds and computer games, including plant growth models and point distribution methods. However, there has been no evaluation to date which assesses how effective these algorithms are at modelling real-world phenomena. In this paper we tackle this issue by evaluating three algorithms used in the generation of virtual forests – a randomly uniform point distribution method (control), a plant competition model, and an iterative random point distribution technique. Our results show that a plant competition model generated more believable content when viewed from an aerial perspective. We also found that a randomly uniform point distribution method produced forest visualisations which were rated highest in playability and photorealism, when viewed from a first-person perspective. Our results indicate that when it comes to believability, the relationship between viewing perspective and procedural generation algorithm is more important than previously thought.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Williams-et-al-CGVC-2019/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Williams-et-al-CGVC-2019/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Williams-et-al-CGVC-2019.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Williams-et-al-CGVC-2019.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.2312/cgvc.20191259&quot; class=&quot;doilink&quot;&gt;10.2312/cgvc.20191259&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.2312/cgvc.20191259&quot; class=&quot;doilink&quot;&gt;10.2312/cgvc.20191259&lt;/a&gt;]
       
        [&lt;span class=&quot;addedInfo&quot;&gt;&lt;i class=&quot;fa-solid fa-award&quot;&gt;&lt;/i&gt; &amp;nbsp; Best Student Paper&lt;/span&gt;] 
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1794,22 +1827,23 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
         As the every day use of mobile and small screen devices becomes more common, it is necessary to explore how we can visualise data effectively in small design spaces. These screens are often used in situations where it is necessary to convey information in a concise, readable, reliable and visually appealing way. Our work focuses on the design and development of a tool to facilitate the creation and manipulation of new micro-visualisations. The results show that the tool is suitable for creating large number of outputs quickly and efficiently.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Jackson-et-al-CGVC-2019/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Jackson-et-al-CGVC-2019/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Jackson-et-al-CGVC-2019.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Jackson-et-al-CGVC-2019.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.2312/cgvc.20191270&quot; class=&quot;doilink&quot;&gt;10.2312/cgvc.20191270&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.2312/cgvc.20191270&quot; class=&quot;doilink&quot;&gt;10.2312/cgvc.20191270&lt;/a&gt;]
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1859,14 +1893,14 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
         This paper describes the design of a modular framework, for constructing models of interacting systems. In particular, systems that can adapt and have different objectives; we also consider that these objectives could be of an emotional/hedonistic form. To that end, we introduce Pask’s conversation theory, and Boyd’s thoughts on decision making under uncertainty. In conclusion we describe modes of studying interacting systems.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Edwards-Ritsos-CMHCI-2019/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Edwards-Ritsos-CMHCI-2019/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Edwards-Ritsos-CMHCI-2019.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Edwards-Ritsos-CMHCI-2019.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -1874,6 +1908,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1896,14 +1931,14 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
         We have been exploring how papercraft can be used to create ‘data physicalisations’ of student data, which act as physical artefacts and data sculptures that can be used in discussions. Papercrafting is cheap and quick to produce, and easily disposed of. Papercrafting student data is powerful as it acts as a focal point for discussions about the progression of their students and the effects of any extenuating circumstances. During such meetings teachers often reference spreadsheets and dashboard visualisations to explore the data. They focus and shift their attention to individual students, often commenting on individual performance and circumstances in turn. Tangible depictions, such as the ones we present, can be passed around, facilitating discussions, and can act as a focal-point for conversation. We present several prototypes and discuss our design process.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Mearman-et-al-CHI-2019/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Mearman-et-al-CHI-2019/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Mearman-et-al-CHI-2019.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Mearman-et-al-CHI-2019.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -1911,6 +1946,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1933,14 +1969,14 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
         Learners are often asked to create an interface as part of their course. For example, they could be asked to “create a calculator”, “develop a stopwatch” or “develop an image processing app”. But students often struggle to know how to start. At the same time, teachers want their students to think critically about their assignments and plan how they will build an interface. We have developed, and used for two academic years, a structured “critical thinking sheet (CTS)”. It is a method to help students consider a problem from different views, and help them critically consider different aspects of the task. The sheet gets the learners to (1) sketch the solution, (2) explain the challenge, (3) detail system components, (4) list algorithmic steps, and (5) explain next steps and issues of implementation. In this paper we introduce the sheet, explain how we have used it, and discuss learner experience.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Roberts-Ritsos-EduCHI-2019/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Roberts-Ritsos-EduCHI-2019/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Roberts-Ritsos-EduCHI-2019.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Roberts-Ritsos-EduCHI-2019.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -1948,6 +1984,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -1980,14 +2017,14 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
         We present work-in-progress on the design and implementation of a Web framework for building Immersive Analytics (IA) solutions in Virtual Reality (VR). We outline the design of our prototype framework, VRIA, which facilitates the development of VR spaces for IA solutions, which can be accessed via a Web browser. VRIA is built on emerging open-standards Web technologies such as WebVR, A-Frame and React, and supports a variety of interaction devices (e.g., smartphones, head-mounted displays etc.). We elaborate on our motivation for focusing on open-standards Web technologies and provide an overview of our framework. We also present two early visualization components. Finally, we outline further extensions and investigations.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Butcher-et-al-Poster-VIS2018/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Butcher-et-al-Poster-VIS2018/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Butcher-et-al-Poster-VIS2018.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Butcher-et-al-Poster-VIS2018.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -1995,6 +2032,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2017,14 +2055,14 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
         Many modern day tasks involve the use of small screens, where users want to see a summary visualisation of an activity. For example, a runner using a smart watch needs to quickly view their progress, heart rate, comparison to previous races, etc. Subsequently, there is a need to portray data to users in small, yet well-defined, spaces. We define this space to be a single self-contained “unit”. In this paper we introduce a glyph visualisation algorithm that creates a diverse range of visualisation designs; each design contains many separate parts, whereupon different parameters can be mapped. Our algorithm uses a path based approach which allows designers to create deterministic, yet unique designs, in a unit space to display multivariate data.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Jackson-et-al-Poster-VIS2018/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Jackson-et-al-Poster-VIS2018/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Jackson-et-al-Poster-VIS2018.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Jackson-et-al-Poster-VIS2018.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -2032,6 +2070,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2054,14 +2093,14 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
         We present the development of a visualisation framework, used to provide formative feedback to clients who engage with data brokering companies. Data brokers receive, clean, store and re-sell data from many clients. However the usage of the data and the brokering process can be improved at source by enhancing the client’s data creation and management processes. We propose to achieve this through providing formative feedback, as a visualisation report, to the client. Working closely with a travel agent data broker, we present a three-part framework, where we (1) evaluate data creation and provision processes of the client, (2) develop metrics for quantitative analytics on the data, (3) aggregate the analytics in a visual report.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Varghese-et-al-VISREG-2018/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Varghese-et-al-VISREG-2018/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Varghese-et-al-VISREG-2018.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Varghese-et-al-VISREG-2018.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -2069,6 +2108,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2128,14 +2168,14 @@ type: home&lt;/li&gt;
         The deployment of real-world water monitoring and analytics tools is still far behind the growing needs of cities, which are facing constant urbanisation and overgrowth of the population. This paper presents a full-stack data-mining infrastructure for smart water management for cities being developed within Water4Cities project. The stack is tested in two use cases - Greek island of Skiathos and Slovenian capital Ljubljana, each facing its own challenges related to groundwater. Bottom layer of the platform provides data gathering and provision infrastructure based on IoT standards. The layer is enriched with a dedicated missing data imputation infrastructure, which supports coherent analysis of long-term impacts of urbanisation and population growth on groundwater reserves. Data-driven approach to groundwater levels analysis, which is important for decision support in flood and groundwater management, has shown promising results and could replace or complement traditional process-driven models. Data visualization capabilities of the platform expose powerful synergies with data mining and contribute significantly to the design of future decision support systems in water management for cities.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Kenda-et-al-FEED-2018/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Kenda-et-al-FEED-2018/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Kenda-et-al-FEED-2018.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Kenda-et-al-FEED-2018.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -2143,6 +2183,7 @@ type: home&lt;/li&gt;
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2175,14 +2216,14 @@ type: home&lt;/li&gt;
         To enable effective decision-making at the entire city level, both surface water and groundwater should be viewed as part of the extended urban water ecosystem with its spatiotemporal availability, quantity, quality and competing uses being taken into account. The Water4Cities project aims to build an ICT solution for the monitoring, visualization and analysis of urban water at a holistic urban setting to provide added-value decision support services to multiple water stakeholders. This paper presents the main stakeholders identified, the overall approach and the target use cases, where Water4Cities platform will be tested and validated.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Rizou-et-al-EWAS-2018/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Rizou-et-al-EWAS-2018/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Rizou-et-al-EWAS-2018.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Rizou-et-al-EWAS-2018.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -2190,6 +2231,7 @@ type: home&lt;/li&gt;
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2238,22 +2280,23 @@ type: home&lt;/li&gt;
         Visualizations are nowadays appearing in popular media and are used everyday in the workplace. This democratisation of visualization challenges educators to develop effective learning strategies, in order to train the next generation of creative visualization specialists. There is high demand for skilled individuals who can analyse a problem, consider alternative designs, develop new visualizations, and be creative and innovative. Our three-stage framework, leads the learner through a series of tasks, each designed to develop different skills necessary for coming up with creative, innovative, effective, and purposeful visualizations. For that, we get the learners to create an explanatory visualization of an algorithm of their choice. By making an algorithm choice, and by following an active-learning and project-based strategy, the learners take ownership of a particular visualization challenge. They become enthusiastic to develop good results and learn different creative skills on their learning journey.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Roberts-et-al-TVCG-2018/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Roberts-et-al-TVCG-2018/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Roberts-et-al-TVCG-2018.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Roberts-et-al-TVCG-2018.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/  10.1109/TVCG.2017.2745878&quot; class=&quot;doilink&quot;&gt;  10.1109/TVCG.2017.2745878&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/  10.1109/TVCG.2017.2745878&quot; class=&quot;doilink&quot;&gt;  10.1109/TVCG.2017.2745878&lt;/a&gt;]
       
        [&lt;span class=&quot;addedInfo&quot;&gt;Presented at IEEE VIS 2017&lt;/span&gt;] 
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2276,14 +2319,14 @@ type: home&lt;/li&gt;
         This tutorial leads attendees through sketching designs following the Five Design-Sheet methodology (FdS) and discusses how it can be used in teaching. The first part (before the break) will introduce the FdS, place it in context with other methods, discuss creative thinking and different problem types, explain the benefit of sketching designs, and provide a worked example of the FdS. The second part (after the break) focuses on using the FdS in teaching in Higher Education We give examples of students’ work, and discuss issues and challenges of using sketching for designing and prototyping in teaching, followed by a question and answer session.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Roberts-et-al-VIS2017-Tutorial/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Roberts-et-al-VIS2017-Tutorial/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Roberts-et-al-VIS2017-Tutorial.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Roberts-et-al-VIS2017-Tutorial.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -2291,6 +2334,7 @@ type: home&lt;/li&gt;
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2313,14 +2357,14 @@ type: home&lt;/li&gt;
         The recent popularity of virtual reality (VR), and the emergence of a number of affordable VR interfaces, have prompted researchers and developers to explore new, immersive ways to visualize data. This has resulted in a new research thrust, known as Immersive Analytics (IA). However, in IA little attention has been given to the paradigms of augmented/mixed reality (AR/MR), where computer-generated and physical objects co-exist. In this work, we explore the use of contemporary web-based technologies for the creation of immersive visualizations for handheld AR, combining D3.js with the open standards-based Argon AR framework and A-frame/WebVR. We argue in favor of using emerging standards-based web technologies as they work well with contemporary visualization tools, that are purposefully built for data binding and manipulation.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Ritsos-et-al-Poster-VIS2017/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Ritsos-et-al-Poster-VIS2017/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Ritsos-et-al-Poster-VIS2017.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Ritsos-et-al-Poster-VIS2017.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -2328,6 +2372,7 @@ type: home&lt;/li&gt;
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2350,14 +2395,14 @@ type: home&lt;/li&gt;
         The way we interact with computers is constantly evolving, with technologies like Mixed/Augmented Reality (MR/AR) and the Internet of Things (IoT) set to change our perception of informational and physical space. In parallel, interest for interacting with data in new ways is driving the investigation of the synergy of these domains with data visualization. We are seeking new ways to contextualize, visualize, interact-with and interpret our data. In this paper we present the notion of Synthetic Visualizations, which enable us to visualize in situ, data embedded in physical objects, using MR. We use a combination of established ‘markers’, such as Quick Response Codes (QR Codes) and Augmented Reality Markers (AR Markers), not only to register objects in physical space, but also to contain data to be visualized, and interchange the type of visualization to be used. We visualize said data in Mixed Reality (MR), using emerging web-technologies and open-standards.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Ritsos-et-al-IAW-2017/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Ritsos-et-al-IAW-2017/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Ritsos-et-al-IAW-2017.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Ritsos-et-al-IAW-2017.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -2365,6 +2410,7 @@ type: home&lt;/li&gt;
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2387,14 +2433,14 @@ type: home&lt;/li&gt;
         We, like other educators, are keen to develop the next generation of visualisation designers. The use of sketching and low-fidelity designs are becoming popular methods to help developers and students consider many alternative ideas and plan what they should build. But especially within an education setting, there are often many issues that challenge students as they create low-fidelity prototypes. Students can be unwilling to contemplate alternatives, reluctant to use pens and paper, or sketch on paper, and inclined to code the first idea in their mind. In this paper we discuss these issues, and investigate strategies to help increase the breadth of low-fidelity designs, especially for developing data-visualisation tools. We draw together experiences and advice of how we have used the Five Design-Sheets method over eight years, for different assessment styles and across two institutions. This paper would be useful for anyone who wishes to use sketching in their teaching, or to improve their own experiences.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Roberts-et-al-PDVW-2017/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Roberts-et-al-PDVW-2017/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Roberts-et-al-PDVW-2017.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Roberts-et-al-PDVW-2017.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -2402,6 +2448,7 @@ type: home&lt;/li&gt;
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2424,14 +2471,14 @@ type: home&lt;/li&gt;
         Information visualisation has become a key element for empowering users to answer and produce new questions, make sense and create narratives about specific sets of information. Current technologies, such as Linked Data, have changed how researchers and professionals in the Humanities and the Heritage sector engage with information. Digital literacy is of concern in many sectors, but is especially of concern for Digital Humanities. This is due to the fact that the Humanities and Heritage sector face an important division based on digital literacy that produce gaps in the way research can be carried out. One way to overcome the challenge of digital literacy and improve access to information can be Tangible User Interfaces (TUIs), which allow a more meaningful and natural pathway for a wide range of users. TUIs make use of physical objects to interact with the computer. In particular, they can facilitate the interaction process between the user and a data visualisation system. This position paper discusses the opportunity to engage with Digital Humanities information via TUIs and data visualisation tools, offering new ways to analyse, investigate and interpret the past.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Pereda-et-al-VIS4DH-2017/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Pereda-et-al-VIS4DH-2017/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Pereda-et-al-VIS4DH-2017.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Pereda-et-al-VIS4DH-2017.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -2439,6 +2486,7 @@ type: home&lt;/li&gt;
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2471,22 +2519,23 @@ type: home&lt;/li&gt;
         We present our early work on building prototype applications for Immersive Analytics using emerging standardsbased web technologies for VR. For our preliminary investigations we visualize 3D bar charts that attempt to resemble recent physical visualizations built in the visualization community. We explore some of the challenges faced by developers in working with emerging VR tools for the web, and in building effective and informative immersive 3D visualizations.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Butcher-Ritsos-CW2017/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Butcher-Ritsos-CW2017/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Butcher-Ritsos-CW2017.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Butcher-Ritsos-CW2017.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/CW.2017.11&quot; class=&quot;doilink&quot;&gt;10.1109/CW.2017.11&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/CW.2017.11&quot; class=&quot;doilink&quot;&gt;10.1109/CW.2017.11&lt;/a&gt;]
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2525,22 +2574,23 @@ type: home&lt;/li&gt;
         Visualizations are nowadays appearing in popular media and are used everyday in the workplace. This democratisation of visualization challenges educators to develop effective learning strategies, in order to train the next generation of creative visualization specialists. There is high demand for skilled individuals who can analyse a problem, consider alternative designs, develop new visualizations, and be creative and innovative. Our three-stage framework, leads the learner through a series of tasks, each designed to develop different skills necessary for coming up with creative, innovative, effective, and purposeful visualizations. For that, we get the learners to create an explanatory visualization of an algorithm of their choice. By making an algorithm choice, and by following an active-learning and project-based strategy, the learners take ownership of a particular visualization challenge. They become enthusiastic to develop good results and learn different creative skills on their learning journey.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Roberts-et-al-TVCG-2018/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Roberts-et-al-TVCG-2018/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Roberts-et-al-TVCG-2018.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Roberts-et-al-TVCG-2018.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/  10.1109/TVCG.2017.2745878&quot; class=&quot;doilink&quot;&gt;  10.1109/TVCG.2017.2745878&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/  10.1109/TVCG.2017.2745878&quot; class=&quot;doilink&quot;&gt;  10.1109/TVCG.2017.2745878&lt;/a&gt;]
       
        [&lt;span class=&quot;addedInfo&quot;&gt;Presented at IEEE VIS 2017&lt;/span&gt;] 
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2592,14 +2642,14 @@ type: home&lt;/li&gt;
         The tutorial will be useful for anyone who has to create visualization interfaces, and needs to think through different potential ways to display their data. At the end of the tutorial participants will understand techniques to help them be more structured in their ideation. They will be able to sketch interface designs using the Five Design Sheet methodology (FdS). While we know that some developers have started to use the Five Design-Sheet methodology, but this tutorial will start from the beginning and be suitable for any attendee. More information and resources are found on http://fds.design.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Roberts-et-al-VIS2016-Tutorial/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Roberts-et-al-VIS2016-Tutorial/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Roberts-et-al-VIS2016-Tutorial.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Roberts-et-al-VIS2016-Tutorial.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -2607,6 +2657,7 @@ type: home&lt;/li&gt;
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2629,14 +2680,14 @@ type: home&lt;/li&gt;
         Archaeologists and cultural heritage experts explore complex multifaceted data that is often highly interconnected. We argue for new ways to interact with this data. Such data analysis provides a ‘grand challenge’ for computer science and heritage researchers, it is big Data, multi-dimensional, multi-typed, contains uncertain information, and the questions posed by researchers are often ill-defined (where it is difficult to guarantee an answer). We present two visions (Immersive Analytics, and Deep Mapping) as solutions to allow both expert users and the general public to interact and explore heritage data. We use pre-historic data as a case study, and discuss key technologies that need to develop further, to help accomplish these two visions.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Roberts-et-al-Viz4DH-VIS2016/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Roberts-et-al-Viz4DH-VIS2016/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Roberts-et-al-Viz4DH-VIS2016.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Roberts-et-al-Viz4DH-VIS2016.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -2644,6 +2695,7 @@ type: home&lt;/li&gt;
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2666,14 +2718,14 @@ type: home&lt;/li&gt;
         We present our initial investigation of a low-cost, web-based virtual reality platform for immersive analytics, using a Google Cardboard, with a view of extending to other similar platforms such as Samsung’s Gear VR. Our prototype uses standards-based emerging frameworks, such as WebVR and explores some the challenges faced by developers in building effective and informative immersive 3D visualizations, particularly those that attempt to resemble recent physical visualizations built in the community.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Butcher-et-al-Poster-VIS2016/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Butcher-et-al-Poster-VIS2016/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Butcher-et-al-Poster-VIS2016.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Butcher-et-al-Poster-VIS2016.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -2681,6 +2733,7 @@ type: home&lt;/li&gt;
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2703,14 +2756,14 @@ type: home&lt;/li&gt;
         Visualizations have been used to explain algorithms to learners, in order to help them understand complex processes. These ‘explanatory visualizations’ can help learners understand computer algorithms and data-structures. But most are created by an educator and merely watched by the learner. In this paper, we explain how we get learners to plan and develop their own explanatory visualizations of algorithms. By actively developing their own visualizations learners gain a deeper insight of the algorithms that they are explaining. These depictions can also help other learners understand the algorithm.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Roberts-et-al-Poster-VIS2016/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Roberts-et-al-Poster-VIS2016/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Roberts-et-al-Poster-VIS2016.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Roberts-et-al-Poster-VIS2016.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -2718,6 +2771,7 @@ type: home&lt;/li&gt;
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2751,21 +2805,22 @@ type: home&lt;/li&gt;
         Control of a powered wheelchair is often not intuitive, making training of new users a challenging and sometimes hazardous task. Collisions, due to a lack of experience can result in injury for the user and other individuals. By conducting training activities in virtual reality (VR), we can potentially improve driving skills whilst avoiding the risks inherent to the real world. However, until recently VR technology has been expensive and limited the commercial feasibility of a general training solution. We describe Wheelchair-Rift, a cost effective prototype simulator that makes use of the Oculus Rift head mounted display and the Leap Motion hand tracking device. It has been assessed for face validity by a panel of experts from a local Posture and Mobility Service. Initial results augur well for our cost-effective training solution.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Headleand-et-al-MMVR2016/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Headleand-et-al-MMVR2016/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Headleand-et-al-MMVR2016.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Headleand-et-al-MMVR2016.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
-      [PMID:&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/27046566&quot; class=&quot;doilink&quot;&gt;27046566&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [PMID:&lt;a href=&quot;https://pubmed.ncbi.nlm.nih.gov/27046566&quot; class=&quot;doilink&quot;&gt;27046566&lt;/a&gt;]&amp;nbsp;
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2800,22 +2855,23 @@ type: home&lt;/li&gt;
         By collecting images of heritage assets from members of the public and processing them to create 3D-reconstructed models, the HeritageTogether project has accomplished the digital recording of nearly 80 sites across Wales, UK. A large amount of data has been collected and produced in the form of photographs, 3D models, maps, condition reports, and more. Here we discuss some of the different methods used to realize the potential of this data in different formats and for different purposes. The data are explored in both virtual and tangible settings, and—with the use of a touch table—a combination of both. We examine some alternative representations of this community-produced heritage data for educational, research, and public engagement applications.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Miles-et-al-JOCCH-2016/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Miles-et-al-JOCCH-2016/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Miles-et-al-JOCCH-2016.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Miles-et-al-JOCCH-2016.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1145/2795233&quot; class=&quot;doilink&quot;&gt;10.1145/2795233&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1145/2795233&quot; class=&quot;doilink&quot;&gt;10.1145/2795233&lt;/a&gt;]
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2852,22 +2908,23 @@ type: home&lt;/li&gt;
         Sketching designs has been shown to be a useful way of planning and considering alternative solutions. The use of lo-fidelity prototyping, especially paper-based sketching, can save time, money and converge to better solutions more quickly. However, this design process is often viewed to be too informal. Consequently users do not know how to manage their thoughts and ideas (to first think divergently, to then finally converge on a suitable solution). We present the Five Design Sheet (FdS) methodology. The methodology enables users to create information visualization interfaces through lo-fidelity methods. Users sketch and plan their ideas, helping them express different possibilities, think through these ideas to consider their potential effectiveness as solutions to the task (sheet 1); they create three principle designs (sheets 2,3 and 4); before converging on a final realization design that can then be implemented (sheet 5). In this article, we present (i) a review of the use of sketching as a planning method for visualization and the benefits of sketching, (ii) a detailed description of the Five Design Sheet (FdS) methodology, and (iii) an evaluation of the FdS using the System Usability Scale, along with a case-study of its use in industry and experience of its use in teaching.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Roberts-et-al-TVCG-2016/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Roberts-et-al-TVCG-2016/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Roberts-et-al-TVCG-2016.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Roberts-et-al-TVCG-2016.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2015.2467271&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2015.2467271&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2015.2467271&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2015.2467271&lt;/a&gt;]
       
        [&lt;span class=&quot;addedInfo&quot;&gt;Presented at IEEE VIS 2015&lt;/span&gt;] 
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2890,22 +2947,23 @@ type: home&lt;/li&gt;
         Visualization is coming of age. With visual depictions being seamlessly integrated into documents, and data visualization techniques being used to understand increasingly large and complex datasets, the term &quot;visualization&quot;’ is becoming used in everyday conversations. But we are on a cusp; visualization researchers need to develop and adapt to today’s new devices and tomorrow’s technology. Today, people interact with visual depictions through a mouse. Tomorrow, they’ll be touching, swiping, grasping, feeling, hearing, smelling, and even tasting data. The next big thing is multisensory visualization that goes beyond the desktop.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Roberts-et-al-CGA2014/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Roberts-et-al-CGA2014/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Roberts-et-al-CGA2014.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Roberts-et-al-CGA2014.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/MCG.2014.82&quot; class=&quot;doilink&quot;&gt;10.1109/MCG.2014.82&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/MCG.2014.82&quot; class=&quot;doilink&quot;&gt;10.1109/MCG.2014.82&lt;/a&gt;]
       
        [&lt;span class=&quot;addedInfo&quot;&gt;Presented at IEEE VIS 2015&lt;/span&gt;] 
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2928,22 +2986,23 @@ type: home&lt;/li&gt;
         One of the goals of network administrators is to identify and block sources of attacks from a network steam. Various tools have been developed to help the administrator identify the IP or subnet to be blocked, however these tend to be non-visual. Having a good perception of the wider network can aid the administrator identify their origin, but while network maps of the Internet can be useful for such endeavors, they are difficult to construct, comprehend and even utilize in an attack, and are often referred to as being “hairballs”. We present a visualization technique that displays pathways back to the attacker; we include all potential routing paths with a best-efforts identification of the commercial relationships involved. These two techniques can potentially highlight common pathways and/or networks to allow faster, more complete resolution to the incident, as well as fragile or incomplete routing pathways to/from a network. They can help administrators re-profile their choice of IP transit suppliers to better serve a target audience.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Gray-et-al-VizSec2015/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Gray-et-al-VizSec2015/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Gray-et-al-VizSec2015.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Gray-et-al-VizSec2015.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/VIZSEC.2015.7312769&quot; class=&quot;doilink&quot;&gt;10.1109/VIZSEC.2015.7312769&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/VIZSEC.2015.7312769&quot; class=&quot;doilink&quot;&gt;10.1109/VIZSEC.2015.7312769&lt;/a&gt;]
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -2966,14 +3025,14 @@ type: home&lt;/li&gt;
         Learners have personal data, such as grades, feedback and statistics on how they fair or compare with the class. But, data focusing on their personal learning is lacking, as it does not get updated regularly (being updated at the end of a taught session) and the displayed information is generally a single grade. Consequently, it is difficult for students to use this information to adapt their behavior, and help them on their learning journey. Yet, there is a rich set of data that could be captured and help students learn better. What is required is dynamically, regularly updated personal data, that is displayed to students in a timely way. Such ‘personal data’ can be presented to the student through ‘personal visualizations’ that engender ‘personal learning’. In this paper we discuss our journey into developing learning systems and our resulting experience with learners. We present a vision, to integrate new technologies and visualization solutions, in order to encourage and develop personal learning that employs the visualization of personal learning data.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Roberts-et-al-Viz4me-VIS2015/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Roberts-et-al-Viz4me-VIS2015/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Roberts-et-al-Viz4me-VIS2015.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Roberts-et-al-Viz4me-VIS2015.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -2981,6 +3040,7 @@ type: home&lt;/li&gt;
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -3003,14 +3063,14 @@ type: home&lt;/li&gt;
         Network administrators often wish to ascertain where network attackers are located; therefore it would be useful to display the network map from the context of either the attacker’s potential location or the attacked host. As part of a bigger project we are investigating how to best visualize contextual network data. We use a dataset of station adjacencies with journey times as edge weights, to explore which visualization design is most suitable, and also ascertain the best network shortest-path metric. This short paper presents our initial findings, and a visualization for Contextual Navigation using circular, centered-phylogram projections of the network. Our visualizations are interactive allowing users to explore different scenarios and observe relative distances in the data.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Gray-et-al-Poster-VIS2015/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Gray-et-al-Poster-VIS2015/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Gray-et-al-Poster-VIS2015.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Gray-et-al-Poster-VIS2015.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -3018,6 +3078,7 @@ type: home&lt;/li&gt;
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -3051,22 +3112,23 @@ type: home&lt;/li&gt;
         The use of electric wheelchairs is inherently risky, as collisions due to lack of control can result in injury for the user, but also potentially for other pedestrians. Introducing new users to powered chairs via virtual reality (VR) provides one possible solution, as it eliminates the risks inherent to the real world during training. However, traditionally simulator technology has been too expensive to make VR a financially viable solution. Also, current simulators lack the natural interaction possible in the real world, limiting their operational value. We present the early stages of a VR, electric wheelchair simulator built using low-cost, consumer level gaming hardware. The simulator makes use use of the the Leap Motion, to provide a level of interaction with the virtual world which has not previously been demonstrated in wheelchair training simulators. Furthermore, the Occulous Rift provides an immersive experience suitable for our training application
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Headleand-et-al-Poster-VCBM2015/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Headleand-et-al-Poster-VCBM2015/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Headleand-et-al-Poster-VCBM2015.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Headleand-et-al-Poster-VCBM2015.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.2312/vcbm.20151225&quot; class=&quot;doilink&quot;&gt;10.2312/vcbm.20151225&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.2312/vcbm.20151225&quot; class=&quot;doilink&quot;&gt;10.2312/vcbm.20151225&lt;/a&gt;]
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -3089,22 +3151,23 @@ type: home&lt;/li&gt;
         We present the development of a transperineal prostate biopsy, with high fidelity haptic feedback. We describe our current prototype, which is using physical props and a Geomagic Touch. In addition, we discuss a method for collecting in vitro axial needle forces, for programming haptic feedback, along with implemented an forthcoming features such as a display of 2D ultrasonic images for targeting, biopsy needle bending, prostate bleeding and calcification. Our ultimate goal is to provide an affordable high-fidelity simulation by integrating contemporary off-the-shelf technology components.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Ritsos-et-al-Poster-VCBM2015/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Ritsos-et-al-Poster-VCBM2015/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Ritsos-et-al-Poster-VCBM2015.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Ritsos-et-al-Poster-VCBM2015.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.2312/vcbm.20151229&quot; class=&quot;doilink&quot;&gt;10.2312/vcbm.20151229&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.2312/vcbm.20151229&quot; class=&quot;doilink&quot;&gt;10.2312/vcbm.20151229&lt;/a&gt;]
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -3204,22 +3267,23 @@ type: home&lt;/li&gt;
         Sketching designs has been shown to be a useful way of planning and considering alternative solutions. The use of lo-fidelity prototyping, especially paper-based sketching, can save time, money and converge to better solutions more quickly. However, this design process is often viewed to be too informal. Consequently users do not know how to manage their thoughts and ideas (to first think divergently, to then finally converge on a suitable solution). We present the Five Design Sheet (FdS) methodology. The methodology enables users to create information visualization interfaces through lo-fidelity methods. Users sketch and plan their ideas, helping them express different possibilities, think through these ideas to consider their potential effectiveness as solutions to the task (sheet 1); they create three principle designs (sheets 2,3 and 4); before converging on a final realization design that can then be implemented (sheet 5). In this article, we present (i) a review of the use of sketching as a planning method for visualization and the benefits of sketching, (ii) a detailed description of the Five Design Sheet (FdS) methodology, and (iii) an evaluation of the FdS using the System Usability Scale, along with a case-study of its use in industry and experience of its use in teaching.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Roberts-et-al-TVCG-2016/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Roberts-et-al-TVCG-2016/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Roberts-et-al-TVCG-2016.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Roberts-et-al-TVCG-2016.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2015.2467271&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2015.2467271&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2015.2467271&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2015.2467271&lt;/a&gt;]
       
        [&lt;span class=&quot;addedInfo&quot;&gt;Presented at IEEE VIS 2015&lt;/span&gt;] 
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -3255,22 +3319,23 @@ type: home&lt;/li&gt;
         Visualization is coming of age. With visual depictions being seamlessly integrated into documents, and data visualization techniques being used to understand increasingly large and complex datasets, the term &quot;visualization&quot;’ is becoming used in everyday conversations. But we are on a cusp; visualization researchers need to develop and adapt to today’s new devices and tomorrow’s technology. Today, people interact with visual depictions through a mouse. Tomorrow, they’ll be touching, swiping, grasping, feeling, hearing, smelling, and even tasting data. The next big thing is multisensory visualization that goes beyond the desktop.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Roberts-et-al-CGA2014/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Roberts-et-al-CGA2014/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Roberts-et-al-CGA2014.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Roberts-et-al-CGA2014.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/MCG.2014.82&quot; class=&quot;doilink&quot;&gt;10.1109/MCG.2014.82&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/MCG.2014.82&quot; class=&quot;doilink&quot;&gt;10.1109/MCG.2014.82&lt;/a&gt;]
       
        [&lt;span class=&quot;addedInfo&quot;&gt;Presented at IEEE VIS 2015&lt;/span&gt;] 
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -3305,14 +3370,14 @@ type: home&lt;/li&gt;
         Lance felt a buzz on his wrist, as Alicia, his wearable, informed him via the bone-conduction ear-piece - ‘You have received an email from Dr Jones about the workshop’. His wristwatch displayed an unread email glyph icon. Lance tapped it and listened to the voice of Dr Jones, talking about the latest experiment. At the same time he scanned through the email attachments, projected in front of his eyes, through his contact lenses. One of the files had a dataset of a carbon femtotube structure
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Ritsos-et-al-DOTD-VIS2014/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Ritsos-et-al-DOTD-VIS2014/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Ritsos-et-al-DOTD-VIS2014.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Ritsos-et-al-DOTD-VIS2014.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -3320,6 +3385,7 @@ type: home&lt;/li&gt;
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -3342,14 +3408,14 @@ type: home&lt;/li&gt;
         “Le roi est mort, vive le roi!”; or “The King is dead, long live the King” was a phrase originally used for the French throne of Charles VII in 1422, upon the death of his father Charles VI. To stave civil unrest the governing figures wanted perpetuation of the monarchs. Likewise, while the desktop as-we-know-it is dead (the use of the WIMP interface is becoming obsolete in visualization) it is being superseded by a new type of desktop environment: a multisensory visualization space. This space is still a personal workspace, it’s just a new kind of desk environment. Our vision is that data visualization will become more multisensory, integrating and demanding all our senses (sight, touch, audible, taste, smell etc.), to both manipulate and perceive the underlying data and information.
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Roberts-et-al-DOTD-VIS2014/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Roberts-et-al-DOTD-VIS2014/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Roberts-et-al-DOTD-VIS2014.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Roberts-et-al-DOTD-VIS2014.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
@@ -3357,6 +3423,7 @@ type: home&lt;/li&gt;
       
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
@@ -3392,22 +3459,23 @@ type: home&lt;/li&gt;
         Heritage sites (such as prehistoric burial cairns and standing stones) are prolific in Europe; although there is a wish to scan each of these sites, it would be time-consuming to achieve. Citizen science approaches enable us to involve the public to perform a metric survey by capturing images. In this paper, discussing work-in progress, we present our automatic process that takes the user’s uploaded photographs, converts them into 3D models and displays them in two presentation platforms – in a web gallery application, using X3D/X3DOM, and in mobile augmented reality, using awe.js
       &lt;/span&gt;
       &lt;br /&gt;
-      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&amp;nbsp;&amp;nbsp; &lt;/span&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
     
     &lt;span class=&quot;biblinks&quot;&gt;
-      [&lt;a href=&quot;/bibliography/Ritsos-et-al-EGGCH2014/&quot;&gt;Details&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [&lt;a href=&quot;/bibliography/Ritsos-et-al-EGGCH2014/&quot;&gt;Details&lt;/a&gt;]
       
       
             
-              [&lt;a href=&quot;/files/Ritsos-et-al-EGGCH2014.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+              [&lt;a href=&quot;/files/Ritsos-et-al-EGGCH2014.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
              
       
        
       
       
-      [doi:&lt;a href=&quot;http://dx.doi.org/10.2312/gch.20141321&quot; class=&quot;doilink&quot;&gt;10.2312/gch.20141321&lt;/a&gt;]&amp;nbsp;&amp;nbsp;
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.2312/gch.20141321&quot; class=&quot;doilink&quot;&gt;10.2312/gch.20141321&lt;/a&gt;]
       
        
+      
     &lt;/span&gt;
   &lt;/div&gt;
 &lt;/div&gt;
