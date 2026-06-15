@@ -18,7 +18,7 @@ type: home
 
 <img src="{{ site.baseurl }}/assets/images/vria_out_s.png" alt="WebVR-based visualizations built with VRIA" style="margin: 0 auto; width: 800px;">
 
-Our IEEE TVCG journal article ["VRIA: A Web-based Framework for Creating Immersive Analytics Experiences"]({{site.baseurl}}/publications#Butcher-et-al-TVCG-2020) will be presented at the virtual IEEE VIS 2020 [_IEEE VIS 2020_](http://ieeevis.org/year/2020/welcome).
+Our IEEE TVCG journal article ["VRIA: A Web-based Framework for Creating Immersive Analytics Experiences"]({{site.baseurl}}/publications#Butcher-et-al-TVCG-2020) will be presented at the virtual [IEEE VIS 2020](http://ieeevis.org/year/2020/welcome).
 
 &#60;VRIA&#62; is a Web-based framework, built for creating Immersive Analytics (IA) experiences in Virtual Reality. &#60;VRIA&#62; is built upon WebVR, A-Frame, React and D3.js, and offers a visualization creation workflow which enables users, of different levels of expertise, to rapidly develop Immersive Analytics experiences for the Web. More info on this paper can be found [here]({{site.baseurl}}/news/2020/01/04/publications/), whereas the &#60;VRIA&#62; framework can be found on [GitHub](https://github.com/vriajs).
 

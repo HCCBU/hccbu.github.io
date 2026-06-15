@@ -8,7 +8,16 @@ order: 4
 permalink: /publications/
 ---
 
-{% include publications-page.html %}
+&nbsp;
+
+<div class="publications-page">
+
+<p class="datenote"><a href="{{ site.baseurl }}/publicationsYear/">Display per year</a> | Updated {{ site.update }}</p>
+
+</div>
+
+
+
 
 ## Journals
 
@@ -47,15 +56,6 @@ permalink: /publications/
 
 {% bibliography -f tutorials %}
 
-<!--## Preprints <span class="smallPub">(not peer-reviewed)<span>
-{% bibliography -f preprints %}-->
+## Preprints <span class="smallPub">(not peer-reviewed)<span>
+{% bibliography -f preprints %}
 
-## Theses
-
-<div style="margin-bottom:30px">
-<p>P. D. Ritsos, Architectures for Untethered Augmented Reality Using Wearable Computers, Ph.D. dissertation, Dept. Elect systems Engineering, University of Essex, 2006</p>
-</div>
-
-{% include press.html %}
-
-{% include seminars.html %}

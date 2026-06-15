@@ -20,7 +20,7 @@ type: home
 
 
 
-Our paper ["Is Native Naïve? Comparing Native Game Engines and WebXR as Immersive Analytics Development Platforms,"]({{site.baseurl}}/publicationsYear#Butcher-et-al-CGA2024) has been published in [IEEE Computer Graphics and Applications Visualization Viewpoints](https://tc.computer.org/vgtc/conferences/currently-sponsored-events/cga-viewpoints/).
+Our paper ["Is Native Naïve? Comparing Native Game Engines and WebXR as Immersive Analytics Development Platforms,"]({{site.baseurl}}/publicationsYear#Butcher-et-al-CGA2024) has been published in [_IEEE Computer Graphics and Applications_ Visualization Viewpoints](https://tc.computer.org/vgtc/conferences/currently-sponsored-events/cga-viewpoints/).
 
 In this paper, we investigate common assumptions about native game engines vs. WebXR and find that while native engines still have an advantage in many areas, WebXR is rapidly catching up and is superior for many immersive analytics applications.
 

@@ -20,7 +20,7 @@ type: home
 
 
 
-Our paper ["LUCST: A novel toolkit for Land Use Land Cover change assessment in SWAT+ to support flood management decisions"]({{site.baseurl}}/publications#Rigby-et-al-EnvModSoft-2022) has been accepted for publication in Elsevier's [Environmental Modelling & Software](https://www.sciencedirect.com/journal/environmental-modelling-and-software). LUCST is an open-source, locally hosted, JavaScript application that allows for editing and interpreting [SWAT](https://swat.tamu.edu/)+ files relevant to land-use land-cover changes. LUCST employs visual analytics, to facilitate easier change detection in catchments, and enhances SWAT+ accessibility by reducing scenario modelling complexity.
+Our paper ["LUCST: A novel toolkit for Land Use Land Cover change assessment in SWAT+ to support flood management decisions"]({{site.baseurl}}/publications#Rigby-et-al-EnvModSoft-2022) has been accepted for publication in Elsevier's [_Environmental Modelling & Software_](https://www.sciencedirect.com/journal/environmental-modelling-and-software). LUCST is an open-source, locally hosted, JavaScript application that allows for editing and interpreting [SWAT](https://swat.tamu.edu/)+ files relevant to land-use land-cover changes. LUCST employs visual analytics, to facilitate easier change detection in catchments, and enhances SWAT+ accessibility by reducing scenario modelling complexity.
 
 ### Reference
 

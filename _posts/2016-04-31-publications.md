@@ -8,11 +8,11 @@ tags:
 - medical
 - conference
 related: mmvr22
-list: true
+list: false
 type: home
 ---
 
-We presented a conference paper at [Medicine Meets Virtual Reality Conference (MMVR22)](http://www.nextmed.com/):
+We presented a conference paper at [_Medicine Meets Virtual Reality Conference (MMVR22)_](http://www.nextmed.com/):
 
 {% bibliography -f conferences --query @*[key=Headleand-et-al-MMVR2016] %} 
 

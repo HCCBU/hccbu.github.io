@@ -13,7 +13,7 @@
   </div>
   {% endif %}
   <div class="publication-content">
-    {{reference}}
+    {{reference}} 
     
     {% if entry.abstract %}
       <span class="toggle">
@@ -32,7 +32,7 @@
     {% endif %}
     <span class="biblinks">
       [<a href="/bibliography/{{key}}/">Details</a>]
-      {% if entry.archiveprefix %} [Available at: <a href="https://arxiv.org/abs/{{entry.url}}" class="doilink">arXiv:{{entry.url}}</a>]
+      {% if entry.archiveprefix %} [Available at: <a href="https://arxiv.org/abs/{{entry.eprint}}" class="doilink">arXiv:{{entry.eprint}}</a>]
       {% else %}
       {% unless {{key}} contains 'book'%}
             {% if entry.nopaper %}   

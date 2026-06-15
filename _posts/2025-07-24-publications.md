@@ -26,7 +26,7 @@ type: home
 <img src="{{ site.baseurl }}/assets/images/Spatialstrates.png" class="prjImgFlt"  alt="Spatialstrates" />
 
 
-Our paper [“Spatialstrates: Cross-Reality Collaboration through Spatial Hypermedia]({{site.baseurl}}/publicationsYear#Borowski-et-al-UIST-2025) has been accepted to the [38th Annual ACM Symposium on User Interface Software and Technology (UIST 2025)](https://uist.acm.org/2025/), to be held in Busan, South Korea, in September 2025. 
+Our paper [“Spatialstrates: Cross-Reality Collaboration through Spatial Hypermedia]({{site.baseurl}}/publicationsYear#Borowski-et-al-UIST-2025) has been accepted to the [_38th Annual ACM Symposium on User Interface Software and Technology_ (UIST 2025)](https://uist.acm.org/2025/), to be held in Busan, South Korea, in September 2025. 
 
 This article continues the work on immersive toolkits, explored initially with [DashSpace]({{site.baseurl}}/bibliography/Borowski-et-al-TVCG-2025/), and extends it towards the theme of cross-reality collaboration through spatial hypermedia.
 

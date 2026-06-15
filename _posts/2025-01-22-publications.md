@@ -22,7 +22,7 @@ type: home
 <img src="{{ site.baseurl }}/assets/images/dashspace.png" class="prjImgFlt"  alt="Dashspace">
 
 
-Our paper [DashSpace: A Live Collaborative Platform for Immersive and Ubiquitous Analytics]({{site.baseurl}}/publicationsYear#Borowsky-et-al-TVCG-2025) has been published in [IEEE Transactions on Visualization and Computer Graphics](https://www.computer.org/csdl/journal/tg) and will be presented in [IEEE VIS 2025](https://ieeevis.org/year/2025/welcome) in Vienna, Austria.
+Our paper ["DashSpace: A Live Collaborative Platform for Immersive and Ubiquitous Analytics"]({{site.baseurl}}/publicationsYear#Borowsky-et-al-TVCG-2025) has been published in [_IEEE Transactions on Visualization and Computer Graphics_](https://www.computer.org/csdl/journal/tg) and will be presented in [IEEE VIS 2025](https://ieeevis.org/year/2025/welcome) in Vienna, Austria.
 
 DashSpace is a live collaborative immersive and ubiquitous analytics (IA/UA) platform designed for handheld and head-mounted Augmented/Extended Reality (AR/XR) implemented using WebXR and open standards. To bridge the gap between existing web-based visualizations and the immersive analytics setting, DashSpace supports visualizing both legacy D3 and Vega-Lite visualizations on 2D planes, and extruding Vega-Lite specifications into 2.5D. It also supports fully 3D visual representations using the Optomancy grammar.
 

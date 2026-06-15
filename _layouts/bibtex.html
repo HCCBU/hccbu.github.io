@@ -32,7 +32,7 @@ layout: default
           <h2>Downloads</h2>
           {% if page.entry.archiveprefix %} 
           
-            Available at: <a href="https://arxiv.org/abs/{{page.entry.url}}" class="doilink">arXiv:{{page.entry.url}}</a>
+            Available at: <a href="https://arxiv.org/abs/{{page.entry.eprint}}" class="doilink">arXiv:{{page.entry.eprint}}</a>
             {% else %}
       
               <a href="{{site.baseurl}}/files/{{page.entry.key}}.pdf" class="pdflink"> <i class="far fa-file-pdf"></i> &nbsp; PDF</a>
@@ -114,7 +114,7 @@ layout: default
 
 <h2>Citation</h2>
   {{ page.reference }}
-  {% if page.entry.archiveprefix %} [Online] Available at: <a href="https://arxiv.org/abs/{{page.entry.url}}" class="doilink">arXiv:{{page.entry.url}}</a>{% endif %} 
+  {% if page.entry.archiveprefix %} [Online] Available at: <a href="https://arxiv.org/abs/{{page.entry.eprint}}" class="doilink">arXiv:{{page.entry.eprint}}</a>{% endif %} 
   {% if page.entry.pubmed %}&nbsp; PMID:{{page.entry.pubmed}}{% endif %}
   {% if page.entry.doi %}&nbsp;doi:<a href="http://dx.doi.org/{{page.entry.doi}}" class="doilink">{{page.entry.doi}}</a>
   {% elsif page.entry.isbn %}&nbsp; ISBN:{{page.entry.isbn}}{% endif %} 

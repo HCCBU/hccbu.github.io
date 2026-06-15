@@ -4,7 +4,7 @@
  <title>Human-Centred Computing Research Group, Bangor University</title>
  <link href="https://hccbu.github.io//atom.xml" rel="self"/>
  <link href="https://hccbu.github.io//"/>
- <updated>2026-06-05T16:30:43+01:00</updated>
+ <updated>2026-06-15T10:15:26+01:00</updated>
  <id>https://hccbu.github.io/</id>
  <author>
    <name></name>
@@ -13,13 +13,68 @@
 
  
  <entry>
+   <title>Paper presented in EG EuroVis 2026</title>
+   <link href="https://hccbu.github.io//news/2026/06/08/conference/"/>
+   <updated>2026-06-08T00:00:00+01:00</updated>
+   <id>https://hccbu.github.io//news/2026/06/08/conference</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/PandemicsEurovis2026-banner.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;pandemcs-EuroVis2026-banner&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Panos presented in &lt;a href=&quot;https://eurovis.org.uk/&quot;&gt;EG EuroVis 2026&lt;/a&gt;, the paper &lt;a href=&quot;/publicationsYear#McGee-et-al-CGA-2025&quot;&gt;“Preparedness for visualization in the next pandemic”&lt;/a&gt;, published in &lt;a href=&quot;https://www.computer.org/csdl/magazine/cg&quot;&gt;&lt;em&gt;IEEE Computer Graphics and Applications&lt;/em&gt;&lt;/a&gt;, and featured in &lt;a href=&quot;https://ieeecs-media.computer.org/media/marketing/cedge_digital/ce-nov25-final.pdf&quot;&gt;&lt;em&gt;IEEE Computing Edge, in November 2025&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This article discusses considerations on how visualization can be best positioned to help response to future pandemics. The work is a product of the Dagstuhl Seminar 23482 on “Visualization for Pandemic Preparedness” held in January 2024. You can find more info on the seminar &lt;a href=&quot;https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=23482&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
+
+&lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
+
+&lt;div class=&quot;publication-entry&quot;&gt;
+  
+  &lt;div class=&quot;publication-image&quot;&gt;
+    &lt;img src=&quot;/assets/images/Pandemics-teaser.png&quot; alt=&quot;Preparedness for visualization in the next pandemic&quot; /&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;publication-content&quot;&gt;
+    &lt;span id=&quot;McGee-et-al-CGA-2025&quot;&gt;F. McGee, M. Abu Sin, M. Chen, D. Ebert, K. Misue, P. D. Ritsos, and A. Wulff, “Preparedness for visualization in the next pandemic,” &lt;i&gt;IEEE Computer Graphics and Applications&lt;/i&gt;, vol. 45, no. 3, pp. 95–103, May 2025.&lt;/span&gt; 
+    
+    
+      &lt;span class=&quot;toggle&quot;&gt;
+        This article discusses considerations on how visualization can be best positioned to help response to future pandemics. We examine visualization, along with the corresponding and necessary enabling technologies and platforms, as a tool to facilitate a rapid and effective response to a forthcoming pandemic. We consider challenges in terms of an infrastructure supporting world-wide response, corresponding training and stakeholder engagement, integration of future technologies, and appraisal of such systems, Finally, we discuss how addressing these challenges also helps emergency response beyond infectious diseases.
+      &lt;/span&gt;
+      &lt;br /&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
+    
+    &lt;span class=&quot;biblinks&quot;&gt;
+      [&lt;a href=&quot;/bibliography/McGee-et-al-CGA-2025/&quot;&gt;Details&lt;/a&gt;]
+      
+      
+            
+              [&lt;a href=&quot;/files/McGee-et-al-CGA-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
+             
+      
+       
+      
+      
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/MCG.2025.3561619&quot; class=&quot;doilink&quot;&gt;10.1109/MCG.2025.3561619&lt;/a&gt;]
+      
+       [&lt;span class=&quot;addedInfo&quot;&gt;Featured in IEEE Computing Edge, November 2025&lt;/span&gt;] 
+       [&lt;span class=&quot;addedInfo&quot;&gt;To be presented at EG EuroVis 2026&lt;/span&gt;]
+    &lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;a class=&quot;details&quot; href=&quot;/bibliography/McGee-et-al-CGA-2025/&quot;&gt;&lt;span hidden=&quot;&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
    <title>Paper accepted in IEEE TVCG</title>
    <link href="https://hccbu.github.io//news/2026/03/04/publications/"/>
    <updated>2026-03-04T00:00:00+00:00</updated>
    <id>https://hccbu.github.io//news/2026/03/04/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/ironman_teaser.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Ironman Study Teaser&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Our paper &lt;a href=&quot;/publicationsYear#MBorowski-et-al-TVCG-2026&quot;&gt;‘I Feel Like Iron Man’ - Authoring, Exploring, and Presenting Data Visualizations in Immersive AR&lt;/a&gt; has been accepted in &lt;a href=&quot;https://www.computer.org/csdl/journal/tg&quot;&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our paper &lt;a href=&quot;/publicationsYear#MBorowski-et-al-TVCG-2026&quot;&gt;“‘I Feel Like Iron Man’ - Authoring, Exploring, and Presenting Data Visualizations in Immersive AR”&lt;/a&gt; has been accepted in &lt;a href=&quot;https://www.computer.org/csdl/journal/tg&quot;&gt;&lt;em&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;In this paper, we present a generalizable visual programming technique for immersive authoring, exploration, and presentation of data visualizations through direct manipulation, and implement it in a web-based augmented reality (AR) system. In a preregistered user study, we use this implementation to explore how analysts author and use data visualizations in immersive AR accessed using a head-mounted display (HMD). The study focuses on the authoring technique, spatial organization strategies, and sensemaking and presentation practices in such immersive analytics environments for HMD-based AR. Our findings suggest that participants particularly liked the direct manipulation of our approach, and that participants’ spatial organization is not based on physical landmarks in the room.&lt;/p&gt;
 
@@ -34,7 +89,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Borowski-et-al-TVCG-2026&quot;&gt;M. Borowski, P. W. S. Butcher, S. J. Jones, P. D. Ritsos, C. N. Klokmose, and N. Elmqvist, “‘I Feel Like Iron Man’: Authoring, Exploring, and Presenting Data Visualizations in Immersive AR,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics (to appear)&lt;/i&gt;, Mar. 2026.&lt;/span&gt;
+    &lt;span id=&quot;Borowski-et-al-TVCG-2026&quot;&gt;M. Borowski, P. W. S. Butcher, S. J. Jones, P. D. Ritsos, C. N. Klokmose, and N. Elmqvist, “‘I Feel Like Iron Man’: Authoring, Exploring, and Presenting Data Visualizations in Immersive AR,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics (to appear)&lt;/i&gt;, Mar. 2026.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -103,7 +158,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Roberts-et-al-TVCG-2026&quot;&gt;J. C. Roberts, H. Alnjar, A. E. Owen, and P. D. Ritsos, “Critical Design Strategy: a Method for Heuristically Evaluating Visualisation Designs,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 32, no. 1, pp. 1383–1393, Jan. 2026.&lt;/span&gt;
+    &lt;span id=&quot;Roberts-et-al-TVCG-2026&quot;&gt;J. C. Roberts, H. Alnjar, A. E. Owen, and P. D. Ritsos, “Critical Design Strategy: a Method for Heuristically Evaluating Visualisation Designs,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 32, no. 1, pp. 1383–1393, Jan. 2026.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -142,7 +197,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Borowski-et-al-TVCG-2025&quot;&gt;M. Borowski, P. W. S. Butcher, J. B. Kristensen, J. O. Petersen, P. D. Ritsos, C. N. Klokmose, and N. Elmqvist, “DashSpace: A Live Collaborative Platform for Immersive and Ubiquitous Analytics,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 31, no. 10, pp. 7034–7047, 2025.&lt;/span&gt;
+    &lt;span id=&quot;Borowski-et-al-TVCG-2025&quot;&gt;M. Borowski, P. W. S. Butcher, J. B. Kristensen, J. O. Petersen, P. D. Ritsos, C. N. Klokmose, and N. Elmqvist, “DashSpace: A Live Collaborative Platform for Immersive and Ubiquitous Analytics,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 31, no. 10, pp. 7034–7047, 2025.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -181,7 +236,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Borowski-et-al-IEEEVIS205-Tutorial&quot;&gt;M. Borowski, P. W. S. Butcher, S. J. Jones, P. D. Ritsos, C. N. Klokmose, and N. Elmqvist, “Tutorial: Live Collaborative Immersive Analytics Development with DashSpace,” in &lt;i&gt;Tutorials of at the IEEE VIS: Visualization &amp;amp; Visual Analytics Conference, Vienna, Austria&lt;/i&gt;, 2025.&lt;/span&gt;
+    &lt;span id=&quot;Borowski-et-al-IEEEVIS205-Tutorial&quot;&gt;M. Borowski, P. W. S. Butcher, S. J. Jones, P. D. Ritsos, C. N. Klokmose, and N. Elmqvist, “Tutorial: Live Collaborative Immersive Analytics Development with DashSpace,” in &lt;i&gt;Tutorials of at the IEEE VIS: Visualization &amp;amp; Visual Analytics Conference, Vienna, Austria&lt;/i&gt;, 2025.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -221,7 +276,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Roberts-et-al-EduVis-2025&quot;&gt;J. C. Roberts, P. W. S. Butcher, and P. D. Ritsos, “From Data to Insight: Using Contextual Scenarios to Teach Critical Thinking in Data Visualisation,” in &lt;i&gt;IEEE VIS Workshop on Visualization Education, Literacy, and Activities&lt;/i&gt;, 2025.&lt;/span&gt;
+    &lt;span id=&quot;Roberts-et-al-EduVis-2025&quot;&gt;J. C. Roberts, P. W. S. Butcher, and P. D. Ritsos, “From Data to Insight: Using Contextual Scenarios to Teach Critical Thinking in Data Visualisation,” in &lt;i&gt;IEEE VIS Workshop on Visualization Education, Literacy, and Activities&lt;/i&gt;, 2025.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -259,7 +314,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Owen-et-al-VAHC-2025&quot;&gt;R. Owen and J. C. Roberts, “Embedding Empathy into Visual Analytics: A Framework for Person-Centred Dementia Care,” in &lt;i&gt;IEEE Workshop on Visual Analytics in Healthcare (VAHC)&lt;/i&gt;, 2025.&lt;/span&gt;
+    &lt;span id=&quot;Owen-et-al-VAHC-2025&quot;&gt;R. Owen and J. C. Roberts, “Embedding Empathy into Visual Analytics: A Framework for Person-Centred Dementia Care,” in &lt;i&gt;IEEE Workshop on Visual Analytics in Healthcare (VAHC)&lt;/i&gt;, 2025.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -297,7 +352,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Ogbonda-et-al-Poster-VIS2025&quot;&gt;E. G. Ogbonda, S. Nason, J. C. Roberts, and P. W. S. Butcher, “Explanatory Visualization with LLMs for Employment Law,” in &lt;i&gt;Posters presented at the IEEE Conference on Visualization (IEEE VIS 2025), Vienna, Austria&lt;/i&gt;, 2025.&lt;/span&gt;
+    &lt;span id=&quot;Ogbonda-et-al-Poster-VIS2025&quot;&gt;E. G. Ogbonda, S. Nason, J. C. Roberts, and P. W. S. Butcher, “Explanatory Visualization with LLMs for Employment Law,” in &lt;i&gt;Posters presented at the IEEE Conference on Visualization (IEEE VIS 2025), Vienna, Austria&lt;/i&gt;, 2025.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -335,7 +390,7 @@
    <id>https://hccbu.github.io//news/2025/07/24/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/Spatialstrates.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Spatialstrates&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Our paper &lt;a href=&quot;/publicationsYear#Borowski-et-al-UIST-2025&quot;&gt;“Spatialstrates: Cross-Reality Collaboration through Spatial Hypermedia&lt;/a&gt; has been accepted to the &lt;a href=&quot;https://uist.acm.org/2025/&quot;&gt;38th Annual ACM Symposium on User Interface Software and Technology (UIST 2025)&lt;/a&gt;, to be held in Busan, South Korea, in September 2025.&lt;/p&gt;
+&lt;p&gt;Our paper &lt;a href=&quot;/publicationsYear#Borowski-et-al-UIST-2025&quot;&gt;“Spatialstrates: Cross-Reality Collaboration through Spatial Hypermedia&lt;/a&gt; has been accepted to the &lt;a href=&quot;https://uist.acm.org/2025/&quot;&gt;&lt;em&gt;38th Annual ACM Symposium on User Interface Software and Technology&lt;/em&gt; (UIST 2025)&lt;/a&gt;, to be held in Busan, South Korea, in September 2025.&lt;/p&gt;
 
 &lt;p&gt;This article continues the work on immersive toolkits, explored initially with &lt;a href=&quot;/bibliography/Borowski-et-al-TVCG-2025/&quot;&gt;DashSpace&lt;/a&gt;, and extends it towards the theme of cross-reality collaboration through spatial hypermedia.&lt;/p&gt;
 
@@ -356,7 +411,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Borowski-et-al-UIST-2025&quot;&gt;M. Borowski, J. E. Grønbæk, P. W. S. Butcher, P. D. Ritsos, C. N. Klokmose, and N. Elmqvist, “Spatialstrates: Cross-Reality Collaboration through Spatial Hypermedia,” in &lt;i&gt;Proceedings of the The 38th Annual ACM Symposium on User Interface Software and Technology (UIST 2025)&lt;/i&gt;, New York, NY, USA, 2025.&lt;/span&gt;
+    &lt;span id=&quot;Borowski-et-al-UIST-2025&quot;&gt;M. Borowski, J. E. Grønbæk, P. W. S. Butcher, P. D. Ritsos, C. N. Klokmose, and N. Elmqvist, “Spatialstrates: Cross-Reality Collaboration through Spatial Hypermedia,” in &lt;i&gt;Proceedings of the The 38th Annual ACM Symposium on User Interface Software and Technology (UIST 2025)&lt;/i&gt;, New York, NY, USA, 2025.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -396,7 +451,7 @@
    <id>https://hccbu.github.io//news/2025/04/11/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/prepareVisPandemic.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Dashspace&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Our paper &lt;a href=&quot;/publicationsYear#McGee-et-al-CGA-2025&quot;&gt;Preparedness for visualization in the next pandemic&lt;/a&gt; has been published in &lt;a href=&quot;https://www.computer.org/csdl/magazine/cg&quot;&gt;IEEE Computer Graphics and Applications&lt;/a&gt;. This article discusses considerations on how visualization can be best positioned to help response to future pandemics. The work is a product of the Dagstuhl Seminar 23482 on “Visualization for Pandemic Preparedness” held in January 2024. You can find more info on the seminar &lt;a href=&quot;https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=23482&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our paper &lt;a href=&quot;/publicationsYear#McGee-et-al-CGA-2025&quot;&gt;“Preparedness for visualization in the next pandemic”&lt;/a&gt; has been published in &lt;a href=&quot;https://www.computer.org/csdl/magazine/cg&quot;&gt;&lt;em&gt;IEEE Computer Graphics and Applications&lt;/em&gt;&lt;/a&gt;. This article discusses considerations on how visualization can be best positioned to help response to future pandemics. The work is a product of the Dagstuhl Seminar 23482 on “Visualization for Pandemic Preparedness” held in January 2024. You can find more info on the seminar &lt;a href=&quot;https://www.dagstuhl.de/en/program/calendar/semhp/?semnr=23482&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
 
@@ -409,7 +464,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;McGee-et-al-CGA-2025&quot;&gt;F. McGee, M. Abu Sin, M. Chen, D. Ebert, K. Misue, P. D. Ritsos, and A. Wulff, “Preparedness for visualization in the next pandemic,” &lt;i&gt;IEEE Computer Graphics and Applications&lt;/i&gt;, vol. 45, no. 3, pp. 95–103, May 2025.&lt;/span&gt;
+    &lt;span id=&quot;McGee-et-al-CGA-2025&quot;&gt;F. McGee, M. Abu Sin, M. Chen, D. Ebert, K. Misue, P. D. Ritsos, and A. Wulff, “Preparedness for visualization in the next pandemic,” &lt;i&gt;IEEE Computer Graphics and Applications&lt;/i&gt;, vol. 45, no. 3, pp. 95–103, May 2025.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -449,7 +504,7 @@
    <id>https://hccbu.github.io//news/2025/01/22/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/dashspace.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Dashspace&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Our paper &lt;a href=&quot;/publicationsYear#Borowsky-et-al-TVCG-2025&quot;&gt;DashSpace: A Live Collaborative Platform for Immersive and Ubiquitous Analytics&lt;/a&gt; has been published in &lt;a href=&quot;https://www.computer.org/csdl/journal/tg&quot;&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/a&gt; and will be presented in &lt;a href=&quot;https://ieeevis.org/year/2025/welcome&quot;&gt;IEEE VIS 2025&lt;/a&gt; in Vienna, Austria.&lt;/p&gt;
+&lt;p&gt;Our paper &lt;a href=&quot;/publicationsYear#Borowsky-et-al-TVCG-2025&quot;&gt;“DashSpace: A Live Collaborative Platform for Immersive and Ubiquitous Analytics”&lt;/a&gt; has been published in &lt;a href=&quot;https://www.computer.org/csdl/journal/tg&quot;&gt;&lt;em&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/em&gt;&lt;/a&gt; and will be presented in &lt;a href=&quot;https://ieeevis.org/year/2025/welcome&quot;&gt;IEEE VIS 2025&lt;/a&gt; in Vienna, Austria.&lt;/p&gt;
 
 &lt;p&gt;DashSpace is a live collaborative immersive and ubiquitous analytics (IA/UA) platform designed for handheld and head-mounted Augmented/Extended Reality (AR/XR) implemented using WebXR and open standards. To bridge the gap between existing web-based visualizations and the immersive analytics setting, DashSpace supports visualizing both legacy D3 and Vega-Lite visualizations on 2D planes, and extruding Vega-Lite specifications into 2.5D. It also supports fully 3D visual representations using the Optomancy grammar.&lt;/p&gt;
 
@@ -483,11 +538,11 @@
    <id>https://hccbu.github.io//news/2024/08/09/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/vi2024_logo.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;IEEE VIS2024 Banner and Logo&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;We presented two papers in &lt;a href=&quot;https://ieeevis.org/year/2024/welcome&quot;&gt;IEEE VIS2024&lt;/a&gt;, published in &lt;a href=&quot;https://www.computer.org/csdl/journal/tg&quot;&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/a&gt;, in 2025.&lt;/p&gt;
+&lt;p&gt;We presented two papers in &lt;a href=&quot;https://ieeevis.org/year/2024/welcome&quot;&gt;IEEE VIS2024&lt;/a&gt;, published in &lt;a href=&quot;https://www.computer.org/csdl/journal/tg&quot;&gt;&lt;em&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/em&gt;&lt;/a&gt;, in 2025.&lt;/p&gt;
 
-&lt;p&gt;In our paper &lt;a href=&quot;/publicationsYear#Srinivasan-et-al-TVCG-2025&quot;&gt;Attention-Aware Visualization: Tracking and Responding to User Perception Over Time&lt;/a&gt;, we propose the notion of Attention-Aware Visualizations (AAVs) that track the user’s perception of a visual representation over time and feed this information back to the visualization. We present two separate implementations of AAV: a 2D data-agnostic method for web-based visualizations that can use an embodied eyetracker to capture the user’s gaze, and a 3D data-aware one that uses the stencil buffer to track the visibility of each individual mark in a visualization.&lt;/p&gt;
+&lt;p&gt;In our paper &lt;a href=&quot;/publicationsYear#Srinivasan-et-al-TVCG-2025&quot;&gt;“Attention-Aware Visualization: Tracking and Responding to User Perception Over Time”&lt;/a&gt;, we propose the notion of Attention-Aware Visualizations (AAVs) that track the user’s perception of a visual representation over time and feed this information back to the visualization. We present two separate implementations of AAV: a 2D data-agnostic method for web-based visualizations that can use an embodied eyetracker to capture the user’s gaze, and a 3D data-aware one that uses the stencil buffer to track the visibility of each individual mark in a visualization.&lt;/p&gt;
 
-&lt;p&gt;In our paper &lt;a href=&quot;/publicationsYear#Jackson-et-al-TVCG-2025&quot;&gt;Path-based Design Model for Constructing and Exploring Alternative Visualisations&lt;/a&gt;, we present a path-based design model and system for designing and creating visualisations. Our model represents a systematic approach to constructing visual representations of data or concepts following a predefined sequence of steps. Through our implementation we showcase the model in action. We (1) introduce, define and explain the path model and discuss possibilities for its use, (2) present our implementation, results, and evaluation, and (3) demonstrate and evaluate an application of its use on a mobile watch.&lt;/p&gt;
+&lt;p&gt;In our paper &lt;a href=&quot;/publicationsYear#Jackson-et-al-TVCG-2025&quot;&gt;“Path-based Design Model for Constructing and Exploring Alternative Visualisations”&lt;/a&gt;, we present a path-based design model and system for designing and creating visualisations. Our model represents a systematic approach to constructing visual representations of data or concepts following a predefined sequence of steps. Through our implementation we showcase the model in action. We (1) introduce, define and explain the path model and discuss possibilities for its use, (2) present our implementation, results, and evaluation, and (3) demonstrate and evaluate an application of its use on a mobile watch.&lt;/p&gt;
 
 &lt;p&gt;You can find more details on these papers following the reference links below.&lt;/p&gt;
 
@@ -502,7 +557,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Srinivasan-et-al-TVCG-2025&quot;&gt;A. Srinivasan, J. Ellemose, P. W. S. Butcher, P. D. Ritsos, and N. Elmqvist, “Attention-Aware Visualization: Tracking and Responding to User Perception Over Time,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 31, no. 1, pp. 1017–1027, 2025.&lt;/span&gt;
+    &lt;span id=&quot;Srinivasan-et-al-TVCG-2025&quot;&gt;A. Srinivasan, J. Ellemose, P. W. S. Butcher, P. D. Ritsos, and N. Elmqvist, “Attention-Aware Visualization: Tracking and Responding to User Perception Over Time,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 31, no. 1, pp. 1017–1027, 2025.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -541,7 +596,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Jackson-et-al-TVCG-2025&quot;&gt;J. Jackson, P. D. Ritsos, P. W. S. Butcher, and J. C. Roberts, “Path-based Design Model for Constructing and Exploring Alternative Visualisations,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 31, no. 1, pp. 1158–1168, 2025.&lt;/span&gt;
+    &lt;span id=&quot;Jackson-et-al-TVCG-2025&quot;&gt;J. Jackson, P. D. Ritsos, P. W. S. Butcher, and J. C. Roberts, “Path-based Design Model for Constructing and Exploring Alternative Visualisations,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 31, no. 1, pp. 1158–1168, 2025.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -580,7 +635,7 @@
    <id>https://hccbu.github.io//news/2024/03/01/travel</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/dagstuhl.jpg&quot; class=&quot;prjImgFlt&quot; alt=&quot;Image of Schloss Dagstuhl&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Panos attended the Reflections on &lt;a href=&quot;https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24091&quot;&gt;Reflections on Pandemic Visualization Dagstuhl Seminar&lt;/a&gt;, held in the &lt;a href=&quot;https://www.dagstuhl.de/en/&quot;&gt;Computer Science Centre, Schloss Dagstuhl, Germany&lt;/a&gt;, between 24/2 and 1/3.&lt;/p&gt;
+&lt;p&gt;Panos attended the Reflections on &lt;a href=&quot;https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/24091&quot;&gt;“Reflections on Pandemic Visualization Dagstuhl Seminar”&lt;/a&gt;, held in the &lt;a href=&quot;https://www.dagstuhl.de/en/&quot;&gt;Computer Science Centre, Schloss Dagstuhl, Germany&lt;/a&gt;, between 24/2 and 1/3.&lt;/p&gt;
 
 &lt;p&gt;The purpose of this Dagstuhl Seminar was to bring the visualization community, modelling experts, epidemiologists, infection control experts, and end users together with other application domain experts to reflect on research work done in response to the COVID-19 pandemic.&lt;/p&gt;
 
@@ -599,7 +654,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;DagRep_14_2_191&quot;&gt;D. Archambault, F. McGee, N. Reinoso-Schiller, T. von Landesberger, and S. Scheithauer, “Reflections on Pandemic Visualization (Dagstuhl Seminar 24091),” &lt;i&gt;Dagstuhl Reports&lt;/i&gt;, vol. 14, no. 2, pp. 191–205, 2024.&lt;/span&gt;
+    &lt;span id=&quot;DagRep_14_2_191&quot;&gt;D. Archambault, F. McGee, N. Reinoso-Schiller, T. von Landesberger, and S. Scheithauer, “Reflections on Pandemic Visualization (Dagstuhl Seminar 24091),” &lt;i&gt;Dagstuhl Reports&lt;/i&gt;, vol. 14, no. 2, pp. 191–205, 2024.&lt;/span&gt; 
     
     
     &lt;br /&gt;
@@ -634,7 +689,7 @@
    <id>https://hccbu.github.io//news/2024/02/15/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/unity-webxr-benchmarks.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;WebXR vs Game Engine Bnechmarks&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Our paper &lt;a href=&quot;/publicationsYear#Butcher-et-al-CGA2024&quot;&gt;“Is Native Naïve? Comparing Native Game Engines and WebXR as Immersive Analytics Development Platforms,”&lt;/a&gt; has been published in &lt;a href=&quot;https://tc.computer.org/vgtc/conferences/currently-sponsored-events/cga-viewpoints/&quot;&gt;IEEE Computer Graphics and Applications Visualization Viewpoints&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our paper &lt;a href=&quot;/publicationsYear#Butcher-et-al-CGA2024&quot;&gt;“Is Native Naïve? Comparing Native Game Engines and WebXR as Immersive Analytics Development Platforms,”&lt;/a&gt; has been published in &lt;a href=&quot;https://tc.computer.org/vgtc/conferences/currently-sponsored-events/cga-viewpoints/&quot;&gt;&lt;em&gt;IEEE Computer Graphics and Applications&lt;/em&gt; Visualization Viewpoints&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;In this paper, we investigate common assumptions about native game engines vs. WebXR and find that while native engines still have an advantage in many areas, WebXR is rapidly catching up and is superior for many immersive analytics applications.&lt;/p&gt;
 
@@ -649,7 +704,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Butcher-et-al-CGA2024&quot;&gt;P. W. S. Butcher, A. Batch, D. Saffo, B. MacIntyre, N. Elmqvist, and P. D. Ritsos, “Is Native Naïve? Comparing Native Game Engines and WebXR as Immersive Analytics Development Platforms,” &lt;i&gt;IEEE Computer Graphics and Applications&lt;/i&gt;, vol. 44, no. 3, pp. 91–98, May 2024.&lt;/span&gt;
+    &lt;span id=&quot;Butcher-et-al-CGA2024&quot;&gt;P. W. S. Butcher, A. Batch, D. Saffo, B. MacIntyre, N. Elmqvist, and P. D. Ritsos, “Is Native Naïve? Comparing Native Game Engines and WebXR as Immersive Analytics Development Platforms,” &lt;i&gt;IEEE Computer Graphics and Applications&lt;/i&gt;, vol. 44, no. 3, pp. 91–98, May 2024.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -702,7 +757,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Batch-et-al-TVCG-2024&quot;&gt;A. Batch, P. W. S. Butcher, P. D. Ritsos, and N. Elmqvist, “Wizualization: A ’Hard Magic’ Visualization System for Immersive and Ubiquitous Analytics,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics (to appear)&lt;/i&gt;, 2024.&lt;/span&gt;
+    &lt;span id=&quot;Batch-et-al-TVCG-2024&quot;&gt;A. Batch, P. W. S. Butcher, P. D. Ritsos, and N. Elmqvist, “Wizualization: A ’Hard Magic’ Visualization System for Immersive and Ubiquitous Analytics,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics (to appear)&lt;/i&gt;, 2024.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -741,7 +796,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Shin-et-al-TVCG-2023&quot;&gt;S. Shin, A. Batch, P. W. S. Butcher, P. D. Ritsos, and N. Elmqvist, “The Reality of the Situation: A Survey of Situated Analytics,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics (to appear)&lt;/i&gt;, 2023.&lt;/span&gt;
+    &lt;span id=&quot;Shin-et-al-TVCG-2023&quot;&gt;S. Shin, A. Batch, P. W. S. Butcher, P. D. Ritsos, and N. Elmqvist, “The Reality of the Situation: A Survey of Situated Analytics,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics (to appear)&lt;/i&gt;, 2023.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -780,7 +835,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Chen-et-al-Bulletin-Vis4PandemRes-VIS2023&quot;&gt;M. Chen, A. Abdul-Rahman, D. Archambault, J. Dykes, P. D. Ritsos, A. Slingsby, T. Torsney-Weir, C. Turkay, B. Bach, R. Borgo, A. Brett, H. Fang, R. Jianu, S. Khan, R. S. Laramee, L. Matthews, P. Nguyen, R. Reeve, J. C. Roberts, F. P. Vidal, Q. Wang, J. Wood, and K. Xu, “RAMPVIS: Answering the Challenges of Building Visualization Capabilities for Large-scale Emergency Responses,” in &lt;i&gt;Bulletins presented at the IEEE VIS Workshop on Visualization for Pandemic and Emergency Responses 2023 (Vis4PandEmRes), IEEE Conference on Visualization (IEEE VIS 2023), Melbourne, Australia&lt;/i&gt;, 2023.&lt;/span&gt;
+    &lt;span id=&quot;Chen-et-al-Bulletin-Vis4PandemRes-VIS2023&quot;&gt;M. Chen, A. Abdul-Rahman, D. Archambault, J. Dykes, P. D. Ritsos, A. Slingsby, T. Torsney-Weir, C. Turkay, B. Bach, R. Borgo, A. Brett, H. Fang, R. Jianu, S. Khan, R. S. Laramee, L. Matthews, P. Nguyen, R. Reeve, J. C. Roberts, F. P. Vidal, Q. Wang, J. Wood, and K. Xu, “RAMPVIS: Answering the Challenges of Building Visualization Capabilities for Large-scale Emergency Responses,” in &lt;i&gt;Bulletins presented at the IEEE VIS Workshop on Visualization for Pandemic and Emergency Responses 2023 (Vis4PandEmRes), IEEE Conference on Visualization (IEEE VIS 2023), Melbourne, Australia&lt;/i&gt;, 2023.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -818,7 +873,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Ritsos-et-al-Bulletin-Vis4PandemRes-VIS2023&quot;&gt;P. D. Ritsos, S. Khan, S. Jones, B. Bach, J. Meikle, J. C. Roberts, J. Wood, and M. Chen, “Creating storytelling visualizations for the Covid-19 pandemic using Feature-Action Design Patterns,” in &lt;i&gt;Bulletins presented at the IEEE VIS Workshop on Visualization for Pandemic and Emergency Responses 2023 (Vis4PandEmRes), IEEE Conference on Visualization (IEEE VIS 2023), Melbourne, Australia&lt;/i&gt;, 2023.&lt;/span&gt;
+    &lt;span id=&quot;Ritsos-et-al-Bulletin-Vis4PandemRes-VIS2023&quot;&gt;P. D. Ritsos, S. Khan, S. Jones, B. Bach, J. Meikle, J. C. Roberts, J. Wood, and M. Chen, “Creating storytelling visualizations for the Covid-19 pandemic using Feature-Action Design Patterns,” in &lt;i&gt;Bulletins presented at the IEEE VIS Workshop on Visualization for Pandemic and Emergency Responses 2023 (Vis4PandEmRes), IEEE Conference on Visualization (IEEE VIS 2023), Melbourne, Australia&lt;/i&gt;, 2023.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -856,7 +911,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Rigby-et-al-Poster-VIS2023&quot;&gt;A. Rigby, P. W. S. Butcher, R. Bellini, P. Coughlan, A. Mc Nabola, and P. D. Ritsos, “DUVis: A visual analytics tool for supporting a trans-disciplinary project,” in &lt;i&gt;Posters presented at the IEEE Conference on Visualization (IEEE VIS 2023), Melbourne, Australia&lt;/i&gt;, 2023.&lt;/span&gt;
+    &lt;span id=&quot;Rigby-et-al-Poster-VIS2023&quot;&gt;A. Rigby, P. W. S. Butcher, R. Bellini, P. Coughlan, A. Mc Nabola, and P. D. Ritsos, “DUVis: A visual analytics tool for supporting a trans-disciplinary project,” in &lt;i&gt;Posters presented at the IEEE Conference on Visualization (IEEE VIS 2023), Melbourne, Australia&lt;/i&gt;, 2023.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -894,7 +949,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Roberts-et-al-Poster-VIS2023&quot;&gt;J. C. Roberts, H. Alnjar, A. E. Owen, and P. D. Ritsos, “A method for Critical and Creative Visualisation Design-Thinking,” in &lt;i&gt;Posters presented at the IEEE Conference on Visualization (IEEE VIS 2023), Melbourne, Australia&lt;/i&gt;, 2023.&lt;/span&gt;
+    &lt;span id=&quot;Roberts-et-al-Poster-VIS2023&quot;&gt;J. C. Roberts, H. Alnjar, A. E. Owen, and P. D. Ritsos, “A method for Critical and Creative Visualisation Design-Thinking,” in &lt;i&gt;Posters presented at the IEEE Conference on Visualization (IEEE VIS 2023), Melbourne, Australia&lt;/i&gt;, 2023.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -934,7 +989,7 @@
    <id>https://hccbu.github.io//news/2023/08/07/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/wiz_hui_ismar.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Wizualization System Overview&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Our paper &lt;a href=&quot;/publications#Butcher-et-al-HUI-ISMAR2023&quot;&gt;“Don’t Pull the Balrog — Lessons Learned from Designing Wizualization: a Magic-inspired Data Analytics System in XR”&lt;/a&gt; has been accepted for publication in &lt;a href=&quot;https://hybrid-ui-workshop.io/&quot;&gt;HybridUI: 1st Workshop on Hybrid User Interfaces: Complementary Interfaces for Mixed Reality Interaction&lt;/a&gt;, taking place during &lt;a href=&quot;https://ismar23.org/&quot;&gt;ISMAR 2023&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our paper &lt;a href=&quot;/publications#Butcher-et-al-HUI-ISMAR2023&quot;&gt;“Don’t Pull the Balrog — Lessons Learned from Designing Wizualization: a Magic-inspired Data Analytics System in XR”&lt;/a&gt; has been accepted for publication in &lt;a href=&quot;https://hybrid-ui-workshop.io/&quot;&gt;&lt;em&gt;HybridUI: 1st Workshop on Hybrid User Interfaces: Complementary Interfaces for Mixed Reality Interaction&lt;/em&gt;&lt;/a&gt;, taking place during &lt;a href=&quot;https://ismar23.org/&quot;&gt;ISMAR 2023&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;In this paper, we review lessons learned during the development of &lt;a href=&quot;/bibliography/Batch-et-al-TVCG-2024/&quot;&gt;Wizualization&lt;/a&gt;, a visual analytics system for eXtended Reality (XR) that enables an analyst to author and interact with visualizations using a ‘hard-magic’ metaphor. Wizualization is based on a fundamentally hybrid and multimodal approach utilizing AR/XR, gestures, sound, and speech to support the mobile setting.&lt;/p&gt;
 
@@ -949,7 +1004,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Butcher-et-al-HUI-ISMAR2023&quot;&gt;P. W. S. Butcher, A. Batch, P. D. Ritsos, and N. Elmqvist, “Don’t Pull the Balrog — Lessons Learned from Designing Wizualization: a Magic-inspired Data Analytics System in XR,” in &lt;i&gt;HybridUI: 1st Workshop on Hybrid User Interfaces: Complementary Interfaces for Mixed Reality Interaction&lt;/i&gt;, 2023.&lt;/span&gt;
+    &lt;span id=&quot;Butcher-et-al-HUI-ISMAR2023&quot;&gt;P. W. S. Butcher, A. Batch, P. D. Ritsos, and N. Elmqvist, “Don’t Pull the Balrog — Lessons Learned from Designing Wizualization: a Magic-inspired Data Analytics System in XR,” in &lt;i&gt;HybridUI: 1st Workshop on Hybrid User Interfaces: Complementary Interfaces for Mixed Reality Interaction&lt;/i&gt;, 2023.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -988,7 +1043,7 @@
    <id>https://hccbu.github.io//news/2023/07/17/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/wiz.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Motivating scenario for Wizualization&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Our paper &lt;a href=&quot;/publications#Batch-et-al-TVCG-2024&quot;&gt;“Wizualization: A ``Hard Magic’’ Visualization System for Immersive and Ubiquitous Analytics”&lt;/a&gt; has been accepted for publication at &lt;a href=&quot;https://ieeevis.org/year/2023/welcome&quot;&gt;IEEE VIS 2023&lt;/a&gt; and will appear in &lt;a href=&quot;https://www.computer.org/csdl/journal/tg&quot;&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our paper &lt;a href=&quot;/publications#Batch-et-al-TVCG-2024&quot;&gt;“Wizualization: A ``Hard Magic’’ Visualization System for Immersive and Ubiquitous Analytics”&lt;/a&gt; has been accepted for publication at &lt;a href=&quot;https://ieeevis.org/year/2023/welcome&quot;&gt;IEEE VIS 2023&lt;/a&gt; and will appear in &lt;a href=&quot;https://www.computer.org/csdl/journal/tg&quot;&gt;_IEEE Transactions on Visualization and Computer Graphics_x&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;In this paper, we introduce Wizualization, a visual analytics system for eXtended Reality (XR) that enables an analyst to author and interact with visualizations using a system based on a ‘hard-magic’ metaphor, through gestures, speech commands, and touch interaction. We demonstrate Wizualization and its components using a motivating scenario on collaborative data analysis of pandemic data, across time and space. We describe our system using a viginette-based scenario, the actors of which are shown in our teaser, above.&lt;/p&gt;
 
@@ -1003,7 +1058,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Batch-et-al-TVCG-2024&quot;&gt;A. Batch, P. W. S. Butcher, P. D. Ritsos, and N. Elmqvist, “Wizualization: A ’Hard Magic’ Visualization System for Immersive and Ubiquitous Analytics,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics (to appear)&lt;/i&gt;, 2024.&lt;/span&gt;
+    &lt;span id=&quot;Batch-et-al-TVCG-2024&quot;&gt;A. Batch, P. W. S. Butcher, P. D. Ritsos, and N. Elmqvist, “Wizualization: A ’Hard Magic’ Visualization System for Immersive and Ubiquitous Analytics,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics (to appear)&lt;/i&gt;, 2024.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -1046,7 +1101,7 @@
 
 &lt;p&gt;&lt;img src=&quot;/assets/images/situated_survey.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Example of a situated analytics tool that uses Augmented Reality to enable sensemaking in-situ&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Our paper &lt;a href=&quot;/publications#Shin-et-al-TVCG-2023&quot;&gt;“The Reality of the Situation: A Survey of Situated Analytics”&lt;/a&gt; has been accepted for publication in &lt;a href=&quot;https://www.computer.org/csdl/journal/tg&quot;&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/a&gt;, and will be presented, later this year, at &lt;a href=&quot;https://ieeevis.org/year/2023/welcome&quot;&gt;IEEE VIS 2023&lt;/a&gt;. In this work, we identify prior literature in this emerging field with a focus on the technologies enabling such situated analytics. We identify archetypical patterns in our classification using an ensemble cluster analysis, gauge the level of support for sensemaking and discuss several insights and design guidelines that we learned from our analysis.&lt;/p&gt;
+&lt;p&gt;Our paper &lt;a href=&quot;/publications#Shin-et-al-TVCG-2023&quot;&gt;“The Reality of the Situation: A Survey of Situated Analytics”&lt;/a&gt; has been accepted for publication in &lt;a href=&quot;https://www.computer.org/csdl/journal/tg&quot;&gt;&lt;em&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/em&gt;&lt;/a&gt;, and will be presented, later this year, at &lt;a href=&quot;https://ieeevis.org/year/2023/welcome&quot;&gt;IEEE VIS 2023&lt;/a&gt;. In this work, we identify prior literature in this emerging field with a focus on the technologies enabling such situated analytics. We identify archetypical patterns in our classification using an ensemble cluster analysis, gauge the level of support for sensemaking and discuss several insights and design guidelines that we learned from our analysis.&lt;/p&gt;
 
 &lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
 
@@ -1059,7 +1114,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Shin-et-al-TVCG-2023&quot;&gt;S. Shin, A. Batch, P. W. S. Butcher, P. D. Ritsos, and N. Elmqvist, “The Reality of the Situation: A Survey of Situated Analytics,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics (to appear)&lt;/i&gt;, 2023.&lt;/span&gt;
+    &lt;span id=&quot;Shin-et-al-TVCG-2023&quot;&gt;S. Shin, A. Batch, P. W. S. Butcher, P. D. Ritsos, and N. Elmqvist, “The Reality of the Situation: A Survey of Situated Analytics,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics (to appear)&lt;/i&gt;, 2023.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -1099,7 +1154,7 @@
    <id>https://hccbu.github.io//news/2023/03/30/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/holodeck-teaser.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;Situated Analytics with Handheld AR&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Our paper &lt;a href=&quot;/publications#Batch-et-al-EuroVis-2023&quot;&gt;“Evaluating View Management for Situated Visualization in Web-based Handheld AR”&lt;/a&gt; has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wiley.com/journal/14678659&quot;&gt;Computer Graphics Forum&lt;/a&gt;, and was presented at &lt;a href=&quot;https://www.eurovis.org/&quot;&gt;EuroVis 2023&lt;/a&gt;. In this paper, we (1) present an analysis of the properties and challenges of view management for situated visualizations in Augmented Reality (AR), (2) revisit existing techniques from the domains of computer graphics, Virtual Reality (VR), and visualization, and (3) evaluate implementations of interaction, layout, and presentation of some of those techniques, accessible in web-based handheld AR.&lt;/p&gt;
+&lt;p&gt;Our paper &lt;a href=&quot;/publications#Batch-et-al-EuroVis-2023&quot;&gt;“Evaluating View Management for Situated Visualization in Web-based Handheld AR”&lt;/a&gt; has been accepted for publication in &lt;a href=&quot;https://onlinelibrary.wiley.com/journal/14678659&quot;&gt;&lt;em&gt;Computer Graphics Forum&lt;/em&gt;&lt;/a&gt;, and was presented at &lt;a href=&quot;https://www.eurovis.org/&quot;&gt;EuroVis 2023&lt;/a&gt;. In this paper, we (1) present an analysis of the properties and challenges of view management for situated visualizations in Augmented Reality (AR), (2) revisit existing techniques from the domains of computer graphics, Virtual Reality (VR), and visualization, and (3) evaluate implementations of interaction, layout, and presentation of some of those techniques, accessible in web-based handheld AR.&lt;/p&gt;
 
 &lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
 
@@ -1112,7 +1167,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Batch-et-al-CGF-2023&quot;&gt;A. Batch, S. Shin, J. Liu, P. W. S. Butcher, P. D. Ritsos, and N. Elmqvist, “Evaluating View Management for Situated Visualization in Web-based Handheld AR,” &lt;i&gt;Computer Graphics Forum&lt;/i&gt;, vol. 42, no. 3, pp. 349–360, Jun. 2023.&lt;/span&gt;
+    &lt;span id=&quot;Batch-et-al-CGF-2023&quot;&gt;A. Batch, S. Shin, J. Liu, P. W. S. Butcher, P. D. Ritsos, and N. Elmqvist, “Evaluating View Management for Situated Visualization in Web-based Handheld AR,” &lt;i&gt;Computer Graphics Forum&lt;/i&gt;, vol. 42, no. 3, pp. 349–360, Jun. 2023.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -1152,7 +1207,7 @@
    <id>https://hccbu.github.io//news/2022/07/21/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/LUCSTc.png&quot; class=&quot;prjImgFlt&quot; alt=&quot;LUCST&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Our paper &lt;a href=&quot;/publications#Rigby-et-al-EnvModSoft-2022&quot;&gt;“LUCST: A novel toolkit for Land Use Land Cover change assessment in SWAT+ to support flood management decisions”&lt;/a&gt; has been accepted for publication in Elsevier’s &lt;a href=&quot;https://www.sciencedirect.com/journal/environmental-modelling-and-software&quot;&gt;Environmental Modelling &amp;amp; Software&lt;/a&gt;. LUCST is an open-source, locally hosted, JavaScript application that allows for editing and interpreting &lt;a href=&quot;https://swat.tamu.edu/&quot;&gt;SWAT&lt;/a&gt;+ files relevant to land-use land-cover changes. LUCST employs visual analytics, to facilitate easier change detection in catchments, and enhances SWAT+ accessibility by reducing scenario modelling complexity.&lt;/p&gt;
+&lt;p&gt;Our paper &lt;a href=&quot;/publications#Rigby-et-al-EnvModSoft-2022&quot;&gt;“LUCST: A novel toolkit for Land Use Land Cover change assessment in SWAT+ to support flood management decisions”&lt;/a&gt; has been accepted for publication in Elsevier’s &lt;a href=&quot;https://www.sciencedirect.com/journal/environmental-modelling-and-software&quot;&gt;&lt;em&gt;Environmental Modelling &amp;amp; Software&lt;/em&gt;&lt;/a&gt;. LUCST is an open-source, locally hosted, JavaScript application that allows for editing and interpreting &lt;a href=&quot;https://swat.tamu.edu/&quot;&gt;SWAT&lt;/a&gt;+ files relevant to land-use land-cover changes. LUCST employs visual analytics, to facilitate easier change detection in catchments, and enhances SWAT+ accessibility by reducing scenario modelling complexity.&lt;/p&gt;
 
 &lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
 
@@ -1165,7 +1220,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Rigby-et-al-EnvModSoft-2022&quot;&gt;A. M. F. Rigby, P. W. S. Butcher, P. D. Ritsos, and S. D. Patil, “LUCST: A novel toolkit for Land Use Land Cover change assessment in SWAT+ to support flood management decisions,” &lt;i&gt;Environmental Modelling &amp;amp; Software&lt;/i&gt;, vol. 156, no. 105469, Aug. 2022.&lt;/span&gt;
+    &lt;span id=&quot;Rigby-et-al-EnvModSoft-2022&quot;&gt;A. M. F. Rigby, P. W. S. Butcher, P. D. Ritsos, and S. D. Patil, “LUCST: A novel toolkit for Land Use Land Cover change assessment in SWAT+ to support flood management decisions,” &lt;i&gt;Environmental Modelling &amp;amp; Software&lt;/i&gt;, vol. 156, no. 105469, Aug. 2022.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -1205,7 +1260,7 @@
    <id>https://hccbu.github.io//news/2022/04/25/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/ramvisII_teaser.png&quot; alt=&quot;RAMPVIS Project pipeline&quot; style=&quot;margin: 0 auto; width: 8S00px;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Two journal papers from the &lt;a href=&quot;/projects/RAMPVIS/&quot;&gt;RAMPVIS project&lt;/a&gt; have been accepted for publication in Elsevier’s &lt;a href=&quot;https://www.journals.elsevier.com/epidemics&quot;&gt;Epidemics&lt;/a&gt; and in the &lt;a href=&quot;https://royalsocietypublishing.org/journal/rsta&quot;&gt;Philosophical Transactions of the Royal Society A&lt;/a&gt; (Special issue on ’Technical challenges of modelling real-life epidemics and examples of overcoming these’). Bangor’s contribution in both works revolves around public engagement and disseminative visualisation for the Covid-19 pandemic.&lt;/p&gt;
+&lt;p&gt;Two journal papers from the &lt;a href=&quot;/projects/RAMPVIS/&quot;&gt;RAMPVIS project&lt;/a&gt; have been accepted for publication in Elsevier’s &lt;a href=&quot;https://www.journals.elsevier.com/epidemics&quot;&gt;&lt;em&gt;Epidemics&lt;/em&gt;&lt;/a&gt; and in the &lt;a href=&quot;https://royalsocietypublishing.org/journal/rsta&quot;&gt;&lt;em&gt;Philosophical Transactions of the Royal Society A&lt;/em&gt;&lt;/a&gt; (Special issue on ’Technical challenges of modelling real-life epidemics and examples of overcoming these’). Bangor’s contribution in both works revolves around public engagement and disseminative visualisation for the Covid-19 pandemic.&lt;/p&gt;
 
 &lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
 
@@ -1218,7 +1273,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Dykes-et-al-PhilTransA-2022&quot;&gt;J. Dykes, A. Abdul-Rahman, D. Archambault, B. Bach, R. Borgo, M. Chen, J. Enright, H. Fang, E. E. Firat, E. Freeman, T. Gönen, C. Harris, R. Jianu, N. W. John, S. Khan, A. Lahiff, R. S. Laramee, L. Matthews, S. Mohr, P. H. Nguyen, A. A. M. Rahat, R. Reeve, P. D. Ritsos, J. C. Roberts, A. Slingsby, B. Swallow, T. Torsney-Weir, C. Turkay, R. Turner, F. P. Vidal, Q. Wang, J. Wood, and K. Xu, “Visualization for Epidemiological Modelling: Challenges, Solutions, Reflections &amp;amp; Recommendations,” &lt;i&gt;Philosophical Transactions of the Royal Society A (Special issue on ’Technical challenges of modelling real-life epidemics and examples of overcoming these’) &lt;/i&gt;, vol. 380, no. 2233, p. 20210299, Aug. 2022.&lt;/span&gt;
+    &lt;span id=&quot;Dykes-et-al-PhilTransA-2022&quot;&gt;J. Dykes, A. Abdul-Rahman, D. Archambault, B. Bach, R. Borgo, M. Chen, J. Enright, H. Fang, E. E. Firat, E. Freeman, T. Gönen, C. Harris, R. Jianu, N. W. John, S. Khan, A. Lahiff, R. S. Laramee, L. Matthews, S. Mohr, P. H. Nguyen, A. A. M. Rahat, R. Reeve, P. D. Ritsos, J. C. Roberts, A. Slingsby, B. Swallow, T. Torsney-Weir, C. Turkay, R. Turner, F. P. Vidal, Q. Wang, J. Wood, and K. Xu, “Visualization for Epidemiological Modelling: Challenges, Solutions, Reflections &amp;amp; Recommendations,” &lt;i&gt;Philosophical Transactions of the Royal Society A (Special issue on ’Technical challenges of modelling real-life epidemics and examples of overcoming these’) &lt;/i&gt;, vol. 380, no. 2233, p. 20210299, Aug. 2022.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -1257,7 +1312,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Chen-et-al-Epidemics-2022&quot;&gt;M. Chen, A. Abdul-Rahman, D. Archambault, J. Dykes, A. Slingsby, P. D. Ritsos, T. Torsney-Weir, C. Turkay, B. Bach, R. Borgo, A. Brett, H. Fang, R. Jianu, S. Khan, R. S. Laramee, P. H. Nguyen, R. Reeve, J. C. Robert, F. Vidal, Q. Wang, J. Wood, and K. Xu, “RAMPVIS: Answering the Challenges of Building Visualisation Capabilities for Large-scale Emergency Responses,” &lt;i&gt;Epidemics&lt;/i&gt;, vol. 39, no. 100569, Jun. 2022.&lt;/span&gt;
+    &lt;span id=&quot;Chen-et-al-Epidemics-2022&quot;&gt;M. Chen, A. Abdul-Rahman, D. Archambault, J. Dykes, A. Slingsby, P. D. Ritsos, T. Torsney-Weir, C. Turkay, B. Bach, R. Borgo, A. Brett, H. Fang, R. Jianu, S. Khan, R. S. Laramee, P. H. Nguyen, R. Reeve, J. C. Robert, F. Vidal, Q. Wang, J. Wood, and K. Xu, “RAMPVIS: Answering the Challenges of Building Visualisation Capabilities for Large-scale Emergency Responses,” &lt;i&gt;Epidemics&lt;/i&gt;, vol. 39, no. 100569, Jun. 2022.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -1337,7 +1392,7 @@
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Roberts-et-al-MDPI-2022&quot;&gt;J. C. Roberts, P. W. S. Butcher, and P. D. Ritsos, “One View Is Not Enough: Review of and Encouragement for Multiple and Alternative Representations in 3D and Immersive Visualisation,” &lt;i&gt;Computers&lt;/i&gt;, vol. 11, no. 2, Feb. 2022.&lt;/span&gt;
+    &lt;span id=&quot;Roberts-et-al-MDPI-2022&quot;&gt;J. C. Roberts, P. W. S. Butcher, and P. D. Ritsos, “One View Is Not Enough: Review of and Encouragement for Multiple and Alternative Representations in 3D and Immersive Visualisation,” &lt;i&gt;Computers&lt;/i&gt;, vol. 11, no. 2, Feb. 2022.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -1451,7 +1506,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
    <id>https://hccbu.github.io//news/2020/09/08/publications</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/vria_out_s.png&quot; alt=&quot;WebVR-based visualizations built with VRIA&quot; style=&quot;margin: 0 auto; width: 800px;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Our IEEE TVCG journal article &lt;a href=&quot;/publications#Butcher-et-al-TVCG-2020&quot;&gt;“VRIA: A Web-based Framework for Creating Immersive Analytics Experiences”&lt;/a&gt; will be presented at the virtual IEEE VIS 2020 &lt;a href=&quot;http://ieeevis.org/year/2020/welcome&quot;&gt;&lt;em&gt;IEEE VIS 2020&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Our IEEE TVCG journal article &lt;a href=&quot;/publications#Butcher-et-al-TVCG-2020&quot;&gt;“VRIA: A Web-based Framework for Creating Immersive Analytics Experiences”&lt;/a&gt; will be presented at the virtual &lt;a href=&quot;http://ieeevis.org/year/2020/welcome&quot;&gt;IEEE VIS 2020&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&amp;#60;VRIA&amp;#62; is a Web-based framework, built for creating Immersive Analytics (IA) experiences in Virtual Reality. &amp;#60;VRIA&amp;#62; is built upon WebVR, A-Frame, React and D3.js, and offers a visualization creation workflow which enables users, of different levels of expertise, to rapidly develop Immersive Analytics experiences for the Web. More info on this paper can be found &lt;a href=&quot;/news/2020/01/04/publications/&quot;&gt;here&lt;/a&gt;, whereas the &amp;#60;VRIA&amp;#62; framework can be found on &lt;a href=&quot;https://github.com/vriajs&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 
@@ -1470,7 +1525,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Butcher-et-al-TVCG-2021&quot;&gt;P. W. S. Butcher, N. W. John, and P. D. Ritsos, “VRIA: A Web-based Framework for Creating Immersive Analytics Experiences,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 27, no. 07, pp. 3213–3225, Jul. 2021.&lt;/span&gt;
+    &lt;span id=&quot;Butcher-et-al-TVCG-2021&quot;&gt;P. W. S. Butcher, N. W. John, and P. D. Ritsos, “VRIA: A Web-based Framework for Creating Immersive Analytics Experiences,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 27, no. 07, pp. 3213–3225, Jul. 2021.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -1517,7 +1572,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Williams-et-al-VIS-2020&quot;&gt;R. L. Williams, D. Farmer, J. C. Roberts, and P. D. Ritsos, “Immersive visualisation of COVID-19 UK travel and US happiness data,” in &lt;i&gt;Posters presented at the IEEE Conference on Visualization (IEEE VIS 2020), Virtual Event&lt;/i&gt;, 2020.&lt;/span&gt;
+    &lt;span id=&quot;Williams-et-al-VIS-2020&quot;&gt;R. L. Williams, D. Farmer, J. C. Roberts, and P. D. Ritsos, “Immersive visualisation of COVID-19 UK travel and US happiness data,” in &lt;i&gt;Posters presented at the IEEE Conference on Visualization (IEEE VIS 2020), Virtual Event&lt;/i&gt;, 2020.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -1570,7 +1625,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Williams-et-al-MDPI-2020&quot;&gt;B. Williams, P. D. Ritsos, and C. Headleand, “Virtual Forestry Generation: Evaluating Models for Tree Placement in Games,” &lt;i&gt;Computers&lt;/i&gt;, vol. 9, no. 1, Mar. 2020.&lt;/span&gt;
+    &lt;span id=&quot;Williams-et-al-MDPI-2020&quot;&gt;B. Williams, P. D. Ritsos, and C. Headleand, “Virtual Forestry Generation: Evaluating Models for Tree Placement in Games,” &lt;i&gt;Computers&lt;/i&gt;, vol. 9, no. 1, Mar. 2020.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -1630,7 +1685,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Butcher-et-al-TVCG-2021&quot;&gt;P. W. S. Butcher, N. W. John, and P. D. Ritsos, “VRIA: A Web-based Framework for Creating Immersive Analytics Experiences,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 27, no. 07, pp. 3213–3225, Jul. 2021.&lt;/span&gt;
+    &lt;span id=&quot;Butcher-et-al-TVCG-2021&quot;&gt;P. W. S. Butcher, N. W. John, and P. D. Ritsos, “VRIA: A Web-based Framework for Creating Immersive Analytics Experiences,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 27, no. 07, pp. 3213–3225, Jul. 2021.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -1718,7 +1773,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
    <link href="https://hccbu.github.io//news/2019/10/02/publications/"/>
    <updated>2019-10-02T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2019/10/02/publications</id>
-   <content type="html">&lt;p&gt;Our publication &lt;a href=&quot;https://doi.org/10.1080/02602938.2019.1676397&quot;&gt;Visualizing the University Student Journey&lt;/a&gt; is published the journal of &lt;a href=&quot;https://www.tandfonline.com/toc/caeh20/current&quot;&gt;Assessment &amp;amp; Evaluation in Higher Education&lt;/a&gt;.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Our publication &lt;a href=&quot;https://doi.org/10.1080/02602938.2019.1676397&quot;&gt;Visualizing the University Student Journey&lt;/a&gt; is published the journal of &lt;a href=&quot;https://www.tandfonline.com/toc/caeh20/current&quot;&gt;&lt;em&gt;Assessment &amp;amp; Evaluation in Higher Education&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Our article reports on the work that we have been involved in which combines the concept of Learning Pictures (Lindsley 1977, All 1977) with contemporary InfoVis techniques, such as Small Multiples, in order to provide enhanced, objective guidance to examiners when making adjustment decisions. Our goal is to improve the sense making process of examiners, during situations such as annual board of studies, where dozens, if not hundreds of students need to be evaluated in terms of their overall performance.&lt;/p&gt;
 
@@ -1733,7 +1788,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Gray-et-al-CAEH-2020&quot;&gt;C. C. Gray, D. Perkins, and P. D. Ritsos, “Degree Pictures: Visualizing the university student journey,” &lt;i&gt;Assessment &amp;amp; Evaluation in Higher Education&lt;/i&gt;, vol. 20, no. 4, pp. 568–578, Aug. 2020.&lt;/span&gt;
+    &lt;span id=&quot;Gray-et-al-CAEH-2020&quot;&gt;C. C. Gray, D. Perkins, and P. D. Ritsos, “Degree Pictures: Visualizing the university student journey,” &lt;i&gt;Assessment &amp;amp; Evaluation in Higher Education&lt;/i&gt;, vol. 20, no. 4, pp. 568–578, Aug. 2020.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -1781,7 +1836,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Williams-et-al-CGVC-2019&quot;&gt;B. R. Williams, P. D. Ritsos, and C. Headleand, “Evaluating Models for Virtual Forestry Generation and Tree Placement in Games,” in &lt;i&gt;Proceedings of the Eurographics Conference in Computer Graphics and Visual Computing (CGVC) 2019, Bangor, UK&lt;/i&gt;, 2019.&lt;/span&gt;
+    &lt;span id=&quot;Williams-et-al-CGVC-2019&quot;&gt;B. R. Williams, P. D. Ritsos, and C. Headleand, “Evaluating Models for Virtual Forestry Generation and Tree Placement in Games,” in &lt;i&gt;Proceedings of the Eurographics Conference in Computer Graphics and Visual Computing (CGVC) 2019, Bangor, UK&lt;/i&gt;, 2019.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -1820,7 +1875,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Jackson-et-al-CGVC-2019&quot;&gt;J. R. Jackson, P. D. Ritsos, and J. C. Roberts, “Towards a tool for the creation of micro-visualisations,” in &lt;i&gt;Proceedings of the Eurographics Conference in Computer Graphics and Visual Computing (CGVC) 2019, Bangor, UK&lt;/i&gt;, 2019.&lt;/span&gt;
+    &lt;span id=&quot;Jackson-et-al-CGVC-2019&quot;&gt;J. R. Jackson, P. D. Ritsos, and J. C. Roberts, “Towards a tool for the creation of micro-visualisations,” in &lt;i&gt;Proceedings of the Eurographics Conference in Computer Graphics and Visual Computing (CGVC) 2019, Bangor, UK&lt;/i&gt;, 2019.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -1886,7 +1941,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Edwards-Ritsos-CMHCI-2019&quot;&gt;S. C. Edwards and P. D. Ritsos, “A Framework for Modelling Human Emotion,” in &lt;i&gt;Workshop on Computational Modeling in Human-Computer Interaction, CHI Conference on Human Factors in Computing Systems (ACM CHI 2019), Glasgow, UK&lt;/i&gt;, 2019.&lt;/span&gt;
+    &lt;span id=&quot;Edwards-Ritsos-CMHCI-2019&quot;&gt;S. C. Edwards and P. D. Ritsos, “A Framework for Modelling Human Emotion,” in &lt;i&gt;Workshop on Computational Modeling in Human-Computer Interaction, CHI Conference on Human Factors in Computing Systems (ACM CHI 2019), Glasgow, UK&lt;/i&gt;, 2019.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -1924,7 +1979,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Mearman-et-al-CHI-2019&quot;&gt;J. W. Mearman, P. W. S. Butcher, P. D. Ritsos, and J. C. Roberts, “Tangible papercraft visualisations for education,” in &lt;i&gt;Workshop on Troubling Innovation: Craft and Computing Across Boundaries Workshop, CHI Conference on Human Factors in Computing Systems (ACM CHI 2019), Glasgow, UK&lt;/i&gt;, 2019.&lt;/span&gt;
+    &lt;span id=&quot;Mearman-et-al-CHI-2019&quot;&gt;J. W. Mearman, P. W. S. Butcher, P. D. Ritsos, and J. C. Roberts, “Tangible papercraft visualisations for education,” in &lt;i&gt;Workshop on Troubling Innovation: Craft and Computing Across Boundaries Workshop, CHI Conference on Human Factors in Computing Systems (ACM CHI 2019), Glasgow, UK&lt;/i&gt;, 2019.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -1962,7 +2017,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Roberts-Ritsos-EduCHI-2019&quot;&gt;J. C. Roberts and P. D. Ritsos, “Critical Thinking Sheets: Encouraging critical thought and sketched implementation design,” in &lt;i&gt;EduCHI 2019 Symposium: Global Perspectives on HCI Education, CHI Conference on Human Factors in Computing Systems (ACM CHI 2019), Glasgow, UK&lt;/i&gt;, 2019.&lt;/span&gt;
+    &lt;span id=&quot;Roberts-Ritsos-EduCHI-2019&quot;&gt;J. C. Roberts and P. D. Ritsos, “Critical Thinking Sheets: Encouraging critical thought and sketched implementation design,” in &lt;i&gt;EduCHI 2019 Symposium: Global Perspectives on HCI Education, CHI Conference on Human Factors in Computing Systems (ACM CHI 2019), Glasgow, UK&lt;/i&gt;, 2019.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -2010,7 +2065,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Butcher-et-al-Poster-VIS2018&quot;&gt;P. W. S. Butcher, N. W. John, and P. D. Ritsos, “Towards a Framework for Immersive Analytics on the Web,” in &lt;i&gt;Posters presented at the IEEE Conference on Visualization (IEEE VIS 2018), Berlin, Germany&lt;/i&gt;, 2018.&lt;/span&gt;
+    &lt;span id=&quot;Butcher-et-al-Poster-VIS2018&quot;&gt;P. W. S. Butcher, N. W. John, and P. D. Ritsos, “Towards a Framework for Immersive Analytics on the Web,” in &lt;i&gt;Posters presented at the IEEE Conference on Visualization (IEEE VIS 2018), Berlin, Germany&lt;/i&gt;, 2018.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -2048,7 +2103,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Jackson-et-al-Poster-VIS2018&quot;&gt;J. Jackson, P. D. Ritsos, and J. C. Roberts, “Creating Small Unit Based Glyph Visualisations,” in &lt;i&gt;Posters presented at the IEEE Conference on Visualization (IEEE VIS 2018), Berlin, Germany&lt;/i&gt;, 2018.&lt;/span&gt;
+    &lt;span id=&quot;Jackson-et-al-Poster-VIS2018&quot;&gt;J. Jackson, P. D. Ritsos, and J. C. Roberts, “Creating Small Unit Based Glyph Visualisations,” in &lt;i&gt;Posters presented at the IEEE Conference on Visualization (IEEE VIS 2018), Berlin, Germany&lt;/i&gt;, 2018.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -2086,7 +2141,7 @@ This theme has strong synergies with the themes of &lt;a href=&quot;/projects/ia
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Varghese-et-al-VISREG-2018&quot;&gt;D. Varghese, J. C. Roberts, and P. D. Ritsos, “Developing a formative visual feedback report for data brokering,” in &lt;i&gt;Workshop on Visual Summarization and Report Generation, IEEE Conference on Visualization (IEEE VIS 2018), Berlin, Germany&lt;/i&gt;, 2018.&lt;/span&gt;
+    &lt;span id=&quot;Varghese-et-al-VISREG-2018&quot;&gt;D. Varghese, J. C. Roberts, and P. D. Ritsos, “Developing a formative visual feedback report for data brokering,” in &lt;i&gt;Workshop on Visual Summarization and Report Generation, IEEE Conference on Visualization (IEEE VIS 2018), Berlin, Germany&lt;/i&gt;, 2018.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -2161,7 +2216,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Kenda-et-al-FEED-2018&quot;&gt;K. Kenda, S. Rizou, N. Mellios, D. Kofinas, P. D. Ritsos, M. Senozetnik, and C. Laspidou, “Smart Water Management for Cities,” in &lt;i&gt;Fragile Earth: Theory Guided Data Science to Enhance Scientific Discovery Workshop of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD2018)&lt;/i&gt;, 2018.&lt;/span&gt;
+    &lt;span id=&quot;Kenda-et-al-FEED-2018&quot;&gt;K. Kenda, S. Rizou, N. Mellios, D. Kofinas, P. D. Ritsos, M. Senozetnik, and C. Laspidou, “Smart Water Management for Cities,” in &lt;i&gt;Fragile Earth: Theory Guided Data Science to Enhance Scientific Discovery Workshop of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD2018)&lt;/i&gt;, 2018.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -2209,7 +2264,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Rizou-et-al-EWAS-2018&quot;&gt;S. Rizou, K. Kenda, D. Kofinas, N. M. Mellios, P. Pergar, P. D. Ritsos, J. Vardakas, K. Kalaboukas, C. Laspidou, M. Senožetnik, and A. Spyropoulou, “Water4Cities: An ICT platform enabling Holistic Surface Water and Groundwater Management for Sustainable Cities,” in &lt;i&gt;Proceedings of 3rd EWaS International Conference, Lefkada, Greece&lt;/i&gt;, 2018.&lt;/span&gt;
+    &lt;span id=&quot;Rizou-et-al-EWAS-2018&quot;&gt;S. Rizou, K. Kenda, D. Kofinas, N. M. Mellios, P. Pergar, P. D. Ritsos, J. Vardakas, K. Kalaboukas, C. Laspidou, M. Senožetnik, and A. Spyropoulou, “Water4Cities: An ICT platform enabling Holistic Surface Water and Groundwater Management for Sustainable Cities,” in &lt;i&gt;Proceedings of 3rd EWaS International Conference, Lefkada, Greece&lt;/i&gt;, 2018.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -2273,7 +2328,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Roberts-et-al-TVCG-2018&quot;&gt;J. C. Roberts, P. D. Ritsos, J. Jackson, and C. Headleand, “The explanatory visualization framework: An active learning framework for teaching creative computing using explanatory visualizations,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 24, no. 1, pp. 791–801, Jan. 2018.&lt;/span&gt;
+    &lt;span id=&quot;Roberts-et-al-TVCG-2018&quot;&gt;J. C. Roberts, P. D. Ritsos, J. Jackson, and C. Headleand, “The explanatory visualization framework: An active learning framework for teaching creative computing using explanatory visualizations,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 24, no. 1, pp. 791–801, Jan. 2018.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -2312,7 +2367,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Roberts-et-al-VIS2017-Tutorial&quot;&gt;J. C. Roberts, C. Headleand, and P. D. Ritsos, “Half-day Tutorial on Sketching Visualization designs, and using the Five Design-Sheet (FdS) Methodology in Teaching,” in &lt;i&gt;Tutorials of at the IEEE Conference on Visualization (IEEE VIS 2017), Phoenix, AZ, USA&lt;/i&gt;, 2017.&lt;/span&gt;
+    &lt;span id=&quot;Roberts-et-al-VIS2017-Tutorial&quot;&gt;J. C. Roberts, C. Headleand, and P. D. Ritsos, “Half-day Tutorial on Sketching Visualization designs, and using the Five Design-Sheet (FdS) Methodology in Teaching,” in &lt;i&gt;Tutorials of at the IEEE Conference on Visualization (IEEE VIS 2017), Phoenix, AZ, USA&lt;/i&gt;, 2017.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -2350,7 +2405,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Ritsos-et-al-Poster-VIS2017&quot;&gt;P. D. Ritsos, J. Jackson, and J. C. Roberts, “Web-based Immersive Analytics in Handheld Augmented Reality,” in &lt;i&gt;Posters presented at the IEEE Conference on Visualization (IEEE VIS 2017), Phoenix, Arizona, USA&lt;/i&gt;, 2017.&lt;/span&gt;
+    &lt;span id=&quot;Ritsos-et-al-Poster-VIS2017&quot;&gt;P. D. Ritsos, J. Jackson, and J. C. Roberts, “Web-based Immersive Analytics in Handheld Augmented Reality,” in &lt;i&gt;Posters presented at the IEEE Conference on Visualization (IEEE VIS 2017), Phoenix, Arizona, USA&lt;/i&gt;, 2017.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -2388,7 +2443,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Ritsos-et-al-IAW-2017&quot;&gt;P. D. Ritsos, J. Mearman, J. R. Jackson, and J. C. Roberts, “Synthetic Visualizations in Web-based Mixed Reality,” in &lt;i&gt;Immersive Analytics: Exploring Future Visualization and Interaction Technologies for Data Analytics Workshop, IEEE Conference on Visualization (VIS), Phoenix, Arizona, USA&lt;/i&gt;, 2017.&lt;/span&gt;
+    &lt;span id=&quot;Ritsos-et-al-IAW-2017&quot;&gt;P. D. Ritsos, J. Mearman, J. R. Jackson, and J. C. Roberts, “Synthetic Visualizations in Web-based Mixed Reality,” in &lt;i&gt;Immersive Analytics: Exploring Future Visualization and Interaction Technologies for Data Analytics Workshop, IEEE Conference on Visualization (VIS), Phoenix, Arizona, USA&lt;/i&gt;, 2017.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -2426,7 +2481,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Roberts-et-al-PDVW-2017&quot;&gt;J. C. Roberts, P. D. Ritsos, and C. Headleand, “Experience and Guidance for the use of Sketching and low-fidelity Visualisation-design in teaching,” in &lt;i&gt;Pedagogy of Data Visualization Workshop, IEEE Conference on Visualization (VIS), Phoenix, Arizona, USA&lt;/i&gt;, 2017.&lt;/span&gt;
+    &lt;span id=&quot;Roberts-et-al-PDVW-2017&quot;&gt;J. C. Roberts, P. D. Ritsos, and C. Headleand, “Experience and Guidance for the use of Sketching and low-fidelity Visualisation-design in teaching,” in &lt;i&gt;Pedagogy of Data Visualization Workshop, IEEE Conference on Visualization (VIS), Phoenix, Arizona, USA&lt;/i&gt;, 2017.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -2464,7 +2519,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Pereda-et-al-VIS4DH-2017&quot;&gt;J. Pereda, P. Murietta-Flores, P. D. Ritsos, and J. C. Roberts, “Tangible User Interfaces as a Pathway for Information Visualisation for Low Digital Literacy in the Digital Humanities,” in &lt;i&gt;2nd Workshop on Visualization for the Digital Humanities, IEEE Conference on Visualization (VIS), Phoenix, Arizona, USA&lt;/i&gt;, 2017.&lt;/span&gt;
+    &lt;span id=&quot;Pereda-et-al-VIS4DH-2017&quot;&gt;J. Pereda, P. Murietta-Flores, P. D. Ritsos, and J. C. Roberts, “Tangible User Interfaces as a Pathway for Information Visualisation for Low Digital Literacy in the Digital Humanities,” in &lt;i&gt;2nd Workshop on Visualization for the Digital Humanities, IEEE Conference on Visualization (VIS), Phoenix, Arizona, USA&lt;/i&gt;, 2017.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -2512,7 +2567,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Butcher-Ritsos-CW2017&quot;&gt;P. W. Butcher and P. D. Ritsos, “Building Immersive Data Visualizations for the Web,” in &lt;i&gt;Proceedings of International Conference on Cyberworlds (CW’17), Chester, UK&lt;/i&gt;, 2017.&lt;/span&gt;
+    &lt;span id=&quot;Butcher-Ritsos-CW2017&quot;&gt;P. W. Butcher and P. D. Ritsos, “Building Immersive Data Visualizations for the Web,” in &lt;i&gt;Proceedings of International Conference on Cyberworlds (CW’17), Chester, UK&lt;/i&gt;, 2017.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -2550,7 +2605,7 @@ type: home&lt;/li&gt;
    <link href="https://hccbu.github.io//news/2017/07/25/publications/"/>
    <updated>2017-07-25T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2017/07/25/publications</id>
-   <content type="html">&lt;p&gt;Our publication &lt;a href=&quot;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7192707&quot;&gt;The explanatory visualization framework: An active learning framework for teaching creative computing using explanatory visualizations&lt;/a&gt; was presented in &lt;em&gt;IEEE VIS2017&lt;/em&gt;, held in Phoenix, AZ, USA.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Our publication “&lt;a href=&quot;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7192707&quot;&gt;The explanatory visualization framework: An active learning framework for teaching creative computing using explanatory visualizations”&lt;/a&gt; was presented in &lt;em&gt;IEEE VIS2017&lt;/em&gt;, held in Phoenix, AZ, USA.&lt;/p&gt;
 
 &lt;p&gt;While visualization techniques are starting to pervade our work and leisure, we feel that there are many opportunities to use explanatoryvisualizations in teaching and learning. The Explanatory Visualization Framework (EVF) guides a learner to think through an explanatory visualization task, consider alternative solutions and reflect on their design, implementation choices, and actions. The framework is designed to provide a good balance between fostering creative thinking and providing the structured guidance that students need. It also enables teachers to swap-in their favoured exercise or assessment and apply the model to their situation. By creating their own explanatory visualizations, students learn and develop their creative, reflection and communication skills.&lt;/p&gt;
 
@@ -2567,7 +2622,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Roberts-et-al-TVCG-2018&quot;&gt;J. C. Roberts, P. D. Ritsos, J. Jackson, and C. Headleand, “The explanatory visualization framework: An active learning framework for teaching creative computing using explanatory visualizations,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 24, no. 1, pp. 791–801, Jan. 2018.&lt;/span&gt;
+    &lt;span id=&quot;Roberts-et-al-TVCG-2018&quot;&gt;J. C. Roberts, P. D. Ritsos, J. Jackson, and C. Headleand, “The explanatory visualization framework: An active learning framework for teaching creative computing using explanatory visualizations,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 24, no. 1, pp. 791–801, Jan. 2018.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -2635,7 +2690,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Roberts-et-al-VIS2016-Tutorial&quot;&gt;J. C. Roberts, C. Headleand, and P. D. Ritsos, “Sketching Designs for Data-Visualization using the Five Design-Sheet Methodology,” in &lt;i&gt;Tutorials of at the IEEE Conference on Visualization (IEEE VIS 2016), Baltimore, MD, USA&lt;/i&gt;, 2016.&lt;/span&gt;
+    &lt;span id=&quot;Roberts-et-al-VIS2016-Tutorial&quot;&gt;J. C. Roberts, C. Headleand, and P. D. Ritsos, “Sketching Designs for Data-Visualization using the Five Design-Sheet Methodology,” in &lt;i&gt;Tutorials of at the IEEE Conference on Visualization (IEEE VIS 2016), Baltimore, MD, USA&lt;/i&gt;, 2016.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -2673,7 +2728,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Roberts-et-al-Viz4DH-VIS2016&quot;&gt;J. C. Roberts, J. W. Mearman, P. D. Ritsos, H. C. Miles, A. T. Wilson, D. Perkins, J. R. Jackson, B. Tiddeman, F. Labrosse, B. Edwards, and R. Karl, “Immersive Analytics and Deep Maps – the Next Big Thing for Cultural Heritage &amp;amp; Archaeology,” in &lt;i&gt;Visualization for Digital Humanities Workshop, IEEE Conference on Visualization (VIS), Baltimore, MD, USA&lt;/i&gt;, 2016.&lt;/span&gt;
+    &lt;span id=&quot;Roberts-et-al-Viz4DH-VIS2016&quot;&gt;J. C. Roberts, J. W. Mearman, P. D. Ritsos, H. C. Miles, A. T. Wilson, D. Perkins, J. R. Jackson, B. Tiddeman, F. Labrosse, B. Edwards, and R. Karl, “Immersive Analytics and Deep Maps – the Next Big Thing for Cultural Heritage &amp;amp; Archaeology,” in &lt;i&gt;Visualization for Digital Humanities Workshop, IEEE Conference on Visualization (VIS), Baltimore, MD, USA&lt;/i&gt;, 2016.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -2711,7 +2766,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Butcher-et-al-Poster-VIS2016&quot;&gt;P. W. S. Butcher, J. C. Roberts, and P. D. Ritsos, “Immersive Analytics with WebVR and Google Cardboard,” in &lt;i&gt;Posters presented at the IEEE Conference on Visualization (IEEE VIS 2016), Baltimore, MD, USA&lt;/i&gt;, 2016.&lt;/span&gt;
+    &lt;span id=&quot;Butcher-et-al-Poster-VIS2016&quot;&gt;P. W. S. Butcher, J. C. Roberts, and P. D. Ritsos, “Immersive Analytics with WebVR and Google Cardboard,” in &lt;i&gt;Posters presented at the IEEE Conference on Visualization (IEEE VIS 2016), Baltimore, MD, USA&lt;/i&gt;, 2016.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -2749,7 +2804,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Roberts-et-al-Poster-VIS2016&quot;&gt;J. C. Roberts, J. Jackson, C. Headleand, and P. D. Ritsos, “Creating Explanatory Visualizations of Algorithms for Active Learning,” in &lt;i&gt;Posters presented at the IEEE Conference on Visualization (IEEE VIS 2016), Baltimore, MD, USA&lt;/i&gt;, 2016.&lt;/span&gt;
+    &lt;span id=&quot;Roberts-et-al-Poster-VIS2016&quot;&gt;J. C. Roberts, J. Jackson, C. Headleand, and P. D. Ritsos, “Creating Explanatory Visualizations of Algorithms for Active Learning,” in &lt;i&gt;Posters presented at the IEEE Conference on Visualization (IEEE VIS 2016), Baltimore, MD, USA&lt;/i&gt;, 2016.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -2787,7 +2842,7 @@ type: home&lt;/li&gt;
    <link href="https://hccbu.github.io//news/2016/05/01/publications/"/>
    <updated>2016-05-01T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2016/05/01/publications</id>
-   <content type="html">&lt;p&gt;We presented a conference paper at &lt;a href=&quot;http://www.nextmed.com/&quot;&gt;Medicine Meets Virtual Reality Conference (MMVR22)&lt;/a&gt;:&lt;/p&gt;
+   <content type="html">&lt;p&gt;We presented a conference paper at &lt;a href=&quot;http://www.nextmed.com/&quot;&gt;&lt;em&gt;Medicine Meets Virtual Reality Conference (MMVR22)&lt;/em&gt;&lt;/a&gt;:&lt;/p&gt;
 
 &lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
 
@@ -2798,7 +2853,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Headleand-et-al-MMVR2016&quot;&gt;C. J. Headleand, T. Day, S. R. Pop, P. D. Ritsos, and N. W. John, “A Cost-Effective Virtual Environment for Simulating and Training Powered Wheelchairs Manoeuvres,” &lt;i&gt;Proceedings of NextMed/MMVR22, Los Angeles, USA&lt;/i&gt;, 2016.&lt;/span&gt;
+    &lt;span id=&quot;Headleand-et-al-MMVR2016&quot;&gt;C. J. Headleand, T. Day, S. R. Pop, P. D. Ritsos, and N. W. John, “A Cost-Effective Virtual Environment for Simulating and Training Powered Wheelchairs Manoeuvres,” &lt;i&gt;Proceedings of NextMed/MMVR22, Los Angeles, USA&lt;/i&gt;, 2016.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -2848,7 +2903,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Miles-et-al-JOCCH-2016&quot;&gt;H. C. Miles, A. T. Wilson, F. Labrosse, B. Tiddeman, S. Griffiths, B. Edwards, P. D. Ritsos, J. W. Mearman, K. Möller, R. Karl, and J. C. Roberts, “Alternative Representations of 3D-Reconstructed Heritage Data,” &lt;i&gt;ACM Journal on Computing and Cultural Heritage (JOCCH)&lt;/i&gt;, vol. 9, no. 1, pp. 4:1–4:18, Nov. 2015.&lt;/span&gt;
+    &lt;span id=&quot;Miles-et-al-JOCCH-2016&quot;&gt;H. C. Miles, A. T. Wilson, F. Labrosse, B. Tiddeman, S. Griffiths, B. Edwards, P. D. Ritsos, J. W. Mearman, K. Möller, R. Karl, and J. C. Roberts, “Alternative Representations of 3D-Reconstructed Heritage Data,” &lt;i&gt;ACM Journal on Computing and Cultural Heritage (JOCCH)&lt;/i&gt;, vol. 9, no. 1, pp. 4:1–4:18, Nov. 2015.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -2901,7 +2956,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Roberts-et-al-TVCG-2016&quot;&gt;J. C. Roberts, C. Headleand, and P. D. Ritsos, “Sketching Designs Using the Five Design-Sheet Methodology,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 22, no. 1, pp. 419–428, Jan. 2016.&lt;/span&gt;
+    &lt;span id=&quot;Roberts-et-al-TVCG-2016&quot;&gt;J. C. Roberts, C. Headleand, and P. D. Ritsos, “Sketching Designs Using the Five Design-Sheet Methodology,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 22, no. 1, pp. 419–428, Jan. 2016.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -2940,7 +2995,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Roberts-et-al-CGA2014&quot;&gt;J. C. Roberts, P. D. Ritsos, S. K. Badam, D. Brodbeck, J. Kennedy, and N. Elmqvist, “Visualization Beyond the Desktop - the next big thing,” &lt;i&gt;IEEE Computer Graphics and Applications&lt;/i&gt;, vol. 34, no. 6, pp. 26–34, Nov. 2014.&lt;/span&gt;
+    &lt;span id=&quot;Roberts-et-al-CGA2014&quot;&gt;J. C. Roberts, P. D. Ritsos, S. K. Badam, D. Brodbeck, J. Kennedy, and N. Elmqvist, “Visualization Beyond the Desktop - the next big thing,” &lt;i&gt;IEEE Computer Graphics and Applications&lt;/i&gt;, vol. 34, no. 6, pp. 26–34, Nov. 2014.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -2979,7 +3034,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Gray-et-al-VizSec2015&quot;&gt;C. C. Gray, P. D. Ritsos, and J. C. Roberts, “Contextual Network Navigation; Situational Awareness for Network Administrators,” in &lt;i&gt;IEEE Symposium on Visualization for Cyber Security (VizSec), Chicago, IL, USA&lt;/i&gt;, 2015.&lt;/span&gt;
+    &lt;span id=&quot;Gray-et-al-VizSec2015&quot;&gt;C. C. Gray, P. D. Ritsos, and J. C. Roberts, “Contextual Network Navigation; Situational Awareness for Network Administrators,” in &lt;i&gt;IEEE Symposium on Visualization for Cyber Security (VizSec), Chicago, IL, USA&lt;/i&gt;, 2015.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -3018,7 +3073,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Roberts-et-al-Viz4me-VIS2015&quot;&gt;J. C. Roberts, C. Headleand, D. Perkins, and P. D. Ritsos, “Personal Visualisation for Learning,” in &lt;i&gt;Personal Visualization: Exploring Data in Everyday Life Workshop, IEEE Conference on Visualization (VIS), Chicago, IL, USA&lt;/i&gt;, 2015.&lt;/span&gt;
+    &lt;span id=&quot;Roberts-et-al-Viz4me-VIS2015&quot;&gt;J. C. Roberts, C. Headleand, D. Perkins, and P. D. Ritsos, “Personal Visualisation for Learning,” in &lt;i&gt;Personal Visualization: Exploring Data in Everyday Life Workshop, IEEE Conference on Visualization (VIS), Chicago, IL, USA&lt;/i&gt;, 2015.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -3056,7 +3111,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Gray-et-al-Poster-VIS2015&quot;&gt;C. C. Gray, J. C. Roberts, and P. D. Ritsos, “Where Can I Go From Here? Drawing Contextual Navigation Maps of the London Underground,” in &lt;i&gt;Posters presented at the IEEE Conference on Visualization (IEEE VIS 2015), Chicago, IL, USA&lt;/i&gt;, 2015.&lt;/span&gt;
+    &lt;span id=&quot;Gray-et-al-Poster-VIS2015&quot;&gt;C. C. Gray, J. C. Roberts, and P. D. Ritsos, “Where Can I Go From Here? Drawing Contextual Navigation Maps of the London Underground,” in &lt;i&gt;Posters presented at the IEEE Conference on Visualization (IEEE VIS 2015), Chicago, IL, USA&lt;/i&gt;, 2015.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -3105,7 +3160,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Headleand-et-al-Poster-VCBM2015&quot;&gt;C. J. Headleand, T. Day, S. R. Pop, P. D. Ritsos, and N. W. John, “Challenges and Technologies for Low Cost Wheelchair Simulation,” in &lt;i&gt;Eurographics Workshop on Visual Computing for Biology and Medicine&lt;/i&gt;, 2015.&lt;/span&gt;
+    &lt;span id=&quot;Headleand-et-al-Poster-VCBM2015&quot;&gt;C. J. Headleand, T. Day, S. R. Pop, P. D. Ritsos, and N. W. John, “Challenges and Technologies for Low Cost Wheelchair Simulation,” in &lt;i&gt;Eurographics Workshop on Visual Computing for Biology and Medicine&lt;/i&gt;, 2015.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -3144,7 +3199,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Ritsos-et-al-Poster-VCBM2015&quot;&gt;P. D. Ritsos, M. R. Edwards, I. S. Shergill, and N. W. John, “A Haptics-enabled Simulator for Transperineal Ultrasound-Guided Biopsy,” in &lt;i&gt;Eurographics Workshop on Visual Computing for Biology and Medicine&lt;/i&gt;, 2015.&lt;/span&gt;
+    &lt;span id=&quot;Ritsos-et-al-Poster-VCBM2015&quot;&gt;P. D. Ritsos, M. R. Edwards, I. S. Shergill, and N. W. John, “A Haptics-enabled Simulator for Transperineal Ultrasound-Guided Biopsy,” in &lt;i&gt;Eurographics Workshop on Visual Computing for Biology and Medicine&lt;/i&gt;, 2015.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -3260,7 +3315,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Roberts-et-al-TVCG-2016&quot;&gt;J. C. Roberts, C. Headleand, and P. D. Ritsos, “Sketching Designs Using the Five Design-Sheet Methodology,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 22, no. 1, pp. 419–428, Jan. 2016.&lt;/span&gt;
+    &lt;span id=&quot;Roberts-et-al-TVCG-2016&quot;&gt;J. C. Roberts, C. Headleand, and P. D. Ritsos, “Sketching Designs Using the Five Design-Sheet Methodology,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 22, no. 1, pp. 419–428, Jan. 2016.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -3298,7 +3353,7 @@ type: home&lt;/li&gt;
    <link href="https://hccbu.github.io//news/2015/05/08/publications/"/>
    <updated>2015-05-08T00:00:00+01:00</updated>
    <id>https://hccbu.github.io//news/2015/05/08/publications</id>
-   <content type="html">&lt;p&gt;Our publication &lt;a href=&quot;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6879056&quot;&gt;Visualization Beyond the Desktop - the next big thing&lt;/a&gt; was invited and presented in &lt;a href=&quot;http://www.ieeevis.org&quot;&gt;VIS2015&lt;/a&gt;, held in Chicago, IL. Our paper presents a road-map to the future of data visualization, facilitated from a technological metamorphosis in interface design, towards a mixed reality world, that encompasses various sensors, is transparent to the user and can be accessed via the Web.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Our publication &lt;a href=&quot;http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6879056&quot;&gt;“Visualization Beyond the Desktop - the next big thing”&lt;/a&gt; was invited and presented in &lt;a href=&quot;http://www.ieeevis.org&quot;&gt;VIS2015&lt;/a&gt;, held in Chicago, IL. Our paper presents a road-map to the future of data visualization, facilitated from a technological metamorphosis in interface design, towards a mixed reality world, that encompasses various sensors, is transparent to the user and can be accessed via the Web.&lt;/p&gt;
 
 &lt;figure id=&quot;figure-1&quot;&gt;&lt;a href=&quot;/assets/figures/vis_perception.png&quot;&gt;&lt;img src=&quot;/assets/figures/vis_perception.png&quot; alt=&quot;caption:Visualization processes between the computer and human. Data is mapped onto perceptual variables and presented through various technologies. This all occurs in a particular place—a space with context (for example, a classroom, laboratory, or means of transportation). Through perception we acquire meaning of the presented data and awareness of our context.&quot; /&gt;&lt;/a&gt;&lt;figcaption&gt;Figure 1: caption:Visualization processes between the computer and human. Data is mapped onto perceptual variables and presented through various technologies. This all occurs in a particular place—a space with context (for example, a classroom, laboratory, or means of transportation). Through perception we acquire meaning of the presented data and awareness of our context. [&lt;a href=&quot;/assets/figures/vis_perception.png&quot;&gt;PNG&lt;/a&gt;]&lt;/figcaption&gt;&lt;/figure&gt;
 
@@ -3312,7 +3367,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Roberts-et-al-CGA2014&quot;&gt;J. C. Roberts, P. D. Ritsos, S. K. Badam, D. Brodbeck, J. Kennedy, and N. Elmqvist, “Visualization Beyond the Desktop - the next big thing,” &lt;i&gt;IEEE Computer Graphics and Applications&lt;/i&gt;, vol. 34, no. 6, pp. 26–34, Nov. 2014.&lt;/span&gt;
+    &lt;span id=&quot;Roberts-et-al-CGA2014&quot;&gt;J. C. Roberts, P. D. Ritsos, S. K. Badam, D. Brodbeck, J. Kennedy, and N. Elmqvist, “Visualization Beyond the Desktop - the next big thing,” &lt;i&gt;IEEE Computer Graphics and Applications&lt;/i&gt;, vol. 34, no. 6, pp. 26–34, Nov. 2014.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -3363,7 +3418,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Ritsos-et-al-DOTD-VIS2014&quot;&gt;P. D. Ritsos, J. W. Mearman, A. Vande Moere, and J. C. Roberts, “Sewn with Ariadne’s Thread - Visualizations for Wearable &amp;amp; Ubiquitous Computing,” in &lt;i&gt;Death of the Desktop Workshop, IEEE Conference on Visualization (VIS), Paris, France&lt;/i&gt;, 2014.&lt;/span&gt;
+    &lt;span id=&quot;Ritsos-et-al-DOTD-VIS2014&quot;&gt;P. D. Ritsos, J. W. Mearman, A. Vande Moere, and J. C. Roberts, “Sewn with Ariadne’s Thread - Visualizations for Wearable &amp;amp; Ubiquitous Computing,” in &lt;i&gt;Death of the Desktop Workshop, IEEE Conference on Visualization (VIS), Paris, France&lt;/i&gt;, 2014.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -3401,7 +3456,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Roberts-et-al-DOTD-VIS2014&quot;&gt;J. C. Roberts, J. W. Mearman, and P. D. Ritsos, “The desktop is dead, long live the desktop! – Towards a multisensory desktop for visualization,” in &lt;i&gt;Death of the Desktop Workshop, IEEE Conference on Visualization (VIS), Paris, France&lt;/i&gt;, 2014.&lt;/span&gt;
+    &lt;span id=&quot;Roberts-et-al-DOTD-VIS2014&quot;&gt;J. C. Roberts, J. W. Mearman, and P. D. Ritsos, “The desktop is dead, long live the desktop! – Towards a multisensory desktop for visualization,” in &lt;i&gt;Death of the Desktop Workshop, IEEE Conference on Visualization (VIS), Paris, France&lt;/i&gt;, 2014.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
@@ -3452,7 +3507,7 @@ type: home&lt;/li&gt;
   &lt;/div&gt;
   
   &lt;div class=&quot;publication-content&quot;&gt;
-    &lt;span id=&quot;Ritsos-et-al-EGGCH2014&quot;&gt;P. D. Ritsos, A. T. Wilson, H. C. Miles, L. F. Williams, B. Tiddeman, F. Labrosse, S. Griffiths, B. Edwards, K. Möller, R. Karl, and J. C. Roberts, “Community-driven Generation of 3D and Augmented Web Content for Archaeology,” in &lt;i&gt;Eurographics Workshop on Graphics and Cultural Heritage (EGGCH) - Short Papers and Posters&lt;/i&gt;, Darmstadt, Germany, 2014, pp. 25–28.&lt;/span&gt;
+    &lt;span id=&quot;Ritsos-et-al-EGGCH2014&quot;&gt;P. D. Ritsos, A. T. Wilson, H. C. Miles, L. F. Williams, B. Tiddeman, F. Labrosse, S. Griffiths, B. Edwards, K. Möller, R. Karl, and J. C. Roberts, “Community-driven Generation of 3D and Augmented Web Content for Archaeology,” in &lt;i&gt;Eurographics Workshop on Graphics and Cultural Heritage (EGGCH) - Short Papers and Posters&lt;/i&gt;, Darmstadt, Germany, 2014, pp. 25–28.&lt;/span&gt; 
     
     
       &lt;span class=&quot;toggle&quot;&gt;
