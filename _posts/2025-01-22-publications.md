@@ -32,5 +32,5 @@ You can find DashSpace on [Girhub](https://github.com/Webstrates/DashSpace).
 
 ### Reference
 
-{% bibliography -f journals --query @*[key=Borowsky-et-al-TVCG-2025] %}
+{% bibliography -f journals --query @*[key=Borowski-et-al-TVCG-2025] %}
 

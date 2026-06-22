@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://hccbu.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://hccbu.github.io//" rel="alternate" type="text/html" /><updated>2026-06-16T10:15:33+01:00</updated><id>https://hccbu.github.io//feed.xml</id><title type="html">Human-Centred Computing Research Group, Bangor University</title><subtitle>Human-Centred Computing research group,&lt;br/&gt; School of Computer Science and Engineering, &lt;br/&gt; College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT&lt;span&gt;</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;url&quot;=&gt;nil}</name></author><entry><title type="html">Paper presented in EG EuroVis 2026</title><link href="https://hccbu.github.io//news/2026/06/08/conference/" rel="alternate" type="text/html" title="Paper presented in EG EuroVis 2026" /><published>2026-06-08T00:00:00+01:00</published><updated>2026-06-08T00:00:00+01:00</updated><id>https://hccbu.github.io//news/2026/06/08/conference</id><content type="html" xml:base="https://hccbu.github.io//news/2026/06/08/conference/"><![CDATA[<p><img src="/assets/images/PandemicsEurovis2026-banner.png" class="prjImgFlt" alt="pandemcs-EuroVis2026-banner" /></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://hccbu.github.io//feed.xml" rel="self" type="application/atom+xml" /><link href="https://hccbu.github.io//" rel="alternate" type="text/html" /><updated>2026-06-22T11:06:55+01:00</updated><id>https://hccbu.github.io//feed.xml</id><title type="html">Human-Centred Computing Research Group, Bangor University</title><subtitle>Human-Centred Computing research group,&lt;br/&gt; School of Computer Science and Engineering, &lt;br/&gt; College of Environmental Sciences and Engineering, Bangor University, &lt;/br&gt;, Dean Street, Bangor, Gwynedd, UK, LL57 1UT&lt;span&gt;</subtitle><author><name>{&quot;name&quot;=&gt;nil, &quot;url&quot;=&gt;nil}</name></author><entry><title type="html">Co-organised workshops on HCI-enabled stroke rehabilitation</title><link href="https://hccbu.github.io//news/2026/06/22/workshop/" rel="alternate" type="text/html" title="Co-organised workshops on HCI-enabled stroke rehabilitation" /><published>2026-06-22T00:00:00+01:00</published><updated>2026-06-22T00:00:00+01:00</updated><id>https://hccbu.github.io//news/2026/06/22/workshop</id><content type="html" xml:base="https://hccbu.github.io//news/2026/06/22/workshop/"><![CDATA[<p><img src="/assets/images/WREC_Workshop_1.jpg" class="prjImgFlt" alt="WREC-workshop-banner" /></p>
+
+<p>Pete and Panos co-organised, along with <a href="https://www.bangor.ac.uk/staff/spss/ken-valyear-106266/en">Dr Ken Valyear</a>, from the <a href="https://sites.google.com/site/kfvalyear/bio-sketch?authuser=0">Hand-and-Brain lab</a>, <a href="https://www.bangor.ac.uk/spss">School of Psychology and Sport Science</a>, <a href="https://www.bangor.ac.uk/">Bangor University</a> three workshops on Human-computer Interaction-enabled stroke rehabilitation, between the 16th and the 22nd of June.</p>
+
+<p>The workshops brought together clinicians, from <a href="https://bcuhb.nhs.wales/patients-and-visitors/hospitals/ysbyty-eryri-caernarfon/">Ysbyty Eriri</a> and <a href="https://bcuhb.nhs.wales/patients-and-visitors/hospitals/deeside-community-hospital/">Deeside Community Hospital</a>, working on stroke rehabilitations, along with Neuroscientist, Sports Scientists, Engineers and Computer Scientists, to discuss how HCI flavors, such as XR and Human-Centred AI (HCAI), can provide opportunities for more effective, patient-centric services. The last day had a presentation from <a href="https://experts.exeter.ac.uk/25293-gavin-buckingham">Dr Gavin Buckingham</a> from the University of Exeter.</p>
+
+<p>The workshops were funded by the Wales Research Environment and Culture (WREC) cross-disciplinary seed-corn fund.</p>]]></content><author><name>Panagiotis Ritsos</name></author><category term="news" /><category term="HCI" /><category term="XR" /><category term="stroke" /><category term="rehabilitation" /><category term="visualization" /><summary type="html"><![CDATA[We co-organised, along with the Hand and Brain Lab, School of Psychology and Sport Science, Bangor University three workshops on HCI-enabled stroke rehabilitation.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://hccbu.github.io//assets/images/WREC_Workshop_1" /><media:content medium="image" url="https://hccbu.github.io//assets/images/WREC_Workshop_1" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Paper presented in EG EuroVis 2026</title><link href="https://hccbu.github.io//news/2026/06/08/conference/" rel="alternate" type="text/html" title="Paper presented in EG EuroVis 2026" /><published>2026-06-08T00:00:00+01:00</published><updated>2026-06-08T00:00:00+01:00</updated><id>https://hccbu.github.io//news/2026/06/08/conference</id><content type="html" xml:base="https://hccbu.github.io//news/2026/06/08/conference/"><![CDATA[<p><img src="/assets/images/PandemicsEurovis2026-banner.png" class="prjImgFlt" alt="pandemcs-EuroVis2026-banner" /></p>
 
 <p>Panos presented in <a href="https://eurovis.org.uk/">EG EuroVis 2026</a>, the paper <a href="/publicationsYear#McGee-et-al-CGA-2025">“Preparedness for visualization in the next pandemic”</a>, published in <a href="https://www.computer.org/csdl/magazine/cg"><em>IEEE Computer Graphics and Applications</em></a>, and featured in <a href="https://ieeecs-media.computer.org/media/marketing/cedge_digital/ce-nov25-final.pdf"><em>IEEE Computing Edge, in November 2025</em></a>.</p>
 
@@ -446,7 +452,44 @@
 
 <h3 id="reference">Reference</h3>
 
-<div class="bibliography"></div>]]></content><author><name>Panagiotis Ritsos</name></author><category term="news" /><category term="XR" /><category term="WebXR" /><category term="IEEE" /><category term="collaboration" /><category term="situated" /><category term="analytics" /><summary type="html"><![CDATA[Our paper "DashSpace A Live Collaborative Platform for Immersive and Ubiquitous Analytics" has been published in IEEE TVCG, and will be presented at IEEE VIS 2025 in Vienna, Austria.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://hccbu.github.io//assets/images/dashspace.png" /><media:content medium="image" url="https://hccbu.github.io//assets/images/dashspace.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Presented at DAFNI Wales Roadshow 2024</title><link href="https://hccbu.github.io//news/2024/09/20/workshop/" rel="alternate" type="text/html" title="Presented at DAFNI Wales Roadshow 2024" /><published>2024-09-20T00:00:00+01:00</published><updated>2024-09-20T00:00:00+01:00</updated><id>https://hccbu.github.io//news/2024/09/20/workshop</id><content type="html" xml:base="https://hccbu.github.io//news/2024/09/20/workshop/"><![CDATA[<p><img src="/assets/images/DAFNI-logo.jpg" class="prjImgFlt" alt="DAFNI_banner" /></p>
+<div class="bibliography"><p>
+
+<div class="publication-entry">
+  
+  <div class="publication-image">
+    <img src="/assets/images/dashspace.png" alt="DashSpace: A Live Collaborative Platform for Immersive and Ubiquitous Analytics" />
+  </div>
+  
+  <div class="publication-content">
+    <span id="Borowski-et-al-TVCG-2025">M. Borowski, P. W. S. Butcher, J. B. Kristensen, J. O. Petersen, P. D. Ritsos, C. N. Klokmose, and N. Elmqvist, “DashSpace: A Live Collaborative Platform for Immersive and Ubiquitous Analytics,” <i>IEEE Transactions on Visualization and Computer Graphics</i>, vol. 31, no. 10, pp. 7034–7047, 2025.</span> 
+    
+    
+      <span class="toggle">
+        We introduce DashSpace, a live collaborative immersive and ubiquitous analytics (IA/UA) platform designed for handheld and head-mounted Augmented/Extended Reality (AR/XR) implemented using WebXR and open standards. To bridge the gap between existing web-based visualizations and the immersive analytics setting, DashSpace supports visualizing both legacy D3 and Vega-Lite visualizations on 2D planes, and extruding Vega-Lite specifications into 2.5D. It also supports fully 3D visual representations using the Optomancy grammar. To facilitate authoring new visualizations in immersive XR, the platform provides a visual authoring mechanism where the user groups specification snippets to construct visualizations dynamically. The approach is fully persistent and collaborative, allowing multiple participants—whose presence is shown using 3D avatars and webcam feeds—to interact with the shared space synchronously, both co-located and remotely. We present three examples of DashSpace in action: immersive data analysis in 3D space, synchronous collaboration, and immersive data presentations.
+      </span>
+      <br />
+      <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]</span>
+    
+    <span class="biblinks">
+      [<a href="/bibliography/Borowski-et-al-TVCG-2025/">Details</a>]
+      
+      
+            
+              [<a href="/files/Borowski-et-al-TVCG-2025.pdf" class="pdflink">PDF</a>]
+             
+      
+       
+      
+      
+      [doi:<a href="http://dx.doi.org/10.1109/TVCG.2025.3537679" class="doilink">10.1109/TVCG.2025.3537679</a>]
+      
+       [<span class="addedInfo">Presented at IEEE VIS 2025</span>] 
+      
+    </span>
+  </div>
+</div>
+
+<a class="details" href="/bibliography/Borowski-et-al-TVCG-2025/"><span hidden=""></span></a></p></div>]]></content><author><name>Panagiotis Ritsos</name></author><category term="news" /><category term="XR" /><category term="WebXR" /><category term="IEEE" /><category term="collaboration" /><category term="situated" /><category term="analytics" /><summary type="html"><![CDATA[Our paper "DashSpace A Live Collaborative Platform for Immersive and Ubiquitous Analytics" has been published in IEEE TVCG, and will be presented at IEEE VIS 2025 in Vienna, Austria.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://hccbu.github.io//assets/images/dashspace.png" /><media:content medium="image" url="https://hccbu.github.io//assets/images/dashspace.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Presented at DAFNI Wales Roadshow 2024</title><link href="https://hccbu.github.io//news/2024/09/20/workshop/" rel="alternate" type="text/html" title="Presented at DAFNI Wales Roadshow 2024" /><published>2024-09-20T00:00:00+01:00</published><updated>2024-09-20T00:00:00+01:00</updated><id>https://hccbu.github.io//news/2024/09/20/workshop</id><content type="html" xml:base="https://hccbu.github.io//news/2024/09/20/workshop/"><![CDATA[<p><img src="/assets/images/DAFNI-logo.jpg" class="prjImgFlt" alt="DAFNI_banner" /></p>
 
 <p>Panos presented a lightning talk on our <a href="/projects/ia/">Immersive and Situated Analytics</a> systems at the DAFNI Wales Roadshow 2024 event, held at the <a href="https://www.swansea.ac.uk/computational-foundry/">Computational Foundry</a>, <a href="https://www.swansea.ac.uk/">Swansea University</a>.  We discussed research into infrastructure systems, synergies with visualization, and the challenges and opportunities of data sharing.</p>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;url&quot;=&gt;nil}</name></author><category term="news" /><category term="XR" /><category term="WebXR" /><category term="glyphs" /><category term="situated" /><category term="analytics" /><category term="toolkits" /><category term="authoring" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Papers accepted by IEEE TVCG/ VIS2024</title><link href="https://hccbu.github.io//news/2024/08/09/publications/" rel="alternate" type="text/html" title="Papers accepted by IEEE TVCG/ VIS2024" /><published>2024-08-09T00:00:00+01:00</published><updated>2024-08-09T00:00:00+01:00</updated><id>https://hccbu.github.io//news/2024/08/09/publications</id><content type="html" xml:base="https://hccbu.github.io//news/2024/08/09/publications/"><![CDATA[<p><img src="/assets/images/vi2024_logo.png" class="prjImgFlt" alt="IEEE VIS2024 Banner and Logo" /></p>
 
@@ -581,49 +624,4 @@
   </div>
 </div>
 
-<a class="details" href="/bibliography/DagRep_14_2_191/"><span hidden=""></span></a></p></div>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;url&quot;=&gt;nil}</name></author><category term="news" /><category term="InfoVis" /><category term="Visual" /><category term="Analytics" /><category term="Dagstuhl" /><category term="Epidemiology" /><summary type="html"><![CDATA[]]></summary></entry><entry><title type="html">Paper published in IEEE CG&amp;amp;A Vis Viewpoints</title><link href="https://hccbu.github.io//news/2024/02/15/publications/" rel="alternate" type="text/html" title="Paper published in IEEE CG&amp;amp;A Vis Viewpoints" /><published>2024-02-15T00:00:00+00:00</published><updated>2024-02-15T00:00:00+00:00</updated><id>https://hccbu.github.io//news/2024/02/15/publications</id><content type="html" xml:base="https://hccbu.github.io//news/2024/02/15/publications/"><![CDATA[<p><img src="/assets/images/unity-webxr-benchmarks.png" class="prjImgFlt" alt="WebXR vs Game Engine Bnechmarks" /></p>
-
-<p>Our paper <a href="/publicationsYear#Butcher-et-al-CGA2024">“Is Native Naïve? Comparing Native Game Engines and WebXR as Immersive Analytics Development Platforms,”</a> has been published in <a href="https://tc.computer.org/vgtc/conferences/currently-sponsored-events/cga-viewpoints/"><em>IEEE Computer Graphics and Applications</em> Visualization Viewpoints</a>.</p>
-
-<p>In this paper, we investigate common assumptions about native game engines vs. WebXR and find that while native engines still have an advantage in many areas, WebXR is rapidly catching up and is superior for many immersive analytics applications.</p>
-
-<h3 id="reference">Reference</h3>
-
-<div class="bibliography"><p>
-
-<div class="publication-entry">
-  
-  <div class="publication-image">
-    <img src="/assets/images/unity-webxr-benchmarks.png" alt="Is Native Naïve? Comparing Native Game Engines and WebXR as Immersive Analytics Development Platforms" />
-  </div>
-  
-  <div class="publication-content">
-    <span id="Butcher-et-al-CGA2024">P. W. S. Butcher, A. Batch, D. Saffo, B. MacIntyre, N. Elmqvist, and P. D. Ritsos, “Is Native Naïve? Comparing Native Game Engines and WebXR as Immersive Analytics Development Platforms,” <i>IEEE Computer Graphics and Applications</i>, vol. 44, no. 3, pp. 91–98, May 2024.</span> 
-    
-    
-      <span class="toggle">
-        Native game engines have long been the 3D development platform of choice for research in mixed and augmented reality. For this reason they have also been adopted in many immersive visualization and immersive analytics systems and toolkits. However, with the rapid improvements of WebXR and related open technologies, this choice may not always be optimal for future visualization research. In this paper, we investigate common assumptions about native game engines vs. WebXR and find that while native engines still have an advantage in many areas, WebXR is rapidly catching up and is superior for many immersive analytics applications.
-      </span>
-      <br />
-      <span class="trigger biblinks">[<span class="abstractlink">Abstract</span>]</span>
-    
-    <span class="biblinks">
-      [<a href="/bibliography/Butcher-et-al-CGA2024/">Details</a>]
-      
-      
-            
-              [<a href="/files/Butcher-et-al-CGA2024.pdf" class="pdflink">PDF</a>]
-             
-      
-       
-      
-      
-      [doi:<a href="http://dx.doi.org/10.1109/MCG.2024.3367422" class="doilink">10.1109/MCG.2024.3367422</a>]
-      
-       
-      
-    </span>
-  </div>
-</div>
-
-<a class="details" href="/bibliography/Butcher-et-al-CGA2024/"><span hidden=""></span></a></p></div>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;url&quot;=&gt;nil}</name></author><category term="news" /><category term="XR" /><category term="WebXR" /><category term="IEEE" /><category term="game" /><category term="engine" /><category term="immersive" /><category term="situated" /><category term="analytics" /><summary type="html"><![CDATA[]]></summary></entry></feed>
+<a class="details" href="/bibliography/DagRep_14_2_191/"><span hidden=""></span></a></p></div>]]></content><author><name>{&quot;name&quot;=&gt;nil, &quot;url&quot;=&gt;nil}</name></author><category term="news" /><category term="InfoVis" /><category term="Visual" /><category term="Analytics" /><category term="Dagstuhl" /><category term="Epidemiology" /><summary type="html"><![CDATA[]]></summary></entry></feed>

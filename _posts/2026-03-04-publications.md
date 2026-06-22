@@ -31,4 +31,3 @@ In this paper, we present a generalizable visual programming technique for immer
 ### Reference
 
 {% bibliography -f journals --query @*[key=Borowski-et-al-TVCG-2026] %}
-

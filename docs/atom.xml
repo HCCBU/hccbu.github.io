@@ -4,13 +4,29 @@
  <title>Human-Centred Computing Research Group, Bangor University</title>
  <link href="https://hccbu.github.io//atom.xml" rel="self"/>
  <link href="https://hccbu.github.io//"/>
- <updated>2026-06-16T10:15:33+01:00</updated>
+ <updated>2026-06-22T11:06:55+01:00</updated>
  <id>https://hccbu.github.io/</id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Co-organised workshops on HCI-enabled stroke rehabilitation</title>
+   <link href="https://hccbu.github.io//news/2026/06/22/workshop/"/>
+   <updated>2026-06-22T00:00:00+01:00</updated>
+   <id>https://hccbu.github.io//news/2026/06/22/workshop</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/assets/images/WREC_Workshop_1.jpg&quot; class=&quot;prjImgFlt&quot; alt=&quot;WREC-workshop-banner&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Pete and Panos co-organised, along with &lt;a href=&quot;https://www.bangor.ac.uk/staff/spss/ken-valyear-106266/en&quot;&gt;Dr Ken Valyear&lt;/a&gt;, from the &lt;a href=&quot;https://sites.google.com/site/kfvalyear/bio-sketch?authuser=0&quot;&gt;Hand-and-Brain lab&lt;/a&gt;, &lt;a href=&quot;https://www.bangor.ac.uk/spss&quot;&gt;School of Psychology and Sport Science&lt;/a&gt;, &lt;a href=&quot;https://www.bangor.ac.uk/&quot;&gt;Bangor University&lt;/a&gt; three workshops on Human-computer Interaction-enabled stroke rehabilitation, between the 16th and the 22nd of June.&lt;/p&gt;
+
+&lt;p&gt;The workshops brought together clinicians, from &lt;a href=&quot;https://bcuhb.nhs.wales/patients-and-visitors/hospitals/ysbyty-eryri-caernarfon/&quot;&gt;Ysbyty Eriri&lt;/a&gt; and &lt;a href=&quot;https://bcuhb.nhs.wales/patients-and-visitors/hospitals/deeside-community-hospital/&quot;&gt;Deeside Community Hospital&lt;/a&gt;, working on stroke rehabilitations, along with Neuroscientist, Sports Scientists, Engineers and Computer Scientists, to discuss how HCI flavors, such as XR and Human-Centred AI (HCAI), can provide opportunities for more effective, patient-centric services. The last day had a presentation from &lt;a href=&quot;https://experts.exeter.ac.uk/25293-gavin-buckingham&quot;&gt;Dr Gavin Buckingham&lt;/a&gt; from the University of Exeter.&lt;/p&gt;
+
+&lt;p&gt;The workshops were funded by the Wales Research Environment and Culture (WREC) cross-disciplinary seed-corn fund.&lt;/p&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>Paper presented in EG EuroVis 2026</title>
@@ -118,7 +134,6 @@
 &lt;/div&gt;
 
 &lt;a class=&quot;details&quot; href=&quot;/bibliography/Borowski-et-al-TVCG-2026/&quot;&gt;&lt;span hidden=&quot;&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
-
 </content>
  </entry>
  
@@ -514,7 +529,44 @@
 
 &lt;h3 id=&quot;reference&quot;&gt;Reference&lt;/h3&gt;
 
-&lt;div class=&quot;bibliography&quot;&gt;&lt;/div&gt;
+&lt;div class=&quot;bibliography&quot;&gt;&lt;p&gt;
+
+&lt;div class=&quot;publication-entry&quot;&gt;
+  
+  &lt;div class=&quot;publication-image&quot;&gt;
+    &lt;img src=&quot;/assets/images/dashspace.png&quot; alt=&quot;DashSpace: A Live Collaborative Platform for Immersive and Ubiquitous Analytics&quot; /&gt;
+  &lt;/div&gt;
+  
+  &lt;div class=&quot;publication-content&quot;&gt;
+    &lt;span id=&quot;Borowski-et-al-TVCG-2025&quot;&gt;M. Borowski, P. W. S. Butcher, J. B. Kristensen, J. O. Petersen, P. D. Ritsos, C. N. Klokmose, and N. Elmqvist, “DashSpace: A Live Collaborative Platform for Immersive and Ubiquitous Analytics,” &lt;i&gt;IEEE Transactions on Visualization and Computer Graphics&lt;/i&gt;, vol. 31, no. 10, pp. 7034–7047, 2025.&lt;/span&gt; 
+    
+    
+      &lt;span class=&quot;toggle&quot;&gt;
+        We introduce DashSpace, a live collaborative immersive and ubiquitous analytics (IA/UA) platform designed for handheld and head-mounted Augmented/Extended Reality (AR/XR) implemented using WebXR and open standards. To bridge the gap between existing web-based visualizations and the immersive analytics setting, DashSpace supports visualizing both legacy D3 and Vega-Lite visualizations on 2D planes, and extruding Vega-Lite specifications into 2.5D. It also supports fully 3D visual representations using the Optomancy grammar. To facilitate authoring new visualizations in immersive XR, the platform provides a visual authoring mechanism where the user groups specification snippets to construct visualizations dynamically. The approach is fully persistent and collaborative, allowing multiple participants—whose presence is shown using 3D avatars and webcam feeds—to interact with the shared space synchronously, both co-located and remotely. We present three examples of DashSpace in action: immersive data analysis in 3D space, synchronous collaboration, and immersive data presentations.
+      &lt;/span&gt;
+      &lt;br /&gt;
+      &lt;span class=&quot;trigger biblinks&quot;&gt;[&lt;span class=&quot;abstractlink&quot;&gt;Abstract&lt;/span&gt;]&lt;/span&gt;
+    
+    &lt;span class=&quot;biblinks&quot;&gt;
+      [&lt;a href=&quot;/bibliography/Borowski-et-al-TVCG-2025/&quot;&gt;Details&lt;/a&gt;]
+      
+      
+            
+              [&lt;a href=&quot;/files/Borowski-et-al-TVCG-2025.pdf&quot; class=&quot;pdflink&quot;&gt;PDF&lt;/a&gt;]
+             
+      
+       
+      
+      
+      [doi:&lt;a href=&quot;http://dx.doi.org/10.1109/TVCG.2025.3537679&quot; class=&quot;doilink&quot;&gt;10.1109/TVCG.2025.3537679&lt;/a&gt;]
+      
+       [&lt;span class=&quot;addedInfo&quot;&gt;Presented at IEEE VIS 2025&lt;/span&gt;] 
+      
+    &lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;a class=&quot;details&quot; href=&quot;/bibliography/Borowski-et-al-TVCG-2025/&quot;&gt;&lt;span hidden=&quot;&quot;&gt;&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;
 
 </content>
  </entry>
